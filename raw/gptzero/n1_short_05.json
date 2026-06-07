@@ -1,0 +1,266 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.999984486157481,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999917315190815,
+          "sentence": "For the longest time I thought “being a writer” meant making steady progress on the giant novel I’d been carrying around in my head since college.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008268480918423572,
+            "ai": 0.9999402666704758,
+            "paraphrased": 0.000051464848605781064
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999939293601829,
+          "sentence": "It had maps, religions, political factions, three magic systems, and absolutely no finished chapters.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006070639817154781,
+            "ai": 0.9999334912538561,
+            "paraphrased": 0.000060438106326778667
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999950173525175,
+          "sentence": "Every time I opened the document, I felt like I was walking into a cathedral with muddy shoes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004982647482454965,
+            "ai": 0.9999301148956756,
+            "paraphrased": 0.0000649024568418805
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993758260936,
+          "sentence": "Then, almost by accident, I started writing little stories for a dumb multiplayer game my friends and I were obsessed with.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000062417390640978096,
+            "ai": 0.9999325999110364,
+            "paraphrased": 0.00006115834989945068
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999942669557538,
+          "sentence": "The official lore was ridiculous, half-contradictory, and clearly not meant to support anything serious, which turned out to be the best possible thing for me.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000057330442462102384,
+            "ai": 0.9999385772762454,
+            "paraphrased": 0.00005568967950843222
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991789576322,
+          "sentence": "There was no pressure to be profound.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008210423677973223,
+            "ai": 0.9999312497907009,
+            "paraphrased": 0.00006053978562107092
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999992788276995,
+          "sentence": "I could write a scene in one evening, post it, make people laugh, and move on.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000072117230050511475,
+            "ai": 0.9999323900519782,
+            "paraphrased": 0.000060398225016765366
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953351397539,
+          "sentence": "It taught me that finishing small, imperfect things builds muscles that planning a masterpiece never did.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004664860246162193,
+            "ai": 0.9999321860184857,
+            "paraphrased": 0.00006314912126822004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999834121597185,
+          "sentence": "I still care about the big project, but now I’m not trying to approach it like a sacred object.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016587840281505224,
+            "ai": 0.9999266462211669,
+            "paraphrased": 0.0000567659385516161
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999549517345211,
+          "sentence": "I’m just trying to write.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000045048265478844535,
+            "ai": 0.9998809847149561,
+            "paraphrased": 0.00007396701956498821
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "For the longest time I thought “being a writer” meant making steady progress on the giant novel I’d been carrying around in my head since college. It had maps, religions, political factions, three magic systems, and absolutely no finished chapters. Every time I opened the document, I felt like I was walking into a cathedral with muddy shoes.\n\nThen, almost by accident, I started writing little stories for a dumb multiplayer game my friends and I were obsessed with. The official lore was ridiculous, half-contradictory, and clearly not meant to support anything serious, which turned out to be the best possible thing for me. There was no pressure to be profound. I could write a scene in one evening, post it, make people laugh, and move on.\n\nIt taught me that finishing small, imperfect things builds muscles that planning a masterpiece never did. I still care about the big project, but now I’m not trying to approach it like a sacred object. I’m just trying to write.\n",
+      "document_id": null
+    }
+  ]
+}

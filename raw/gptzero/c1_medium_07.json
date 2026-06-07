@@ -1,0 +1,548 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        }
+      ],
+      "completely_generated_prob": 0.000011982804314234843,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999780815701208,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00023282593076984345,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997671740692301,
+            "ai": 0.00018775744100684266,
+            "paraphrased": 0.0000450684897630008
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001570057090962069,
+          "sentence": "In the technology world today, electronics are constantly developing (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998429942909038,
+            "ai": 0.00010011423657589261,
+            "paraphrased": 0.000056891472520314293
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00018430283930649584,
+          "sentence": "The internet now allows consumers to shop with convenience at anywhere and anytime via any available tablets or devices on hand.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998156971606935,
+            "ai": 0.00011455085025460698,
+            "paraphrased": 0.00006975198905188888
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019349726693243522,
+          "sentence": "Online shopping has become a common way for online shoppers to purchase a variety of goods, products and services in an environment which supports privacy and confidentiality (Amin, B.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998065027330676,
+            "ai": 0.00013457278340116052,
+            "paraphrased": 0.0000589244835312747
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00015434735257031034,
+          "sentence": "It enables online consumers to search and control information or messages of what can be seen and heard by others (Amin, B.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998456526474296,
+            "ai": 0.00009273978041586971,
+            "paraphrased": 0.00006160757215444064
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009688636717309901,
+          "sentence": "Many researchers explained Internet purchase behaviour by identifying conceptual factors through the exploration of motivations (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999031136328269,
+            "ai": 0.00005112047959349227,
+            "paraphrased": 0.000045765887579606736
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001335534141420273,
+          "sentence": "However, not many online purchase motivations were examined (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999866446585858,
+            "ai": 0.00007698036532842924,
+            "paraphrased": 0.00005657304881359807
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010439541407749548,
+          "sentence": "This book chapter will discuss motivations that may cause the behaviour of online shopping.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998956045859225,
+            "ai": 0.00005281016806643323,
+            "paraphrased": 0.00005158524601106226
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012390351376106708,
+          "sentence": "Personality Traits",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999876096486239,
+            "ai": 0.00006588720623056292,
+            "paraphrased": 0.000058016307530504177
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008708251125021395,
+          "sentence": "According to various contexts, personality traits may be a source of motivation (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999129174887498,
+            "ai": 0.00004142703502065506,
+            "paraphrased": 0.00004565547622955889
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012162248469416476,
+          "sentence": "The Big Five has been used to select employees and determine work performance, however the impact on online shopping motivations has not been properly examined (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998783775153058,
+            "ai": 0.00007739240166409435,
+            "paraphrased": 0.00004423008303007041
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000117538955402306,
+          "sentence": "Studies on online gaming showed a link between the Big Five traits and motivations (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998824610445977,
+            "ai": 0.00007492773158054516,
+            "paraphrased": 0.00004261122382176084
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00015561739161844317,
+          "sentence": "Therefore, factors that influence online shopping behaviour may also be determined by testing the relationship between personality traits and individual motivations (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998443826083816,
+            "ai": 0.0001106574727642311,
+            "paraphrased": 0.00004495991885421208
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009735786626421392,
+          "sentence": "The Big Five Model",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990264213373579,
+            "ai": 0.0008983746062749579,
+            "paraphrased": 0.00007520405636718123
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.004027159555043541,
+          "sentence": "The Big Five Model of personality traits includes openness,agreeableness, extraversion, conscientiousness and neuroticism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9959728404449565,
+            "ai": 0.003926490079300404,
+            "paraphrased": 0.0001006694757431369
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.005181694340571549,
+          "sentence": "Openness represents curiosity and creativity (Boundless, 2016).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9948183056594284,
+            "ai": 0.005066576128709784,
+            "paraphrased": 0.00011511821186176532
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012660920333985038,
+          "sentence": "Individual with high levels of agreeableness has the tendency to be compassionate, considerate, generous and cooperative towards others (Boundless, 2016).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998733907966602,
+            "ai": 0.00011900519787591967,
+            "paraphrased": 0.000007604005463930691
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000880308282613968,
+          "sentence": "Extraversion consists of positivism, assertiveness, sociability and talkativeness (Boundless, 2016).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999119691717386,
+            "ai": 0.00007992316904903631,
+            "paraphrased": 0.000008107659212360489
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008307950370735192,
+          "sentence": "Conscientious individuals tend to show self-discipline, are organised and dependable, as well as being prepared and plan ahead for future (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999169204962927,
+            "ai": 0.00007566715865297031,
+            "paraphrased": 0.000007412345054381612
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011144097599327869,
+          "sentence": "Neuroticism also refers to showing negative emotions such as anger, depression, anxiety in stressful situations and may be known as emotional stability (Boundless, 2016).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998885590240068,
+            "ai": 0.0001041684611279335,
+            "paraphrased": 0.000007272514865345193
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013958012427045763,
+          "sentence": "Motivations",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998604198757295,
+            "ai": 0.00013242977914348445,
+            "paraphrased": 0.00000715034512697318
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007926564989545477,
+          "sentence": "Five internet shopping motivations associated with the Big Five personality traits has been selected for examination (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999207343501045,
+            "ai": 0.0000720661052362301,
+            "paraphrased": 0.000007199544659224675
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008078141288375743,
+          "sentence": "Those include adventure, idea, sociality, lack of sociality and convenience (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999192185871162,
+            "ai": 0.00007295999549430426,
+            "paraphrased": 0.00000782141738945316
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007074084842656878,
+          "sentence": "Adventure has been defined as encountering something interesting with the experience of joy while shopping (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999292591515734,
+            "ai": 0.00006255308542522933,
+            "paraphrased": 0.000008187763001339444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007539531572503301,
+          "sentence": "Idea refers to online shoppers being able to search and understand information in regards to product brands and new trends while experiencing pleasure (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999924604684275,
+            "ai": 0.00006765679133743553,
+            "paraphrased": 0.000007738524387597489
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008396288226805738,
+          "sentence": "Sociality indicates the fact that shoppers are able to socialise with other shoppers with the same interesting and share information (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999160371177319,
+            "ai": 0.00007624157176807255,
+            "paraphrased": 0.000007721310499984832
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014640172589900017,
+          "sentence": "Lack of sociality describes shoppers without the need to bargain with sales assistants and wasting the time of their companions (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999853598274101,
+            "ai": 0.0001384034677032915,
+            "paraphrased": 0.00000799825819570866
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000975323918228196,
+          "sentence": "Convenience may represents a convenient and relaxing environment for shoppers without time, space or weather issues (Huang & Yang, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990246760817718,
+            "ai": 0.0009636232742890672,
+            "paraphrased": 0.000011700643939128861
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999780815701208,
+        "ai": 0.000021918429879224884,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999780815701208,
+          "ai": 0.000021918429879224884,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\n\nIn the technology world today, electronics are constantly developing (Huang & Yang, 2010). The internet now allows consumers to shop with convenience at anywhere and anytime via any available tablets or devices on hand. Online shopping has become a common way for online shoppers to purchase a variety of goods, products and services in an environment which supports privacy and confidentiality (Amin, B. & Amin, P., 2013). It enables online consumers to search and control information or messages of what can be seen and heard by others (Amin, B. & Amin, P., 2013). Many researchers explained Internet purchase behaviour by identifying conceptual factors through the exploration of motivations (Huang & Yang, 2010). However, not many online purchase motivations were examined (Huang & Yang, 2010). This book chapter will discuss motivations that may cause the behaviour of online shopping.\n\nPersonality Traits\n\nAccording to various contexts, personality traits may be a source of motivation (Huang & Yang, 2010). The Big Five has been used to select employees and determine work performance, however the impact on online shopping motivations has not been properly examined (Huang & Yang, 2010). Studies on online gaming showed a link between the Big Five traits and motivations (Huang & Yang, 2010). Therefore, factors that influence online shopping behaviour may also be determined by testing the relationship between personality traits and individual motivations (Huang & Yang, 2010).\n\nThe Big Five Model\n\nThe Big Five Model of personality traits includes openness,agreeableness, extraversion, conscientiousness and neuroticism. Openness represents curiosity and creativity (Boundless, 2016). Individual with high levels of agreeableness has the tendency to be compassionate, considerate, generous and cooperative towards others (Boundless, 2016). Extraversion consists of positivism, assertiveness, sociability and talkativeness (Boundless, 2016). Conscientious individuals tend to show self-discipline, are organised and dependable, as well as being prepared and plan ahead for future (Huang & Yang, 2010). Neuroticism also refers to showing negative emotions such as anger, depression, anxiety in stressful situations and may be known as emotional stability (Boundless, 2016).\n\nMotivations\n\nFive internet shopping motivations associated with the Big Five personality traits has been selected for examination (Huang & Yang, 2010). Those include adventure, idea, sociality, lack of sociality and convenience (Huang & Yang, 2010). Adventure has been defined as encountering something interesting with the experience of joy while shopping (Huang & Yang, 2010). Idea refers to online shoppers being able to search and understand information in regards to product brands and new trends while experiencing pleasure (Huang & Yang, 2010). Sociality indicates the fact that shoppers are able to socialise with other shoppers with the same interesting and share information (Huang & Yang, 2010). Lack of sociality describes shoppers without the need to bargain with sales assistants and wasting the time of their companions (Huang & Yang, 2010). Convenience may represents a convenient and relaxing environment for shoppers without time, space or weather issues (Huang & Yang, 2010).\n",
+      "document_id": null
+    }
+  ]
+}

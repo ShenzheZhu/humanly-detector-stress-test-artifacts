@@ -1,0 +1,558 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.9999708897318182,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999872339408561,
+          "sentence": "Mindsets and Motivation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012766059143913064,
+            "ai": 0.999971471194099,
+            "paraphrased": 0.000015762746757086607
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999924272231522,
+          "sentence": "A mindset is the underlying belief a person holds about the nature of their own abilities, and it turns out to be one of the most powerful predictors of how they approach challenges.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007572776847804211,
+            "ai": 0.9999724273584033,
+            "paraphrased": 0.000019999864748858745
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991714053656,
+          "sentence": "Psychologist Carol Dweck distinguished between two broad orientations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008285946344056237,
+            "ai": 0.9999714284520312,
+            "paraphrased": 0.000020285601624698037
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999935896545211,
+          "sentence": "People with a fixed mindset believe that traits like intelligence or talent are essentially set, while people with a growth mindset believe these qualities can be developed through effort, strategy, and learning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006410345478904756,
+            "ai": 0.9999698247438644,
+            "paraphrased": 0.000023764910656653626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999940171888935,
+          "sentence": "This single difference in belief shapes motivation, emotion, and behavior in far-reaching ways.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005982811106592739,
+            "ai": 0.9999693447408596,
+            "paraphrased": 0.000024672448033825498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999942105782815,
+          "sentence": "To understand the concept in plain terms, it helps to think about how each mindset interprets failure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005789421718393821,
+            "ai": 0.9999691243970241,
+            "paraphrased": 0.000025086181257438404
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999942680045187,
+          "sentence": "This interpretation tends to produce avoidance, anxiety, and a tendency to give up when things get hard, because effort itself feels like proof of inadequacy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005731995481287183,
+            "ai": 0.9999682398790918,
+            "paraphrased": 0.000026028125426971952
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999948968462656,
+          "sentence": "For someone with a growth mindset, the same poor result is information: a signal about what to practice next.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005103153734447469,
+            "ai": 0.99996466066563,
+            "paraphrased": 0.000030236180635637687
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999949456884255,
+          "sentence": "Effort becomes a path to mastery rather than a sign of deficiency, and setbacks lose much of their emotional sting.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000050543115745580896,
+            "ai": 0.9999654017088232,
+            "paraphrased": 0.000029543979602297176
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999924818948984,
+          "sentence": "The link to motivation is direct.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007518105101623592,
+            "ai": 0.999970791072051,
+            "paraphrased": 0.000021690822847403578
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993723740696,
+          "sentence": "Motivation depends heavily on whether we believe our actions can change our outcomes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006276259303974799,
+            "ai": 0.999969924625205,
+            "paraphrased": 0.000023799115491044036
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999940865458257,
+          "sentence": "A growth mindset sustains intrinsic motivation because it frames learning as an ongoing process where improvement is always possible.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005913454174377747,
+            "ai": 0.9999695016539182,
+            "paraphrased": 0.000024584891907474607
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999945438763489,
+          "sentence": "A fixed mindset, by contrast, often produces what researchers call a \"helpless\" response, where motivation collapses precisely when persistence would matter most.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000054561236510514645,
+            "ai": 0.9999680347274115,
+            "paraphrased": 0.000026509148937429375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999925184954919,
+          "sentence": "The emotional dimension matters too: growth-oriented individuals tend to feel curiosity and resilience in the face of difficulty, whereas fixed-oriented individuals are more likely to feel shame or threat.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007481504508160273,
+            "ai": 0.999969567512974,
+            "paraphrased": 0.00002295098251791237
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999627705346297,
+          "sentence": "A concrete example makes this vivid.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003722946537034928,
+            "ai": 0.9999522691518665,
+            "paraphrased": 0.00001050138276310994
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999704098291003,
+          "sentence": "Imagine two students who both fail an important exam.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000029590170899643876,
+            "ai": 0.9999578875262732,
+            "paraphrased": 0.000012522302827142267
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999703343109881,
+          "sentence": "The first concludes that she lacks the ability and quietly stops trying, reasoning that more effort would only confirm her limitations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000029665689011788902,
+            "ai": 0.9999585769239158,
+            "paraphrased": 0.000011757387072416685
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999768650986408,
+          "sentence": "The second treats the failure as feedback, meets with the instructor, revises her study strategy, and improves substantially on the next assessment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023134901359142797,
+            "ai": 0.9999651130268956,
+            "paraphrased": 0.000011752071745202504
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999978911103653,
+          "sentence": "Their initial scores were identical; their beliefs about what those scores meant led to opposite behaviors and, ultimately, opposite outcomes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002108889634703949,
+            "ai": 0.9999673690216139,
+            "paraphrased": 0.000011542082039132909
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999872612807517,
+          "sentence": "This illustrates how a mindset is not merely an attitude but a driver of real action.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012738719248399189,
+            "ai": 0.9999743176605187,
+            "paraphrased": 0.000012943620232957792
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999872737805672,
+          "sentence": "It is worth adding a note of nuance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012726219432806652,
+            "ai": 0.9999748642772084,
+            "paraphrased": 0.000012409503358801346
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999987690769855,
+          "sentence": "Mindsets are not fixed traits in themselves, and the research suggests that interventions sometimes produce smaller effects than early enthusiasm implied.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012309230144967176,
+            "ai": 0.9999745842875877,
+            "paraphrased": 0.000013106482267363742
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999819852518107,
+          "sentence": "A growth mindset also does not mean that effort alone guarantees success, or that all abilities are infinitely malleable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018014748189277955,
+            "ai": 0.9999708677782532,
+            "paraphrased": 0.00001111747355754909
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999850383363355,
+          "sentence": "The more accurate claim is that beliefs about ability influence the willingness to engage, and that willingness compounds over time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014961663664529939,
+            "ai": 0.9999735458729441,
+            "paraphrased": 0.000011492463391369123
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999713950837621,
+          "sentence": "Understanding mindsets matters because beliefs about ability are themselves changeable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028604916237928233,
+            "ai": 0.9999611382536199,
+            "paraphrased": 0.000010256830142167128
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999578881996648,
+          "sentence": "Educators, managers, and individuals can foster growth-oriented thinking by praising strategy and effort rather than fixed talent, by normalizing struggle as part of learning, and by framing feedback as guidance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004211180033518852,
+            "ai": 0.9999479844757875,
+            "paraphrased": 0.000009903723877344866
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9681687327170837,
+          "sentence": "In a world that increasingly demands continuous learning and adaptation, the way people interpret their own capacity to grow may be one of the most consequential psychological factors shaping their long-term motivation and achievement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03183126728291635,
+            "ai": 0.9680667234232657,
+            "paraphrased": 0.00010200929381797579
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Mindsets and Motivation\n\nA mindset is the underlying belief a person holds about the nature of their own abilities, and it turns out to be one of the most powerful predictors of how they approach challenges. Psychologist Carol Dweck distinguished between two broad orientations. People with a fixed mindset believe that traits like intelligence or talent are essentially set, while people with a growth mindset believe these qualities can be developed through effort, strategy, and learning. This single difference in belief shapes motivation, emotion, and behavior in far-reaching ways.\n\nTo understand the concept in plain terms, it helps to think about how each mindset interprets failure. For someone with a fixed mindset, a poor result is evidence of a permanent limitation: \"I'm just not a math person.\" This interpretation tends to produce avoidance, anxiety, and a tendency to give up when things get hard, because effort itself feels like proof of inadequacy. For someone with a growth mindset, the same poor result is information: a signal about what to practice next. Effort becomes a path to mastery rather than a sign of deficiency, and setbacks lose much of their emotional sting.\n\nThe link to motivation is direct. Motivation depends heavily on whether we believe our actions can change our outcomes. A growth mindset sustains intrinsic motivation because it frames learning as an ongoing process where improvement is always possible. A fixed mindset, by contrast, often produces what researchers call a \"helpless\" response, where motivation collapses precisely when persistence would matter most. The emotional dimension matters too: growth-oriented individuals tend to feel curiosity and resilience in the face of difficulty, whereas fixed-oriented individuals are more likely to feel shame or threat.\n\nA concrete example makes this vivid. Imagine two students who both fail an important exam. The first concludes that she lacks the ability and quietly stops trying, reasoning that more effort would only confirm her limitations. The second treats the failure as feedback, meets with the instructor, revises her study strategy, and improves substantially on the next assessment. Their initial scores were identical; their beliefs about what those scores meant led to opposite behaviors and, ultimately, opposite outcomes. This illustrates how a mindset is not merely an attitude but a driver of real action.\n\nIt is worth adding a note of nuance. Mindsets are not fixed traits in themselves, and the research suggests that interventions sometimes produce smaller effects than early enthusiasm implied. A growth mindset also does not mean that effort alone guarantees success, or that all abilities are infinitely malleable. The more accurate claim is that beliefs about ability influence the willingness to engage, and that willingness compounds over time.\n\nUnderstanding mindsets matters because beliefs about ability are themselves changeable. Educators, managers, and individuals can foster growth-oriented thinking by praising strategy and effort rather than fixed talent, by normalizing struggle as part of learning, and by framing feedback as guidance. In a world that increasingly demands continuous learning and adaptation, the way people interpret their own capacity to grow may be one of the most consequential psychological factors shaping their long-term motivation and achievement.\n",
+      "document_id": null
+    }
+  ]
+}

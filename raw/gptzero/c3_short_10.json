@@ -1,0 +1,193 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        }
+      ],
+      "completely_generated_prob": 0.000006275417882099093,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999923466898523,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.000044189922839052435,
+          "sentence": "Some time ago, one of my professors, addressing the group, said: “As we saw fifteen days ago...” However, classes are held on the same day every week.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999955810077161,
+            "ai": 0.00003211706742790395,
+            "paraphrased": 0.000012072855411148484
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006441004627075473,
+          "sentence": "Where does this expression come from?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999355899537292,
+            "ai": 0.000052992946428823065,
+            "paraphrased": 0.000011417099841931661
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000706403333824629,
+          "sentence": "Why do we use fifteen or eight days to refer to the same day in another week?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999293596666176,
+            "ai": 0.00005921870916272289,
+            "paraphrased": 0.00001142162421974001
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005807790833586934,
+          "sentence": "Is there something similar for three weeks?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999419220916641,
+            "ai": 0.000046405034324566776,
+            "paraphrased": 0.000011672874011302569
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000035819063194692294,
+          "sentence": "I know that “fifteen” in this case derives from “fortnight” (quinzaine), but there is a notion of approximation there that the number as such does not have.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999641809368053,
+            "ai": 0.00002157389052888,
+            "paraphrased": 0.000014245172665812295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003654871575284402,
+          "sentence": "Is it out of sheer laziness; is it easier to say fifteen than fortnight or fourteen?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999634512842471,
+            "ai": 0.000023313799141952433,
+            "paraphrased": 0.000013234916610891586
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000041432130247040894,
+          "sentence": "If that is the case, why eight and not seven?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999958567869753,
+            "ai": 0.00002890208987669027,
+            "paraphrased": 0.000012530040370350624
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003822894318944884,
+          "sentence": "Related question: Monday in eight or Monday in fifteen?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999617710568105,
+            "ai": 0.000025197323092415966,
+            "paraphrased": 0.000013031620097032873
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999923466898523,
+        "ai": 0.000007653310147681533,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999923466898523,
+          "ai": 0.000007653310147681533,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Some time ago, one of my professors, addressing the group, said: “As we saw fifteen days ago...” However, classes are held on the same day every week. Where does this expression come from? Why do we use fifteen or eight days to refer to the same day in another week? Is there something similar for three weeks? I know that “fifteen” in this case derives from “fortnight” (quinzaine), but there is a notion of approximation there that the number as such does not have. Is it out of sheer laziness; is it easier to say fifteen than fortnight or fourteen? If that is the case, why eight and not seven? Related question: Monday in eight or Monday in fifteen?\n",
+      "document_id": null
+    }
+  ]
+}

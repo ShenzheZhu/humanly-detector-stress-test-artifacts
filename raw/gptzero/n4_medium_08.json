@@ -1,0 +1,676 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 9,
+          "completely_generated_prob": 0.9257822263275673
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        }
+      ],
+      "completely_generated_prob": 0.9999823380663652,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999906733616141,
+          "sentence": "The broaden-and-build theory of positive emotions proposes that pleasant emotional states do more than simply make people feel good in the moment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009326638385973748,
+            "ai": 0.9999150599413846,
+            "paraphrased": 0.00007561342022943359
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999878239081609,
+          "sentence": "Emotions such as joy, interest, gratitude, amusement, hope, and love can widen a person’s attention.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012176091839076325,
+            "ai": 0.9999084889366775,
+            "paraphrased": 0.00007933497148341036
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999919566555243,
+          "sentence": "They can also make a broader range of thoughts and actions seem possible.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008043344475641086,
+            "ai": 0.9999195085358495,
+            "paraphrased": 0.00007244811967481813
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999958660616914,
+          "sentence": "When people feel safe, curious, or uplifted, they are more likely to explore, play, connect with others, try new strategies, and notice opportunities they might otherwise miss.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004133938308591691,
+            "ai": 0.9999011088232577,
+            "paraphrased": 0.00009475723843374126
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999951608873615,
+          "sentence": "Over time, these momentary expansions can build lasting resources, such as knowledge, confidence, friendships, coping skills, creativity, and physical resilience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004839112638440741,
+            "ai": 0.9999064169024898,
+            "paraphrased": 0.00008874398487170009
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999934376085531,
+          "sentence": "This idea is useful because it challenges the assumption that positive emotion is just a reward that comes after success.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006562391446911357,
+            "ai": 0.9999188963717499,
+            "paraphrased": 0.00007454123680317005
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999893399954071,
+          "sentence": "Instead, positive emotion can help create the conditions for success.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010660004592912637,
+            "ai": 0.9999019248290837,
+            "paraphrased": 0.00008741516632339134
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999904226657703,
+          "sentence": "A student who feels interested in a topic is more likely to ask questions, read beyond the minimum requirements, and make connections between ideas.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009577334229580623,
+            "ai": 0.9999037362427299,
+            "paraphrased": 0.00008668642304049122
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999940128823243,
+          "sentence": "A person who feels supported by friends may be more willing to take on a difficult challenge.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005987117675777759,
+            "ai": 0.9999040799939288,
+            "paraphrased": 0.0000899328883953869
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999939544654959,
+          "sentence": "Someone who feels hopeful during a setback may be better able to consider alternative solutions rather than giving up immediately.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006045534504081498,
+            "ai": 0.9999074470921188,
+            "paraphrased": 0.00008650737337713874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999992395152388,
+          "sentence": "In this way, positive emotions are linked to motivation because they can increase approach behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007604847611909791,
+            "ai": 0.9999155256680887,
+            "paraphrased": 0.00007686948429933909
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993028903636,
+          "sentence": "People become more inclined to move toward tasks, people, and goals rather than withdraw from them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006971096364045564,
+            "ai": 0.9999154167707619,
+            "paraphrased": 0.00007761213287401283
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999916387535243,
+          "sentence": "The theory also helps explain how emotion affects learning and decision-making.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008361246475767945,
+            "ai": 0.9999190267432682,
+            "paraphrased": 0.00007261201025609502
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999888592216092,
+          "sentence": "Negative emotions such as fear or anger can narrow attention.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011140778390797442,
+            "ai": 0.9999114963547074,
+            "paraphrased": 0.00007736286690176056
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999912633650441,
+          "sentence": "This can be useful when there is a direct threat and fast action is needed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008736634955872309,
+            "ai": 0.9999190279146024,
+            "paraphrased": 0.00007223545044170314
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991833924539,
+          "sentence": "However, that same narrowing can limit flexible thinking when a problem requires creativity or reflection.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008166075460928253,
+            "ai": 0.9999147488928143,
+            "paraphrased": 0.00007708503172481207
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998697368378712,
+          "sentence": "Positive emotions often have the opposite effect.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013026316212876992,
+            "ai": 0.9997516653580946,
+            "paraphrased": 0.00011807147977661626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997325350359306,
+          "sentence": "They can encourage mental flexibility.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00026746496406930586,
+            "ai": 0.9995866622400186,
+            "paraphrased": 0.00014587279591210466
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995059942186335,
+          "sentence": "This makes it easier to see multiple options, combine information in new ways, and consider long-term benefits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000494005781366431,
+            "ai": 0.9994663242875874,
+            "paraphrased": 0.00003966993104610792
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998928767131431,
+          "sentence": "This does not mean that positive feelings always lead to good decisions, or that negative emotions are always harmful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010712328685700386,
+            "ai": 0.99986925716232,
+            "paraphrased": 0.00002361955082304527
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99993166297849,
+          "sentence": "Instead it suggests that a balanced emotional life, with enough positive emotion to support openness and resilience, can improve how people learn and respond to challenges.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000683370215099109,
+            "ai": 0.9999102055653077,
+            "paraphrased": 0.0000214574131823059
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999159926991741,
+          "sentence": "A concrete example can be seen in a first-year university student who is anxious about joining a group project.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000840073008259444,
+            "ai": 0.9998935902302372,
+            "paraphrased": 0.000022402468936900365
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999688832405343,
+          "sentence": "If the student feels isolated and tense, they may contribute only the minimum, such as avoiding speaking in meetings, and interpreting feedback as criticism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003111675946563013,
+            "ai": 0.9999501369400977,
+            "paraphrased": 0.00001874630043665692
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999627210561154,
+          "sentence": "However, if the group creates a friendly atmosphere and the student experiences moments of enjoyment and belonging, their behavior may change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003727894388456244,
+            "ai": 0.9999433822300365,
+            "paraphrased": 0.000019338826078865882
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999430874933607,
+          "sentence": "They might suggest an original idea, volunteer to research an unfamiliar topic, or ask a classmate for help.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000056912506639277636,
+            "ai": 0.9999236871313659,
+            "paraphrased": 0.000019400361994773692
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999967230792028,
+          "sentence": "These small actions can build skills and relationships that last beyond the project itself.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000032769207972013516,
+            "ai": 0.9999503229811885,
+            "paraphrased": 0.000016907810839485147
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999500983724953,
+          "sentence": "The positive emotion does not complete the assignment for the student, but it makes exploration and engagement more likely.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000049901627504658216,
+            "ai": 0.9999328794532829,
+            "paraphrased": 0.000017218919212393187
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999505495470098,
+          "sentence": "The broaden-and-build theory matters because it gives practical value to emotional wellbeing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000049450452990290856,
+            "ai": 0.9999332439310064,
+            "paraphrased": 0.00001730561600339824
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999916201884629,
+          "sentence": "It suggests that positive emotions are not superficial extras.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008379811537094511,
+            "ai": 0.999896312184531,
+            "paraphrased": 0.000019889700098007557
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99992418450255,
+          "sentence": "They are important ingredients in human development.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007581549744991933,
+            "ai": 0.9999071001199459,
+            "paraphrased": 0.00001708438260414927
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999433568261809,
+          "sentence": "In education, workplaces, families, and communities, environments that foster curiosity, appreciation, humor, and connection can help people become more adaptable and capable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005664317381917833,
+            "ai": 0.9999264518552787,
+            "paraphrased": 0.00001690497090213411
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992227494454602,
+          "sentence": "This is especially important in a world where people often face uncertainty, pressure, and change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007772505545397845,
+            "ai": 0.9991909749460138,
+            "paraphrased": 0.000031774499446355344
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986591477467982,
+          "sentence": "Positive emotions cannot remove all difficulties.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013408522532018222,
+            "ai": 0.9986168603462793,
+            "paraphrased": 0.00004228740051889808
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9965509922355148,
+          "sentence": "They can, however, expand the ways people respond to difficulties by helping them think more openly, act more creatively, and build stronger personal resources.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003449007764485201,
+            "ai": 0.9964927729675712,
+            "paraphrased": 0.00005821926794356719
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8053293676600665,
+          "sentence": "Positive emotion plays a meaningful role in motivation, learning, behavior, and long-term flourishing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.19467063233993348,
+            "ai": 0.8050681942804162,
+            "paraphrased": 0.00026117337965030063
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The broaden-and-build theory of positive emotions proposes that pleasant emotional states do more than simply make people feel good in the moment. Emotions such as joy, interest, gratitude, amusement, hope, and love can widen a person’s attention. They can also make a broader range of thoughts and actions seem possible. When people feel safe, curious, or uplifted, they are more likely to explore, play, connect with others, try new strategies, and notice opportunities they might otherwise miss. Over time, these momentary expansions can build lasting resources, such as knowledge, confidence, friendships, coping skills, creativity, and physical resilience.\n\n\nThis idea is useful because it challenges the assumption that positive emotion is just a reward that comes after success. Instead, positive emotion can help create the conditions for success. A student who feels interested in a topic is more likely to ask questions, read beyond the minimum requirements, and make connections between ideas. A person who feels supported by friends may be more willing to take on a difficult challenge. Someone who feels hopeful during a setback may be better able to consider alternative solutions rather than giving up immediately. In this way, positive emotions are linked to motivation because they can increase approach behavior. People become more inclined to move toward tasks, people, and goals rather than withdraw from them.\n\n\nThe theory also helps explain how emotion affects learning and decision-making. Negative emotions such as fear or anger can narrow attention. This can be useful when there is a direct threat and fast action is needed. However, that same narrowing can limit flexible thinking when a problem requires creativity or reflection. Positive emotions often have the opposite effect. They can encourage mental flexibility. This makes it easier to see multiple options, combine information in new ways, and consider long-term benefits. This does not mean that positive feelings always lead to good decisions, or that negative emotions are always harmful. Instead it suggests that a balanced emotional life, with enough positive emotion to support openness and resilience, can improve how people learn and respond to challenges.\n\n\nA concrete example can be seen in a first-year university student who is anxious about joining a group project. If the student feels isolated and tense, they may contribute only the minimum, such as avoiding speaking in meetings, and interpreting feedback as criticism. However, if the group creates a friendly atmosphere and the student experiences moments of enjoyment and belonging, their behavior may change. They might suggest an original idea, volunteer to research an unfamiliar topic, or ask a classmate for help. These small actions can build skills and relationships that last beyond the project itself. The positive emotion does not complete the assignment for the student, but it makes exploration and engagement more likely.\n\n\nThe broaden-and-build theory matters because it gives practical value to emotional wellbeing. It suggests that positive emotions are not superficial extras. They are important ingredients in human development. In education, workplaces, families, and communities, environments that foster curiosity, appreciation, humor, and connection can help people become more adaptable and capable. This is especially important in a world where people often face uncertainty, pressure, and change. Positive emotions cannot remove all difficulties. They can, however, expand the ways people respond to difficulties by helping them think more openly, act more creatively, and build stronger personal resources. Positive emotion plays a meaningful role in motivation, learning, behavior, and long-term flourishing.\n",
+      "document_id": null
+    }
+  ]
+}

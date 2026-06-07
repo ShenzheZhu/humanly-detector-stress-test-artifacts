@@ -1,0 +1,367 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.9999864780165257,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999771962040823,
+          "sentence": "I used to write constantly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022803795917716234,
+            "ai": 0.9998796687345893,
+            "paraphrased": 0.00009752746949295859
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999887256707609,
+          "sentence": "Bad fantasy scenes, weird little horror pieces, pages of dialogue that went nowhere—none of it was “good,” probably, but it felt alive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011274329239133675,
+            "ai": 0.9998821095787381,
+            "paraphrased": 0.00010661609202274657
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999855248157258,
+          "sentence": "Then I took writing seriously.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014475184274254311,
+            "ai": 0.9998800392520713,
+            "paraphrased": 0.00010548556365449231
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999916476893136,
+          "sentence": "Workshops, craft books, critique groups, all of it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008352310686406847,
+            "ai": 0.9998758724806825,
+            "paraphrased": 0.00011577520863104668
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999933318908781,
+          "sentence": "Now, every time I sit down, I cannot get past the first paragraph without interrogating it to death.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006668109121825654,
+            "ai": 0.9998831769046246,
+            "paraphrased": 0.0001101549862535442
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931140282666,
+          "sentence": "Is the narrator distinct enough?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006885971733374237,
+            "ai": 0.999861954240453,
+            "paraphrased": 0.00013115978781365957
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999944557066629,
+          "sentence": "Is the conflict clear?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005544293337059591,
+            "ai": 0.9998586984629251,
+            "paraphrased": 0.0001357572437378497
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999942471886053,
+          "sentence": "Is this image doing enough work?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000057528113947098355,
+            "ai": 0.9998786884158137,
+            "paraphrased": 0.00011555877279157443
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999938416657005,
+          "sentence": "What does the setting represent?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006158334299533235,
+            "ai": 0.9998886836373694,
+            "paraphrased": 0.00010515802833110147
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993282908633,
+          "sentence": "Am I relying on cliché?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006717091366970852,
+            "ai": 0.9998712624717846,
+            "paraphrased": 0.00012202043684841112
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999954908999619,
+          "sentence": "Is the theme too obvious, or worse, not there at all?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004509100038172141,
+            "ai": 0.9998712200216919,
+            "paraphrased": 0.000124270878269908
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999943005572678,
+          "sentence": "I know these are useful questions eventually but they have moved into the drafting stage and started acting like bouncers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000056994427321429525,
+            "ai": 0.9998729318060715,
+            "paraphrased": 0.00012136875119630437
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993138358804,
+          "sentence": "Nothing gets in unless it can prove its literary value at the door.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000686164119599871,
+            "ai": 0.9998919143668713,
+            "paraphrased": 0.00010122399193265558
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999758133559649,
+          "sentence": "I miss writing before I knew what I was “supposed” to be doing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002418664403513684,
+            "ai": 0.9998619689340399,
+            "paraphrased": 0.00011384442192497779
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999809512411391,
+          "sentence": "I do not want to be ignorant again.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001904875886095484,
+            "ai": 0.9998519117575797,
+            "paraphrased": 0.00012903948355931256
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999785579039311,
+          "sentence": "I just want the joy back.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021442096068834703,
+            "ai": 0.9998589389680648,
+            "paraphrased": 0.00011961893586634421
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I used to write constantly. Bad fantasy scenes, weird little horror pieces, pages of dialogue that went nowhere—none of it was “good,” probably, but it felt alive. Then I took writing seriously. Workshops, craft books, critique groups, all of it.\n\nNow, every time I sit down, I cannot get past the first paragraph without interrogating it to death. Is the narrator distinct enough? Is the conflict clear? Is this image doing enough work? What does the setting represent? Am I relying on cliché? Is the theme too obvious, or worse, not there at all?\n\nI know these are useful questions eventually but they have moved into the drafting stage and started acting like bouncers. Nothing gets in unless it can prove its literary value at the door.\n\nI miss writing before I knew what I was “supposed” to be doing. I do not want to be ignorant again. I just want the joy back.\n",
+      "document_id": null
+    }
+  ]
+}

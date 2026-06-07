@@ -1,0 +1,953 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 41,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9992040297707374,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999542343193475,
+          "sentence": "Summary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004576568065242843,
+            "ai": 0.9937281219626279,
+            "paraphrased": 0.006226112356719595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999752746572993,
+          "sentence": "This paper offers a theoretical study of the expressive power of deep neural networks, seeking to characterize how depth contributes to the complexity of the functions that networks can represent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000024725342700673362,
+            "ai": 0.9962413696943375,
+            "paraphrased": 0.0037339049629617946
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999823802932433,
+          "sentence": "The work pursues quantitative measures of expressivity, such as the number of linear regions a piecewise-linear network can carve out of its input space or related notions of how trajectories in input space are transformed as they pass through the layers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000017619706756743,
+            "ai": 0.9956583183759004,
+            "paraphrased": 0.004324061917342895
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999870493032066,
+          "sentence": "A central theme is the contrast between depth and width: the authors aim to show, with mathematical rigor, that increasing depth can yield growth in expressive capacity that cannot be matched efficiently by increasing width alone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012950696793411966,
+            "ai": 0.9958821333798584,
+            "paraphrased": 0.0041049159233481425
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999848349634807,
+          "sentence": "Beyond establishing such separations, the paper connects these measures of expressivity to properties of the network at initialization and to the behavior of functions computed by randomly initialized networks, offering a perspective on why depth is powerful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015165036519360506,
+            "ai": 0.9959897989515911,
+            "paraphrased": 0.003995036011889509
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999784960542125,
+          "sentence": "The contribution is primarily theoretical, with supporting analysis and, where appropriate, illustrative experiments that visualize or empirically confirm the theoretical phenomena.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021503945787403663,
+            "ai": 0.9956952517192409,
+            "paraphrased": 0.004283244334971666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999638262173064,
+          "sentence": "Strengths",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003617378269359088,
+            "ai": 0.9957345992754224,
+            "paraphrased": 0.004229226941883996
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999959916519391,
+          "sentence": "The paper addresses a fundamental question in the theory of deep learning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004008348060904217,
+            "ai": 0.9966075936653741,
+            "paraphrased": 0.0033523228540169
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999712044316333,
+          "sentence": "Understanding why depth helps, and quantifying the representational advantages it confers, is of broad and lasting importance, and contributions that put intuitions about expressivity on a rigorous footing are valuable to the community.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002879556836663533,
+            "ai": 0.9963472496765503,
+            "paraphrased": 0.0036239547550830685
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999535295006007,
+          "sentence": "The motivation is clearly significant and the questions are well chosen.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000046470499399419585,
+            "ai": 0.9959601455482439,
+            "paraphrased": 0.003993383952356773
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999565642732587,
+          "sentence": "The theoretical results are substantive and contribute to an important line of work on expressivity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004343572674126297,
+            "ai": 0.9959391900408426,
+            "paraphrased": 0.004017374232416082
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999826324050785,
+          "sentence": "Quantifying complexity through measures such as the number of linear regions or the transformation of input trajectories provides concrete, analyzable handles on an otherwise abstract notion, and demonstrating depth-versus-width separations adds rigor to the widely held belief that depth is beneficial.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000017367594921563112,
+            "ai": 0.9956309046024764,
+            "paraphrased": 0.004351727802602106
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999842309112233,
+          "sentence": "The mathematical development appears careful and the chosen measures are well motivated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015769088776700513,
+            "ai": 0.9946621329664617,
+            "paraphrased": 0.005322097944761673
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999870785428722,
+          "sentence": "A particular strength is the connection drawn between expressivity and the behavior of networks at initialization.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012921457127763508,
+            "ai": 0.9949099673451866,
+            "paraphrased": 0.0050771111976856305
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999862253272607,
+          "sentence": "Relating the abstract capacity of an architecture to properties that hold for typical, randomly initialized networks helps bridge the gap between what a network can represent in principle and what it is likely to compute in practice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001377467273928668,
+            "ai": 0.9951580065401272,
+            "paraphrased": 0.004828218787133491
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999838413597701,
+          "sentence": "This perspective is insightful and enriches the contribution beyond worst-case representational bounds.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001615864022982739,
+            "ai": 0.9957391555369143,
+            "paraphrased": 0.004244685822855899
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990511249744348,
+          "sentence": "Where included, the illustrative experiments are helpful in making the theory tangible and in confirming that the predicted phenomena appear in practice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009488750255651463,
+            "ai": 0.9982474926712893,
+            "paraphrased": 0.0008036323031455494
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9970225281819307,
+          "sentence": "Weaknesses",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002977471818069278,
+            "ai": 0.996476835548261,
+            "paraphrased": 0.0005456926336696822
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9982758120109825,
+          "sentence": "The most important limitation, common to expressivity results of this kind, is the gap between representational capacity and learnability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0017241879890175092,
+            "ai": 0.9974548772911498,
+            "paraphrased": 0.0008209347198327269
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983920992299362,
+          "sentence": "Showing that deep networks can represent highly complex functions does not establish that such functions can be learned from data by gradient-based optimization, nor that they generalize.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001607900770063772,
+            "ai": 0.9975313739678445,
+            "paraphrased": 0.0008607252620917028
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998955222125769,
+          "sentence": "The paper should be careful to delineate what its results do and do not imply about the practical success of deep learning, and to avoid suggesting that expressive power alone explains performance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010447778742314452,
+            "ai": 0.9993728831425944,
+            "paraphrased": 0.0005226390699824808
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999792656002921,
+          "sentence": "The practical relevance of some measures deserves discussion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00020734399707900337,
+            "ai": 0.9991680372195803,
+            "paraphrased": 0.0006246187833407765
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9984920028983114,
+          "sentence": "The number of linear regions, for example, can grow enormously while having limited bearing on the functions that are actually useful or learned.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0015079971016886437,
+            "ai": 0.997563559603743,
+            "paraphrased": 0.0009284432945684225
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999535793427747,
+          "sentence": "It would strengthen the paper to connect the theoretical quantities more explicitly to phenomena that matter empirically, and to acknowledge where these measures may overstate the relevance of raw expressivity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000046420657225337323,
+            "ai": 0.999467082474023,
+            "paraphrased": 0.0004864968687516555
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999020317689254,
+          "sentence": "The assumptions underlying the analysis, such as specific activation functions, architectural forms, or initialization schemes, may limit the generality of the conclusions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009796823107447464,
+            "ai": 0.9992574420351928,
+            "paraphrased": 0.0006445897337326432
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998210729859146,
+          "sentence": "A clear statement of the scope of the results, and a discussion of how sensitive they are to these assumptions, would help readers calibrate their significance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017892701408546373,
+            "ai": 0.9991780938289871,
+            "paraphrased": 0.0006429791569274444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998970463111643,
+          "sentence": "Finally, while the theory is the core contribution, additional empirical validation connecting the theoretical measures to behavior during and after training would make the work more compelling and would help establish that the identified phenomena are not merely artifacts of initialization or worst-case constructions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001029536888357157,
+            "ai": 0.9993081269154369,
+            "paraphrased": 0.0005889193957273495
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9943529564592545,
+          "sentence": "Questions for the Authors",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005647043540745521,
+            "ai": 0.9934925161129836,
+            "paraphrased": 0.0008604403462709134
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9931147134046778,
+          "sentence": "First, what do your results imply, if anything, about the learnability and generalization of the complex functions that deep networks can represent, as opposed to their mere representability?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006885286595322247,
+            "ai": 0.9921117080701926,
+            "paraphrased": 0.0010030053344852248
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978741621828278,
+          "sentence": "Second, how should the practical significance of measures such as the number of linear regions be interpreted, given that large counts need not correspond to useful or learned functions?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0021258378171723417,
+            "ai": 0.9969908983270035,
+            "paraphrased": 0.0008832638558242178
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9975310571406892,
+          "sentence": "Third, how sensitive are the main results to the assumptions about activation functions, architecture, and initialization, and how broadly do they generalize beyond those settings?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0024689428593107814,
+            "ai": 0.9966294015695579,
+            "paraphrased": 0.0009016555711313426
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987009622623432,
+          "sentence": "Fourth, do the expressivity measures change in informative ways during training, and is there empirical evidence linking them to test performance?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012990377376568309,
+            "ai": 0.9978555917065487,
+            "paraphrased": 0.0008453705557944513
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999181407352342,
+          "sentence": "Fifth, can the depth-versus-width separations be connected to concrete tasks where depth is empirically necessary, strengthening the bridge between theory and practice?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008185926476583511,
+            "ai": 0.9997902229429488,
+            "paraphrased": 0.00012791779228532653
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997730387882301,
+          "sentence": "Additional Comments",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00022696121176989082,
+            "ai": 0.999625673360076,
+            "paraphrased": 0.00014736542815407724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999368797622382,
+          "sentence": "A few further suggestions would strengthen the work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000063120237761801,
+            "ai": 0.9998542555478939,
+            "paraphrased": 0.00008262421434438338
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999917408981107,
+          "sentence": "It would help to discuss explicitly how the chosen expressivity measures relate to one another and whether they capture complementary or largely overlapping aspects of complexity, so that readers are not left to assume that a single measure tells the whole story.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000825910188927339,
+            "ai": 0.999914478737567,
+            "paraphrased": 0.00007726216054368133
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999922415343695,
+          "sentence": "The paper could also contrast its results with classical universal-approximation and circuit-complexity perspectives, clarifying what the new measures add beyond these established frameworks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007758465630569088,
+            "ai": 0.9999022688378334,
+            "paraphrased": 0.00008997269653605678
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999918339063034,
+          "sentence": "On the empirical side, demonstrating that the predicted expressivity trends correlate with behavior on at least one realistic learning task would substantially increase the practical relevance of the theory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008166093696604308,
+            "ai": 0.9998979459868143,
+            "paraphrased": 0.00009388791948912922
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999927944470376,
+          "sentence": "It would further help to state the assumptions and their limitations up front in a concise form, since results of this kind are often cited more broadly than their conditions warrant.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000072055529624149415,
+            "ai": 0.999903291825495,
+            "paraphrased": 0.00008950262154256677
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999951597243476,
+          "sentence": "Finally, a discussion of how the expressivity picture interacts with implicit regularization and the inductive biases of optimization would connect this work to active debates about why overparameterized networks generalize.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004840275652331748,
+            "ai": 0.9998892032569782,
+            "paraphrased": 0.00010595646736948384
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999932966422295,
+          "sentence": "These points are not criticisms of the technical content, which I find solid, but rather invitations to delineate the scope of the conclusions clearly and to bridge, where possible, the persistent gap between representational theory and observed practice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006703357770475778,
+            "ai": 0.999897812375674,
+            "paraphrased": 0.00009548426655551073
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999870664579463,
+          "sentence": "Overall Recommendation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012933542053762246,
+            "ai": 0.9998944421948608,
+            "paraphrased": 0.00009262426308549328
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999888726859006,
+          "sentence": "This paper makes a solid and rigorous theoretical contribution to a fundamental question about why depth matters in neural networks, introducing well-motivated measures of expressivity, establishing depth-versus-width separations, and connecting capacity to the behavior of networks at initialization.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001112731409937638,
+            "ai": 0.9998895124541696,
+            "paraphrased": 0.00009936023173104856
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999892124847753,
+          "sentence": "The work is careful and addresses a topic of broad importance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010787515224664797,
+            "ai": 0.9998983153396458,
+            "paraphrased": 0.00009089714512956976
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999907159038113,
+          "sentence": "The principal caveats are the familiar but crucial gap between representational power and learnability, questions about the practical relevance of certain complexity measures, and the dependence of the results on specific assumptions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009284096188677894,
+            "ai": 0.9998770458365102,
+            "paraphrased": 0.00011367006730115594
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999921965275841,
+          "sentence": "I regard this as a positive contribution, leaning toward acceptance: it advances theoretical understanding meaningfully, even though it does not, and does not claim to, fully explain the empirical success of deep learning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007803472415969179,
+            "ai": 0.9999053080129173,
+            "paraphrased": 0.00008688851466675396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999661468477378,
+          "sentence": "I would recommend acceptance provided the authors clearly delimit the implications of their results and strengthen the connection between the theoretical measures and practical behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003385315226222638,
+            "ai": 0.9998632279729113,
+            "paraphrased": 0.00010291887482645388
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Summary\n\nThis paper offers a theoretical study of the expressive power of deep neural networks, seeking to characterize how depth contributes to the complexity of the functions that networks can represent. The work pursues quantitative measures of expressivity, such as the number of linear regions a piecewise-linear network can carve out of its input space or related notions of how trajectories in input space are transformed as they pass through the layers. A central theme is the contrast between depth and width: the authors aim to show, with mathematical rigor, that increasing depth can yield growth in expressive capacity that cannot be matched efficiently by increasing width alone. Beyond establishing such separations, the paper connects these measures of expressivity to properties of the network at initialization and to the behavior of functions computed by randomly initialized networks, offering a perspective on why depth is powerful. The contribution is primarily theoretical, with supporting analysis and, where appropriate, illustrative experiments that visualize or empirically confirm the theoretical phenomena.\n\nStrengths\n\nThe paper addresses a fundamental question in the theory of deep learning. Understanding why depth helps, and quantifying the representational advantages it confers, is of broad and lasting importance, and contributions that put intuitions about expressivity on a rigorous footing are valuable to the community. The motivation is clearly significant and the questions are well chosen.\n\nThe theoretical results are substantive and contribute to an important line of work on expressivity. Quantifying complexity through measures such as the number of linear regions or the transformation of input trajectories provides concrete, analyzable handles on an otherwise abstract notion, and demonstrating depth-versus-width separations adds rigor to the widely held belief that depth is beneficial. The mathematical development appears careful and the chosen measures are well motivated.\n\nA particular strength is the connection drawn between expressivity and the behavior of networks at initialization. Relating the abstract capacity of an architecture to properties that hold for typical, randomly initialized networks helps bridge the gap between what a network can represent in principle and what it is likely to compute in practice. This perspective is insightful and enriches the contribution beyond worst-case representational bounds.\n\nWhere included, the illustrative experiments are helpful in making the theory tangible and in confirming that the predicted phenomena appear in practice.\n\nWeaknesses\n\nThe most important limitation, common to expressivity results of this kind, is the gap between representational capacity and learnability. Showing that deep networks can represent highly complex functions does not establish that such functions can be learned from data by gradient-based optimization, nor that they generalize. The paper should be careful to delineate what its results do and do not imply about the practical success of deep learning, and to avoid suggesting that expressive power alone explains performance.\n\nThe practical relevance of some measures deserves discussion. The number of linear regions, for example, can grow enormously while having limited bearing on the functions that are actually useful or learned. It would strengthen the paper to connect the theoretical quantities more explicitly to phenomena that matter empirically, and to acknowledge where these measures may overstate the relevance of raw expressivity.\n\nThe assumptions underlying the analysis, such as specific activation functions, architectural forms, or initialization schemes, may limit the generality of the conclusions. A clear statement of the scope of the results, and a discussion of how sensitive they are to these assumptions, would help readers calibrate their significance.\n\nFinally, while the theory is the core contribution, additional empirical validation connecting the theoretical measures to behavior during and after training would make the work more compelling and would help establish that the identified phenomena are not merely artifacts of initialization or worst-case constructions.\n\nQuestions for the Authors\n\nFirst, what do your results imply, if anything, about the learnability and generalization of the complex functions that deep networks can represent, as opposed to their mere representability?\n\nSecond, how should the practical significance of measures such as the number of linear regions be interpreted, given that large counts need not correspond to useful or learned functions?\n\nThird, how sensitive are the main results to the assumptions about activation functions, architecture, and initialization, and how broadly do they generalize beyond those settings?\n\nFourth, do the expressivity measures change in informative ways during training, and is there empirical evidence linking them to test performance?\n\nFifth, can the depth-versus-width separations be connected to concrete tasks where depth is empirically necessary, strengthening the bridge between theory and practice?\n\nAdditional Comments\n\nA few further suggestions would strengthen the work. It would help to discuss explicitly how the chosen expressivity measures relate to one another and whether they capture complementary or largely overlapping aspects of complexity, so that readers are not left to assume that a single measure tells the whole story. The paper could also contrast its results with classical universal-approximation and circuit-complexity perspectives, clarifying what the new measures add beyond these established frameworks. On the empirical side, demonstrating that the predicted expressivity trends correlate with behavior on at least one realistic learning task would substantially increase the practical relevance of the theory. It would further help to state the assumptions and their limitations up front in a concise form, since results of this kind are often cited more broadly than their conditions warrant. Finally, a discussion of how the expressivity picture interacts with implicit regularization and the inductive biases of optimization would connect this work to active debates about why overparameterized networks generalize. These points are not criticisms of the technical content, which I find solid, but rather invitations to delineate the scope of the conclusions clearly and to bridge, where possible, the persistent gap between representational theory and observed practice.\n\nOverall Recommendation\n\nThis paper makes a solid and rigorous theoretical contribution to a fundamental question about why depth matters in neural networks, introducing well-motivated measures of expressivity, establishing depth-versus-width separations, and connecting capacity to the behavior of networks at initialization. The work is careful and addresses a topic of broad importance. The principal caveats are the familiar but crucial gap between representational power and learnability, questions about the practical relevance of certain complexity measures, and the dependence of the results on specific assumptions. I regard this as a positive contribution, leaning toward acceptance: it advances theoretical understanding meaningfully, even though it does not, and does not claim to, fully explain the empirical success of deep learning. I would recommend acceptance provided the authors clearly delimit the implications of their results and strengthen the connection between the theoretical measures and practical behavior.\n",
+      "document_id": null
+    }
+  ]
+}

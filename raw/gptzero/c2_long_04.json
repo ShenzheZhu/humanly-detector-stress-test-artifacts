@@ -1,0 +1,934 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 39,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        }
+      ],
+      "completely_generated_prob": 0.000009564645677971024,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999874798632912,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0006041507997446242,
+          "sentence": "Summary: The paper presents an approach—Neural Answer Construction Model—for the task of answering non-factoid questions, in particular, love-advice questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993958492002554,
+            "ai": 0.0005603838373270935,
+            "paraphrased": 0.00004376696241753059
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012261016445686552,
+          "sentence": "The two main features of the proposed model are the following: 1) it incorporates the biases of semantics behind questions into word embeddings, and 2) in addition to optimizing for closeness between questions and answers, it also optimizes for the optimal combination of sentences in the predicted answer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998773898355431,
+            "ai": 0.00009743929808613873,
+            "paraphrased": 0.000025170866370726785
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019287965992486665,
+          "sentence": "The proposed model is evaluated using a dataset from a Japanese online QA service and is shown to outperform the baseline model (Tan et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998071203400751,
+            "ai": 0.00016361631687638199,
+            "paraphrased": 0.00002926334304848466
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001511602218010677,
+          "sentence": "2015) by 20% relatively (6% absolutely).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998488397781989,
+            "ai": 0.00012315403693266533,
+            "paraphrased": 0.000028006184868402368
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013263425651165547,
+          "sentence": "The paper also experiments with a few other baseline models, including ablations of the proposed model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998673657434883,
+            "ai": 0.00010648079422990291,
+            "paraphrased": 0.000026153462281752546
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010759298517855272,
+          "sentence": "Strengths:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998924070148214,
+            "ai": 0.00008245427016460296,
+            "paraphrased": 0.000025138715013949757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007052555119504559,
+          "sentence": "1. The two motivations behind the proposed approach—the need to understand the ambiguous use of words depending on context, and the need to generate new answers rather than just selecting from answers held by QA sites—are reasonable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999929474448805,
+            "ai": 0.000050028017130560204,
+            "paraphrased": 0.00002049753406448538
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006813274023305701,
+          "sentence": "2. The novelty in the paper involves the following: 1) incorporating biases of semantics behind questions into word embeddings using a paragraph2vec-like model, modified to take as inputs words from questions, a question title token, and a question category token; 2) modeling the optimal combination of sentences (conclusion and supplement sentences) in the predicted answer; 3) designing an abstract scenario for answers, inspired by the automated web-service composition framework (Rao & Su 2005); and 4) extracting important topics in the conclusion sentence and emphasizing them in the supplemental sentence using an attention mechanism (the attention mechanism is similar to Tan et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999318672597669,
+            "ai": 0.00004799765784024423,
+            "paraphrased": 0.000020135082392812783
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001257723261891968,
+          "sentence": "2016).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998742276738108,
+            "ai": 0.0001076690088915413,
+            "paraphrased": 0.000018103317297655482
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010765023898497274,
+          "sentence": "3. The proposed method is shown to outperform the current best method (Tan et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999892349761015,
+            "ai": 0.0000850639331496597,
+            "paraphrased": 0.000022586305835313038
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014123288990743578,
+          "sentence": "2015) by 20% relatively (6% absolutely), which seems to be a significant improvement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998587671100926,
+            "ai": 0.00011581618658586386,
+            "paraphrased": 0.000025416703321571927
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001286541938750507,
+          "sentence": "4. The paper presents a few ablation studies that provide insights into how much different components of the model, such as incorporating biases into word embeddings and incorporating attention from conclusion to supplement, contribute to performance improvement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998713458061249,
+            "ai": 0.00010565812119230201,
+            "paraphrased": 0.000022996072682748676
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012644882234063057,
+          "sentence": "Weaknesses/Suggestions/Questions:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998735511776594,
+            "ai": 0.00010273342526624128,
+            "paraphrased": 0.000023715397074389298
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012001853731645865,
+          "sentence": "1. How are the abstract patterns determined?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998799814626835,
+            "ai": 0.00009497680242357704,
+            "paraphrased": 0.000025041734892881605
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012929565823552997,
+          "sentence": "That is, how did the authors determine that answers to love-advice questions generally consist of sympathy, conclusion, supplement for the conclusion, and encouragement?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998707043417645,
+            "ai": 0.00010482201433645635,
+            "paraphrased": 0.000024473643899073608
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020700665487577682,
+          "sentence": "How much is performance improved when using abstract patterns compared to not using these patterns, i.e., when candidate answers are picked from the union of all corpora rather than from the respective corpora (corpora for sympathy, conclusion, etc.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997929933451242,
+            "ai": 0.00017710660181714083,
+            "paraphrased": 0.00002990005305863598
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000793925547620523,
+          "sentence": ")?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992060744523795,
+            "ai": 0.0006000904524041249,
+            "paraphrased": 0.00019383509521639816
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00034233966205351145,
+          "sentence": "2. It seems that the abstract patterns are specific to the type of question.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996576603379465,
+            "ai": 0.00032256631897048993,
+            "paraphrased": 0.000019773343083021508
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005055382696387674,
+          "sentence": "Thus, the abstract patterns for love advice will be different from those for business advice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994944617303613,
+            "ai": 0.00048460422758693034,
+            "paraphrased": 0.000020934042051837076
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013196805094714572,
+          "sentence": "It therefore seems that the abstract patterns need to be hand-coded for different types, and hence one model cannot generalize across different types.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998680319490528,
+            "ai": 0.00011698026316191507,
+            "paraphrased": 0.000014987787785230667
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010256083659739934,
+          "sentence": "3. The paper should present an explicit analysis of how much combinational optimization between sentences helps: a comparison between model performance with and without combinational optimization, while keeping the rest of the model architecture the same.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998974391634026,
+            "ai": 0.00008859511946918521,
+            "paraphrased": 0.000013965717128214131
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023856582836885915,
+          "sentence": "The authors could also plot the accuracy of the model as a function of the combinational optimization scores.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997614341716311,
+            "ai": 0.0002214132179561952,
+            "paraphrased": 0.00001715261041266396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003817800151221357,
+          "sentence": "This would provide insights into how significant the combinational optimization scores are for overall model accuracy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996182199848779,
+            "ai": 0.00036261284811303174,
+            "paraphrased": 0.000019167167009104003
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005020698561916834,
+          "sentence": "4. The paper says that current systems designed for non-factoid QA cannot generalize to questions outside those stored in QA sites and claims that this is one of the contributions of this paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999497930143808,
+            "ai": 0.00003666085104148938,
+            "paraphrased": 0.000013546134577678957
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000068005723455498,
+          "sentence": "In order to ground that claim, the paper should show experimentally how well the proposed method generalizes to such out-of-domain questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999319942765446,
+            "ai": 0.000054781190357707525,
+            "paraphrased": 0.000013224533097790476
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007300239511330078,
+          "sentence": "Although the questions asked by human experts in the human evaluation were not from the evaluation datasets, the paper should analyze how different those questions were from the questions present in the evaluation datasets.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999269976048867,
+            "ai": 0.00006021753227614938,
+            "paraphrased": 0.000012784862837151391
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011880405385986161,
+          "sentence": "5. For human evaluation, were the outputs of the proposed model and those of the QA-LSTM model each judged by both human experts, or did one human expert judge the outputs of one system and the other human expert judge the outputs of the other system?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998811959461401,
+            "ai": 0.00010576713218353605,
+            "paraphrased": 0.00001303692167632556
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011697226400860062,
+          "sentence": "If both sets of outputs were each judged by both human experts, how were the ratings of the two experts combined for each question?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998830277359914,
+            "ai": 0.00010167665175219229,
+            "paraphrased": 0.00001529561225640833
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006479131359602133,
+          "sentence": "6. I wonder why the authors did not do a human evaluation where they simply ask human workers, not experts, to compare the output of the proposed model with that of the QA-LSTM model: which of the two outputs would they like to hear when asking for advice?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999935208686404,
+            "ai": 0.00005127680977172781,
+            "paraphrased": 0.000013514503824293512
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019756779583319955,
+          "sentence": "Such an evaluation would not be biased by whether each sentence is good or whether the combination is good.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998024322041668,
+            "ai": 0.0001802615703585275,
+            "paraphrased": 0.00001730622547467205
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00015571573306868796,
+          "sentence": "Looking at the qualitative examples in Table 4, I personally like the output of the QA-LSTM more than that of the proposed model because it seems to provide a direct answer to the question.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998442842669313,
+            "ai": 0.0001397233533099645,
+            "paraphrased": 0.00001599237975872347
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001538028337883974,
+          "sentence": "For example, for the first example, the output of the QA-LSTM says, “You should wait until you feel excited,” whereas the output of the proposed model says, “It is better to concentrate on how to confess your love to her,” which seems a bit indirect in relation to the question asked.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998461971662116,
+            "ai": 0.0001466633223705176,
+            "paraphrased": 0.000007139511417879801
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000056769642303217284,
+          "sentence": "7. Given a question, is the ground-truth answer different in the two tasks—answer selection and answer construction?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999432303576968,
+            "ai": 0.00004882209123270699,
+            "paraphrased": 0.000007947551070510293
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000058777559864229355,
+          "sentence": "8. The paper mentions that Attentive LSTM (Tan et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999412224401357,
+            "ai": 0.00005158824167789264,
+            "paraphrased": 0.000007189318186336716
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007865257222009969,
+          "sentence": "2016) is evaluated as the current best answer selection method (Section 5.2).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999213474277799,
+            "ai": 0.00007140351409067085,
+            "paraphrased": 0.000007249058129428844
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006718794830262815,
+          "sentence": "So why is its accuracy lower than that of QA-LSTM in Table 1?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999328120516974,
+            "ai": 0.00005948653325943905,
+            "paraphrased": 0.000007701415043189095
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004966669474008875,
+          "sentence": "The authors explain this by pointing out the issue of questions being very long compared to answers, making the attention noisy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.99995033330526,
+            "ai": 0.00004145948877217578,
+            "paraphrased": 0.000008207205967912974
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000050540448899845885,
+          "sentence": "But did these issues not exist in the dataset used by Tan et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999494595511002,
+            "ai": 0.00004213866140959732,
+            "paraphrased": 0.000008401787490248563
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008992636192453871,
+          "sentence": "2016?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999100736380755,
+            "ai": 0.00008446175990596053,
+            "paraphrased": 0.00000546460201857818
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006227752833813117,
+          "sentence": "9. The paper says the proposed method achieves a 20% gain over the current best method (in the Conclusion section), where they refer to QA-LSTM as the current best method.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999377224716619,
+            "ai": 0.00005509796479041499,
+            "paraphrased": 0.000007179563547716179
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000060180357054898746,
+          "sentence": "However, in the description of Attentive LSTM (Section 5.2), the paper mentions that Attentive LSTM is the current best method.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999398196429451,
+            "ai": 0.000052701108123386874,
+            "paraphrased": 0.000007479248931511871
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008618477280453497,
+          "sentence": "Could the authors please clarify this discrepancy?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999138152271955,
+            "ai": 0.00007949632737086853,
+            "paraphrased": 0.000006688445433666427
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007212902656881961,
+          "sentence": "10. Minor correction: remove the space between “20” and “%” in the abstract.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999278709734312,
+            "ai": 0.00006545102902870605,
+            "paraphrased": 0.000006677997540113564
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000047107694593010524,
+          "sentence": "Review Summary: The problem of non-factoid QA dealt with in the paper is interesting and useful to solve.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999952892305407,
+            "ai": 0.00003922729878127403,
+            "paraphrased": 0.000007880395811736493
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004950330483274698,
+          "sentence": "The motivations presented in the paper behind the proposed approach are reasonable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999504966951672,
+            "ai": 0.00004228277983218736,
+            "paraphrased": 0.00000722052500055962
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007322683077022017,
+          "sentence": "The experiments show that the proposed model outperforms the baseline model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999267731692297,
+            "ai": 0.00006607000036769272,
+            "paraphrased": 0.000007156830402527456
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006205344809581619,
+          "sentence": "However, the use of abstract patterns to determine the answer seems like hand-designing, and hence it seems that these abstract patterns need to be designed for every other type of non-factoid question.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999379465519042,
+            "ai": 0.000054720686680205635,
+            "paraphrased": 0.0000073327614156105505
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012958613224062386,
+          "sentence": "Therefore, the proposed approach does not seem generalizable to other types.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998704138677593,
+            "ai": 0.00012292915129212905,
+            "paraphrased": 0.000006656980948494808
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010603608028461032,
+          "sentence": "Also, the paper needs more analysis of the results to provide insights into the contribution of different model components.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989396391971539,
+            "ai": 0.00105052366748961,
+            "paraphrased": 0.000009837135356493025
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999874798632912,
+        "ai": 0.000012520136708858086,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999874798632912,
+          "ai": 0.000012520136708858086,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Summary: The paper presents an approach—Neural Answer Construction Model—for the task of answering non-factoid questions, in particular, love-advice questions. The two main features of the proposed model are the following: 1) it incorporates the biases of semantics behind questions into word embeddings, and 2) in addition to optimizing for closeness between questions and answers, it also optimizes for the optimal combination of sentences in the predicted answer. The proposed model is evaluated using a dataset from a Japanese online QA service and is shown to outperform the baseline model (Tan et al. 2015) by 20% relatively (6% absolutely). The paper also experiments with a few other baseline models, including ablations of the proposed model.\n\nStrengths:\n\n1. The two motivations behind the proposed approach—the need to understand the ambiguous use of words depending on context, and the need to generate new answers rather than just selecting from answers held by QA sites—are reasonable.\n\n2. The novelty in the paper involves the following: 1) incorporating biases of semantics behind questions into word embeddings using a paragraph2vec-like model, modified to take as inputs words from questions, a question title token, and a question category token; 2) modeling the optimal combination of sentences (conclusion and supplement sentences) in the predicted answer; 3) designing an abstract scenario for answers, inspired by the automated web-service composition framework (Rao & Su 2005); and 4) extracting important topics in the conclusion sentence and emphasizing them in the supplemental sentence using an attention mechanism (the attention mechanism is similar to Tan et al. 2016).\n\n3. The proposed method is shown to outperform the current best method (Tan et al. 2015) by 20% relatively (6% absolutely), which seems to be a significant improvement.\n\n4. The paper presents a few ablation studies that provide insights into how much different components of the model, such as incorporating biases into word embeddings and incorporating attention from conclusion to supplement, contribute to performance improvement.\n\nWeaknesses/Suggestions/Questions:\n\n1. How are the abstract patterns determined? That is, how did the authors determine that answers to love-advice questions generally consist of sympathy, conclusion, supplement for the conclusion, and encouragement? How much is performance improved when using abstract patterns compared to not using these patterns, i.e., when candidate answers are picked from the union of all corpora rather than from the respective corpora (corpora for sympathy, conclusion, etc.)?\n\n2. It seems that the abstract patterns are specific to the type of question. Thus, the abstract patterns for love advice will be different from those for business advice. It therefore seems that the abstract patterns need to be hand-coded for different types, and hence one model cannot generalize across different types.\n\n3. The paper should present an explicit analysis of how much combinational optimization between sentences helps: a comparison between model performance with and without combinational optimization, while keeping the rest of the model architecture the same. The authors could also plot the accuracy of the model as a function of the combinational optimization scores. This would provide insights into how significant the combinational optimization scores are for overall model accuracy.\n\n4. The paper says that current systems designed for non-factoid QA cannot generalize to questions outside those stored in QA sites and claims that this is one of the contributions of this paper. In order to ground that claim, the paper should show experimentally how well the proposed method generalizes to such out-of-domain questions. Although the questions asked by human experts in the human evaluation were not from the evaluation datasets, the paper should analyze how different those questions were from the questions present in the evaluation datasets.\n\n5. For human evaluation, were the outputs of the proposed model and those of the QA-LSTM model each judged by both human experts, or did one human expert judge the outputs of one system and the other human expert judge the outputs of the other system? If both sets of outputs were each judged by both human experts, how were the ratings of the two experts combined for each question?\n\n6. I wonder why the authors did not do a human evaluation where they simply ask human workers, not experts, to compare the output of the proposed model with that of the QA-LSTM model: which of the two outputs would they like to hear when asking for advice? Such an evaluation would not be biased by whether each sentence is good or whether the combination is good. Looking at the qualitative examples in Table 4, I personally like the output of the QA-LSTM more than that of the proposed model because it seems to provide a direct answer to the question. For example, for the first example, the output of the QA-LSTM says, “You should wait until you feel excited,” whereas the output of the proposed model says, “It is better to concentrate on how to confess your love to her,” which seems a bit indirect in relation to the question asked.\n\n7. Given a question, is the ground-truth answer different in the two tasks—answer selection and answer construction?\n\n8. The paper mentions that Attentive LSTM (Tan et al. 2016) is evaluated as the current best answer selection method (Section 5.2). So why is its accuracy lower than that of QA-LSTM in Table 1? The authors explain this by pointing out the issue of questions being very long compared to answers, making the attention noisy. But did these issues not exist in the dataset used by Tan et al. 2016?\n\n9. The paper says the proposed method achieves a 20% gain over the current best method (in the Conclusion section), where they refer to QA-LSTM as the current best method. However, in the description of Attentive LSTM (Section 5.2), the paper mentions that Attentive LSTM is the current best method. Could the authors please clarify this discrepancy?\n\n10. Minor correction: remove the space between “20” and “%” in the abstract.\n\nReview Summary: The problem of non-factoid QA dealt with in the paper is interesting and useful to solve. The motivations presented in the paper behind the proposed approach are reasonable. The experiments show that the proposed model outperforms the baseline model. However, the use of abstract patterns to determine the answer seems like hand-designing, and hence it seems that these abstract patterns need to be designed for every other type of non-factoid question. Therefore, the proposed approach does not seem generalizable to other types. Also, the paper needs more analysis of the results to provide insights into the contribution of different model components.\n",
+      "document_id": null
+    }
+  ]
+}

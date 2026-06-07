@@ -1,0 +1,250 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.9723555770524848,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9991692463169471,
+          "sentence": "I’ve gone almost two years without writing seriously.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000830753683052806,
+            "ai": 0.9367123639309787,
+            "paraphrased": 0.06245688238596848
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994016165020517,
+          "sentence": "The novel file kept sitting on my hard drive; whenever I remembered it, I felt guilty, then immediately found an excuse to close it: too busy, not in the right mood, the old writing was too childish, and no one would read it anyway.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005983834979482243,
+            "ai": 0.9370738465351013,
+            "paraphrased": 0.06232776996695045
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992668733643522,
+          "sentence": "Then, before leaving work this Tuesday, I somehow opened it and read a few chapters.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007331266356479131,
+            "ai": 0.9319638528647889,
+            "paraphrased": 0.06730302049956322
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989838832119728,
+          "sentence": "I only meant to mock my past self, but instead I was pulled back in.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010161167880272167,
+            "ai": 0.9328953353349424,
+            "paraphrased": 0.0660885478770304
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993434563619037,
+          "sentence": "At lunch I secretly added a few passages, and after getting home I wrote until midnight.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006565436380964088,
+            "ai": 0.937179514027325,
+            "paraphrased": 0.06216394233457862
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993871018651068,
+          "sentence": "The next few days were the same: thinking through the plot while commuting, noting dialogue during meals, and being unable to stop once I sat down at night.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006128981348931828,
+            "ai": 0.9366004867884927,
+            "paraphrased": 0.06278661507661407
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999111129740461,
+          "sentence": "Just now I checked the count: I’ve added more than 30,000 words in these few days.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008888702595389965,
+            "ai": 0.9408683661652278,
+            "paraphrased": 0.0582427635752332
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994492441567875,
+          "sentence": "I know this may just be a sudden burst, not proof that I’ve really “recovered.” But I finally want to know what happens next, and writing no longer feels like a burden.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005507558432125279,
+            "ai": 0.939234886413292,
+            "paraphrased": 0.06021435774349549
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991174295589033,
+          "sentence": "I hope I can keep this momentum and not disappear for another two years.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008825704410967744,
+            "ai": 0.9444376084976154,
+            "paraphrased": 0.054679821061287846
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I’ve gone almost two years without writing seriously. The novel file kept sitting on my hard drive; whenever I remembered it, I felt guilty, then immediately found an excuse to close it: too busy, not in the right mood, the old writing was too childish, and no one would read it anyway. Then, before leaving work this Tuesday, I somehow opened it and read a few chapters. I only meant to mock my past self, but instead I was pulled back in.\n\nAt lunch I secretly added a few passages, and after getting home I wrote until midnight. The next few days were the same: thinking through the plot while commuting, noting dialogue during meals, and being unable to stop once I sat down at night. Just now I checked the count: I’ve added more than 30,000 words in these few days.\n\nI know this may just be a sudden burst, not proof that I’ve really “recovered.” But I finally want to know what happens next, and writing no longer feels like a burden. I hope I can keep this momentum and not disappear for another two years.\n",
+      "document_id": null
+    }
+  ]
+}

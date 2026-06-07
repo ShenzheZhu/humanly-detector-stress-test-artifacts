@@ -1,0 +1,1046 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 9,
+          "completely_generated_prob": 4.1887248735431006e-8
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 39,
+          "num_sentences": 9,
+          "completely_generated_prob": 4.1887248735431006e-8
+        },
+        {
+          "start_sentence_index": 48,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 51,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 53,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 54,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        }
+      ],
+      "completely_generated_prob": 0.00039242908264336017,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9992068991178518,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00951661997092415,
+          "sentence": "The authors propose a method to efficiently augment an SVM variant with many virtual instances and show promising preliminary results.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9904833800290759,
+            "ai": 0.001369437287182443,
+            "paraphrased": 0.008147182683741707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010816470778934544,
+          "sentence": "The paper was an interesting read, with thoughtful methodology, but it includes partially unsupported and potentially misleading claims.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9891835292210654,
+            "ai": 0.0009270694423541912,
+            "paraphrased": 0.009889401336580353
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.006812829628624208,
+          "sentence": "Pros:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9931871703713758,
+            "ai": 0.0006075079903918906,
+            "paraphrased": 0.0062053216382323174
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010816642637285726,
+          "sentence": "- Thoughtful methodology with sensible design choices",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9891833573627142,
+            "ai": 0.0008284794591054043,
+            "paraphrased": 0.00998816317818032
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00999982363544618,
+          "sentence": "- Potentially useful for smaller (n < 10000) datasets with a lot of statistical structure",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9900001763645538,
+            "ai": 0.0006197877153221143,
+            "paraphrased": 0.009380035920124066
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010632429318843529,
+          "sentence": "- Nice connections with the sum-product literature",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9893675706811564,
+            "ai": 0.0007183996683869424,
+            "paraphrased": 0.009914029650456586
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.008461910280719291,
+          "sentence": "Cons:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9915380897192807,
+            "ai": 0.0004780056397401756,
+            "paraphrased": 0.007983904640979115
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010784594328694032,
+          "sentence": "- Claims about scalability are very unclear",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.989215405671306,
+            "ai": 0.0006831505259424445,
+            "paraphrased": 0.010101443802751587
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010295154141949637,
+          "sentence": "- The paper generally does not succeed in telling a complete story about the properties and applicability of the proposed method",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9897048458580504,
+            "ai": 0.0007800608749432386,
+            "paraphrased": 0.009515093267006398
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010352021675672805,
+          "sentence": "- Experiments are very preliminary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9896479783243272,
+            "ai": 0.0005083673994199158,
+            "paraphrased": 0.009843654276252889
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00969713228832424,
+          "sentence": "The scalability claims are particularly unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9903028677116757,
+            "ai": 0.0008387634938984633,
+            "paraphrased": 0.008858368794425777
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.009645611506606136,
+          "sentence": "The paper repeatedly mentions lack of scalability as a drawback for convnets, but it appears that the proposed CKM is less scalable than a standard SVM, and SVMs often handle far fewer training instances than deep neural networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9903543884933939,
+            "ai": 0.000882700688788153,
+            "paraphrased": 0.008762910817817982
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.009628088488882372,
+          "sentence": "It appears that the scalability advantages are mostly for training sets with roughly fewer than 10,000 instances; even if the method could scale to >> 10,000 training instances, it is unclear whether the predictive accuracy would be competitive with convnets in that domain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9903719115111176,
+            "ai": 0.0008456469102436545,
+            "paraphrased": 0.008782441578638717
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010155946866707547,
+          "sentence": "Moreover, the idea of doing 10^6 operations simply to create virtual instances on 10^4 training points and 100 test points is still somewhat daunting.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9898440531332925,
+            "ai": 0.0005865395011794295,
+            "paraphrased": 0.009569407365528117
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010782353545172721,
+          "sentence": "What if we had 10^6 training instances and 10^5 testing instances?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9892176464548272,
+            "ai": 0.0004902797555397479,
+            "paraphrased": 0.010292073789632972
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.009991655378915904,
+          "sentence": "Because scalability in the number of training instances is one of the biggest drawbacks of using SVMs, e.g., with Gaussian kernels, on modern datasets, the scalability claims in this paper need to be significantly expanded and clarified.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9900083446210841,
+            "ai": 0.00047329940841488416,
+            "paraphrased": 0.00951835597050102
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.009583216973185427,
+          "sentence": "On a related note, the suggestion in the introduction that convnets grow quadratically in computation with additional training instances needs to be supplemented with more detail and is potentially misleading.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9904167830268146,
+            "ai": 0.0005904470560168929,
+            "paraphrased": 0.008992769917168533
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.009291243880469709,
+          "sentence": "Convnets typically scale linearly with additional training data.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9907087561195302,
+            "ai": 0.0008457506160597976,
+            "paraphrased": 0.00844549326440991
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.009001731238037991,
+          "sentence": "In general, the paper suffers greatly from a lack of clarity and issues of presentation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9909982687619621,
+            "ai": 0.0006247510322644527,
+            "paraphrased": 0.008376980205773538
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.011052808398050768,
+          "sentence": "As above, the full story is not presented, and critical details are often missing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9889471916019492,
+            "ai": 0.000668904013436799,
+            "paraphrased": 0.01038390438461397
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.01041353628881852,
+          "sentence": "Moreover, it would strengthen the paper to remove broad claims such as “Just as support vector machines (SVMs) eclipsed multilayer perceptrons in the 1990s, CKMs could become a compelling alternative to convnets with reduced training time and sample complexity,” which suggests that CKMs could eclipse convolutional neural networks, and instead provide more helpful and precise information.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9895864637111815,
+            "ai": 0.0012912209575796083,
+            "paraphrased": 0.009122315331238912
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.006652205707555041,
+          "sentence": "Convnets are multilayer perceptrons used in the 1990s, as well as now, and they were not eclipsed by SVMs; they have different relative advantages.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9933477942924449,
+            "ai": 0.0064048861360873266,
+            "paraphrased": 0.0002473195714677145
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0036635819469221865,
+          "sentence": "Based on the information presented, broadly advertising scalability over convnets is misleading.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9963364180530778,
+            "ai": 0.0034799208792501237,
+            "paraphrased": 0.00018366106767206283
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009467115492622948,
+          "sentence": "Can CKMs scale to datasets with millions of training and test instances?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990532884507377,
+            "ai": 0.0008047831272762958,
+            "paraphrased": 0.0001419284219859989
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004342110443755603,
+          "sentence": "It seems as if the scalability advantages are limited to smaller datasets, and asymptotic scalability could be much worse in general.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995657889556244,
+            "ai": 0.0003133938617167091,
+            "paraphrased": 0.00012081718265885118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00036554225996272995,
+          "sentence": "Even if CKMs could scale to such datasets, would they have predictive accuracy as good as convnets on those applications?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996344577400372,
+            "ai": 0.00023694639445308196,
+            "paraphrased": 0.00012859586550964799
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002886347808149214,
+          "sentence": "Being specific and providing full disclosure about the precise strengths and limitations of the work would greatly improve this paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997113652191851,
+            "ai": 0.00017093658037686658,
+            "paraphrased": 0.00011769820043805485
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003052298469529961,
+          "sentence": "CKMs may be more robust to adversarial examples than standard convnets because of the virtual instances.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999694770153047,
+            "ai": 0.00019324404806461603,
+            "paraphrased": 0.00011198579888838004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00024273679533985074,
+          "sentence": "However, there are many approaches to making deep nets more robust to adversarial examples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997572632046602,
+            "ai": 0.00015734478171781083,
+            "paraphrased": 0.00008539201362203992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022834446302460922,
+          "sentence": "It would be useful to consider and compare to these.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997716555369754,
+            "ai": 0.00014287888202153042,
+            "paraphrased": 0.0000854655810030788
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00027470765332321666,
+          "sentence": "The ideas behind CKMs are also not inherently specific to kernel methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997252923466767,
+            "ai": 0.00016620465781322637,
+            "paraphrased": 0.0001085029955099903
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023890260287976823,
+          "sentence": "Have you considered using virtual instances in a similar way with deep networks?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997610973971203,
+            "ai": 0.00014931981478001825,
+            "paraphrased": 0.00008958278809974997
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023358745312102377,
+          "sentence": "A full exploration might be its own paper, but the idea is worth at least brief discussion in the text.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997664125468789,
+            "ai": 0.00011498200219493597,
+            "paraphrased": 0.0001186054509260878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020025515413789563,
+          "sentence": "A big advantage of SVMs with Gaussian kernels over deep neural nets is that one can achieve quite good performance with very little human intervention or few design choices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997997448458621,
+            "ai": 0.00008615902689710967,
+            "paraphrased": 0.00011409612724078595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002134998021143475,
+          "sentence": "However, CKMs seem to require extensive intervention, both in terms of architecture, as with a neural network, and in ensuring that the virtual instances are created in a plausible manner for the particular application at hand.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997865001978856,
+            "ai": 0.00010765309109147374,
+            "paraphrased": 0.00010584671102287375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022469338974812262,
+          "sentence": "It is very unclear in general how one would want to create sensible virtual instances, and this topic deserves further consideration.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997753066102518,
+            "ai": 0.0001000805426289913,
+            "paraphrased": 0.00012461284711913132
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002479883689768433,
+          "sentence": "Moreover, unlike SVMs with, for example, Gaussian or linear kernels, or standard convolutional networks, which are quite general models, CKMs as applied in this paper seem more like SVMs, or kernel methods, that have been highly tailored to a particular application—in this case, the NORB dataset.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997520116310231,
+            "ai": 0.00014016071881434462,
+            "paraphrased": 0.00010782765016249869
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003896786779658927,
+          "sentence": "There is certainly nothing wrong with the tailored approach, but it would help to be clear and detailed about where the presented ideas can be applied out of the box, or how one would go about making the relevant design choices for a range of different problems.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996103213220341,
+            "ai": 0.0002576714794305988,
+            "paraphrased": 0.0001320071985352939
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005090584204823958,
+          "sentence": "Indeed, it would be good to avoid the potentially misleading suggestions early in the paper that the proposed method is a general alternative to convnets.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994909415795176,
+            "ai": 0.00043300825877416017,
+            "paraphrased": 0.00007605016170823566
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0015601142732425562,
+          "sentence": "The experiments provide some insight into the advantages of the proposed approach, but they are very limited.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9984398857267575,
+            "ai": 0.0014544111288589275,
+            "paraphrased": 0.00010570314438362872
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006182976102289616,
+          "sentence": "To get a sense of the properties—the strengths and limitations—of the proposed method, one needs a greater range of datasets with a much larger range of training and test sizes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993817023897711,
+            "ai": 0.0005428201043017274,
+            "paraphrased": 0.0000754775059272342
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00037455179114124647,
+          "sentence": "The comparisons are also quite limited: why not include an SVM with a Gaussian kernel?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996254482088588,
+            "ai": 0.0002876603404740941,
+            "paraphrased": 0.00008689145066715236
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019682953266247308,
+          "sentence": "What about an SVM using convnet features from the dataset at hand, as in the light blue curve in Figure 3?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998031704673376,
+            "ai": 0.00012447711723134243,
+            "paraphrased": 0.00007235241543113065
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002915523490430903,
+          "sentence": "It should do at least as well as the light blue curve.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997084476509569,
+            "ai": 0.00021877345572639002,
+            "paraphrased": 0.00007277889331670029
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005989262677887425,
+          "sentence": "There are also other works that could be considered which combine some of the advantages of kernel methods with deep networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994010737322112,
+            "ai": 0.0005045316552844137,
+            "paraphrased": 0.00009439461250432888
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0024547801263610676,
+          "sentence": "Also, the claim that the approach helps with the curse of dimensionality is sensible but not particularly explored.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.997545219873639,
+            "ai": 0.0023625587062172646,
+            "paraphrased": 0.00009222142014380291
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0025607289869785978,
+          "sentence": "It seems that the curse of dimensionality could also affect the scalability of creating a useful set of virtual instances.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9974392710130214,
+            "ai": 0.002473743243884082,
+            "paraphrased": 0.00008698574309451575
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012764334460649792,
+          "sentence": "And it is unclear how CKM would work without any ORB features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.998723566553935,
+            "ai": 0.0011867448920643091,
+            "paraphrased": 0.00008968855400067017
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002525850979426577,
+          "sentence": "Even if the method can be adapted to scale to n >> 10000, it is unclear whether it will be more useful than convnets in that domain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9974741490205734,
+            "ai": 0.002444447986416236,
+            "paraphrased": 0.00008140299301034107
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010136468645563512,
+          "sentence": "Indeed, in the experiments here, convnets essentially match CKMs in performance after 12,000 examples and would probably perform better than CKMs on larger datasets.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989863531354436,
+            "ai": 0.0009268009386850155,
+            "paraphrased": 0.00008684592587133571
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0013960643091024637,
+          "sentence": "We can only speculate because the experiments do not consider larger problems.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9986039356908976,
+            "ai": 0.001306805017109432,
+            "paraphrased": 0.00008925929199303174
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0940619217976314,
+          "sentence": "The methodology largely takes inspiration from sum-product networks, but its application in the context of a kernel approach is reasonably original and worthy of exploration.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9059380782023686,
+            "ai": 0.09389037528096969,
+            "paraphrased": 0.00017154651666170356
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.07511491237519881,
+          "sentence": "It is reasonable to expect the approach to be significant, but its significance is not demonstrated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9248850876248011,
+            "ai": 0.07496348715456763,
+            "paraphrased": 0.00015142522063116984
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.08561057525630239,
+          "sentence": "The quality is high in the sense that the methods and insights are thoughtful, but the paper suffers from broad claims and a lack of full and precise detail.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9143894247436977,
+            "ai": 0.08545083489679205,
+            "paraphrased": 0.00015974035951034425
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.05190472807432832,
+          "sentence": "In short: I like the paper, but it needs more specific details and a full disclosure of where the method should be most applicable, along with its precise advantages and limitations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9480952719256717,
+            "ai": 0.051732864296743425,
+            "paraphrased": 0.00017186377758489084
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.23418702069098657,
+          "sentence": "Code would be helpful for reproducibility.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7658129793090134,
+            "ai": 0.23401465592119972,
+            "paraphrased": 0.00017236476978686171
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9992068991178518,
+        "ai": 0.0007931008821483394,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9992068991178518,
+          "ai": 0.0007931008821483394,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "The authors propose a method to efficiently augment an SVM variant with many virtual instances and show promising preliminary results. The paper was an interesting read, with thoughtful methodology, but it includes partially unsupported and potentially misleading claims.\n\nPros:\n- Thoughtful methodology with sensible design choices\n- Potentially useful for smaller (n < 10000) datasets with a lot of statistical structure\n- Nice connections with the sum-product literature\n\nCons:\n- Claims about scalability are very unclear\n- The paper generally does not succeed in telling a complete story about the properties and applicability of the proposed method\n- Experiments are very preliminary\n\nThe scalability claims are particularly unclear. The paper repeatedly mentions lack of scalability as a drawback for convnets, but it appears that the proposed CKM is less scalable than a standard SVM, and SVMs often handle far fewer training instances than deep neural networks. It appears that the scalability advantages are mostly for training sets with roughly fewer than 10,000 instances; even if the method could scale to >> 10,000 training instances, it is unclear whether the predictive accuracy would be competitive with convnets in that domain. Moreover, the idea of doing 10^6 operations simply to create virtual instances on 10^4 training points and 100 test points is still somewhat daunting. What if we had 10^6 training instances and 10^5 testing instances? Because scalability in the number of training instances is one of the biggest drawbacks of using SVMs, e.g., with Gaussian kernels, on modern datasets, the scalability claims in this paper need to be significantly expanded and clarified. On a related note, the suggestion in the introduction that convnets grow quadratically in computation with additional training instances needs to be supplemented with more detail and is potentially misleading. Convnets typically scale linearly with additional training data.\n\nIn general, the paper suffers greatly from a lack of clarity and issues of presentation. As above, the full story is not presented, and critical details are often missing. Moreover, it would strengthen the paper to remove broad claims such as “Just as support vector machines (SVMs) eclipsed multilayer perceptrons in the 1990s, CKMs could become a compelling alternative to convnets with reduced training time and sample complexity,” which suggests that CKMs could eclipse convolutional neural networks, and instead provide more helpful and precise information. Convnets are multilayer perceptrons used in the 1990s, as well as now, and they were not eclipsed by SVMs; they have different relative advantages. Based on the information presented, broadly advertising scalability over convnets is misleading. Can CKMs scale to datasets with millions of training and test instances? It seems as if the scalability advantages are limited to smaller datasets, and asymptotic scalability could be much worse in general. Even if CKMs could scale to such datasets, would they have predictive accuracy as good as convnets on those applications? Being specific and providing full disclosure about the precise strengths and limitations of the work would greatly improve this paper.\n\nCKMs may be more robust to adversarial examples than standard convnets because of the virtual instances. However, there are many approaches to making deep nets more robust to adversarial examples. It would be useful to consider and compare to these. The ideas behind CKMs are also not inherently specific to kernel methods. Have you considered using virtual instances in a similar way with deep networks? A full exploration might be its own paper, but the idea is worth at least brief discussion in the text.\n\nA big advantage of SVMs with Gaussian kernels over deep neural nets is that one can achieve quite good performance with very little human intervention or few design choices. However, CKMs seem to require extensive intervention, both in terms of architecture, as with a neural network, and in ensuring that the virtual instances are created in a plausible manner for the particular application at hand. It is very unclear in general how one would want to create sensible virtual instances, and this topic deserves further consideration. Moreover, unlike SVMs with, for example, Gaussian or linear kernels, or standard convolutional networks, which are quite general models, CKMs as applied in this paper seem more like SVMs, or kernel methods, that have been highly tailored to a particular application—in this case, the NORB dataset. There is certainly nothing wrong with the tailored approach, but it would help to be clear and detailed about where the presented ideas can be applied out of the box, or how one would go about making the relevant design choices for a range of different problems. Indeed, it would be good to avoid the potentially misleading suggestions early in the paper that the proposed method is a general alternative to convnets.\n\nThe experiments provide some insight into the advantages of the proposed approach, but they are very limited. To get a sense of the properties—the strengths and limitations—of the proposed method, one needs a greater range of datasets with a much larger range of training and test sizes. The comparisons are also quite limited: why not include an SVM with a Gaussian kernel? What about an SVM using convnet features from the dataset at hand, as in the light blue curve in Figure 3? It should do at least as well as the light blue curve. There are also other works that could be considered which combine some of the advantages of kernel methods with deep networks. Also, the claim that the approach helps with the curse of dimensionality is sensible but not particularly explored. It seems that the curse of dimensionality could also affect the scalability of creating a useful set of virtual instances. And it is unclear how CKM would work without any ORB features.\n\nEven if the method can be adapted to scale to n >> 10000, it is unclear whether it will be more useful than convnets in that domain. Indeed, in the experiments here, convnets essentially match CKMs in performance after 12,000 examples and would probably perform better than CKMs on larger datasets. We can only speculate because the experiments do not consider larger problems.\n\nThe methodology largely takes inspiration from sum-product networks, but its application in the context of a kernel approach is reasonably original and worthy of exploration. It is reasonable to expect the approach to be significant, but its significance is not demonstrated.\n\nThe quality is high in the sense that the methods and insights are thoughtful, but the paper suffers from broad claims and a lack of full and precise detail.\n\nIn short: I like the paper, but it needs more specific details and a full disclosure of where the method should be most applicable, along with its precise advantages and limitations. Code would be helpful for reproducibility.\n",
+      "document_id": null
+    }
+  ]
+}

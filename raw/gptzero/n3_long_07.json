@@ -1,0 +1,1570 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 12,
+          "completely_generated_prob": 0.9410928246234925
+        },
+        {
+          "start_sentence_index": 40,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 47,
+          "num_sentences": 9,
+          "completely_generated_prob": 0.9257822263275673
+        },
+        {
+          "start_sentence_index": 56,
+          "num_sentences": 10,
+          "completely_generated_prob": 0.9316904254198173
+        },
+        {
+          "start_sentence_index": 66,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 71,
+          "num_sentences": 12,
+          "completely_generated_prob": 0.9410928246234925
+        },
+        {
+          "start_sentence_index": 83,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        }
+      ],
+      "completely_generated_prob": 0.9983357331966977,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.8872425372462942,
+          "sentence": "This paper studies video caption generation and proposes an end-to-end model consisting of three parts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1127574627537058,
+            "ai": 0.8712459454402126,
+            "paraphrased": 0.015996591806081633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8574172495316653,
+          "sentence": "First, an LSTM with spatial location attention is used to model frame-by-frame convolutional feature maps over time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.14258275046833466,
+            "ai": 0.8414768341071293,
+            "paraphrased": 0.015940415424536083
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8607104922180617,
+          "sentence": "Next, through a so-called hierarchical attention/memory module, the model recomputes attention over video frames when generating each word, based on the video encoding states, the previous language decoding state, and the previous memory state, and then updates the memory with another LSTM.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.13928950778193835,
+            "ai": 0.8437783984107033,
+            "paraphrased": 0.01693209380735835
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8350377781792855,
+          "sentence": "Finally, a decoder LSTM predicts the next word based on the current word input, the memory state, and the historical language state.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.16496222182071457,
+            "ai": 0.8183987369313483,
+            "paraphrased": 0.01663904124793712
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9832893636826309,
+          "sentence": "The authors’ core motivation is that ordinary local attention models in video captioning rely only on the current decoding state, making it difficult to remember which frames have already been attended to and to consider the whole video globally when generating each word.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.016710636317369187,
+            "ai": 0.9682078965659524,
+            "paraphrased": 0.01508146711667841
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8663283037384236,
+          "sentence": "Experiments are conducted on MSVD and Charades, with BLEU, METEOR, and CIDEr reported.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.13367169626157646,
+            "ai": 0.8490504674819656,
+            "paraphrased": 0.017277836256458026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.928252723886459,
+          "sentence": "The authors claim that their method achieves very competitive results without using optical flow, C3D, or action-recognition-finetuned features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07174727611354108,
+            "ai": 0.9121125954914312,
+            "paraphrased": 0.016140128395027733
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9461169211627887,
+          "sentence": "One strength of the paper is that the problem setting is important and the direction is reasonable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.053883078837211294,
+            "ai": 0.9284563556858559,
+            "paraphrased": 0.017660565476932764
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9934323713800884,
+          "sentence": "Video captioning does require stronger temporal reasoning than image captioning, especially because actions often span multiple frames and many frames in a video may be irrelevant to the final short sentence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006567628619911492,
+            "ai": 0.9804280944071759,
+            "paraphrased": 0.013004276972912563
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980508427228284,
+          "sentence": "Therefore, introducing a module that can record historical attention or past visual-language interactions into a standard encoder-decoder framework is a natural and potentially useful idea.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019491572771716157,
+            "ai": 0.9880096623439552,
+            "paraphrased": 0.01004118037887327
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9909084300679997,
+          "sentence": "The paper combines spatial attention, temporal encoding, frame-level attention, and language decoding into an end-to-end trainable model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00909156993200033,
+            "ai": 0.9789653301923077,
+            "paraphrased": 0.011943099875692
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9947188841277381,
+          "sentence": "The overall framework is clear, and the formulas basically express the intended design.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00528111587226183,
+            "ai": 0.9842402916695172,
+            "paraphrased": 0.010478592458220958
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.988559042029002,
+          "sentence": "Compared with methods that average-pool the entire video into a single vector, this model is clearly better suited to handling the fact that different frames have different importance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.011440957970997976,
+            "ai": 0.9761391345718633,
+            "paraphrased": 0.01241990745713874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9869483368560482,
+          "sentence": "The authors also evaluate on two datasets; Charades is more challenging than MSVD, with more realistic household activities and fewer caption annotations, which is commendable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0130516631439518,
+            "ai": 0.9742549869981235,
+            "paraphrased": 0.012693349857924707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9927142139953327,
+          "sentence": "A second strength is that the model is relatively simple from an engineering perspective.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007285786004667324,
+            "ai": 0.9824665350214016,
+            "paraphrased": 0.01024767897393112
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9944656838489645,
+          "sentence": "The so-called memory module does not introduce a complex externally addressable memory or discrete read-write mechanism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005534316151035472,
+            "ai": 0.9831548098797118,
+            "paraphrased": 0.011310873969252707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9964608689749958,
+          "sentence": "Instead, it stores information aggregated from past attention in an LSTM hidden state and feeds it back into the next attention computation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0035391310250042804,
+            "ai": 0.9861028848773153,
+            "paraphrased": 0.010357984097680418
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9948664191489744,
+          "sentence": "This avoids many training-instability problems found in memory networks or Neural Turing Machines and allows the whole system to be optimized with standard backpropagation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005133580851025623,
+            "ai": 0.9837548077158572,
+            "paraphrased": 0.01111161143311721
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9910361729144872,
+          "sentence": "The paper also uses intermediate convolutional feature maps rather than only fc7 features, and combines them with location attention to preserve some spatial information, which may help with changes in object and action locations in videos.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008963827085512816,
+            "ai": 0.01090746284885082,
+            "paraphrased": 0.9801287100656364
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9918386935123631,
+          "sentence": "The experiments also include some ablation settings that attempt to analyze the contributions of TEM and HAM separately, showing that the authors recognize the need to verify the effectiveness of each module.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008161306487636912,
+            "ai": 0.007945286213638268,
+            "paraphrased": 0.9838934072987249
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9901068911266364,
+          "sentence": "However, the main problem with the paper is that both its novelty and its argumentation are insufficient.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.009893108873363527,
+            "ai": 0.006614207301848629,
+            "paraphrased": 0.9834926838247878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.989692452829253,
+          "sentence": "From the formulas, the HAM module is essentially additive attention with coverage or historical-state feedback: the attention score is determined jointly by the video hidden state, the previous decoder state, and the previous memory state, after which an attention-weighted video vector is used to update an LSTM memory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.010307547170747037,
+            "ai": 0.006547260268086453,
+            "paraphrased": 0.9831451925611665
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9904299759435186,
+          "sentence": "This design is very close to existing ideas such as attention with recurrent feedback, coverage vectors, reviewer modules, and hierarchical recurrent attention.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0095700240564814,
+            "ai": 0.006974369345949334,
+            "paraphrased": 0.9834556065975693
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9914449869939285,
+          "sentence": "The paper claims to explicitly store all previous attention, but the actual formulas do not store all historical attention distributions, nor do they perform addressable reading over all past attention maps.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008555013006071475,
+            "ai": 0.007229877382275776,
+            "paraphrased": 0.9842151096116527
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9876001885175734,
+          "sentence": "Instead, past aggregated information is compressed into an LSTM hidden state.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.012399811482426696,
+            "ai": 0.008585360029121638,
+            "paraphrased": 0.9790148284884517
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9882337816551748,
+          "sentence": "Thus, the phrases “memory-augmented” and “consider the entire sequence while generating each word” are somewhat overstated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.011766218344825195,
+            "ai": 0.006194808421070068,
+            "paraphrased": 0.9820389732341047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.982883640821249,
+          "sentence": "A standard temporal attention decoder also performs soft attention over all encoder hidden states at each step, so it can likewise access the whole video when generating each word.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.017116359178751,
+            "ai": 0.005808012622690815,
+            "paraphrased": 0.9770756281985582
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9862937789143322,
+          "sentence": "What this paper really adds is the influence of the previous memory state on the attention computation, not an explicit memory that is globally accessible in a fundamental sense.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01370622108566783,
+            "ai": 0.005783674705497982,
+            "paraphrased": 0.9805101042088342
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9893660119123318,
+          "sentence": "The experimental section also has many weaknesses, which undermine the paper’s state-of-the-art claim.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.010633988087668217,
+            "ai": 0.004181872402406124,
+            "paraphrased": 0.9851841395099257
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.98183655287642,
+          "sentence": "First, in Table 2 on MSVD, the METEOR score of the authors’ model is 31.80, lower than the 33.10 of Pan et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01816344712357995,
+            "ai": 0.004249823929385108,
+            "paraphrased": 0.9775867289470349
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9850578909126859,
+          "sentence": "2016a and also lower than the 32.60 of Yu et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.014942109087314085,
+            "ai": 0.003831479338020658,
+            "paraphrased": 0.9812264115746653
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9856947192986297,
+          "sentence": "2016 using C3D.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.014305280701370248,
+            "ai": 0.003920019187890234,
+            "paraphrased": 0.9817747001107395
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9831708964237569,
+          "sentence": "Although BLEU@4 is higher than some methods that do not use external features, it is lower than Ballas et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.016829103576243183,
+            "ai": 0.004191706042939362,
+            "paraphrased": 0.9789791903808175
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9806958721415497,
+          "sentence": "+ FT and Yu et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.019304127858450315,
+            "ai": 0.005288083943771513,
+            "paraphrased": 0.9754077881977782
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.984123411625546,
+          "sentence": "+ C3D.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.015876588374454027,
+            "ai": 0.00489151773937567,
+            "paraphrased": 0.9792318938861703
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9836311048101801,
+          "sentence": "Therefore, the statements in the abstract and main text that the method “outperforms all previously proposed methods” and achieves a “new state of the art” are not accurate, or at least need to be restricted to certain metrics and feature settings.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.016368895189819842,
+            "ai": 0.004942780185653225,
+            "paraphrased": 0.9786883246245269
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9820299277438497,
+          "sentence": "Second, the fairness of comparisons with methods using different visual features is unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01797007225615033,
+            "ai": 0.005060975482267122,
+            "paraphrased": 0.9769689522615825
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997437218727547,
+          "sentence": "The authors emphasize that they do not use C3D, optical flow, or action-recognition-finetuned features, but they use conv5_3 features and large LSTM hidden layers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00025627812724525066,
+            "ai": 0.9935945129534987,
+            "paraphrased": 0.006149208919256063
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998340180377514,
+          "sentence": "Other methods may differ in the number of input frames, CNN type, vocabulary processing, training data, and decoding strategy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016598196224868578,
+            "ai": 0.9945512059399269,
+            "paraphrased": 0.005282812097824504
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999517385374525,
+          "sentence": "To demonstrate an architectural advantage, it would be better to reproduce several strong baselines under the same visual features and data splits, rather than only citing numbers from different papers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000048261462547563136,
+            "ai": 0.9949439776320048,
+            "paraphrased": 0.00500776090544764
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999309565113809,
+          "sentence": "The ablation experiments also do not sufficiently support the main conclusions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006904348861910358,
+            "ai": 0.9952946116338451,
+            "paraphrased": 0.004636344877535711
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999121632762112,
+          "sentence": "In Table 1, the full HAM + TEM model has the highest METEOR, but BLEU@2, BLEU@3, BLEU@4, and CIDEr are not always highest.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008783672378884298,
+            "ai": 0.994250449200723,
+            "paraphrased": 0.005661714075488181
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998998838147113,
+          "sentence": "For example, HAM + No TEM has a BLEU@4 of 47.0, higher than the full model’s 45.6, and Att + No TEM has a CIDEr of 63.90, also higher than the full model’s 62.20.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010011618528870621,
+            "ai": 0.9946070119509619,
+            "paraphrased": 0.00529287186374934
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999966598795878,
+          "sentence": "Yet the authors conclude that the two modules are complementary and improve performance, which is not fully consistent with the table.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003340120412198586,
+            "ai": 0.9955226375806175,
+            "paraphrased": 0.004443961215260461
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999351244254979,
+          "sentence": "More importantly, there is no clear strong baseline of “standard temporal attention without memory.” The exact structure of No HAM + TEM is not entirely clear, and Att + No TEM changes both TEM and HAM, which confounds the factors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006487557450207135,
+            "ai": 0.9950212313268015,
+            "paraphrased": 0.004913893098696412
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999511939113134,
+          "sentence": "I suggest adding the following ablations: remove only the memory-state term Wm while retaining video-frame attention and the decoder state; use the previous attention distribution as a coverage input; replace HAM with average-pooled video features; replace the HAM LSTM with a simple MLP or GRU; and compare single-layer versus two-layer decoders, different numbers of input frames, and different convolutional-layer features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004880608868666355,
+            "ai": 0.9948394076479439,
+            "paraphrased": 0.005111786263369458
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999607755558421,
+          "sentence": "These experiments would make it clearer whether the gains come from the memory mechanism, spatial attention, temporal LSTM, or simply model capacity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000039224444158030744,
+            "ai": 0.9952233536367502,
+            "paraphrased": 0.004737421919091834
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999576047156706,
+          "sentence": "The reproducibility of the paper also needs major improvement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004239528432929108,
+            "ai": 0.9959459918573614,
+            "paraphrased": 0.004011612858309231
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999663477383925,
+          "sentence": "Many key training and inference details are missing or unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000033652261607541594,
+            "ai": 0.9958083997747372,
+            "paraphrased": 0.004157947963655284
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999580122355815,
+          "sentence": "For example, how are video frames sampled: uniformly or randomly?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004198776441852785,
+            "ai": 0.9954074715658122,
+            "paraphrased": 0.0045505406697692145
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999405108212844,
+          "sentence": "Is sampling consistent between training and testing?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005948917871563397,
+            "ai": 0.9953228789396651,
+            "paraphrased": 0.0046176318816193085
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999634838368007,
+          "sentence": "Why does the main MSVD comparison in Table 2 use 8 frames while the ablation uses 40 frames, and does this affect comparability?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003651616319927977,
+            "ai": 0.9953234305713471,
+            "paraphrased": 0.004640053265453626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999956808815273,
+          "sentence": "Is decoding done with greedy decoding or beam search, and what is the beam size?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004319118472696498,
+            "ai": 0.9954245230568989,
+            "paraphrased": 0.004532285758374164
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999037764190489,
+          "sentence": "The vocabulary size, handling of rare words, maximum sentence length, start and end tokens, teacher forcing, dropout, gradient clipping threshold, weight decay λ, and initialization method are not sufficiently described.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009622358095107386,
+            "ai": 0.9945375082692313,
+            "paraphrased": 0.005366268149817624
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988298914858416,
+          "sentence": "The authors report hidden-layer sizes found by random search, such as 1479, 1316, and 797, which are very unusual values, but they do not specify the search range or budget, nor do they report validation performance or variance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011701085141584166,
+            "ai": 0.8676163210778556,
+            "paraphrased": 0.13121357040798595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991942984461097,
+          "sentence": "For a small dataset like MSVD, a large model can easily overfit, so the paper should provide training/validation curves or at least report the mean and standard deviation over multiple random seeds.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008057015538902197,
+            "ai": 0.8745153769833127,
+            "paraphrased": 0.12467892146279706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991010934991362,
+          "sentence": "Some aspects of the model description also require clarification.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008989065008637423,
+            "ai": 0.8790566378402227,
+            "paraphrased": 0.12004445565891356
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99802133757444,
+          "sentence": "In Equation (6), Hv is N×K, while Ht′−1_g and Ht′−1_m are obtained by copying the same state N times and adding it to the video states.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019786624255600524,
+            "ai": 0.8613956387731018,
+            "paraphrased": 0.1366256988013382
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979322017353438,
+          "sentence": "This is equivalent to using the same language/memory query for each frame.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002067798264656138,
+            "ai": 0.8709908646769698,
+            "paraphrased": 0.12694133705837402
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983947872670842,
+          "sentence": "It is not obvious where the “hierarchical” aspect lies, since there is only one layer of frame-level attention plus a memory LSTM, rather than an explicitly constructed multi-level semantic or temporal hierarchy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0016052127329158944,
+            "ai": 0.8573378536297156,
+            "paraphrased": 0.14105693363736857
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985459255534417,
+          "sentence": "The formulation of location attention in Equation (2) also raises dimensional questions: Wp is defined as K×L, but the meaning of W^j_p is unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014540744465583305,
+            "ai": 0.8709836771380939,
+            "paraphrased": 0.12756224841534783
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998138678038206,
+          "sentence": "Does each spatial location have independent parameters, or is the projection shared?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0018613219617940248,
+            "ai": 0.8867592122233166,
+            "paraphrased": 0.11137946581488939
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9982148113589717,
+          "sentence": "If each location has independent parameters, would this break the spatial translation structure of convolutional features?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0017851886410282644,
+            "ai": 0.8904454511142527,
+            "paraphrased": 0.10776936024471903
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983270757003728,
+          "sentence": "In addition, TEM first performs location attention within each frame to obtain a D-dimensional vector, which is then fed into the video LSTM; HAM then applies attention over frame-level hidden states.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0016729242996270674,
+            "ai": 0.884378810005083,
+            "paraphrased": 0.11394826569528987
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985783174845827,
+          "sentence": "This two-level attention is reasonable, but the paper does not visualize or analyze whether the two levels learn different things.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014216825154172998,
+            "ai": 0.8819329607198692,
+            "paraphrased": 0.11664535676471358
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983444021729868,
+          "sentence": "Showing how temporal and spatial attention change with generated words would greatly strengthen the argument.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0016555978270132493,
+            "ai": 0.8810202507054837,
+            "paraphrased": 0.11732415146750307
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989458931677807,
+          "sentence": "The qualitative results also reveal some problems.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010541068322192674,
+            "ai": 0.8531253690580237,
+            "paraphrased": 0.145820524109757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99906129716798,
+          "sentence": "Many predictions in Figure 2 are very generic short sentences, such as “a man is playing a guitar” and “a group of people are dancing.” Such sentences are common in MSVD and may receive high automatic scores, but they do not necessarily show that the model truly understands the video.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009387028320200161,
+            "ai": 0.8724580219552135,
+            "paraphrased": 0.12660327521276651
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992954546280063,
+          "sentence": "In an error case, “a dog is on a trampoline” is predicted as “a man is washing a bath,” suggesting that the model may be overly sensitive to a few frames or background objects, or that the language-model prior is very strong.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000704545371993767,
+            "ai": 0.8795835481350637,
+            "paraphrased": 0.11971190649294257
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992327252395756,
+          "sentence": "The authors explain that the model still recognized “man,” but this does not demonstrate success; rather, it suggests that the attention or memory mechanism may not reliably focus on the main action.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007672747604244154,
+            "ai": 0.8699467786307883,
+            "paraphrased": 0.12928594660878737
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998739729716404,
+          "sentence": "More failure-case analysis is needed, especially comparing how the attention distributions change with and without HAM, and whether the model reduces repetition, omissions, or object-action mismatches.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012602702835959852,
+            "ai": 0.92890316239156,
+            "paraphrased": 0.06983656732484406
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9982176702768373,
+          "sentence": "I would like the authors to answer several specific questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001782329723162637,
+            "ai": 0.9376771292852346,
+            "paraphrased": 0.060540540991602707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9975131064593961,
+          "sentence": "First, does HAM truly store “all previous attention”?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002486893540603945,
+            "ai": 0.9190865260760794,
+            "paraphrased": 0.0784265803833166
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988078003553597,
+          "sentence": "If so, please indicate where the attention distributions are explicitly stored and read in the formulas; if not, the wording should be changed to recurrent attention state or coverage-like memory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011921996446403339,
+            "ai": 0.9307890222175845,
+            "paraphrased": 0.06801877813777513
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980198132298362,
+          "sentence": "Second, under the same conv5_3 features, frame sampling, and decoder settings, what is the result of a standard temporal attention baseline?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00198018677016373,
+            "ai": 0.9294187386405866,
+            "paraphrased": 0.06860107458924969
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9962286918651246,
+          "sentence": "Is the gain from HAM over this baseline significant?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0037713081348754148,
+            "ai": 0.930024155102263,
+            "paraphrased": 0.06620453676286159
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99788208561407,
+          "sentence": "Third, why do the ablation experiments use 40 frames while the main comparison uses 8?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00211791438592995,
+            "ai": 0.9291509413674148,
+            "paraphrased": 0.06873114424665519
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9969849732652951,
+          "sentence": "Are the trends of the modules consistent under 8, 16, and 40 frames?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0030150267347048743,
+            "ai": 0.934338275096548,
+            "paraphrased": 0.0626466981687471
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9982404816431425,
+          "sentence": "Fourth, when different metrics on MSVD lead to inconsistent conclusions, how do the authors define state of the art?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001759518356857567,
+            "ai": 0.9368195881141739,
+            "paraphrased": 0.061420893528968595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983031745859539,
+          "sentence": "Could this claim be removed or qualified?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0016968254140461798,
+            "ai": 0.935584863743924,
+            "paraphrased": 0.06271831084202983
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998748739416383,
+          "sentence": "Fifth, on Charades, METEOR improves from 16 to 17.6, BLEU@4 from 11 to 11.5, and CIDEr from 14 to 16.7; have these gains been tested for statistical significance?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012512605836169817,
+            "ai": 0.934337757472199,
+            "paraphrased": 0.06441098194418396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999176861098574,
+          "sentence": "Sixth, how many parameters does the model have, and is it substantially larger than the compared methods?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008231389014259706,
+            "ai": 0.934313148259487,
+            "paraphrased": 0.06486371283908701
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987667043579463,
+          "sentence": "On small datasets, are dropout or early stopping used to prevent overfitting?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012332956420536185,
+            "ai": 0.9364438254538813,
+            "paraphrased": 0.0623228789040651
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989526149048701,
+          "sentence": "Overall, I think this paper proposes a reasonable but relatively incremental video captioning model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010473850951299604,
+            "ai": 0.9393008235321685,
+            "paraphrased": 0.059651791372701574
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993367820581559,
+          "sentence": "Feeding historically aggregated attention information back into later attention computations is meaningful, and the experimental results show that the method is competitive on several metrics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006632179418441124,
+            "ai": 0.937722401850687,
+            "paraphrased": 0.06161438020746891
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997122673641746,
+          "sentence": "However, the paper overstates its novelty, the experimental comparisons are not rigorous enough, the ablation analysis does not prove the independent contribution of the core memory module, and the state-of-the-art claim is inconsistent with some results in the tables.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002877326358253851,
+            "ai": 0.9377748452594971,
+            "paraphrased": 0.06193742210467758
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997432840370827,
+          "sentence": "If the authors add fairer baselines, more ablations, significance analysis, attention visualizations, and complete implementation details, the work would be more convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002567159629173566,
+            "ai": 0.9422992934320376,
+            "paraphrased": 0.05744399060504513
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999511195336698,
+          "sentence": "In its current version, I lean toward weak rejection.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004888046633020999,
+            "ai": 0.9466030791637188,
+            "paraphrased": 0.05290811617297917
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994066729832195,
+          "sentence": "The main reason is not that the direction is unimportant, but that the paper has not yet sufficiently demonstrated that the proposed memory-attention mechanism has a clear, stable, and reproducible advantage over existing temporal attention and reviewer/coverage-style methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005933270167804444,
+            "ai": 0.9412114515042317,
+            "paraphrased": 0.05819522147898786
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "This paper studies video caption generation and proposes an end-to-end model consisting of three parts. First, an LSTM with spatial location attention is used to model frame-by-frame convolutional feature maps over time. Next, through a so-called hierarchical attention/memory module, the model recomputes attention over video frames when generating each word, based on the video encoding states, the previous language decoding state, and the previous memory state, and then updates the memory with another LSTM. Finally, a decoder LSTM predicts the next word based on the current word input, the memory state, and the historical language state. The authors’ core motivation is that ordinary local attention models in video captioning rely only on the current decoding state, making it difficult to remember which frames have already been attended to and to consider the whole video globally when generating each word. Experiments are conducted on MSVD and Charades, with BLEU, METEOR, and CIDEr reported. The authors claim that their method achieves very competitive results without using optical flow, C3D, or action-recognition-finetuned features.\n\nOne strength of the paper is that the problem setting is important and the direction is reasonable. Video captioning does require stronger temporal reasoning than image captioning, especially because actions often span multiple frames and many frames in a video may be irrelevant to the final short sentence. Therefore, introducing a module that can record historical attention or past visual-language interactions into a standard encoder-decoder framework is a natural and potentially useful idea. The paper combines spatial attention, temporal encoding, frame-level attention, and language decoding into an end-to-end trainable model. The overall framework is clear, and the formulas basically express the intended design. Compared with methods that average-pool the entire video into a single vector, this model is clearly better suited to handling the fact that different frames have different importance. The authors also evaluate on two datasets; Charades is more challenging than MSVD, with more realistic household activities and fewer caption annotations, which is commendable.\n\nA second strength is that the model is relatively simple from an engineering perspective. The so-called memory module does not introduce a complex externally addressable memory or discrete read-write mechanism. Instead, it stores information aggregated from past attention in an LSTM hidden state and feeds it back into the next attention computation. This avoids many training-instability problems found in memory networks or Neural Turing Machines and allows the whole system to be optimized with standard backpropagation. The paper also uses intermediate convolutional feature maps rather than only fc7 features, and combines them with location attention to preserve some spatial information, which may help with changes in object and action locations in videos. The experiments also include some ablation settings that attempt to analyze the contributions of TEM and HAM separately, showing that the authors recognize the need to verify the effectiveness of each module.\n\nHowever, the main problem with the paper is that both its novelty and its argumentation are insufficient. From the formulas, the HAM module is essentially additive attention with coverage or historical-state feedback: the attention score is determined jointly by the video hidden state, the previous decoder state, and the previous memory state, after which an attention-weighted video vector is used to update an LSTM memory. This design is very close to existing ideas such as attention with recurrent feedback, coverage vectors, reviewer modules, and hierarchical recurrent attention. The paper claims to explicitly store all previous attention, but the actual formulas do not store all historical attention distributions, nor do they perform addressable reading over all past attention maps. Instead, past aggregated information is compressed into an LSTM hidden state. Thus, the phrases “memory-augmented” and “consider the entire sequence while generating each word” are somewhat overstated. A standard temporal attention decoder also performs soft attention over all encoder hidden states at each step, so it can likewise access the whole video when generating each word. What this paper really adds is the influence of the previous memory state on the attention computation, not an explicit memory that is globally accessible in a fundamental sense.\n\nThe experimental section also has many weaknesses, which undermine the paper’s state-of-the-art claim. First, in Table 2 on MSVD, the METEOR score of the authors’ model is 31.80, lower than the 33.10 of Pan et al. 2016a and also lower than the 32.60 of Yu et al. 2016 using C3D. Although BLEU@4 is higher than some methods that do not use external features, it is lower than Ballas et al. + FT and Yu et al. + C3D. Therefore, the statements in the abstract and main text that the method “outperforms all previously proposed methods” and achieves a “new state of the art” are not accurate, or at least need to be restricted to certain metrics and feature settings. Second, the fairness of comparisons with methods using different visual features is unclear. The authors emphasize that they do not use C3D, optical flow, or action-recognition-finetuned features, but they use conv5_3 features and large LSTM hidden layers. Other methods may differ in the number of input frames, CNN type, vocabulary processing, training data, and decoding strategy. To demonstrate an architectural advantage, it would be better to reproduce several strong baselines under the same visual features and data splits, rather than only citing numbers from different papers.\n\nThe ablation experiments also do not sufficiently support the main conclusions. In Table 1, the full HAM + TEM model has the highest METEOR, but BLEU@2, BLEU@3, BLEU@4, and CIDEr are not always highest. For example, HAM + No TEM has a BLEU@4 of 47.0, higher than the full model’s 45.6, and Att + No TEM has a CIDEr of 63.90, also higher than the full model’s 62.20. Yet the authors conclude that the two modules are complementary and improve performance, which is not fully consistent with the table. More importantly, there is no clear strong baseline of “standard temporal attention without memory.” The exact structure of No HAM + TEM is not entirely clear, and Att + No TEM changes both TEM and HAM, which confounds the factors. I suggest adding the following ablations: remove only the memory-state term Wm while retaining video-frame attention and the decoder state; use the previous attention distribution as a coverage input; replace HAM with average-pooled video features; replace the HAM LSTM with a simple MLP or GRU; and compare single-layer versus two-layer decoders, different numbers of input frames, and different convolutional-layer features. These experiments would make it clearer whether the gains come from the memory mechanism, spatial attention, temporal LSTM, or simply model capacity.\n\nThe reproducibility of the paper also needs major improvement. Many key training and inference details are missing or unclear. For example, how are video frames sampled: uniformly or randomly? Is sampling consistent between training and testing? Why does the main MSVD comparison in Table 2 use 8 frames while the ablation uses 40 frames, and does this affect comparability? Is decoding done with greedy decoding or beam search, and what is the beam size? The vocabulary size, handling of rare words, maximum sentence length, start and end tokens, teacher forcing, dropout, gradient clipping threshold, weight decay λ, and initialization method are not sufficiently described. The authors report hidden-layer sizes found by random search, such as 1479, 1316, and 797, which are very unusual values, but they do not specify the search range or budget, nor do they report validation performance or variance. For a small dataset like MSVD, a large model can easily overfit, so the paper should provide training/validation curves or at least report the mean and standard deviation over multiple random seeds.\n\nSome aspects of the model description also require clarification. In Equation (6), Hv is N×K, while Ht′−1_g and Ht′−1_m are obtained by copying the same state N times and adding it to the video states. This is equivalent to using the same language/memory query for each frame. It is not obvious where the “hierarchical” aspect lies, since there is only one layer of frame-level attention plus a memory LSTM, rather than an explicitly constructed multi-level semantic or temporal hierarchy. The formulation of location attention in Equation (2) also raises dimensional questions: Wp is defined as K×L, but the meaning of W^j_p is unclear. Does each spatial location have independent parameters, or is the projection shared? If each location has independent parameters, would this break the spatial translation structure of convolutional features? In addition, TEM first performs location attention within each frame to obtain a D-dimensional vector, which is then fed into the video LSTM; HAM then applies attention over frame-level hidden states. This two-level attention is reasonable, but the paper does not visualize or analyze whether the two levels learn different things. Showing how temporal and spatial attention change with generated words would greatly strengthen the argument.\n\nThe qualitative results also reveal some problems. Many predictions in Figure 2 are very generic short sentences, such as “a man is playing a guitar” and “a group of people are dancing.” Such sentences are common in MSVD and may receive high automatic scores, but they do not necessarily show that the model truly understands the video. In an error case, “a dog is on a trampoline” is predicted as “a man is washing a bath,” suggesting that the model may be overly sensitive to a few frames or background objects, or that the language-model prior is very strong. The authors explain that the model still recognized “man,” but this does not demonstrate success; rather, it suggests that the attention or memory mechanism may not reliably focus on the main action. More failure-case analysis is needed, especially comparing how the attention distributions change with and without HAM, and whether the model reduces repetition, omissions, or object-action mismatches.\n\nI would like the authors to answer several specific questions. First, does HAM truly store “all previous attention”? If so, please indicate where the attention distributions are explicitly stored and read in the formulas; if not, the wording should be changed to recurrent attention state or coverage-like memory. Second, under the same conv5_3 features, frame sampling, and decoder settings, what is the result of a standard temporal attention baseline? Is the gain from HAM over this baseline significant? Third, why do the ablation experiments use 40 frames while the main comparison uses 8? Are the trends of the modules consistent under 8, 16, and 40 frames? Fourth, when different metrics on MSVD lead to inconsistent conclusions, how do the authors define state of the art? Could this claim be removed or qualified? Fifth, on Charades, METEOR improves from 16 to 17.6, BLEU@4 from 11 to 11.5, and CIDEr from 14 to 16.7; have these gains been tested for statistical significance? Sixth, how many parameters does the model have, and is it substantially larger than the compared methods? On small datasets, are dropout or early stopping used to prevent overfitting?\n\nOverall, I think this paper proposes a reasonable but relatively incremental video captioning model. Feeding historically aggregated attention information back into later attention computations is meaningful, and the experimental results show that the method is competitive on several metrics. However, the paper overstates its novelty, the experimental comparisons are not rigorous enough, the ablation analysis does not prove the independent contribution of the core memory module, and the state-of-the-art claim is inconsistent with some results in the tables. If the authors add fairer baselines, more ablations, significance analysis, attention visualizations, and complete implementation details, the work would be more convincing. In its current version, I lean toward weak rejection. The main reason is not that the direction is unimportant, but that the paper has not yet sufficiently demonstrated that the proposed memory-attention mechanism has a clear, stable, and reproducible advantage over existing temporal attention and reviewer/coverage-style methods.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.9999340174500954,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999727537424479,
+          "sentence": "I just typed “The End” on the first draft of my first novel, and I’m still staring at the screen like it might vanish if I blink.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027246257552161974,
+            "ai": 0.9994184109699068,
+            "paraphrased": 0.0005543427725410872
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999177739873012,
+          "sentence": "I’m fifteen.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008222601269882782,
+            "ai": 0.9993187614976988,
+            "paraphrased": 0.0005990124896023654
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99996614578295,
+          "sentence": "I started it last year because I had a cool idea and no real understanding of pacing, character arcs, or how many times a person can “smirk” in one chapter before it becomes a crime.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000033854217049946414,
+            "ai": 0.999437068918683,
+            "paraphrased": 0.0005290768642669989
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999752639594914,
+          "sentence": "It’s a fantasy/sci-fi mess, full of dramatic speeches, a villain whose motivation changes every hundred pages, and at least three plot twists I’m pretty sure don’t make sense.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000024736040508519297,
+            "ai": 0.9994451006836694,
+            "paraphrased": 0.0005301632758220018
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999169297904725,
+          "sentence": "But it’s finished.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008307020952745703,
+            "ai": 0.9992088379819881,
+            "paraphrased": 0.0007080918084843915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999207324844238,
+          "sentence": "It has a beginning, a middle, and an end.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007926751557622543,
+            "ai": 0.9994052084483978,
+            "paraphrased": 0.0005155240360260363
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999489825110958,
+          "sentence": "About 90,000 words of probably terrible writing that I kept coming back to anyway.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000510174889041982,
+            "ai": 0.9993961741279004,
+            "paraphrased": 0.0005528083831953821
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999763591389206,
+          "sentence": "I know editing comes next, but I don’t know how long to leave it alone, what to look for when I start, or whether I should show it to anyone yet.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002364086107932605,
+            "ai": 0.9994609047368145,
+            "paraphrased": 0.0005154544021061517
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998876896768361,
+          "sentence": "If you’ve finished a first draft, what did you do next?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001123103231640199,
+            "ai": 0.9993308963700348,
+            "paraphrased": 0.0005567933068012071
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I just typed “The End” on the first draft of my first novel, and I’m still staring at the screen like it might vanish if I blink.\n\nI’m fifteen. I started it last year because I had a cool idea and no real understanding of pacing, character arcs, or how many times a person can “smirk” in one chapter before it becomes a crime. It’s a fantasy/sci-fi mess, full of dramatic speeches, a villain whose motivation changes every hundred pages, and at least three plot twists I’m pretty sure don’t make sense.\n\nBut it’s finished. It has a beginning, a middle, and an end. About 90,000 words of probably terrible writing that I kept coming back to anyway.\n\nI know editing comes next, but I don’t know how long to leave it alone, what to look for when I start, or whether I should show it to anyone yet. If you’ve finished a first draft, what did you do next?\n",
+      "document_id": null
+    }
+  ]
+}

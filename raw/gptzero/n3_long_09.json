@@ -1,0 +1,1362 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.7145451996534505
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.7145451996534505
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.11601769141592862
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 37,
+          "num_sentences": 9,
+          "completely_generated_prob": 4.1887248735431006e-8
+        },
+        {
+          "start_sentence_index": 46,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 53,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 58,
+          "num_sentences": 12,
+          "completely_generated_prob": 0.0004310474156461311
+        },
+        {
+          "start_sentence_index": 70,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        }
+      ],
+      "completely_generated_prob": 0.2796076620900631,
+      "average_generated_prob": 0.5131578947368421,
+      "predicted_class": "mixed",
+      "confidence_score": 0.4144783295131576,
+      "confidence_category": "low",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9173867273914801,
+          "sentence": "This paper proposes a method for training generative models through “infusion training.” The model itself is a finite-step Markov chain defined on the observation space: starting from a simple factorized noise distribution, it repeatedly applies a stochastic transition operator and eventually produces data samples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08261327260851996,
+            "ai": 0.08436731060518375,
+            "paraphrased": 0.8330194167862963
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9119539085612867,
+          "sentence": "During training, the authors do not directly sample from the model chain and require it to recover training samples in one step.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08804609143871342,
+            "ai": 0.06945814399296474,
+            "paraphrased": 0.8424957645683219
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9121064199860762,
+          "sentence": "Instead, they construct a training chain with target information injected into it: at each step and for each dimension, with a small probability the chain uses the value of the corresponding dimension in the target sample, or a perturbed value near it; otherwise, it samples according to the current model transition distribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08789358001392379,
+            "ai": 0.08653913144598842,
+            "paraphrased": 0.8255672885400878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9509930858647511,
+          "sentence": "The intermediate states obtained in this way are close to the regions the model itself will visit during generation, while also containing gradually increasing information about the target sample.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.049006914135248957,
+            "ai": 0.09853261966157086,
+            "paraphrased": 0.8524604662031802
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9467026434347428,
+          "sentence": "The model is then trained to denoise these intermediate states into the target sample, or, in the variational version, to maximize a likelihood lower bound.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05329735656525726,
+            "ai": 0.10143080504880556,
+            "paraphrased": 0.8452718383859372
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8978250637974581,
+          "sentence": "Experiments on MNIST, TFD, CIFAR-10, and CelebA show visualizations of progressive denoising, Parzen estimates, importance-sampling likelihood estimates, Inception scores, and face completion results.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.10217493620254195,
+            "ai": 0.14740277607138788,
+            "paraphrased": 0.7504222877260702
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9454699248081787,
+          "sentence": "The paper’s central claim is that, compared with slow diffusion inversion methods, this training procedure can learn an effective observation-space transition operator with fewer steps and generate samples of reasonably good quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05453007519182126,
+            "ai": 0.1262631170037921,
+            "paraphrased": 0.8192068078043866
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9546106442438872,
+          "sentence": "In my view, the paper’s main strength is that the idea is clear and somewhat novel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04538935575611284,
+            "ai": 0.10618249557773604,
+            "paraphrased": 0.8484281486661511
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9356777848385279,
+          "sentence": "Describing generation as a finite-step stochastic denoising chain from unstructured noise to the data manifold is not entirely new, but the target-injected training chain proposed by the authors is an interesting compromise: it avoids the difficulty of direct posterior inference and also avoids the need for a fixed diffusion process to use a large number of tiny inverse steps.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.06432221516147209,
+            "ai": 0.13151773202165654,
+            "paraphrased": 0.8041600528168714
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9715557594332347,
+          "sentence": "The training chain changes as the model changes, which is intuitively reasonable, because later in training the model receives supervision in regions closer to its own generative trajectory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.028444240566765346,
+            "ai": 0.18452622730363719,
+            "paraphrased": 0.7870295321295975
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9733691513538361,
+          "sentence": "The figures in the paper illustrate this mechanism well: early states retain considerable uncertainty, while later states gradually form clear digits or images as the injection rate increases.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02663084864616394,
+            "ai": 0.2015657126903534,
+            "paraphrased": 0.7718034386634827
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.954263532522689,
+          "sentence": "The method also avoids the instability of the game between generator and discriminator in adversarial training.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04573646747731098,
+            "ai": 0.24677234409189144,
+            "paraphrased": 0.7074911884307976
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6693171459843429,
+          "sentence": "Its objective is relatively simple to implement, and the training process appears fairly direct.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.33068285401565706,
+            "ai": 0.6312131505481511,
+            "paraphrased": 0.038103995436191834
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.7366130620607704,
+          "sentence": "A second strength is that the paper discusses the method within a broad generative-modeling context, explaining its relations to VAEs, GSNs, denoising autoencoders, nonequilibrium thermodynamic diffusion models, and MCMC energy-based models in substantial detail.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.2633869379392297,
+            "ai": 0.6879962759613575,
+            "paraphrased": 0.04861678609941288
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8184033158002061,
+          "sentence": "In particular, the comparison with diffusion inversion methods helps clarify the contribution of this paper: it does not require constructing a fixed and exactly invertible slow diffusion process, nor is it concerned with the stationary distribution of an infinitely long chain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.18159668419979394,
+            "ai": 0.7554918021006419,
+            "paraphrased": 0.06291151369956416
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8788859108173406,
+          "sentence": "Instead, it only cares about the marginal distribution after a finite burn-in.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.12111408918265931,
+            "ai": 0.8150335489583496,
+            "paraphrased": 0.06385236185899107
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9224362514315777,
+          "sentence": "This setting is appealing from an engineering perspective, because many generation tasks only require fast sample generation and do not necessarily need a Markov chain with good long-time mixing properties.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07756374856842228,
+            "ai": 0.8666824551906568,
+            "paraphrased": 0.055753796240920896
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9216925696169053,
+          "sentence": "The paper also derives a likelihood lower bound and an importance-sampling estimate.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07830743038309479,
+            "ai": 0.8586902938295266,
+            "paraphrased": 0.06300227578737869
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9571213325739651,
+          "sentence": "Although I have some concerns about their practical use, this at least shows that the authors are not relying solely on visual samples, but are attempting to provide quantitative evaluation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04287866742603485,
+            "ai": 0.9060734420683295,
+            "paraphrased": 0.05104789050563558
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9818560772335558,
+          "sentence": "The sample quality in the experiments is generally encouraging.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01814392276644419,
+            "ai": 0.9443780535600355,
+            "paraphrased": 0.03747802367352037
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9635033603404093,
+          "sentence": "The samples on MNIST are very clear, and on TFD and CelebA one can also see that the model has learned some facial structure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03649663965959072,
+            "ai": 0.9033837419381411,
+            "paraphrased": 0.0601196184022682
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9588381972606009,
+          "sentence": "The CIFAR-10 results are not especially strong, but in an unsupervised setting they are competitive with simpler GAN variants.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.041161802739399,
+            "ai": 0.8944142098013291,
+            "paraphrased": 0.06442398745927182
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9688836040930946,
+          "sentence": "The lower-half face completion experiment is a valuable additional demonstration, because it shows that the transition operator is not only able to generate complete images from noise, but can also express conditional distributions when some variables are clamped, producing diverse yet broadly consistent completions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03111639590690537,
+            "ai": 0.9091618626583574,
+            "paraphrased": 0.059721741434737234
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9689102932482436,
+          "sentence": "For an observation-space transition model, this conditional sampling ability is natural and potentially useful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.031089706751756273,
+            "ai": 0.9184153199734301,
+            "paraphrased": 0.050494973274813615
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9680305500622012,
+          "sentence": "However, the paper also has some serious weaknesses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03196944993779883,
+            "ai": 0.9215990763664383,
+            "paraphrased": 0.046431473695762844
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9814875184867761,
+          "sentence": "The most central issue is that the theoretical basis of denoising-based infusion training remains largely heuristic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01851248151322392,
+            "ai": 0.9211126411519688,
+            "paraphrased": 0.06037487733480726
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9535430965167957,
+          "sentence": "During training, the model sees states with target injection and is asked to predict the complete target in one step; during generation, there is no target injection, and it can only rely on its own previous state.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04645690348320428,
+            "ai": 0.9019585175843151,
+            "paraphrased": 0.05158457893248059
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9754296271428053,
+          "sentence": "Although the authors claim that the training chain is close to the model chain and that the injection probability is small, the distribution gap between training and testing is not rigorously quantified.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02457037285719471,
+            "ai": 0.9244714613744976,
+            "paraphrased": 0.05095816576830767
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.4657856225967407,
+          "sentence": "In particular, in the early stages of training, the model chain itself has not yet learned meaningful structure, and the target information in the training chain may become the dominant signal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5342143774032593,
+            "ai": 0.18854689598083496,
+            "paraphrased": 0.27723872661590576
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6220625807912984,
+          "sentence": "Whether the model truly learns to continue denoising from weak structures generated by itself, or instead relies on the artificial shortcut introduced during training, requires deeper analysis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3779374192087016,
+            "ai": 0.20428068022665322,
+            "paraphrased": 0.4177819005646452
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.4275129245505345,
+          "sentence": "The figures show that the chain gradually improves as training proceeds, but this still does not rule out bias introduced by target injection.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5724870754494655,
+            "ai": 0.04310330520544107,
+            "paraphrased": 0.38440961934509343
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.2840853000099445,
+          "sentence": "Relatedly, the paper proposes both heuristic denoising training and lower-bound training, but the experiments mainly use the former, while the latter is only briefly mentioned.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7159146999900555,
+            "ai": 0.010237170860039576,
+            "paraphrased": 0.2738481291499049
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.39658566243403376,
+          "sentence": "Since lower-bound training has a clearer likelihood interpretation, readers will naturally want to know why the main results do not use that objective.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6034143375659662,
+            "ai": 0.027878785512663942,
+            "paraphrased": 0.36870687692136983
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3857368712450726,
+          "sentence": "If the denoising objective is clearly better in sample quality, then what is its relationship to true likelihood?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6142631287549274,
+            "ai": 0.029078376089751275,
+            "paraphrased": 0.35665849515532133
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.22425470532733513,
+          "sentence": "If the two give similar results, a systematic comparison should be provided.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7757452946726648,
+            "ai": 0.015939357849912152,
+            "paraphrased": 0.20831534747742297
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3144432391556531,
+          "sentence": "The current statement that the results are similar on a few problems is not sufficient.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6855567608443469,
+            "ai": 0.028867708807267904,
+            "paraphrased": 0.2855755303483852
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3377138709309054,
+          "sentence": "As a result, the theoretical contribution of the paper feels somewhat incomplete: on the one hand, it proposes an optimizable lower bound; on the other hand, the main algorithm actually used is not optimization of that lower bound.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6622861290690946,
+            "ai": 0.02054582991686201,
+            "paraphrased": 0.3171680410140434
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.45330892771427916,
+          "sentence": "The quantitative evaluation also raises concerns.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5466910722857208,
+            "ai": 0.034214773048790684,
+            "paraphrased": 0.4190941546654885
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.4317930915645998,
+          "sentence": "The likelihood values reported on MNIST are very high, especially the importance-sampling estimate under a diagonal Gaussian output, which reaches a large positive value.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5682069084354002,
+            "ai": 0.03478538630450288,
+            "paraphrased": 0.3970077052600969
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.4548960206261878,
+          "sentence": "This is not easy to compare with common likelihood reporting conventions for binary or continuous images.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5451039793738122,
+            "ai": 0.04102138521570083,
+            "paraphrased": 0.41387463541048697
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.345351441888787,
+          "sentence": "Although the authors state that they add uniform noise and discuss isotropic outputs for comparison, details such as different observation models, lower bounds on output variance, pixel scaling, and dequantization can greatly affect the value of continuous densities.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.654648558111213,
+            "ai": 0.017820781764484674,
+            "paraphrased": 0.3275306601243024
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.20500618367454748,
+          "sentence": "The test and training likelihoods of the diagonal covariance model in the table are almost the same and far higher than many baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7949938163254525,
+            "ai": 0.007532494128621194,
+            "paraphrased": 0.19747368954592628
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.24686551934218304,
+          "sentence": "This may reflect very small model output variance or an evaluation proposal distribution that is too close to the target-injected chain, rather than necessarily indicating that the generative distribution is better.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.753134480657817,
+            "ai": 0.014340437992338067,
+            "paraphrased": 0.23252508134984498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.20907906032301699,
+          "sentence": "Parzen estimates have also long been considered unreliable for high-dimensional generative models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7909209396769831,
+            "ai": 0.014546182328296634,
+            "paraphrased": 0.19453287799472035
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.28352937947301204,
+          "sentence": "On CIFAR-10, the Inception score is only moderate and is not outstanding compared with modern convolutional generative models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.716470620526988,
+            "ai": 0.03334197501367256,
+            "paraphrased": 0.2501874044593395
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6007309302605958,
+          "sentence": "Overall, the experiments support the claim that the method is feasible and can generate reasonable samples, but they are not sufficient to support the stronger conclusion that the model is significantly more accurate.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3992690697394043,
+            "ai": 0.5598145660778743,
+            "paraphrased": 0.04091636418272148
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.29516669937223344,
+          "sentence": "Another weakness is the lack of ablation studies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7048333006277666,
+            "ai": 0.2736403170365237,
+            "paraphrased": 0.021526382335709734
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.32633478704216357,
+          "sentence": "The method depends on several key design choices: the initial injection rate and its growth speed, whether the number of training steps and sampling steps are the same, the learning-rate schedule at each step, whether time parameters are shared, output variance scaling, the variance of the target-injection distribution, and whether the target is used as supervision for all intermediate states or only for the next step.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6736652129578364,
+            "ai": 0.28978549894344996,
+            "paraphrased": 0.036549288098713606
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.625623518610351,
+          "sentence": "All of these choices may significantly affect performance, but in the paper most of them are presented as fixed implementation details rather than systematically studied.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3743764813896489,
+            "ai": 0.5114821271819193,
+            "paraphrased": 0.11414139142843174
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.32179115686843895,
+          "sentence": "For example, on MNIST the authors train with 15 steps but sample with 30 steps to obtain clearer images, which indicates that the training objective and the actual sampling process are not fully consistent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.678208843131561,
+            "ai": 0.25875580889185834,
+            "paraphrased": 0.06303534797658059
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.234796697160577,
+          "sentence": "Is the behavior of the chain stable if it is iterated beyond the number of training steps?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.765203302839423,
+            "ai": 0.1753030879445604,
+            "paraphrased": 0.059493609216016596
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.25295684773734933,
+          "sentence": "Does it oversharpen, collapse to a few modes, or eventually leave the data manifold?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7470431522626507,
+            "ai": 0.19419043272485223,
+            "paraphrased": 0.0587664150124971
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.23939413965651185,
+          "sentence": "Since the model does not require the existence of an appropriate stationary distribution, this question is especially important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7606058603434882,
+            "ai": 0.17995039850547315,
+            "paraphrased": 0.05944374115103869
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3821882927766588,
+          "sentence": "I am also concerned that sample diversity and mode coverage are not sufficiently verified.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6178117072233412,
+            "ai": 0.2918630984198921,
+            "paraphrased": 0.09032519435676664
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.16295041836554955,
+          "sentence": "Target-injection training may encourage the model to learn many basins of attraction leading to training samples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.8370495816344504,
+            "ai": 0.12988881428084634,
+            "paraphrased": 0.03306160408470322
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.20843022239914205,
+          "sentence": "Visual samples and nearest-neighbor comparisons can partly reduce the concern that the model is copying the training set, but they do not prove good mode coverage.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7915697776008579,
+            "ai": 0.1681624944051257,
+            "paraphrased": 0.04026772799401635
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.25449369820989975,
+          "sentence": "For MNIST, the authors could report class distributions, classifier confidence, and diversity; for CIFAR-10 and CelebA, they could provide more random sample grids, failure cases, and quantitative distributions of distances to nearest neighbors in the training set.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7455063017901002,
+            "ai": 0.21273207886623866,
+            "paraphrased": 0.041761619343661106
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.5627057123990569,
+          "sentence": "The face completion demonstration is interesting, but only a small number of examples are shown, which is not enough to judge whether the conditional distribution is calibrated or merely produces several plausible-looking textures.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.4372942876009431,
+            "ai": 0.4297779032521815,
+            "paraphrased": 0.1329278091468754
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.32168071050102715,
+          "sentence": "I would like the authors to clarify several specific issues.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6783192894989728,
+            "ai": 0.25913060954082395,
+            "paraphrased": 0.06255010096020319
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.34084955315331467,
+          "sentence": "First, in the infusion chain, each dimension independently decides whether to take the target value, which for image pixels produces a kind of salt-and-pepper target leakage.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6591504468466853,
+            "ai": 0.2991232417981126,
+            "paraphrased": 0.04172631135520205
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.011444123321255448,
+          "sentence": "Is it possible that the model simply learns to identify these injected pixels and interpolate the rest?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9885558766787446,
+            "ai": 0.009948365672887446,
+            "paraphrased": 0.0014957576483680013
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.008922965222328348,
+          "sentence": "What would happen if injection were performed in blocks, at low frequencies, or in feature space?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9910770347776716,
+            "ai": 0.007774150689607011,
+            "paraphrased": 0.0011488145327213377
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.011793910421680799,
+          "sentence": "Second, is the choice of an increasing injection rate during training necessary?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9882060895783192,
+            "ai": 0.010309424262119553,
+            "paraphrased": 0.0014844861595612456
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00931204449439745,
+          "sentence": "How does performance change with a fixed injection rate, a decreasing injection rate, or a random injection rate?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9906879555056025,
+            "ai": 0.008137619965135087,
+            "paraphrased": 0.0011744245292623636
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.040687219042306454,
+          "sentence": "Third, when the number of sampling steps is larger than the number of training steps, have the authors observed the behavior of longer chains, such as samples after 50, 100, or 500 steps?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9593127809576936,
+            "ai": 0.03902445297415561,
+            "paraphrased": 0.0016627660681508424
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9547330627990126,
+          "sentence": "Although the paper does not require a stationary distribution, if the chain rapidly degenerates after the training horizon, this would limit the robustness of the method in practice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04526693720098738,
+            "ai": 0.9523944799299673,
+            "paraphrased": 0.0023385828690453032
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9848452310329298,
+          "sentence": "Fourth, what are the quantitative and qualitative differences between the denoising objective and the lower-bound objective under the same architecture and on the same dataset?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.015154768967070237,
+            "ai": 0.9829327637016327,
+            "paraphrased": 0.0019124673312970026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9644961492323448,
+          "sentence": "Fifth, the proposal used in the importance-sampling estimate is an infusion chain containing target information.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03550385076765508,
+            "ai": 0.9617785589343447,
+            "paraphrased": 0.0027175902980001595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.997219502038668,
+          "sentence": "How well does it match the model’s true posterior?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0027804979613318937,
+            "ai": 0.9956283052977293,
+            "paraphrased": 0.0015911967409387813
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9970916083298802,
+          "sentence": "Can effective sample size or weight variance be reported?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002908391670119892,
+            "ai": 0.9955900195878614,
+            "paraphrased": 0.001501588742018737
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997941554037266,
+          "sentence": "Overall, I lean toward a weak accept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002058445962733909,
+            "ai": 0.9991486519337052,
+            "paraphrased": 0.0006455034700214923
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9976306093687937,
+          "sentence": "The paper proposes a creative, easy-to-implement, and intuitively effective training mechanism, and the sample visualizations and several experiments show that this direction deserves attention.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002369390631206316,
+            "ai": 0.99628337905104,
+            "paraphrased": 0.0013472303177536201
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993334988806558,
+          "sentence": "Its connections to diffusion-style generation, denoising autoencoders, and generative stochastic networks are also illuminating, and may inspire further work on finite-step observation-space generative chains.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006665011193442082,
+            "ai": 0.997115138791335,
+            "paraphrased": 0.002218360089320825
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990940904037476,
+          "sentence": "However, the current version still has clear shortcomings in theoretical explanation, consistency of objectives, credibility of quantitative evaluation, and ablation experiments, and some of the experimental conclusions are stated somewhat more strongly than the evidence supports.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009059095962524103,
+            "ai": 0.9948631795885845,
+            "paraphrased": 0.004230910815163137
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992947323443674,
+          "sentence": "If the authors can more systematically compare heuristic training with lower-bound training, analyze the effects of the injection mechanism and the number of sampling steps, and provide more reliable evaluations of mode coverage and likelihood, I would have greater confidence in the contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007052676556325802,
+            "ai": 0.9949925594002317,
+            "paraphrased": 0.004302172944135706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997095051928584,
+          "sentence": "At present, I regard it as a novel but not yet fully mature piece of work, suitable for acceptance as a conference paper, but the final version should state its performance advantages more cautiously and add key experiments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00029049480714161984,
+            "ai": 0.9958125520552581,
+            "paraphrased": 0.0038969531376003073
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.3059140083967793,
+        "ai": 0.2796076620900631,
+        "mixed": 0.4144783295131576
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.2796076620900631,
+          "mixed": 0.4144783295131576,
+          "human": 0.3059140083967793
+        }
+      },
+      "subclass": {
+        "mixed": {
+          "predicted_class": "concatenated",
+          "result_message": "",
+          "confidence_score": 0.5252888062175399,
+          "confidence_category": "low",
+          "class_probabilities": {
+            "concatenated": 0.5252888062175399,
+            "polished": 0.47471119378246013
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "polished": 0.47471119378246013,
+              "concatenated": 0.5252888062175399
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "polished": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "concatenated": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": null,
+      "document_classification": "MIXED",
+      "inputText": "This paper proposes a method for training generative models through “infusion training.” The model itself is a finite-step Markov chain defined on the observation space: starting from a simple factorized noise distribution, it repeatedly applies a stochastic transition operator and eventually produces data samples. During training, the authors do not directly sample from the model chain and require it to recover training samples in one step. Instead, they construct a training chain with target information injected into it: at each step and for each dimension, with a small probability the chain uses the value of the corresponding dimension in the target sample, or a perturbed value near it; otherwise, it samples according to the current model transition distribution. The intermediate states obtained in this way are close to the regions the model itself will visit during generation, while also containing gradually increasing information about the target sample. The model is then trained to denoise these intermediate states into the target sample, or, in the variational version, to maximize a likelihood lower bound. Experiments on MNIST, TFD, CIFAR-10, and CelebA show visualizations of progressive denoising, Parzen estimates, importance-sampling likelihood estimates, Inception scores, and face completion results. The paper’s central claim is that, compared with slow diffusion inversion methods, this training procedure can learn an effective observation-space transition operator with fewer steps and generate samples of reasonably good quality.\n\nIn my view, the paper’s main strength is that the idea is clear and somewhat novel. Describing generation as a finite-step stochastic denoising chain from unstructured noise to the data manifold is not entirely new, but the target-injected training chain proposed by the authors is an interesting compromise: it avoids the difficulty of direct posterior inference and also avoids the need for a fixed diffusion process to use a large number of tiny inverse steps. The training chain changes as the model changes, which is intuitively reasonable, because later in training the model receives supervision in regions closer to its own generative trajectory. The figures in the paper illustrate this mechanism well: early states retain considerable uncertainty, while later states gradually form clear digits or images as the injection rate increases. The method also avoids the instability of the game between generator and discriminator in adversarial training. Its objective is relatively simple to implement, and the training process appears fairly direct.\n\nA second strength is that the paper discusses the method within a broad generative-modeling context, explaining its relations to VAEs, GSNs, denoising autoencoders, nonequilibrium thermodynamic diffusion models, and MCMC energy-based models in substantial detail. In particular, the comparison with diffusion inversion methods helps clarify the contribution of this paper: it does not require constructing a fixed and exactly invertible slow diffusion process, nor is it concerned with the stationary distribution of an infinitely long chain. Instead, it only cares about the marginal distribution after a finite burn-in. This setting is appealing from an engineering perspective, because many generation tasks only require fast sample generation and do not necessarily need a Markov chain with good long-time mixing properties. The paper also derives a likelihood lower bound and an importance-sampling estimate. Although I have some concerns about their practical use, this at least shows that the authors are not relying solely on visual samples, but are attempting to provide quantitative evaluation.\n\nThe sample quality in the experiments is generally encouraging. The samples on MNIST are very clear, and on TFD and CelebA one can also see that the model has learned some facial structure. The CIFAR-10 results are not especially strong, but in an unsupervised setting they are competitive with simpler GAN variants. The lower-half face completion experiment is a valuable additional demonstration, because it shows that the transition operator is not only able to generate complete images from noise, but can also express conditional distributions when some variables are clamped, producing diverse yet broadly consistent completions. For an observation-space transition model, this conditional sampling ability is natural and potentially useful.\n\nHowever, the paper also has some serious weaknesses. The most central issue is that the theoretical basis of denoising-based infusion training remains largely heuristic. During training, the model sees states with target injection and is asked to predict the complete target in one step; during generation, there is no target injection, and it can only rely on its own previous state. Although the authors claim that the training chain is close to the model chain and that the injection probability is small, the distribution gap between training and testing is not rigorously quantified. In particular, in the early stages of training, the model chain itself has not yet learned meaningful structure, and the target information in the training chain may become the dominant signal. Whether the model truly learns to continue denoising from weak structures generated by itself, or instead relies on the artificial shortcut introduced during training, requires deeper analysis. The figures show that the chain gradually improves as training proceeds, but this still does not rule out bias introduced by target injection.\n\nRelatedly, the paper proposes both heuristic denoising training and lower-bound training, but the experiments mainly use the former, while the latter is only briefly mentioned. Since lower-bound training has a clearer likelihood interpretation, readers will naturally want to know why the main results do not use that objective. If the denoising objective is clearly better in sample quality, then what is its relationship to true likelihood? If the two give similar results, a systematic comparison should be provided. The current statement that the results are similar on a few problems is not sufficient. As a result, the theoretical contribution of the paper feels somewhat incomplete: on the one hand, it proposes an optimizable lower bound; on the other hand, the main algorithm actually used is not optimization of that lower bound.\n\nThe quantitative evaluation also raises concerns. The likelihood values reported on MNIST are very high, especially the importance-sampling estimate under a diagonal Gaussian output, which reaches a large positive value. This is not easy to compare with common likelihood reporting conventions for binary or continuous images. Although the authors state that they add uniform noise and discuss isotropic outputs for comparison, details such as different observation models, lower bounds on output variance, pixel scaling, and dequantization can greatly affect the value of continuous densities. The test and training likelihoods of the diagonal covariance model in the table are almost the same and far higher than many baselines. This may reflect very small model output variance or an evaluation proposal distribution that is too close to the target-injected chain, rather than necessarily indicating that the generative distribution is better. Parzen estimates have also long been considered unreliable for high-dimensional generative models. On CIFAR-10, the Inception score is only moderate and is not outstanding compared with modern convolutional generative models. Overall, the experiments support the claim that the method is feasible and can generate reasonable samples, but they are not sufficient to support the stronger conclusion that the model is significantly more accurate.\n\nAnother weakness is the lack of ablation studies. The method depends on several key design choices: the initial injection rate and its growth speed, whether the number of training steps and sampling steps are the same, the learning-rate schedule at each step, whether time parameters are shared, output variance scaling, the variance of the target-injection distribution, and whether the target is used as supervision for all intermediate states or only for the next step. All of these choices may significantly affect performance, but in the paper most of them are presented as fixed implementation details rather than systematically studied. For example, on MNIST the authors train with 15 steps but sample with 30 steps to obtain clearer images, which indicates that the training objective and the actual sampling process are not fully consistent. Is the behavior of the chain stable if it is iterated beyond the number of training steps? Does it oversharpen, collapse to a few modes, or eventually leave the data manifold? Since the model does not require the existence of an appropriate stationary distribution, this question is especially important.\n\nI am also concerned that sample diversity and mode coverage are not sufficiently verified. Target-injection training may encourage the model to learn many basins of attraction leading to training samples. Visual samples and nearest-neighbor comparisons can partly reduce the concern that the model is copying the training set, but they do not prove good mode coverage. For MNIST, the authors could report class distributions, classifier confidence, and diversity; for CIFAR-10 and CelebA, they could provide more random sample grids, failure cases, and quantitative distributions of distances to nearest neighbors in the training set. The face completion demonstration is interesting, but only a small number of examples are shown, which is not enough to judge whether the conditional distribution is calibrated or merely produces several plausible-looking textures.\n\nI would like the authors to clarify several specific issues. First, in the infusion chain, each dimension independently decides whether to take the target value, which for image pixels produces a kind of salt-and-pepper target leakage. Is it possible that the model simply learns to identify these injected pixels and interpolate the rest? What would happen if injection were performed in blocks, at low frequencies, or in feature space? Second, is the choice of an increasing injection rate during training necessary? How does performance change with a fixed injection rate, a decreasing injection rate, or a random injection rate? Third, when the number of sampling steps is larger than the number of training steps, have the authors observed the behavior of longer chains, such as samples after 50, 100, or 500 steps? Although the paper does not require a stationary distribution, if the chain rapidly degenerates after the training horizon, this would limit the robustness of the method in practice. Fourth, what are the quantitative and qualitative differences between the denoising objective and the lower-bound objective under the same architecture and on the same dataset? Fifth, the proposal used in the importance-sampling estimate is an infusion chain containing target information. How well does it match the model’s true posterior? Can effective sample size or weight variance be reported?\n\nOverall, I lean toward a weak accept. The paper proposes a creative, easy-to-implement, and intuitively effective training mechanism, and the sample visualizations and several experiments show that this direction deserves attention. Its connections to diffusion-style generation, denoising autoencoders, and generative stochastic networks are also illuminating, and may inspire further work on finite-step observation-space generative chains. However, the current version still has clear shortcomings in theoretical explanation, consistency of objectives, credibility of quantitative evaluation, and ablation experiments, and some of the experimental conclusions are stated somewhat more strongly than the evidence supports. If the authors can more systematically compare heuristic training with lower-bound training, analyze the effects of the injection mechanism and the number of sampling steps, and provide more reliable evaluations of mode coverage and likelihood, I would have greater confidence in the contribution. At present, I regard it as a novel but not yet fully mature piece of work, suitable for acceptance as a conference paper, but the final version should state its performance advantages more cautiously and add key experiments.\n",
+      "document_id": null
+    }
+  ]
+}

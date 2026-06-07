@@ -1,0 +1,250 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.9613464103219386,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1.0000000000000002,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9938192156515486,
+          "sentence": "Just now, at 12:37 a.m., I finally finished the first draft of my first novel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006180784348451403,
+            "ai": 0.45792735257558115,
+            "paraphrased": 0.5358918630759675
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9956843638430901,
+          "sentence": "More precisely, I typed the final period.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004315636156909843,
+            "ai": 0.46013960627955985,
+            "paraphrased": 0.5355447575635303
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9939228255631118,
+          "sentence": "It’s probably a little over a hundred thousand characters: a story with some sci-fi, some dystopia, some teenage pain, and a lot of “why did I write it like that?”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0060771744368881605,
+            "ai": 0.38867940690439606,
+            "paraphrased": 0.6052434186587158
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9956621499853335,
+          "sentence": "I’m fifteen, so I know it’s probably full of problems: all the characters sound like the same person, the worldbuilding has holes you could drive a bus through, and the romance may be stiffer than instant noodles.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004337850014666514,
+            "ai": 0.42170923830463763,
+            "paraphrased": 0.5739529116806958
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9947596267983996,
+          "sentence": "But I still sat at my computer grinning for ten minutes, because this is the first time I’ve actually written something long all the way to “the end,” instead of starting it and tossing it into a folder to gather dust.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005240373201600329,
+            "ai": 0.47391870837575417,
+            "paraphrased": 0.5208409184226455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9957712323869381,
+          "sentence": "Now I’m not sure what comes next.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004228767613061937,
+            "ai": 0.4591691943821557,
+            "paraphrased": 0.5366020380047823
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9946658005987612,
+          "sentence": "Should I leave it for a few weeks, or start rewriting from page one?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0053341994012387475,
+            "ai": 0.46300286011490704,
+            "paraphrased": 0.5316629404838542
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9965301425190403,
+          "sentence": "Should I show friends, or wait until it’s less embarrassing?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003469857480959843,
+            "ai": 0.449943733446643,
+            "paraphrased": 0.5465864090723972
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9958520714981322,
+          "sentence": "Any advice for facing “it’s awful, but it’s mine”?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004147928501867858,
+            "ai": 0.44983426852372943,
+            "paraphrased": 0.5460178029744027
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1.0000000000000002,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1.0000000000000002,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Just now, at 12:37 a.m., I finally finished the first draft of my first novel. More precisely, I typed the final period. It’s probably a little over a hundred thousand characters: a story with some sci-fi, some dystopia, some teenage pain, and a lot of “why did I write it like that?”\n\nI’m fifteen, so I know it’s probably full of problems: all the characters sound like the same person, the worldbuilding has holes you could drive a bus through, and the romance may be stiffer than instant noodles. But I still sat at my computer grinning for ten minutes, because this is the first time I’ve actually written something long all the way to “the end,” instead of starting it and tossing it into a folder to gather dust.\n\nNow I’m not sure what comes next. Should I leave it for a few weeks, or start rewriting from page one? Should I show friends, or wait until it’s less embarrassing? Any advice for facing “it’s awful, but it’s mine”?\n",
+      "document_id": null
+    }
+  ]
+}

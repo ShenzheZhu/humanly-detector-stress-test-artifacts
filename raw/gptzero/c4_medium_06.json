@@ -1,0 +1,542 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.9999654421358883,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999864192710836,
+          "sentence": "Grit",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013580728916349773,
+            "ai": 0.9999722481564004,
+            "paraphrased": 0.000014171114683202776
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999893888869114,
+          "sentence": "Grit is a psychological trait defined by the combination of passion and perseverance toward long-term goals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010611113088649328,
+            "ai": 0.9999749853008966,
+            "paraphrased": 0.00001440358601475519
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999913378208871,
+          "sentence": "Popularized by psychologist Angela Duckworth, the concept describes the tendency to sustain effort and interest over years, despite setbacks, boredom, and the absence of immediate reward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000866217911287934,
+            "ai": 0.9999746773483646,
+            "paraphrased": 0.000016660472522438695
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999920674972859,
+          "sentence": "Grit is not about intensity in a single moment but about stamina maintained across time, and it has become an influential, though debated, idea in education and motivation research.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007932502714164728,
+            "ai": 0.9999724548384858,
+            "paraphrased": 0.00001961265879999489
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991271779225,
+          "sentence": "In plain language, grit has two components that work together.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000872822077507874,
+            "ai": 0.9999729786753757,
+            "paraphrased": 0.000018293103849256566
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999926680882064,
+          "sentence": "The first is perseverance of effort: the willingness to keep working hard even when progress is slow or obstacles appear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007331911793590618,
+            "ai": 0.9999717238111107,
+            "paraphrased": 0.000020944277095706425
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931614051644,
+          "sentence": "The second is consistency of interest: maintaining a stable focus on the same overarching goal rather than constantly switching pursuits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006838594835570885,
+            "ai": 0.9999702556260704,
+            "paraphrased": 0.00002290577909397109
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999930407624825,
+          "sentence": "A gritty person does not merely work hard; they direct that hard work toward a coherent, enduring purpose.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006959237517483608,
+            "ai": 0.9999703800229565,
+            "paraphrased": 0.000022660739526010826
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999930662584319,
+          "sentence": "Both parts are necessary, since effort without a stable direction scatters, and passion without persistence fizzles.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000069337415681678474,
+            "ai": 0.9999707252811305,
+            "paraphrased": 0.000022340977301344004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999912050018763,
+          "sentence": "The link to motivation is direct and important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000879499812372227,
+            "ai": 0.9999727896010135,
+            "paraphrased": 0.000018415400862756044
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999992682866643,
+          "sentence": "Much of motivation research focuses on what initiates behavior, but grit concerns what sustains it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007317133357037199,
+            "ai": 0.9999720687388749,
+            "paraphrased": 0.00002061412776811868
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999992462203704,
+          "sentence": "Long-term achievement rarely depends on a single burst of enthusiasm; it depends on showing up repeatedly, especially during the unglamorous middle stretch when novelty has worn off and results are not yet visible.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007537796296019357,
+            "ai": 0.9999724838024668,
+            "paraphrased": 0.00001997840123710171
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999917097584954,
+          "sentence": "Emotionally, grit is supported by the ability to tolerate frustration and to find meaning in the pursuit itself, which helps a person stay engaged when extrinsic rewards are distant.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008290241504581802,
+            "ai": 0.9999736377112989,
+            "paraphrased": 0.00001807204719651606
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999848386399091,
+          "sentence": "A concrete example makes this clear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015161360090916035,
+            "ai": 0.9999726238623444,
+            "paraphrased": 0.00001221477756463559
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999626449132901,
+          "sentence": "Consider a medical student who spends years studying, enduring exhausting rotations, repeated exams, and frequent self-doubt.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003735508670984898,
+            "ai": 0.9999544667760014,
+            "paraphrased": 0.000008178137288710262
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999524264195634,
+          "sentence": "Talent and intelligence matter, but the trait that carries her through is the sustained commitment to becoming a physician, year after year, despite fatigue and setbacks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004757358043660391,
+            "ai": 0.9999444650065836,
+            "paraphrased": 0.000007961412979743192
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999746159815057,
+          "sentence": "A peer with equal ability but less perseverance might abandon the path when the difficulty mounts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000025384018494244926,
+            "ai": 0.9999661980928162,
+            "paraphrased": 0.000008417888689543295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999803902228814,
+          "sentence": "The difference lies not in a single hard day but in the accumulation of consistent effort toward one durable goal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019609777118636377,
+            "ai": 0.9999704077900262,
+            "paraphrased": 0.000009982432855180495
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999746201377685,
+          "sentence": "It is important to present grit with appropriate nuance, because the concept has attracted legitimate criticism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002537986223152981,
+            "ai": 0.999965487891838,
+            "paraphrased": 0.00000913224593048746
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999681414532425,
+          "sentence": "Some researchers argue that grit overlaps heavily with the established personality trait of conscientiousness and adds relatively little predictive power.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000031858546757451135,
+            "ai": 0.9999593097770987,
+            "paraphrased": 0.000008831676143899546
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999829898203907,
+          "sentence": "Others caution that emphasizing grit can unfairly place the burden of success on individuals while ignoring structural barriers, such as poverty or unequal access to opportunity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001701017960932057,
+            "ai": 0.9999727155623671,
+            "paraphrased": 0.000010274258023573092
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999825881316843,
+          "sentence": "There is also a risk that persistence becomes counterproductive when applied to an unrealistic or harmful goal; sometimes quitting is the wiser choice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001741186831571475,
+            "ai": 0.9999725648581379,
+            "paraphrased": 0.000010023273546344017
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999849103272045,
+          "sentence": "Despite these caveats, understanding grit matters because it highlights a quality that purely measuring talent overlooks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001508967279552788,
+            "ai": 0.9999738160266032,
+            "paraphrased": 0.000011094300601325955
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999846846088999,
+          "sentence": "Achievement in school, careers, and personal projects unfolds over long horizons, and the capacity to persist is genuinely consequential.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015315391100148027,
+            "ai": 0.9999738099435459,
+            "paraphrased": 0.000010874665354006421
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999839103407555,
+          "sentence": "The practical implication is encouraging: while talent is hard to change, effort and sustained engagement can be cultivated through clear goals, supportive environments, and a sense of purpose.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016089659244523417,
+            "ai": 0.9999730262724932,
+            "paraphrased": 0.000010884068262310085
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998272154504529,
+          "sentence": "Recognizing the role of perseverance, while remaining honest about its limits, offers a balanced view of how people reach demanding long-term goals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017278454954707293,
+            "ai": 0.9998172626918906,
+            "paraphrased": 0.000009952758562272921
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Grit\n\nGrit is a psychological trait defined by the combination of passion and perseverance toward long-term goals. Popularized by psychologist Angela Duckworth, the concept describes the tendency to sustain effort and interest over years, despite setbacks, boredom, and the absence of immediate reward. Grit is not about intensity in a single moment but about stamina maintained across time, and it has become an influential, though debated, idea in education and motivation research.\n\nIn plain language, grit has two components that work together. The first is perseverance of effort: the willingness to keep working hard even when progress is slow or obstacles appear. The second is consistency of interest: maintaining a stable focus on the same overarching goal rather than constantly switching pursuits. A gritty person does not merely work hard; they direct that hard work toward a coherent, enduring purpose. Both parts are necessary, since effort without a stable direction scatters, and passion without persistence fizzles.\n\nThe link to motivation is direct and important. Much of motivation research focuses on what initiates behavior, but grit concerns what sustains it. Long-term achievement rarely depends on a single burst of enthusiasm; it depends on showing up repeatedly, especially during the unglamorous middle stretch when novelty has worn off and results are not yet visible. Emotionally, grit is supported by the ability to tolerate frustration and to find meaning in the pursuit itself, which helps a person stay engaged when extrinsic rewards are distant.\n\nA concrete example makes this clear. Consider a medical student who spends years studying, enduring exhausting rotations, repeated exams, and frequent self-doubt. Talent and intelligence matter, but the trait that carries her through is the sustained commitment to becoming a physician, year after year, despite fatigue and setbacks. A peer with equal ability but less perseverance might abandon the path when the difficulty mounts. The difference lies not in a single hard day but in the accumulation of consistent effort toward one durable goal.\n\nIt is important to present grit with appropriate nuance, because the concept has attracted legitimate criticism. Some researchers argue that grit overlaps heavily with the established personality trait of conscientiousness and adds relatively little predictive power. Others caution that emphasizing grit can unfairly place the burden of success on individuals while ignoring structural barriers, such as poverty or unequal access to opportunity. There is also a risk that persistence becomes counterproductive when applied to an unrealistic or harmful goal; sometimes quitting is the wiser choice.\n\nDespite these caveats, understanding grit matters because it highlights a quality that purely measuring talent overlooks. Achievement in school, careers, and personal projects unfolds over long horizons, and the capacity to persist is genuinely consequential. The practical implication is encouraging: while talent is hard to change, effort and sustained engagement can be cultivated through clear goals, supportive environments, and a sense of purpose. Recognizing the role of perseverance, while remaining honest about its limits, offers a balanced view of how people reach demanding long-term goals.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        }
+      ],
+      "completely_generated_prob": 0.000042567902420291,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.999935458004923,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00005686126687378545,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999431387331262,
+            "ai": 0.00003096630466940228,
+            "paraphrased": 0.00002589496220438317
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008935622215440723,
+          "sentence": "Imagine two children, Tim and Sam, learning to play field hockey.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999106437778456,
+            "ai": 0.00004366369531710221,
+            "paraphrased": 0.00004569252683730502
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008720759537060485,
+          "sentence": "Both boys want to play for Australia one-day.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999127924046294,
+            "ai": 0.00004336847865152923,
+            "paraphrased": 0.000043839116719075626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008081377100092337,
+          "sentence": "Let's assume that both are equally talented.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999191862289991,
+            "ai": 0.00003862044871318841,
+            "paraphrased": 0.00004219332228773495
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007987234477126339,
+          "sentence": "They improve in skill at the same rate, proportional to their training intensity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999201276552288,
+            "ai": 0.00003116114014786237,
+            "paraphrased": 0.000048711204623401016
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006512186118451534,
+          "sentence": "The only obvious difference between the two boys is in the duration and direction of their effort (Figure 1).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999348781388154,
+            "ai": 0.000024458110689614967,
+            "paraphrased": 0.00004066375049490038
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000641721465858249,
+          "sentence": "Sam doesn't practice between training sessions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999358278534142,
+            "ai": 0.000025182830504719545,
+            "paraphrased": 0.00003898931608110535
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006291687693464845,
+          "sentence": "He finds it tedious and he plays two other sports.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999370831230654,
+            "ai": 0.00002431274759613482,
+            "paraphrased": 0.00003860412933851363
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008364352183294639,
+          "sentence": "Tim, on the other hand, is passionate about hockey.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999916356478167,
+            "ai": 0.00003522262066903984,
+            "paraphrased": 0.000048420901163906546
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000487403584615143,
+          "sentence": "He spends most days practising ball skills, having specialised running training or watching the senior teams playing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999512596415385,
+            "ai": 0.000013471804996315307,
+            "paraphrased": 0.00003526855346519899
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005622853768210067,
+          "sentence": "Tim has made the decision to deepen his understanding of the game and apply long-term effort to playing hockey.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999437714623179,
+            "ai": 0.000016728003639224155,
+            "paraphrased": 0.000039500534042876515
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006979965221464827,
+          "sentence": "Which one is more likely to be successful?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999302003477853,
+            "ai": 0.000028164515309211175,
+            "paraphrased": 0.00004163513690543709
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005841707362337757,
+          "sentence": "According to the Oxford Dictionary (2016), the simple meaning of the quality known as ‘Grit’ is, “courage and resolve; strength of character”.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999415829263766,
+            "ai": 0.00001854614302627722,
+            "paraphrased": 0.00003987093059710035
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000053126728206542015,
+          "sentence": "This definition focuses on what could be described as positive and even socially desirable virtues which indicate a sense of nobility about a 'gritty' individual.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999468732717934,
+            "ai": 0.000016728342010843955,
+            "paraphrased": 0.00003639838619569806
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005720659907804345,
+          "sentence": "However, this simple definition does not capture the driving force behind Grit, nor the end-state it exerts effort toward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999942793400922,
+            "ai": 0.000019832776435806876,
+            "paraphrased": 0.000037373822642236574
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006177369188300196,
+          "sentence": "This chapter explores Grit as a personality trait which is driven by passion for s specific long-term goal (Duckworth, 2007).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999938226308117,
+            "ai": 0.000020919960849532172,
+            "paraphrased": 0.00004085373103346979
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001058653053924296,
+          "sentence": "Differences between Grit and other qualities such as, perseverance, hardiness, resilience and conscientiousness will be considered, as well as psychological theories relevant to achievement: Need for achievement (McClelland, 1961); self-efficacy (Bandura, 1977), Self-Determination Theory (SDT: Deci & Ryan, 2000) and Achievement goals theory (Senko, Hulleman, & Harackiewicz, 2011).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989413469460757,
+            "ai": 0.0009442109007563993,
+            "paraphrased": 0.00011444215316789667
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007016860112855752,
+          "sentence": "Benefits of being 'gritty' will also be discussed before looking at potential to develop Grit in individuals, through fostering a growth-mindset (Dweck, 2015) and embracing positive psychology principles (Kobau et al., 2011; Seligman & Csikszentmihalyi, 2000).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992983139887144,
+            "ai": 0.0005874593507420291,
+            "paraphrased": 0.00011422666054354614
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0014170319081273602,
+          "sentence": "Definition",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9985829680918726,
+            "ai": 0.0012348510590888394,
+            "paraphrased": 0.00018218084903852077
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0013432100563271355,
+          "sentence": "What is 'Grit'?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9986567899436729,
+            "ai": 0.0012741927570652982,
+            "paraphrased": 0.00006901729926183727
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0020984741746196637,
+          "sentence": "Contemporary Grit researcher, [http://angeladuckworth.com/ Angela Duckworth], with colleagues Peterson, Matthews and Kelly (2007, p. 1087), define Grit as “perseverance and passion for long-term goals”.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9979015258253804,
+            "ai": 0.001975938146683108,
+            "paraphrased": 0.00012253602793655592
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.008183695180655821,
+          "sentence": "These authors note that gritty individuals approach, rather than avoid, challenges and maintain effort and interest in their goals over years, regardless of setbacks, periodic boredom or adversity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9918163048193441,
+            "ai": 0.008030743072027538,
+            "paraphrased": 0.00015295210862828248
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.012241219309149676,
+          "sentence": "Duckworth et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9877587806908503,
+            "ai": 0.012073517354133128,
+            "paraphrased": 0.00016770195501654807
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.02603963965983885,
+          "sentence": "(2007) found that Grit accounted for more variance in success outcomes than could be explained by IQ, or by the Big Five personality factor of Conscientiousness.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9739603603401612,
+            "ai": 0.025853604898057634,
+            "paraphrased": 0.00018603476178121695
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.029875974006961563,
+          "sentence": "They also found that older individuals tended to have more Grit than their younger counterparts, suggesting that this quality may increase with life experience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9701240259930385,
+            "ai": 0.02969882511372647,
+            "paraphrased": 0.0001771488932350913
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.04467731874119066,
+          "sentence": "Importantly, they stress that Grit is not just about working harder, but about working longer without switching objectives.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9553226812588094,
+            "ai": 0.04452496014534888,
+            "paraphrased": 0.00015235859584177905
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.999935458004923,
+        "ai": 0.00006454199507703498,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.999935458004923,
+          "ai": 0.00006454199507703498,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\nImagine two children, Tim and Sam, learning to play field hockey. Both boys want to play for Australia one-day.\n\nLet's assume that both are equally talented. They improve in skill at the same rate, proportional to their training intensity.\n\nThe only obvious difference between the two boys is in the duration and direction of their effort (Figure 1).\n\nSam doesn't practice between training sessions. He finds it tedious and he plays two other sports. Tim, on the other hand, is passionate about hockey. He spends most days practising ball skills, having specialised running training or watching the senior teams playing. Tim has made the decision to deepen his understanding of the game and apply long-term effort to playing hockey.\n\nWhich one is more likely to be successful?\n\nAccording to the Oxford Dictionary (2016), the simple meaning of the quality known as ‘Grit’ is, “courage and resolve; strength of character”. This definition focuses on what could be described as positive and even socially desirable virtues which indicate a sense of nobility about a 'gritty' individual.  However, this simple definition does not capture the driving force behind Grit, nor the end-state it exerts effort toward.\n\nThis chapter explores Grit as a personality trait which is driven by passion for s specific long-term goal (Duckworth, 2007).  Differences between Grit and other qualities such as, perseverance, hardiness, resilience and conscientiousness will be considered, as well as psychological theories relevant to achievement: Need for achievement (McClelland, 1961); self-efficacy (Bandura, 1977), Self-Determination Theory (SDT: Deci & Ryan, 2000) and Achievement goals theory (Senko, Hulleman, & Harackiewicz, 2011).\n\nBenefits of being 'gritty' will also be discussed before looking at potential to develop Grit in individuals, through fostering a growth-mindset (Dweck, 2015) and embracing positive psychology principles (Kobau et al., 2011; Seligman & Csikszentmihalyi, 2000).\n\nDefinition\n\nWhat is 'Grit'?\n\nContemporary Grit researcher, [http://angeladuckworth.com/ Angela Duckworth], with colleagues Peterson, Matthews and Kelly (2007, p. 1087), define Grit as “perseverance and passion for long-term goals”. These authors note that gritty individuals approach, rather than avoid, challenges and maintain effort and interest in their goals over years, regardless of setbacks, periodic boredom or adversity.\n\nDuckworth et al.(2007) found that Grit accounted for more variance in success outcomes than could be explained by IQ, or by the Big Five personality factor of Conscientiousness. They also found that older individuals tended to have more Grit than their younger counterparts, suggesting that this quality may increase with life experience.  Importantly, they stress that Grit is not just about working harder, but about working longer without switching objectives.\n",
+      "document_id": null
+    }
+  ]
+}

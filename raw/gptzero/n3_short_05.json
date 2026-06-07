@@ -1,0 +1,266 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.9946015172924406,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9987864772761195,
+          "sentence": "Only recently did I realize that what really got me writing again was not some grander worldbuilding concept, nor revising the outline until it was perfect, but temporarily setting aside the project I felt “had to become my masterpiece.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001213522723880504,
+            "ai": 0.07945404812683853,
+            "paraphrased": 0.9193324291492809
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988195416008913,
+          "sentence": "I had been thinking about that story for years.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011804583991087674,
+            "ai": 0.07460701796371169,
+            "paraphrased": 0.9242125236371795
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986920053492023,
+          "sentence": "The maps, races, history, and magic system were all piled up in great detail, but every time I opened the document, it felt as if I were turning in an answer sheet for my entire life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013079946507976818,
+            "ai": 0.08818404766613828,
+            "paraphrased": 0.910507957683064
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985109359954895,
+          "sentence": "After two sentences, I wanted to delete them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014890640045105575,
+            "ai": 0.0889381272733787,
+            "paraphrased": 0.9095728087221108
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986022652882147,
+          "sentence": "Later, I played a game with friends whose setting was extremely casual but genuinely fun.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013977347117852445,
+            "ai": 0.08640678047896282,
+            "paraphrased": 0.9121954848092519
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989615463487794,
+          "sentence": "Its backstory was full of holes, and that actually took the pressure off.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010384536512205542,
+            "ai": 0.08365468625348095,
+            "paraphrased": 0.9153068600952985
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991198602577007,
+          "sentence": "I started writing little scenes for our characters, mission logs, fake legends, and even some very stupid dialogue.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000880139742299276,
+            "ai": 0.08743292461230912,
+            "paraphrased": 0.9116869356453916
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990328448501797,
+          "sentence": "Strangely, these unimportant things helped me rebuild the habit of finishing a passage, sharing it, and then writing the next one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009671551498202437,
+            "ai": 0.09813933792683827,
+            "paraphrased": 0.9008935069233415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989207374661123,
+          "sentence": "No one expected it to be great, and I did not need to prove anything.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010792625338876735,
+            "ai": 0.09008220914024015,
+            "paraphrased": 0.9088385283258722
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9981714223841208,
+          "sentence": "I still want to return to that big project, but at least I understand this now: sometimes writing something easy and low-risk is far more useful than continuing to stare at a dream in a daze.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0018285776158791281,
+            "ai": 0.09100540960724315,
+            "paraphrased": 0.9071660127768777
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "ai_paraphrased",
+          "result_message": "We are highly confident this text was originally AI, but rewritten by AI or a human",
+          "confidence_score": 0.9408915557681072,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 0.059108444231892744,
+            "ai_paraphrased": 0.9408915557681072
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 0.059108444231892744,
+              "ai_paraphrased": 0.9408915557681072
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Only recently did I realize that what really got me writing again was not some grander worldbuilding concept, nor revising the outline until it was perfect, but temporarily setting aside the project I felt “had to become my masterpiece.”\n\nI had been thinking about that story for years. The maps, races, history, and magic system were all piled up in great detail, but every time I opened the document, it felt as if I were turning in an answer sheet for my entire life. After two sentences, I wanted to delete them. Later, I played a game with friends whose setting was extremely casual but genuinely fun. Its backstory was full of holes, and that actually took the pressure off. I started writing little scenes for our characters, mission logs, fake legends, and even some very stupid dialogue.\n\nStrangely, these unimportant things helped me rebuild the habit of finishing a passage, sharing it, and then writing the next one. No one expected it to be great, and I did not need to prove anything. I still want to return to that big project, but at least I understand this now: sometimes writing something easy and low-risk is far more useful than continuing to stare at a dream in a daze.\n",
+      "document_id": null
+    }
+  ]
+}

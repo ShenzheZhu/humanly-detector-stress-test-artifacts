@@ -1,0 +1,1012 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 36,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 37,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 44,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 45,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        }
+      ],
+      "completely_generated_prob": 0.9999508655071015,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999886777206707,
+          "sentence": "Summary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011322279329344536,
+            "ai": 0.9999595311366902,
+            "paraphrased": 0.00002914658398044918
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999947816628373,
+          "sentence": "This paper examines whether high-level game concepts can emerge in neural networks trained under weak supervision, using the simple game of tic-tac-toe as a controlled case study and framing the question in relation to the broader challenge of learning chess-like game concepts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000052183371627395305,
+            "ai": 0.9999544104781394,
+            "paraphrased": 0.000040371184697874017
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999958672582456,
+          "sentence": "The central question is whether a network trained on a coarse or indirect signal, rather than explicit labels for the concepts of interest, can nonetheless develop internal representations that correspond to meaningful game-relevant notions such as board configurations, winning patterns, or move validity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000413274175438802,
+            "ai": 0.9999444734575941,
+            "paraphrased": 0.00005139380065158455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999957478879277,
+          "sentence": "The authors design a setup in which a model learns from weak supervision and then probe the learned representations and behaviors to determine whether interpretable concepts have arisen.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000042521120722939264,
+            "ai": 0.9999481794834317,
+            "paraphrased": 0.000047568404495990064
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999996060392055,
+          "sentence": "Tic-tac-toe is chosen deliberately because its small, fully understood state space makes it possible to analyze what the network has learned with a clarity that would be impossible in a complex game.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003939607944990301,
+            "ai": 0.9999409286100085,
+            "paraphrased": 0.000055131782046489814
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999948215914095,
+          "sentence": "The paper reports analyses of the emergent representations and discusses what these findings suggest about concept learning under weak supervision more generally.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000051784085905505116,
+            "ai": 0.9999476912639402,
+            "paraphrased": 0.00004713032746924498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999919999610062,
+          "sentence": "Strengths",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008000038993748144,
+            "ai": 0.9999425293324248,
+            "paraphrased": 0.000049470628581423415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999950063669064,
+          "sentence": "The paper addresses a genuinely interesting and important question about emergent representations and interpretability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004993633093581292,
+            "ai": 0.999953297502621,
+            "paraphrased": 0.00004170886428547921
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953647907219,
+          "sentence": "Understanding whether and how meaningful concepts arise without direct supervision speaks to fundamental issues in deep learning, and the topic is well aligned with growing interest in interpretability and representation analysis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004635209278086205,
+            "ai": 0.9999500509998297,
+            "paraphrased": 0.00004531379089227019
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999952921799079,
+          "sentence": "The framing is thoughtful and the motivation is clearly articulated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004707820092063877,
+            "ai": 0.999951707237133,
+            "paraphrased": 0.00004358494277489921
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999959837769857,
+          "sentence": "The choice of tic-tac-toe as an experimental vehicle is a methodological strength rather than a limitation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004016223014290262,
+            "ai": 0.9999412020830151,
+            "paraphrased": 0.00005478169397062645
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99999606240588,
+          "sentence": "By selecting a domain whose complete structure is known, the authors make rigorous analysis tractable: one can enumerate states, define ground-truth concepts, and check precisely whether the network's internal representations align with them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003937594120000216,
+            "ai": 0.9999407576953608,
+            "paraphrased": 0.00005530471051912296
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953819061788,
+          "sentence": "This kind of controlled study is valuable, and the deliberate simplicity supports clear, interpretable conclusions in a way that a large, messy domain would not.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000046180938212591805,
+            "ai": 0.9999528629604176,
+            "paraphrased": 0.00004251894576112695
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999994768997502,
+          "sentence": "The analysis of emergent concepts is the heart of the contribution, and where the paper succeeds in showing that interpretable structure arises under weak supervision, the results are illuminating.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005231002498057197,
+            "ai": 0.9999524479311274,
+            "paraphrased": 0.00004232106637462757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999940546535856,
+          "sentence": "Such findings contribute to our understanding of how networks organize information and lend empirical weight to claims about emergent abstraction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005945346414373948,
+            "ai": 0.9999513647147864,
+            "paraphrased": 0.00004268993879923606
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999729689588432,
+          "sentence": "Weaknesses",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027031041156824486,
+            "ai": 0.9999127409135301,
+            "paraphrased": 0.000060228045313097004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999727529086586,
+          "sentence": "The most significant concern is generalization beyond the toy domain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002724709134132343,
+            "ai": 0.9999266255829568,
+            "paraphrased": 0.00004612732570191212
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992069180169787,
+          "sentence": "Tic-tac-toe is extraordinarily simple, and while the paper invokes chess as a broader motivation, the leap from tic-tac-toe to genuinely complex games is enormous.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007930819830212409,
+            "ai": 0.999147422118429,
+            "paraphrased": 0.00005949589854973106
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999801473103584,
+          "sentence": "It is unclear whether the emergence observed here would persist in settings with vast state spaces, long-range dependencies, and richer strategic structure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001985268964156749,
+            "ai": 0.9999545126042645,
+            "paraphrased": 0.000025634706093961334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999355275491006,
+          "sentence": "The paper should be careful not to over-claim, and readers will reasonably worry that conclusions drawn from such a small domain may not transfer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000644724508993275,
+            "ai": 0.999908825135181,
+            "paraphrased": 0.000026702413919649488
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999519133842293,
+          "sentence": "The notion of weak supervision and what exactly counts as a concept \"emerging\" needs precise definition.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000048086615770626715,
+            "ai": 0.9999219837960253,
+            "paraphrased": 0.00002992958820407598
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999955663984915,
+          "sentence": "There is a risk of confirmation bias in interpretability analyses, where an investigator who expects certain concepts finds evidence for them in flexible representations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000044336015085058206,
+            "ai": 0.9999254965585408,
+            "paraphrased": 0.000030167426374132728
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999759749081136,
+          "sentence": "The paper would be strengthened by quantitative, falsifiable criteria for concept emergence and by controls that test whether apparent concepts could arise by chance or from trivial features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000024025091886377838,
+            "ai": 0.9999483346163661,
+            "paraphrased": 0.000027640291747481205
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999875340246427,
+          "sentence": "The methodology for probing representations carries its own caveats.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012465975357314236,
+            "ai": 0.9999604850338835,
+            "paraphrased": 0.000027048990759250702
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999458037554895,
+          "sentence": "Probing classifiers can recover information that the network does not actually use for its decisions, so demonstrating that a concept is decodable is not the same as showing that it is functionally important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005419624451057247,
+            "ai": 0.9999188356091242,
+            "paraphrased": 0.000026968146365228507
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995027930840882,
+          "sentence": "A discussion of this distinction, and ideally causal interventions, would make the claims more robust.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004972069159118321,
+            "ai": 0.9994471403298778,
+            "paraphrased": 0.00005565275421035552
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989196903281722,
+          "sentence": "Finally, the practical and theoretical implications could be developed further.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010803096718277577,
+            "ai": 0.998849317946882,
+            "paraphrased": 0.00007037238129019502
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999957766132217,
+          "sentence": "Given the simplicity of the domain, the paper needs to articulate clearly what general lesson the community should draw, and to temper that lesson with appropriate caution about scope.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000042233867783047115,
+            "ai": 0.9999336157878849,
+            "paraphrased": 0.000024150344332108593
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998597529852538,
+          "sentence": "Questions for the Authors",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014024701474620488,
+            "ai": 0.9998305328526552,
+            "paraphrased": 0.000029220132598545884
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999692400827651,
+          "sentence": "First, what precise, quantitative criteria define when a concept has \"emerged,\" and what controls rule out the possibility that the observed structure reflects chance or trivial correlates?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003075991723490273,
+            "ai": 0.9999440514970234,
+            "paraphrased": 0.00002518858574170829
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999883371545587,
+          "sentence": "Second, do the probing analyses establish that the emergent concepts are actually used by the network for its decisions, or only that they are decodable?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011662845441290761,
+            "ai": 0.999851566942066,
+            "paraphrased": 0.000031804603521056057
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998874889131365,
+          "sentence": "Have you considered causal interventions to test functional relevance?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011251108686348194,
+            "ai": 0.999853081707637,
+            "paraphrased": 0.00003440720549955531
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998875319756104,
+          "sentence": "Third, how do you expect these findings to scale to more complex games, and what evidence, even preliminary, supports the relevance of tic-tac-toe results to the chess-like setting that motivates the work?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011246802438959175,
+            "ai": 0.9998555552866778,
+            "paraphrased": 0.00003197668893258098
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994505567930104,
+          "sentence": "Fourth, how sensitive are the emergent representations to architectural choices, training signal, and random initialization?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005494432069895563,
+            "ai": 0.9993859974292292,
+            "paraphrased": 0.00006455936378122444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9920467321383766,
+          "sentence": "Do the same concepts reliably appear across runs?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007953267861623425,
+            "ai": 0.9918891021522654,
+            "paraphrased": 0.0001576299861110989
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9971606825504444,
+          "sentence": "Fifth, what specific, general conclusion about weak supervision should the community take from this study, stated with appropriate caveats about the toy domain?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0028393174495556055,
+            "ai": 0.9967498068467228,
+            "paraphrased": 0.00041087570372162134
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991845835856324,
+          "sentence": "Additional Comments",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008154164143675006,
+            "ai": 0.9988514898836525,
+            "paraphrased": 0.00033309370197998533
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998379651187929,
+          "sentence": "To make the study more compelling, I would suggest a few additions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016203488120712742,
+            "ai": 0.9996389374638087,
+            "paraphrased": 0.00019902765498413047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999871641397414,
+          "sentence": "A baseline comparison showing what concepts, if any, emerge under random or shuffled supervision would help establish that the observed structure genuinely reflects learning rather than artifacts of the architecture or data statistics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012835860258532147,
+            "ai": 0.999855799746168,
+            "paraphrased": 0.00013136439357342737
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999874382250284,
+          "sentence": "It would also be useful to report whether the emergent concepts are stable across many random initializations, since reproducibility of emergence is itself an important finding.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001256177497156183,
+            "ai": 0.9998473865364683,
+            "paraphrased": 0.00014005168856007588
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999939154616773,
+          "sentence": "Given the deliberate simplicity of the domain, the paper could include a small step toward a more complex game, even a modestly larger board, to provide at least preliminary evidence about scaling.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000060845383227274,
+            "ai": 0.9998513662650933,
+            "paraphrased": 0.00014254919658398125
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999934514926628,
+          "sentence": "On the analysis side, combining the probing experiments with interventions, such as ablating or perturbing the units associated with a putative concept and measuring the effect on behavior, would move the claims from correlational to causal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006548507337230597,
+            "ai": 0.9998494333711978,
+            "paraphrased": 0.0001440181214650133
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953203389728,
+          "sentence": "Finally, a clearer mapping between the studied weak-supervision signal and the kinds of weak supervision encountered in realistic settings would help readers judge the external validity of the conclusions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004679661027220497,
+            "ai": 0.9998404202444546,
+            "paraphrased": 0.00015490009451815236
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999956932731496,
+          "sentence": "I want to emphasize that the controlled design is a strength; these suggestions are about bounding the claims appropriately and providing the additional evidence needed to make the emergence result convincing and generalizable in spirit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004306726850262397,
+            "ai": 0.9998589225212573,
+            "paraphrased": 0.00013677075189238592
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999929875661993,
+          "sentence": "Overall Recommendation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007012433800756949,
+            "ai": 0.9998233918189962,
+            "paraphrased": 0.00016959574720307993
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999961302389815,
+          "sentence": "This paper investigates an important and timely question about the emergence of interpretable concepts under weak supervision, and it does so with a methodologically sensible controlled study whose simplicity enables clear analysis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003869761018550453,
+            "ai": 0.9998556948651839,
+            "paraphrased": 0.00014043537379755157
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999968030163198,
+          "sentence": "The work contributes to ongoing discussions of representation learning and interpretability, and its careful, tractable setup is a real asset.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003196983680210796,
+            "ai": 0.9998305979682292,
+            "paraphrased": 0.00016620504809064523
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999960020388075,
+          "sentence": "The principal limitations are the uncertain generalization from a very simple domain to complex games, the need for more precise and falsifiable criteria for concept emergence, and the gap between decodability and functional importance in the probing analysis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000399796119263508,
+            "ai": 0.9998508224594919,
+            "paraphrased": 0.0001451795793155386
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999912318412943,
+          "sentence": "I consider this a borderline paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008768158705605866,
+            "ai": 0.9998633137192604,
+            "paraphrased": 0.00012791812203394922
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999996216382132,
+          "sentence": "Its conceptual value and clean experimental design are commendable, but the strength of its conclusions is constrained by the toy setting and by methodological questions about how emergence is established.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003783617868042942,
+            "ai": 0.9998626927635529,
+            "paraphrased": 0.0001335236185791248
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999958071221816,
+          "sentence": "I would lean toward weak acceptance if the authors sharpen their definitions, add controls and causal analyses, and discuss generalization with suitable caution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004192877818372416,
+            "ai": 0.9998786265391175,
+            "paraphrased": 0.00011718058306405452
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Summary\n\nThis paper examines whether high-level game concepts can emerge in neural networks trained under weak supervision, using the simple game of tic-tac-toe as a controlled case study and framing the question in relation to the broader challenge of learning chess-like game concepts. The central question is whether a network trained on a coarse or indirect signal, rather than explicit labels for the concepts of interest, can nonetheless develop internal representations that correspond to meaningful game-relevant notions such as board configurations, winning patterns, or move validity. The authors design a setup in which a model learns from weak supervision and then probe the learned representations and behaviors to determine whether interpretable concepts have arisen. Tic-tac-toe is chosen deliberately because its small, fully understood state space makes it possible to analyze what the network has learned with a clarity that would be impossible in a complex game. The paper reports analyses of the emergent representations and discusses what these findings suggest about concept learning under weak supervision more generally.\n\nStrengths\n\nThe paper addresses a genuinely interesting and important question about emergent representations and interpretability. Understanding whether and how meaningful concepts arise without direct supervision speaks to fundamental issues in deep learning, and the topic is well aligned with growing interest in interpretability and representation analysis. The framing is thoughtful and the motivation is clearly articulated.\n\nThe choice of tic-tac-toe as an experimental vehicle is a methodological strength rather than a limitation. By selecting a domain whose complete structure is known, the authors make rigorous analysis tractable: one can enumerate states, define ground-truth concepts, and check precisely whether the network's internal representations align with them. This kind of controlled study is valuable, and the deliberate simplicity supports clear, interpretable conclusions in a way that a large, messy domain would not.\n\nThe analysis of emergent concepts is the heart of the contribution, and where the paper succeeds in showing that interpretable structure arises under weak supervision, the results are illuminating. Such findings contribute to our understanding of how networks organize information and lend empirical weight to claims about emergent abstraction.\n\nWeaknesses\n\nThe most significant concern is generalization beyond the toy domain. Tic-tac-toe is extraordinarily simple, and while the paper invokes chess as a broader motivation, the leap from tic-tac-toe to genuinely complex games is enormous. It is unclear whether the emergence observed here would persist in settings with vast state spaces, long-range dependencies, and richer strategic structure. The paper should be careful not to over-claim, and readers will reasonably worry that conclusions drawn from such a small domain may not transfer.\n\nThe notion of weak supervision and what exactly counts as a concept \"emerging\" needs precise definition. There is a risk of confirmation bias in interpretability analyses, where an investigator who expects certain concepts finds evidence for them in flexible representations. The paper would be strengthened by quantitative, falsifiable criteria for concept emergence and by controls that test whether apparent concepts could arise by chance or from trivial features.\n\nThe methodology for probing representations carries its own caveats. Probing classifiers can recover information that the network does not actually use for its decisions, so demonstrating that a concept is decodable is not the same as showing that it is functionally important. A discussion of this distinction, and ideally causal interventions, would make the claims more robust.\n\nFinally, the practical and theoretical implications could be developed further. Given the simplicity of the domain, the paper needs to articulate clearly what general lesson the community should draw, and to temper that lesson with appropriate caution about scope.\n\nQuestions for the Authors\n\nFirst, what precise, quantitative criteria define when a concept has \"emerged,\" and what controls rule out the possibility that the observed structure reflects chance or trivial correlates?\n\nSecond, do the probing analyses establish that the emergent concepts are actually used by the network for its decisions, or only that they are decodable? Have you considered causal interventions to test functional relevance?\n\nThird, how do you expect these findings to scale to more complex games, and what evidence, even preliminary, supports the relevance of tic-tac-toe results to the chess-like setting that motivates the work?\n\nFourth, how sensitive are the emergent representations to architectural choices, training signal, and random initialization? Do the same concepts reliably appear across runs?\n\nFifth, what specific, general conclusion about weak supervision should the community take from this study, stated with appropriate caveats about the toy domain?\n\nAdditional Comments\n\nTo make the study more compelling, I would suggest a few additions. A baseline comparison showing what concepts, if any, emerge under random or shuffled supervision would help establish that the observed structure genuinely reflects learning rather than artifacts of the architecture or data statistics. It would also be useful to report whether the emergent concepts are stable across many random initializations, since reproducibility of emergence is itself an important finding. Given the deliberate simplicity of the domain, the paper could include a small step toward a more complex game, even a modestly larger board, to provide at least preliminary evidence about scaling. On the analysis side, combining the probing experiments with interventions, such as ablating or perturbing the units associated with a putative concept and measuring the effect on behavior, would move the claims from correlational to causal. Finally, a clearer mapping between the studied weak-supervision signal and the kinds of weak supervision encountered in realistic settings would help readers judge the external validity of the conclusions. I want to emphasize that the controlled design is a strength; these suggestions are about bounding the claims appropriately and providing the additional evidence needed to make the emergence result convincing and generalizable in spirit.\n\nOverall Recommendation\n\nThis paper investigates an important and timely question about the emergence of interpretable concepts under weak supervision, and it does so with a methodologically sensible controlled study whose simplicity enables clear analysis. The work contributes to ongoing discussions of representation learning and interpretability, and its careful, tractable setup is a real asset. The principal limitations are the uncertain generalization from a very simple domain to complex games, the need for more precise and falsifiable criteria for concept emergence, and the gap between decodability and functional importance in the probing analysis. I consider this a borderline paper. Its conceptual value and clean experimental design are commendable, but the strength of its conclusions is constrained by the toy setting and by methodological questions about how emergence is established. I would lean toward weak acceptance if the authors sharpen their definitions, add controls and causal analyses, and discuss generalization with suitable caution.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        }
+      ],
+      "completely_generated_prob": 0.0001356235734368441,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9998628833992468,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0004315839526539807,
+          "sentence": "Years ago, when we still wrote paper letters, it could sometimes happen that one would get mislaid on us.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999568416047346,
+            "ai": 0.00014947210928174952,
+            "paraphrased": 0.00028211184337223114
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004053056109935018,
+          "sentence": "That is, for some reason that document would slip in among other papers and we were no longer able to find it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995946943890065,
+            "ai": 0.00013183052235313318,
+            "paraphrased": 0.0002734750886403686
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005140108797329397,
+          "sentence": "As a result, we would forget the letter and delay our reply much longer than courtesy recommends.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994859891202671,
+            "ai": 0.00023422614780819852,
+            "paraphrased": 0.0002797847319247412
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004133215122100981,
+          "sentence": "Now this situation sometimes happens to me with e-mails: I use Gmail, and the keyboard shortcuts sometimes play a trick on me, archiving something without my noticing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995866784877899,
+            "ai": 0.00012262336254030733,
+            "paraphrased": 0.00029069814966979076
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00035435604943153683,
+          "sentence": "Some time passes, I remember that e-mail, and when I go to answer the person who had written to me I would like to begin with a: But of course, I wonder: is it appropriate to use this term in a virtual context?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996456439505684,
+            "ai": 0.00009802890939020529,
+            "paraphrased": 0.00025632714004133155
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003458508786869571,
+          "sentence": "Is there some other word that is more independent of the material, or has “getting mislaid among papers” already gained enough abstraction to be used here too?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999654149121313,
+            "ai": 0.00011372007148276139,
+            "paraphrased": 0.0002321308072041957
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9998628833992468,
+        "ai": 0.00013711660075317643,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9998628833992468,
+          "ai": 0.00013711660075317643,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Years ago, when we still wrote paper letters, it could sometimes happen that one would get mislaid on us. That is, for some reason that document would slip in among other papers and we were no longer able to find it. As a result, we would forget the letter and delay our reply much longer than courtesy recommends. Now this situation sometimes happens to me with e-mails: I use Gmail, and the keyboard shortcuts sometimes play a trick on me, archiving something without my noticing. Some time passes, I remember that e-mail, and when I go to answer the person who had written to me I would like to begin with a: But of course, I wonder: is it appropriate to use this term in a virtual context? Is there some other word that is more independent of the material, or has “getting mislaid among papers” already gained enough abstraction to be used here too?\n",
+      "document_id": null
+    }
+  ]
+}

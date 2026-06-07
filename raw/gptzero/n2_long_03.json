@@ -1,0 +1,1319 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 40,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 47,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 53,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 59,
+          "num_sentences": 9,
+          "completely_generated_prob": 0.9257822263275673
+        },
+        {
+          "start_sentence_index": 68,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9999784050800238,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999928870003507,
+          "sentence": "The paper proposes compositional kernel machines, an instance-based method for visual classification that aims to combine features of kernel methods, nearest-neighbor methods, and convolutional architectures.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007112999649330692,
+            "ai": 0.9999539072781847,
+            "paraphrased": 0.00003897972216600214
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999918810339937,
+          "sentence": "The main idea is to compare a query image not only with the training images themselves, but also with a very large implicit set of “virtual instances” created by recombining local elements from those training examples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008118966006266866,
+            "ai": 0.9999570319418949,
+            "paraphrased": 0.00003484909209880873
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999937269067735,
+          "sentence": "To make inference over this exponential set tractable, the authors use a sum-product-function representation under decomposability constraints.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000627309322662478,
+            "ai": 0.999953692071555,
+            "paraphrased": 0.00004003483521836643
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931637053002,
+          "sentence": "They define CKMs recursively through leaf kernels, products over disjoint scopes, and weighted sums over common scopes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006836294699791488,
+            "ai": 0.9999514170753706,
+            "paraphrased": 0.000041746629929600584
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999935743263904,
+          "sentence": "They also describe a uniform-weight version and a discriminatively trained version using leave-one-out squared-hinge loss.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006425673609699011,
+            "ai": 0.9999529618898457,
+            "paraphrased": 0.00004061243654461014
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999949920522603,
+          "sentence": "Experiments on small NORB and two derived NORB variants suggest that the approach can outperform standard instance-based methods and compete with some neural baselines in low-data settings where composition and symmetry matter.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005007947739730104,
+            "ai": 0.9999529615678997,
+            "paraphrased": 0.00004203048436057489
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953487289049,
+          "sentence": "The paper’s main strength is that it explores a useful middle ground between classical nonparametric or kernel methods and deep compositional models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004651271095062271,
+            "ai": 0.9999492467503214,
+            "paraphrased": 0.000046101978583543874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999959852541709,
+          "sentence": "The motivation is convincing: if visual categories are compositional and show local symmetries, then a method that can recombine observed parts should need fewer complete image examples than a purely global nearest-neighbor or SVM approach.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004014745829147006,
+            "ai": 0.9999452139504451,
+            "paraphrased": 0.00005077130372575981
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999939965566966,
+          "sentence": "Sum-product structure is a natural way to represent many possible recombinations compactly, and it could be powerful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006003443303371285,
+            "ai": 0.9999578765145756,
+            "paraphrased": 0.00003612004212104536
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999954200401905,
+          "sentence": "I also appreciated the authors’ effort to make the sample-complexity argument concrete.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000045799598096155604,
+            "ai": 0.9999533028721371,
+            "paraphrased": 0.00004211716805330726
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999952512963991,
+          "sentence": "Rather than only claiming that composition should help, they implement a model that can sum or maximize over many latent part assignments and test it on settings designed to isolate composition and symmetry.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004748703600936189,
+            "ai": 0.9999523787357519,
+            "paraphrased": 0.000042872560647117374
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999926605015603,
+          "sentence": "The paper is also fairly clear at the conceptual level.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007339498439670227,
+            "ai": 0.9999578465597896,
+            "paraphrased": 0.000034813941770784465
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991416832916,
+          "sentence": "Defining CKMs as recursively composed sums and products is simple, and the analogy to sum-product networks and image grammars is helpful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008583167083950473,
+            "ai": 0.9999523175501359,
+            "paraphrased": 0.00003909928278010393
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999881087348302,
+          "sentence": "The claim that SVMs and nearest-neighbor-like methods can be viewed as special cases helps position the work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011891265169751439,
+            "ai": 0.9999493607634795,
+            "paraphrased": 0.00003874797135073084
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999453453940144,
+          "sentence": "The leave-one-out training objective makes sense for an instance-based learner, and the distinction between CKM with uniform weights and CKMW with learned weights is useful in the experiments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005465460598559707,
+            "ai": 0.9994302191213014,
+            "paraphrased": 0.000023234818842632058
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999971357373898,
+          "sentence": "The paper is ambitious: it tries to introduce a family of models rather than a single ad hoc architecture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002864262610201176,
+            "ai": 0.9999587043450773,
+            "paraphrased": 0.00001265302882068414
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999956175277606,
+          "sentence": "The experiments provide some encouraging evidence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004382472239400959,
+            "ai": 0.9999448861236946,
+            "paraphrased": 0.000011289153911426657
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999650039843005,
+          "sentence": "The gains over raw nearest-neighbor methods on small NORB support the claim that local composition can reduce the curse of dimensionality relative to global image matching.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000034996015699494786,
+            "ai": 0.9999517770829569,
+            "paraphrased": 0.00001322690134361207
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999862223052021,
+          "sentence": "The synthetic NORB Compositions experiment is a reasonable attempt to test whether a method can generalize from observed parts to unseen combinations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013777694797926255,
+            "ai": 0.9999728089512925,
+            "paraphrased": 0.000013413353909574471
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999871422832843,
+          "sentence": "In that setting, the reported advantage over a conventionally trained convolutional network is plausible and interesting, especially given the small training set.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012857716715737314,
+            "ai": 0.9999740148932034,
+            "paraphrased": 0.000013127390080944445
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999846730417447,
+          "sentence": "The NORB Symmetries learning curves also tell a coherent story: the proposed method benefits from additional examples without requiring extensive retraining, and the learned-weight version begins to improve as more data become available.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015326958255333185,
+            "ai": 0.9999715576472936,
+            "paraphrased": 0.000013115394451079727
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999184889460171,
+          "sentence": "I still have several serious concerns that keep me from being convinced by the paper in its current form.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008151105398289515,
+            "ai": 0.999906625227814,
+            "paraphrased": 0.000011863718203061162
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999359522599718,
+          "sentence": "One concern is that the term “kernel machine” is used rather loosely.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006404774002821243,
+            "ai": 0.9999238719693215,
+            "paraphrased": 0.000012080290650282065
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999718605337776,
+          "sentence": "The theoretical presentation starts from kernel methods and kernel composition, but the experimental model uses a max-sum semiring and arbitrary local scoring functions, including costs and thresholds.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028139466222376507,
+            "ai": 0.999959717308734,
+            "paraphrased": 0.000012143225043628711
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999687825066289,
+          "sentence": "It is unclear whether the resulting discriminant corresponds to a positive semidefinite kernel, or whether the method is better understood as a latent structured matching model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000031217493371152936,
+            "ai": 0.999956873960114,
+            "paraphrased": 0.000011908546514867543
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999725133906793,
+          "sentence": "This matters because part of the paper’s motivation rests on the training advantages of kernel machines, while the optimization objective is later described as generally nonconvex.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002748660932072562,
+            "ai": 0.9999603217122031,
+            "paraphrased": 0.000012191678476242659
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998309554455085,
+          "sentence": "If CKMs are mainly max-product latent-composition models, then their relationship to SVMs is more limited than the framing implies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016904455449152412,
+            "ai": 0.9998171348657717,
+            "paraphrased": 0.000013820579736792389
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996162054822437,
+          "sentence": "The theoretical contribution also feels underdeveloped.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00038379451775631527,
+            "ai": 0.9995994136449974,
+            "paraphrased": 0.000016791837246334205
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9828072541730467,
+          "sentence": "The sum-product theorem shows that a decomposable sum-product function can be evaluated in time linear in its size, but this property comes from the representation rather than from a new algorithm specific to CKMs.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.017192745826953272,
+            "ai": 0.9826546451799638,
+            "paraphrased": 0.0001526089930828607
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9905858235923098,
+          "sentence": "The more important question is how large the representation must be to capture useful visual compositions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.009414176407690112,
+            "ai": 0.990475730281482,
+            "paraphrased": 0.00011009331082790326
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986345397944333,
+          "sentence": "The experimental architecture includes unary and pairwise max nodes over ORB features, while the equations suggest potentially very large pairwise maximizations over all training elements.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001365460205566681,
+            "ai": 0.9985801708411259,
+            "paraphrased": 0.00005436895330737893
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999258522309482,
+          "sentence": "The paper mentions approximate nearest-neighbor structures and pruning, but the exact computational complexity of the implemented model is not transparent enough.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007414776905180467,
+            "ai": 0.9999049686850848,
+            "paraphrased": 0.000020883545863417208
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999695942615139,
+          "sentence": "The claim that the method sums over exponentially many virtual instances is formally true for decomposable structures, but it may overstate the practical modeling power if the architecture captures only limited local pairwise structure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003040573848618662,
+            "ai": 0.9999491874310873,
+            "paraphrased": 0.000020406830426548463
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999501183573468,
+          "sentence": "The empirical evidence is narrow, and some comparisons do not seem fully fair to the baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004988164265321403,
+            "ai": 0.9999318241062161,
+            "paraphrased": 0.000018294251130775275
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999076308187663,
+          "sentence": "All experiments use NORB or constructed variants of NORB.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009236918123365869,
+            "ai": 0.9998842164186434,
+            "paraphrased": 0.000023414400122902404
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999553149261899,
+          "sentence": "NORB is useful for controlled studies, but it is small and stylized, while the paper makes broad claims about object recognition and alternatives to convolutional networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000044685073810049804,
+            "ai": 0.9999371409289531,
+            "paraphrased": 0.00001817399723683711
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998843395528623,
+          "sentence": "The convolutional baselines are not described in enough detail to judge their strength.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011566044713775479,
+            "ai": 0.999861642544931,
+            "paraphrased": 0.00002269700793119802
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999716616347121,
+          "sentence": "For example, on the NORB Compositions task, the convnet performs near chance, but this could reflect an unsuitable architecture, insufficient augmentation, or a weak training protocol rather than a fundamental limitation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028338365287863135,
+            "ai": 0.999952678603,
+            "paraphrased": 0.00001898303171211817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997727483648319,
+          "sentence": "The comparison to an SVM using features from a pretrained Inception model is also awkward, since those features come from a very different image distribution and may be poorly matched to grayscale toy images.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00022725163516808017,
+            "ai": 0.9997466498569915,
+            "paraphrased": 0.000026098507840451637
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999724218780265,
+          "sentence": "In the small NORB comparison, some numbers come from prior work and others from the authors’ own implementation, which makes it hard to separate algorithmic gains from differences in preprocessing, feature extraction, and hyperparameter tuning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027578121973540727,
+            "ai": 0.9999538588202672,
+            "paraphrased": 0.00001856305775923087
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999684060801548,
+          "sentence": "The synthetic datasets raise additional questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003159391984518793,
+            "ai": 0.9996544305950326,
+            "paraphrased": 0.00002963020651552728
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995613559756303,
+          "sentence": "The NORB Compositions task is interesting, but it may strongly favor local feature matching.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004386440243696287,
+            "ai": 0.9995258326358138,
+            "paraphrased": 0.0000355233398165173
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995730670035806,
+          "sentence": "If the label is determined by the identity of local toy instances in an image, and ORB descriptors can match those instances directly, then the task may be closer to multi-object instance retrieval than to semantic compositional generalization.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004269329964193735,
+            "ai": 0.999489430539865,
+            "paraphrased": 0.00008363646371554708
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998670448517473,
+          "sentence": "That is still a valid problem, but it is narrower than the discussion suggests.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013295514825268693,
+            "ai": 0.9998228191683366,
+            "paraphrased": 0.000044225683410707614
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999896871853144,
+          "sentence": "It would help to know how the method behaves when the relevant parts vary more, when distractors are present, or when local descriptors are less reliable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010312814685589441,
+            "ai": 0.9998527467149211,
+            "paraphrased": 0.00004412513822299067
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998857828983599,
+          "sentence": "The NORB Symmetries experiment also seems well suited to an ORB-based method, since ORB descriptors already provide some rotation invariance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011421710164010725,
+            "ai": 0.9987520483178512,
+            "paraphrased": 0.00010578066574773223
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993018648447354,
+          "sentence": "The paper should separate the gains due to the CKM composition mechanism from those due to hand-engineered invariances in the local features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000698135155264672,
+            "ai": 0.9992021618548423,
+            "paraphrased": 0.00009970298989300916
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994542053336374,
+          "sentence": "The learning procedure needs more detail and evaluation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005457946663626643,
+            "ai": 0.9993652668802269,
+            "paraphrased": 0.00008893845341048707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997561706380416,
+          "sentence": "The leave-one-out objective is appealing, but it is unclear how expensive exact training is as the number of images and elements grows, especially with pairwise terms.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00024382936195844915,
+            "ai": 0.9996923307668434,
+            "paraphrased": 0.00006383987119820888
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999089503609087,
+          "sentence": "The authors say that gradients can be computed efficiently and that small leaf-kernel values may be excluded, but the experiments do not clearly distinguish exact training from approximate training.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009104963909132164,
+            "ai": 0.9998637133200641,
+            "paraphrased": 0.00004523704084456157
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998355490578211,
+          "sentence": "There is little discussion of regularization, constraints on weights, initialization beyond uniform weights, or sensitivity to hyperparameters.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016445094217884478,
+            "ai": 0.9997797338787954,
+            "paraphrased": 0.00005581517902573212
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996460292185377,
+          "sentence": "The method includes ORB extraction parameters, leaf-kernel parameters, cost-function parameters, approximate search parameters, and architectural parameters, so a more systematic analysis is needed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003539707814622409,
+            "ai": 0.9995714192399783,
+            "paraphrased": 0.00007460997855946714
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995235170444758,
+          "sentence": "The paper criticizes convolutional networks for difficult hyperparameter tuning, but CKMs seem to introduce a substantial design space of their own.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004764829555240689,
+            "ai": 0.9994458366087098,
+            "paraphrased": 0.00007768043576611192
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999031480636787,
+          "sentence": "Scalability is another concern.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009685193632126003,
+            "ai": 0.9998489004377853,
+            "paraphrased": 0.00005424762589342577
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998512439526488,
+          "sentence": "The paper argues that CKMs are attractive when new data arrive because training can be fast and instance-based.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014875604735117834,
+            "ai": 0.9997892716910427,
+            "paraphrased": 0.00006197226160613879
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995335150913823,
+          "sentence": "However, the model size grows with the training set, and test-time computation appears much slower than the reported convolutional network testing time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004664849086176407,
+            "ai": 0.9994492192130622,
+            "paraphrased": 0.00008429587832014013
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998948032530338,
+          "sentence": "This tradeoff may be acceptable in some settings, but the paper should be more precise about memory use, indexing costs, update costs, and test-time latency as datasets grow beyond NORB scale.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010519674696623478,
+            "ai": 0.9998286331732942,
+            "paraphrased": 0.00006617007973959215
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9976272288933311,
+          "sentence": "The claim that adding instances and categories is easy should be supported by incremental experiments, not just stated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0023727711066688817,
+            "ai": 0.9974461112722259,
+            "paraphrased": 0.0001811176211051498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9947283608192964,
+          "sentence": "For real object recognition tasks, storing and searching all local features from all training images could become a serious bottleneck.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005271639180703645,
+            "ai": 0.9944819158125425,
+            "paraphrased": 0.00024644500675381943
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997575956748079,
+          "sentence": "I would like the authors to clarify several points.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00024240432519214577,
+            "ai": 0.9996643889877369,
+            "paraphrased": 0.000093206687070986
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995454392951807,
+          "sentence": "In what precise sense is the experimental CKM a kernel machine?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004545607048192399,
+            "ai": 0.9994140153119507,
+            "paraphrased": 0.00013142398322998292
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997666804571678,
+          "sentence": "Does the max-sum version define a positive semidefinite kernel, or is it better viewed as a latent matching discriminant?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00023331954283223203,
+            "ai": 0.9996723495095233,
+            "paraphrased": 0.00009433094764443388
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999599277844875,
+          "sentence": "How much of the empirical improvement comes from ORB features alone, local position-aware matching, the pairwise source-image coherence cost, and the sum-product architecture?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004007221551243644,
+            "ai": 0.9998922099902674,
+            "paraphrased": 0.00006771779422014125
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998506411201686,
+          "sentence": "Ablations removing each of these components would be valuable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014935887983132286,
+            "ai": 0.9997585481962634,
+            "paraphrased": 0.00009209292390523819
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999762638797856,
+          "sentence": "The paper should also explain how hyperparameters are selected, and whether validation images are disjoint from test images in object identity and transformation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023736120214496785,
+            "ai": 0.9999153680759074,
+            "paraphrased": 0.00006089580387809439
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999814007239057,
+          "sentence": "For the pairwise max nodes, is the maximization over all pairs of training elements actually performed, approximated by nearest-neighbor search, or pruned by thresholds?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018599276094295605,
+            "ai": 0.9999146624745372,
+            "paraphrased": 0.00006673824936850456
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999492925164517,
+          "sentence": "What are the memory and runtime costs as functions of the number of training images and extracted elements?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000050707483548362,
+            "ai": 0.9998851974492078,
+            "paraphrased": 0.00006409506724387513
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999791999596752,
+          "sentence": "Finally, the method should be evaluated on at least one less controlled dataset, or against a stronger modern convnet baseline trained with a protocol suited to small data.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020800040324855672,
+            "ai": 0.9999247000364749,
+            "paraphrased": 0.00005449992320026164
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99993734013744,
+          "sentence": "Overall, I find the paper creative and potentially promising, but not yet convincing as a strong ICLR contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006265986256001495,
+            "ai": 0.9998810184713851,
+            "paraphrased": 0.000056321666054832014
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999290947614823,
+          "sentence": "The idea of implicit compositional virtual instances is interesting, and the connection to tractable sum-product evaluation could lead to useful models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007090523851780938,
+            "ai": 0.9998556147289706,
+            "paraphrased": 0.00007348003251167493
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999666772932776,
+          "sentence": "In its current form, however, the submission overstates the kernel-method interpretation, relies on limited and somewhat favorable experiments, and lacks enough ablation and scalability analysis to establish the practical value of the approach.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000033322706722368754,
+            "ai": 0.9999106888304522,
+            "paraphrased": 0.000055988462825393685
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999419578538514,
+          "sentence": "My recommendation is weak reject for the main conference.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005804214614857592,
+            "ai": 0.9998855370129403,
+            "paraphrased": 0.00005642084091121345
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999827110438206,
+          "sentence": "I would be enthusiastic about a revised version with clearer theoretical positioning, stronger baselines, more detailed computational analysis, and broader empirical validation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001728895617929305,
+            "ai": 0.9999313539252447,
+            "paraphrased": 0.000051357118575989464
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The paper proposes compositional kernel machines, an instance-based method for visual classification that aims to combine features of kernel methods, nearest-neighbor methods, and convolutional architectures. The main idea is to compare a query image not only with the training images themselves, but also with a very large implicit set of “virtual instances” created by recombining local elements from those training examples. To make inference over this exponential set tractable, the authors use a sum-product-function representation under decomposability constraints. They define CKMs recursively through leaf kernels, products over disjoint scopes, and weighted sums over common scopes. They also describe a uniform-weight version and a discriminatively trained version using leave-one-out squared-hinge loss. Experiments on small NORB and two derived NORB variants suggest that the approach can outperform standard instance-based methods and compete with some neural baselines in low-data settings where composition and symmetry matter.\n\nThe paper’s main strength is that it explores a useful middle ground between classical nonparametric or kernel methods and deep compositional models. The motivation is convincing: if visual categories are compositional and show local symmetries, then a method that can recombine observed parts should need fewer complete image examples than a purely global nearest-neighbor or SVM approach. Sum-product structure is a natural way to represent many possible recombinations compactly, and it could be powerful. I also appreciated the authors’ effort to make the sample-complexity argument concrete. Rather than only claiming that composition should help, they implement a model that can sum or maximize over many latent part assignments and test it on settings designed to isolate composition and symmetry.\n\nThe paper is also fairly clear at the conceptual level. Defining CKMs as recursively composed sums and products is simple, and the analogy to sum-product networks and image grammars is helpful. The claim that SVMs and nearest-neighbor-like methods can be viewed as special cases helps position the work. The leave-one-out training objective makes sense for an instance-based learner, and the distinction between CKM with uniform weights and CKMW with learned weights is useful in the experiments. The paper is ambitious: it tries to introduce a family of models rather than a single ad hoc architecture.\n\nThe experiments provide some encouraging evidence. The gains over raw nearest-neighbor methods on small NORB support the claim that local composition can reduce the curse of dimensionality relative to global image matching. The synthetic NORB Compositions experiment is a reasonable attempt to test whether a method can generalize from observed parts to unseen combinations. In that setting, the reported advantage over a conventionally trained convolutional network is plausible and interesting, especially given the small training set. The NORB Symmetries learning curves also tell a coherent story: the proposed method benefits from additional examples without requiring extensive retraining, and the learned-weight version begins to improve as more data become available.\n\nI still have several serious concerns that keep me from being convinced by the paper in its current form. One concern is that the term “kernel machine” is used rather loosely. The theoretical presentation starts from kernel methods and kernel composition, but the experimental model uses a max-sum semiring and arbitrary local scoring functions, including costs and thresholds. It is unclear whether the resulting discriminant corresponds to a positive semidefinite kernel, or whether the method is better understood as a latent structured matching model. This matters because part of the paper’s motivation rests on the training advantages of kernel machines, while the optimization objective is later described as generally nonconvex. If CKMs are mainly max-product latent-composition models, then their relationship to SVMs is more limited than the framing implies.\n\nThe theoretical contribution also feels underdeveloped. The sum-product theorem shows that a decomposable sum-product function can be evaluated in time linear in its size, but this property comes from the representation rather than from a new algorithm specific to CKMs. The more important question is how large the representation must be to capture useful visual compositions. The experimental architecture includes unary and pairwise max nodes over ORB features, while the equations suggest potentially very large pairwise maximizations over all training elements. The paper mentions approximate nearest-neighbor structures and pruning, but the exact computational complexity of the implemented model is not transparent enough. The claim that the method sums over exponentially many virtual instances is formally true for decomposable structures, but it may overstate the practical modeling power if the architecture captures only limited local pairwise structure.\n\nThe empirical evidence is narrow, and some comparisons do not seem fully fair to the baselines. All experiments use NORB or constructed variants of NORB. NORB is useful for controlled studies, but it is small and stylized, while the paper makes broad claims about object recognition and alternatives to convolutional networks. The convolutional baselines are not described in enough detail to judge their strength. For example, on the NORB Compositions task, the convnet performs near chance, but this could reflect an unsuitable architecture, insufficient augmentation, or a weak training protocol rather than a fundamental limitation. The comparison to an SVM using features from a pretrained Inception model is also awkward, since those features come from a very different image distribution and may be poorly matched to grayscale toy images. In the small NORB comparison, some numbers come from prior work and others from the authors’ own implementation, which makes it hard to separate algorithmic gains from differences in preprocessing, feature extraction, and hyperparameter tuning.\n\nThe synthetic datasets raise additional questions. The NORB Compositions task is interesting, but it may strongly favor local feature matching. If the label is determined by the identity of local toy instances in an image, and ORB descriptors can match those instances directly, then the task may be closer to multi-object instance retrieval than to semantic compositional generalization. That is still a valid problem, but it is narrower than the discussion suggests. It would help to know how the method behaves when the relevant parts vary more, when distractors are present, or when local descriptors are less reliable. The NORB Symmetries experiment also seems well suited to an ORB-based method, since ORB descriptors already provide some rotation invariance. The paper should separate the gains due to the CKM composition mechanism from those due to hand-engineered invariances in the local features.\n\nThe learning procedure needs more detail and evaluation. The leave-one-out objective is appealing, but it is unclear how expensive exact training is as the number of images and elements grows, especially with pairwise terms. The authors say that gradients can be computed efficiently and that small leaf-kernel values may be excluded, but the experiments do not clearly distinguish exact training from approximate training. There is little discussion of regularization, constraints on weights, initialization beyond uniform weights, or sensitivity to hyperparameters. The method includes ORB extraction parameters, leaf-kernel parameters, cost-function parameters, approximate search parameters, and architectural parameters, so a more systematic analysis is needed. The paper criticizes convolutional networks for difficult hyperparameter tuning, but CKMs seem to introduce a substantial design space of their own.\n\nScalability is another concern. The paper argues that CKMs are attractive when new data arrive because training can be fast and instance-based. However, the model size grows with the training set, and test-time computation appears much slower than the reported convolutional network testing time. This tradeoff may be acceptable in some settings, but the paper should be more precise about memory use, indexing costs, update costs, and test-time latency as datasets grow beyond NORB scale. The claim that adding instances and categories is easy should be supported by incremental experiments, not just stated. For real object recognition tasks, storing and searching all local features from all training images could become a serious bottleneck.\n\nI would like the authors to clarify several points. In what precise sense is the experimental CKM a kernel machine? Does the max-sum version define a positive semidefinite kernel, or is it better viewed as a latent matching discriminant? How much of the empirical improvement comes from ORB features alone, local position-aware matching, the pairwise source-image coherence cost, and the sum-product architecture? Ablations removing each of these components would be valuable. The paper should also explain how hyperparameters are selected, and whether validation images are disjoint from test images in object identity and transformation. For the pairwise max nodes, is the maximization over all pairs of training elements actually performed, approximated by nearest-neighbor search, or pruned by thresholds? What are the memory and runtime costs as functions of the number of training images and extracted elements? Finally, the method should be evaluated on at least one less controlled dataset, or against a stronger modern convnet baseline trained with a protocol suited to small data.\n\nOverall, I find the paper creative and potentially promising, but not yet convincing as a strong ICLR contribution. The idea of implicit compositional virtual instances is interesting, and the connection to tractable sum-product evaluation could lead to useful models. In its current form, however, the submission overstates the kernel-method interpretation, relies on limited and somewhat favorable experiments, and lacks enough ablation and scalability analysis to establish the practical value of the approach. My recommendation is weak reject for the main conference. I would be enthusiastic about a revised version with clearer theoretical positioning, stronger baselines, more detailed computational analysis, and broader empirical validation.\n",
+      "document_id": null
+    }
+  ]
+}

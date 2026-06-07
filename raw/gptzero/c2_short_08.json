@@ -1,0 +1,213 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        }
+      ],
+      "completely_generated_prob": 0.0006703305503310265,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9993291388510742,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.002965165101267203,
+          "sentence": "After reading a bunch of threads on /r/FanTheories, I thought about the plot for the novel I'm writing and started considering whether there were any scenarios ambiguous enough to allow for that kind of interpretation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9970348348987328,
+            "ai": 0.002856839706303426,
+            "paraphrased": 0.00010832539496377726
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0031151896853231376,
+          "sentence": "I started thinking along the lines of “what if this was really that?” or “what if this character wasn’t trying to do this, but actually that?” and realised there was room for a huge underlying conspiracy that drastically alters the dynamic of the story while keeping all the plot details completely intact.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9968848103146769,
+            "ai": 0.003007062852818038,
+            "paraphrased": 0.00010812683250509976
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0031925070201175576,
+          "sentence": "I had worried my plot was too linear, but now I'm finding so much room for depth where I'd previously felt there was none.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9968074929798825,
+            "ai": 0.003084359901719717,
+            "paraphrased": 0.00010814711839784052
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0031646400522827643,
+          "sentence": "Maybe it's just the coffee or how late it is here, but this felt like such a eureka moment that I thought I'd share it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9968353599477172,
+            "ai": 0.003069439514118886,
+            "paraphrased": 0.0000952005381638784
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002873877574914373,
+          "sentence": "It probably won't work for every plot, but the way this one just fell into place was so wonderfully satisfying, and even a bit mind-blowing, that I'd recommend it to anyone who isn't 100% sure of their plot.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9971261224250856,
+            "ai": 0.002775068051724362,
+            "paraphrased": 0.00009880952319001069
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0027144963161073368,
+          "sentence": "Many an excited scribble tonight.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9972855036838927,
+            "ai": 0.002625006066680838,
+            "paraphrased": 0.00008949024942649888
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002815030874003656,
+          "sentence": "Edit: This got more attention than I expected!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9971849691259963,
+            "ai": 0.0027372093021310086,
+            "paraphrased": 0.00007782157187264742
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.003385546521977698,
+          "sentence": "I hope the people who've read this get as much joy from the idea as I did.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9966144534780224,
+            "ai": 0.0032849891851610513,
+            "paraphrased": 0.00010055733681664687
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9993291388510742,
+        "ai": 0.000670861148925717,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9993291388510742,
+          "ai": 0.000670861148925717,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "After reading a bunch of threads on /r/FanTheories, I thought about the plot for the novel I'm writing and started considering whether there were any scenarios ambiguous enough to allow for that kind of interpretation.\n\nI started thinking along the lines of “what if this was really that?” or “what if this character wasn’t trying to do this, but actually that?” and realised there was room for a huge underlying conspiracy that drastically alters the dynamic of the story while keeping all the plot details completely intact. I had worried my plot was too linear, but now I'm finding so much room for depth where I'd previously felt there was none.\n\nMaybe it's just the coffee or how late it is here, but this felt like such a eureka moment that I thought I'd share it. It probably won't work for every plot, but the way this one just fell into place was so wonderfully satisfying, and even a bit mind-blowing, that I'd recommend it to anyone who isn't 100% sure of their plot.\n\nMany an excited scribble tonight.\n\nEdit: This got more attention than I expected! I hope the people who've read this get as much joy from the idea as I did.\n",
+      "document_id": null
+    }
+  ]
+}

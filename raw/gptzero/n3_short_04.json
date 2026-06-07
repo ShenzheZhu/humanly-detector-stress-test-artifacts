@@ -1,0 +1,287 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        }
+      ],
+      "completely_generated_prob": 0.9995663943138727,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999647024307029,
+          "sentence": "Today I finally reached 20,000 words in my novel draft, and I can’t resist posting to celebrate.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003529756929705459,
+            "ai": 0.9966973034058879,
+            "paraphrased": 0.0032673990248150036
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999965566040576,
+          "sentence": "That may not be much to many people, but to me it feels like crossing a small hill.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003443395942398956,
+            "ai": 0.9968892609926852,
+            "paraphrased": 0.00307630504789081
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999705409348728,
+          "sentence": "I used to say I was writing a novel, but I mostly revised the opening, deleted paragraphs, and doubted the setup.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000029459065127131753,
+            "ai": 0.9971778593114,
+            "paraphrased": 0.0027926816234728463
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999671008197223,
+          "sentence": "After a few hundred words, I would think it was not good enough.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003289918027770623,
+            "ai": 0.9970733915341592,
+            "paraphrased": 0.00289370928556306
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999803061675298,
+          "sentence": "I worried the story would collapse later, the characters would feel false, and if I did not fix everything now, everything would be ruined.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001969383247022409,
+            "ai": 0.9968520905263454,
+            "paraphrased": 0.0031282156411844148
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999736763758985,
+          "sentence": "Years passed, and the document still had only those chapters.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002632362410147826,
+            "ai": 0.9971470321165427,
+            "paraphrased": 0.002826644259355832
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999802275221779,
+          "sentence": "This year I set myself a tiny goal: write at least a little every day, even just two hundred words, and no going back for major revisions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019772477822168893,
+            "ai": 0.9972335363849014,
+            "paraphrased": 0.002746691137276463
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999790422172966,
+          "sentence": "At first it was painful, like pinning myself to the chair.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020957782703320694,
+            "ai": 0.9969787500180959,
+            "paraphrased": 0.003000292199200757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999787082499847,
+          "sentence": "But slowly, the story actually moved forward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021291750015270183,
+            "ai": 0.9975727506245735,
+            "paraphrased": 0.002405957625411211
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999691627553887,
+          "sentence": "It is still rough, and some parts will definitely need rewriting, but at last it exists.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003083724461133826,
+            "ai": 0.9973258079732253,
+            "paraphrased": 0.0026433547821633225
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999598176537274,
+          "sentence": "For the first time, I feel I might really finish it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004018234627265689,
+            "ai": 0.9974511482061873,
+            "paraphrased": 0.002508669447540082
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Today I finally reached 20,000 words in my novel draft, and I can’t resist posting to celebrate. That may not be much to many people, but to me it feels like crossing a small hill.\n\nI used to say I was writing a novel, but I mostly revised the opening, deleted paragraphs, and doubted the setup. After a few hundred words, I would think it was not good enough. I worried the story would collapse later, the characters would feel false, and if I did not fix everything now, everything would be ruined. Years passed, and the document still had only those chapters.\n\nThis year I set myself a tiny goal: write at least a little every day, even just two hundred words, and no going back for major revisions. At first it was painful, like pinning myself to the chair. But slowly, the story actually moved forward. It is still rough, and some parts will definitely need rewriting, but at last it exists.\n\nFor the first time, I feel I might really finish it.\n",
+      "document_id": null
+    }
+  ]
+}

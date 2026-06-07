@@ -1,0 +1,809 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 10,
+          "completely_generated_prob": 5.7802509961791254e-9
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 36,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        }
+      ],
+      "completely_generated_prob": 0.00001951364197354028,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999798633486774,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0004626137461732632,
+          "sentence": "# A very successful new book in the Jarle Klepp series!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995373862538267,
+            "ai": 0.0004341437760666885,
+            "paraphrased": 0.000028469970106574717
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00033142960212888874,
+          "sentence": "In this fifth book in the Jarle Klepp series, Jarle has managed to become 38 years old.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996685703978712,
+            "ai": 0.00030621551449644993,
+            "paraphrased": 0.00002521408763243881
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00047104879249162084,
+          "sentence": "He is happily married to his Iselin, with whom he has had two children: Åshild, who is six, and Sven, who is not quite three.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995289512075084,
+            "ai": 0.0004422112017638504,
+            "paraphrased": 0.00002883759072777045
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002107671176737014,
+          "sentence": "That he would end up as a teacher like his father was perhaps not quite what he had dreamed of, but basically he is happy with that too.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997892328823264,
+            "ai": 0.00018971794213322137,
+            "paraphrased": 0.00002104917554048004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013277903866426246,
+          "sentence": "Because as long as he gets to read the books he wants, listen to the music he loves, follow some of the series that are on TV, have good moments together with his wife and not least with his children - yes, then he is a happy man.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998672209613357,
+            "ai": 0.00011445585053577514,
+            "paraphrased": 0.00001832318812848733
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002367321604060997,
+          "sentence": "He must be able to say that!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997632678395939,
+            "ai": 0.00021372626915820245,
+            "paraphrased": 0.00002300589124789724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001781299284215924,
+          "sentence": "From the earlier books about Jarle Klepp, we know about his upbringing with an alcoholic father.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998218700715784,
+            "ai": 0.00015850473295585704,
+            "paraphrased": 0.000019625195465735346
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002002848013627943,
+          "sentence": "It all ended with his mother divorcing him, because she could no longer stand the wretched life with a man whose greatest interest in life was to drink, drink, drink ... A man who criticized her because she did not drink together with him.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997997151986372,
+            "ai": 0.00017939279645162306,
+            "paraphrased": 0.00002089200491117125
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016219423455217502,
+          "sentence": "Did they perhaps no longer have anything in common?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998378057654478,
+            "ai": 0.00014228064516098887,
+            "paraphrased": 0.00001991358939118614
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00024928659592288036,
+          "sentence": "She who was only boring and mean.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997507134040772,
+            "ai": 0.00022621098638418014,
+            "paraphrased": 0.000023075609538700216
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013733038013643954,
+          "sentence": "After the divorce, things quickly went downhill for the father, who - even though he died of a heart attack - actually drank himself to death, now that he no longer had anyone he needed to pull himself together for.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998626696198636,
+            "ai": 0.00011893743779435133,
+            "paraphrased": 0.00001839294234208821
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00034792209504797483,
+          "sentence": "Jarle has long since deeply distanced himself from his father and everything he stood for.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999652077904952,
+            "ai": 0.0003223102409374011,
+            "paraphrased": 0.00002561185411057375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001291431802998847,
+          "sentence": "It is many years since his father died, and Jarle has all along thought - to the extent that he has thought - that this thing with his father is a closed chapter in his life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998708568197001,
+            "ai": 0.00010945266262152126,
+            "paraphrased": 0.000019690517678363433
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020527293216041436,
+          "sentence": "Until New Year’s Eve in 2010, when he is going out to buy sparklers for his children and suddenly finds himself facing a girl from the past ... A girl who was the daughter of one of his parents’ friends, where his father eventually went every single weekend to drink, since it was so lousy at home.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997947270678396,
+            "ai": 0.0001833263568958034,
+            "paraphrased": 0.000021946575264610974
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005342720424499553,
+          "sentence": "A girl who knows the family’s deepest secrets, secrets Jarle would prefer to forget.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994657279575501,
+            "ai": 0.0005036078330437336,
+            "paraphrased": 0.00003066420940622168
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00027257621945613183,
+          "sentence": "But not only that - this girl even knows more about his father than he himself does.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997274237805439,
+            "ai": 0.0002474900965012562,
+            "paraphrased": 0.000025086122954875627
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004564972327012212,
+          "sentence": "Does he really want to know about this?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995435027672988,
+            "ai": 0.00042635165201656346,
+            "paraphrased": 0.000030145580684657704
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007848959721280458,
+          "sentence": "Is it not enough, what he already knows about his father?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999215104027872,
+            "ai": 0.0007716127024910822,
+            "paraphrased": 0.00001328326963696362
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00032369771830227363,
+          "sentence": "Does he need to know what really happened when he, his father, his brother and his brother’s girlfriend went hiking on Hardangervidda one summer in his childhood?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996763022816977,
+            "ai": 0.000313185578008765,
+            "paraphrased": 0.00001051214029350862
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00027617418813185234,
+          "sentence": "That time when a harrowing quarrel ended with his brother and his girlfriend leaving them - a drunk father and a frightened eleven-year-old - in the middle of Hardangervidda?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997238258118681,
+            "ai": 0.0002656334185689626,
+            "paraphrased": 0.000010540769562889695
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009419440754964979,
+          "sentence": "And does he need to know what experiences this girl herself has had in relation to his father?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999058055924503,
+            "ai": 0.00008375760919357425,
+            "paraphrased": 0.00001043679835607553
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016464125127589046,
+          "sentence": "In any case - the past comes crashing in on Jarle, a man who has avoided at any cost digging down into his own darkness, for fear of what he might find there.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998353587487241,
+            "ai": 0.00015370517386581844,
+            "paraphrased": 0.000010936077410072022
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010785977967402749,
+          "sentence": "At the same time he struggles to find his own way of being a father, and now and then he has to painfully acknowledge that he is in fact his father’s son no matter how much he dislikes thinking about this.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999892140220326,
+            "ai": 0.00009888896845769718,
+            "paraphrased": 0.000008970811216330311
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011617750131922647,
+          "sentence": "Even if he does not have alcohol problems and is far more loving than his own father was ... What does he do when his precocious little six-year-old begins talking about how she misses her grandfather, a man she has never met - yes, precisely because of that!, and demands that Jarle take her to his grave and tell her what he was like ... ?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998838224986808,
+            "ai": 0.00010666865095787746,
+            "paraphrased": 0.000009508850361349008
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001903746327643988,
+          "sentence": "I think this is a book one either loves or feels rather indifferent toward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.998096253672356,
+            "ai": 0.001890069508668902,
+            "paraphrased": 0.000013676818975085977
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010832734540367514,
+          "sentence": "I myself am among those who believe that this is the best Jarle Klepp book Tore Renberg has written!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989167265459632,
+            "ai": 0.0010708132558921756,
+            "paraphrased": 0.000012460198144575874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005324046365501387,
+          "sentence": "At the beginning I thought that it cannot possibly be possible to write so intensely and vividly about this without having experienced it firsthand!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994675953634499,
+            "ai": 0.0005218349043035425,
+            "paraphrased": 0.000010569732246596133
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0008118642544845076,
+          "sentence": "And perhaps this book has more autobiographical traits than we readers realize.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9991881357455155,
+            "ai": 0.0008002519901939075,
+            "paraphrased": 0.000011612264290600074
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006970379382889872,
+          "sentence": "and then almost describe this book as a cornucopia, I have no understanding of.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999302962061711,
+            "ai": 0.0006868261353236323,
+            "paraphrased": 0.000010211802965354866
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00439476737340219,
+          "sentence": "For my part I think “So what!” It would be naive to believe that writers do not make use of their own experiences when they write literature.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9956052326265978,
+            "ai": 0.004374838706156856,
+            "paraphrased": 0.00001992866724533423
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.03796416893458126,
+          "sentence": "Perhaps it is as simple as there actually being something universal about growing up with a parent who is more preoccupied with intoxication than with the family’s welfare?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9620358310654188,
+            "ai": 0.03791816890463476,
+            "paraphrased": 0.00004600002994650265
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022683565454339647,
+          "sentence": "At the same time, I think that I as a reader must accept that this book actually is about Jarle Klepp and not about the author!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997731643454566,
+            "ai": 0.00021722977083087644,
+            "paraphrased": 0.000009605883712520027
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007610268860760998,
+          "sentence": "This book really got under my skin!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999238973113924,
+            "ai": 0.00006740975126413352,
+            "paraphrased": 0.000008692937343476455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004129414431445249,
+          "sentence": "At the same time as Renberg writes about Jarle’s sad childhood with a father who drank, the book is full of touching sequences about him and his relationship with his children.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999587058556856,
+            "ai": 0.000030772835439147505,
+            "paraphrased": 0.000010521308875304992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000048468102858212315,
+          "sentence": "About little Sven, who is in the process of leaving the baby stage and becoming a boy, about the daughter Åshild, who constantly challenges her father with her explosive self ... a girl who is a true version of today’s young negotiating generation, and who, despite her young age, is not willing to take no for an answer, at least not before she understands why.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999515318971418,
+            "ai": 0.00003849369943019798,
+            "paraphrased": 0.000009974403428014329
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005755978614458907,
+          "sentence": "And about Jarle’s joy when he discovers that the children know how to appreciate his own taste in music ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999424402138554,
+            "ai": 0.00004760534371413299,
+            "paraphrased": 0.00000995444243045608
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000038169889228988844,
+          "sentence": "While I was reading the book, it happened that I played the songs that were mentioned on an iPad with YouTube access, which I had within reach.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999961830110771,
+            "ai": 0.000027290519312676674,
+            "paraphrased": 0.000010879369916312168
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004542898249231564,
+          "sentence": "It added an incredible amount of life to the text, to put it that way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999545710175077,
+            "ai": 0.00003586953934791507,
+            "paraphrased": 0.000009559443144400567
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004036585418898808,
+          "sentence": "The only thing I basically missed finding out something about was Lotte - Jarle’s daughter from a one-night stand in his youth - and her place in his life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999959634145811,
+            "ai": 0.000029506163169108164,
+            "paraphrased": 0.00001085969101987992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000053734159049463206,
+          "sentence": "Otherwise, I want to add that the way Renberg writes in this book is quite different from in the other Jarle Klepp books.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999462658409506,
+            "ai": 0.000044388594331650215,
+            "paraphrased": 0.000009345564717812993
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004826984834488905,
+          "sentence": "Perhaps it has something to do with his being closer to Jarle this time?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999517301516551,
+            "ai": 0.000038838818384994703,
+            "paraphrased": 0.000009431029959894347
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006114819772365725,
+          "sentence": "Renberg writes well and has numerous sharp observations along the way, which hit me in the heart and made me think, “yes, that is exactly how it is!” All in all, a very successful book, which I think deserves **a die roll of six**!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999388518022764,
+            "ai": 0.00005204228396264695,
+            "paraphrased": 0.000009105913761010295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010268982691209013,
+          "sentence": "And I say: yes please, I would gladly have more books about Jarle Klepp!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998973101730879,
+            "ai": 0.00009392232376100237,
+            "paraphrased": 0.000008767503151087762
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00034189552549416044,
+          "sentence": "Here is a link to my blog post about the book: [Tore Renberg: “These Are My Old Days”](http://rosemariechr.blogspot.com/2011/10/tore-renberg-dette-er-mine-gamle-dager.html)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996581044745059,
+            "ai": 0.00033260622767462237,
+            "paraphrased": 0.000009289297819538066
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999798633486774,
+        "ai": 0.000020136651322700253,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999798633486774,
+          "ai": 0.000020136651322700253,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "# A very successful new book in the Jarle Klepp series!\n\nIn this fifth book in the Jarle Klepp series, Jarle has managed to become 38 years old. He is happily married to his Iselin, with whom he has had two children: Åshild, who is six, and Sven, who is not quite three. That he would end up as a teacher like his father was perhaps not quite what he had dreamed of, but basically he is happy with that too. Because as long as he gets to read the books he wants, listen to the music he loves, follow some of the series that are on TV, have good moments together with his wife and not least with his children - yes, then he is a happy man. He must be able to say that!\n\nFrom the earlier books about Jarle Klepp, we know about his upbringing with an alcoholic father. It all ended with his mother divorcing him, because she could no longer stand the wretched life with a man whose greatest interest in life was to drink, drink, drink ... A man who criticized her because she did not drink together with him. Did they perhaps no longer have anything in common? She who was only boring and mean. After the divorce, things quickly went downhill for the father, who - even though he died of a heart attack - actually drank himself to death, now that he no longer had anyone he needed to pull himself together for.\n\nJarle has long since deeply distanced himself from his father and everything he stood for. It is many years since his father died, and Jarle has all along thought - to the extent that he has thought - that this thing with his father is a closed chapter in his life. Until New Year’s Eve in 2010, when he is going out to buy sparklers for his children and suddenly finds himself facing a girl from the past ... A girl who was the daughter of one of his parents’ friends, where his father eventually went every single weekend to drink, since it was so lousy at home. A girl who knows the family’s deepest secrets, secrets Jarle would prefer to forget. But not only that - this girl even knows more about his father than he himself does. Does he really want to know about this? Is it not enough, what he already knows about his father? Does he need to know what really happened when he, his father, his brother and his brother’s girlfriend went hiking on Hardangervidda one summer in his childhood? That time when a harrowing quarrel ended with his brother and his girlfriend leaving them - a drunk father and a frightened eleven-year-old - in the middle of Hardangervidda? And does he need to know what experiences this girl herself has had in relation to his father?\n\nIn any case - the past comes crashing in on Jarle, a man who has avoided at any cost digging down into his own darkness, for fear of what he might find there. At the same time he struggles to find his own way of being a father, and now and then he has to painfully acknowledge that he is in fact his father’s son no matter how much he dislikes thinking about this. Even if he does not have alcohol problems and is far more loving than his own father was ... What does he do when his precocious little six-year-old begins talking about how she misses her grandfather, a man she has never met - yes, precisely because of that!, and demands that Jarle take her to his grave and tell her what he was like ... ?\n\nI think this is a book one either loves or feels rather indifferent toward. I myself am among those who believe that this is the best Jarle Klepp book Tore Renberg has written! At the beginning I thought that it cannot possibly be possible to write so intensely and vividly about this without having experienced it firsthand! And perhaps this book has more autobiographical traits than we readers realize. But why some people absolutely have to draw parallels to Knausgård (a writer I otherwise love!) and then almost describe this book as a cornucopia, I have no understanding of. For my part I think “So what!” It would be naive to believe that writers do not make use of their own experiences when they write literature. Perhaps it is as simple as there actually being something universal about growing up with a parent who is more preoccupied with intoxication than with the family’s welfare? At the same time, I think that I as a reader must accept that this book actually is about Jarle Klepp and not about the author!\n\nThis book really got under my skin! At the same time as Renberg writes about Jarle’s sad childhood with a father who drank, the book is full of touching sequences about him and his relationship with his children. About little Sven, who is in the process of leaving the baby stage and becoming a boy, about the daughter Åshild, who constantly challenges her father with her explosive self ... a girl who is a true version of today’s young negotiating generation, and who, despite her young age, is not willing to take no for an answer, at least not before she understands why. And about Jarle’s joy when he discovers that the children know how to appreciate his own taste in music ...\n\nWhile I was reading the book, it happened that I played the songs that were mentioned on an iPad with YouTube access, which I had within reach. It added an incredible amount of life to the text, to put it that way. The only thing I basically missed finding out something about was Lotte - Jarle’s daughter from a one-night stand in his youth - and her place in his life. Otherwise, I want to add that the way Renberg writes in this book is quite different from in the other Jarle Klepp books. Perhaps it has something to do with his being closer to Jarle this time? Renberg writes well and has numerous sharp observations along the way, which hit me in the heart and made me think, “yes, that is exactly how it is!” All in all, a very successful book, which I think deserves **a die roll of six**! And I say: yes please, I would gladly have more books about Jarle Klepp!\n\nHere is a link to my blog post about the book: [Tore Renberg: “These Are My Old Days”](http://rosemariechr.blogspot.com/2011/10/tore-renberg-dette-er-mine-gamle-dager.html)\n",
+      "document_id": null
+    }
+  ]
+}

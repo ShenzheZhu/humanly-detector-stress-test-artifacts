@@ -1,0 +1,1266 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 36,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 48,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 56,
+          "num_sentences": 9,
+          "completely_generated_prob": 0.9257822263275673
+        },
+        {
+          "start_sentence_index": 65,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9995982509195149,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1.0000000000000002,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9995518761642819,
+          "sentence": "The paper proposes a smaller “hypernetwork” that dynamically generates parameters for a larger recurrent network, mainly for LSTM language modeling and sequence generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004481238357181252,
+            "ai": 0.8027495016366236,
+            "paraphrased": 0.19680237452765822
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995565364008747,
+          "sentence": "In the recurrent version, the hypernetwork is also an RNN.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00044346359912530883,
+            "ai": 0.7965543469731948,
+            "paraphrased": 0.20300218942767986
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995609099136633,
+          "sentence": "It observes the current input and the previous hidden state of the main RNN, keeps its own hidden state, and outputs low-dimensional embeddings.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004390900863367079,
+            "ai": 0.7889648930336437,
+            "paraphrased": 0.21059601688001964
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995177645201299,
+          "sentence": "These embeddings are then transformed into time-varying scaling vectors and biases for the main recurrent computation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004822354798701503,
+            "ai": 0.8062054962571735,
+            "paraphrased": 0.19331226826295628
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995165907897356,
+          "sentence": "Since generating full dense recurrent weight matrices at every time step would be too expensive, the practical model instead generates row-wise scaling factors for existing weight matrices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00048340921026436253,
+            "ai": 0.8089041108674169,
+            "paraphrased": 0.19061247992231875
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999606165352608,
+          "sentence": "The authors evaluate this HyperLSTM architecture on character-level Penn Treebank, enwik8, IAM handwriting generation, and WMT English-to-French translation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003938346473919029,
+            "ai": 0.8121567039321211,
+            "paraphrased": 0.18744946142048696
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996365941993258,
+          "sentence": "Across these tasks, it improves over strong LSTM baselines and works well with layer normalization, with especially strong reported results on enwik8 and machine translation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003634058006742187,
+            "ai": 0.8182509693922656,
+            "paraphrased": 0.18138562480706022
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999805519992715,
+          "sentence": "The main strength of the paper is that it gives a convincing and scalable version of an older but still underused idea: letting one network dynamically modulate the weights of another.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00019448000728501552,
+            "ai": 0.8446566043012282,
+            "paraphrased": 0.15514891569148678
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998496520972735,
+          "sentence": "The formulation is simple enough to implement in modern sequence models, but expressive enough to improve over standard LSTMs.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00015034790272651892,
+            "ai": 0.8385129736297688,
+            "paraphrased": 0.16133667846750466
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998618144837823,
+          "sentence": "I especially like the practical choice to generate multiplicative row-wise scaling factors rather than full matrices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013818551621766747,
+            "ai": 0.8366937079569634,
+            "paraphrased": 0.16316810652681893
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998891678928734,
+          "sentence": "This makes the method computationally plausible for large RNNs and also links it clearly to normalization, gating, and multiplicative interaction mechanisms.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001108321071266101,
+            "ai": 0.8411199348106045,
+            "paraphrased": 0.15876923308226887
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999179103287045,
+          "sentence": "The paper is not just presenting a high-level concept; it shows a concrete model that can be trained end to end with standard backpropagation and optimizers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008208967129552303,
+            "ai": 0.852217295826819,
+            "paraphrased": 0.14770061450188546
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999325918015513,
+          "sentence": "The experiments are also a major strength.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006740819844867826,
+            "ai": 0.8771261809735179,
+            "paraphrased": 0.12280641082803338
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998999298980644,
+          "sentence": "Many papers in this area would stop at a small character modeling benchmark, but this one tests the idea across several different sequence modeling settings: discrete character prediction, real-valued handwriting generation, and large-scale neural machine translation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010007010193555285,
+            "ai": 0.8405968002074232,
+            "paraphrased": 0.15930312969064123
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999129203905618,
+          "sentence": "The WMT experiment is particularly useful because it shows that the method is not limited to toy or medium-sized problems.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008707960943824212,
+            "ai": 0.8493644871883893,
+            "paraphrased": 0.15054843320217248
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998622128347698,
+          "sentence": "It can improve a production-scale sequence-to-sequence architecture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013778716523021764,
+            "ai": 0.8191032319318001,
+            "paraphrased": 0.18075898090296966
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999137999211616,
+          "sentence": "The reported gain over a strong GNMT-style baseline is large for a single architectural change, and it suggests that adaptive recurrent weights can help even in deep, heavily engineered systems.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008620007883847532,
+            "ai": 0.8503737654619686,
+            "paraphrased": 0.1495400344591929
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980425823811786,
+          "sentence": "The paper also does a good job of positioning the approach relative to related methods such as fast weights, multiplicative RNNs, and normalization techniques.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019574176188213556,
+            "ai": 0.9913063241451497,
+            "paraphrased": 0.006736258236028908
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979404452977189,
+          "sentence": "The discussion makes clear that HyperLSTM is not simply a second-order RNN, since the modulation is produced by a recurrent nonlinear model with its own hidden state rather than by a single linear interaction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002059554702281115,
+            "ai": 0.9900803071361811,
+            "paraphrased": 0.007860138161537722
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986126905846068,
+          "sentence": "The comparison with layer-normalized LSTMs is useful, since layer normalization is a natural alternative explanation for some of the gains.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001387309415393223,
+            "ai": 0.9920192834646447,
+            "paraphrased": 0.006593407119962011
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993392547394955,
+          "sentence": "The finding that HyperLSTM and layer normalization are complementary is interesting.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006607452605046128,
+            "ai": 0.9934862378068267,
+            "paraphrased": 0.00585301693266878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996432068879735,
+          "sentence": "It suggests that the hypernetwork is doing more than static rescaling or normalization-like adjustment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003567931120264452,
+            "ai": 0.9948994501690447,
+            "paraphrased": 0.004743756718928843
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994341077107928,
+          "sentence": "The visualizations of changing scaling vectors during text and handwriting generation are also helpful, though qualitative.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005658922892072399,
+            "ai": 0.9940366064968051,
+            "paraphrased": 0.005397501213987624
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995643514896779,
+          "sentence": "They give some intuition that the hypernetwork learns shifts around boundaries and uncertain regions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00043564851032208777,
+            "ai": 0.9948522866402341,
+            "paraphrased": 0.004712064849443809
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995329062728351,
+          "sentence": "There are several weaknesses that should be addressed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004670937271649674,
+            "ai": 0.994884266201368,
+            "paraphrased": 0.004648640071467037
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993555231061371,
+          "sentence": "The largest concern is that the experiments do not always separate architectural benefit from parameter count, tuning effort, and computational cost.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006444768938628973,
+            "ai": 0.9940852875291657,
+            "paraphrased": 0.0052702355769713655
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.997476366350915,
+          "sentence": "HyperLSTM models usually have more parameters than the LSTM baselines, sometimes many more.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0025236336490850582,
+            "ai": 0.9919536700547174,
+            "paraphrased": 0.005522696296197645
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9973631161340195,
+          "sentence": "The authors include some larger LSTM comparisons, but the matching is not fully systematic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0026368838659805195,
+            "ai": 0.9912194264534697,
+            "paraphrased": 0.006143689680549808
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9975897660826303,
+          "sentence": "A fairer evaluation would compare models matched not only for hidden size, but also for total parameter count, training time, and inference cost.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0024102339173696407,
+            "ai": 0.9916029195384659,
+            "paraphrased": 0.005986846544164426
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9729363633589395,
+          "sentence": "The row-wise modulation mechanism adds recurrent computation at every time step, so it would be important to know whether an ordinary LSTM with the same wall-clock budget, parameter count, or number of layers would reduce or remove the gap.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02706363664106045,
+            "ai": 0.9654053111686414,
+            "paraphrased": 0.0075310521902981755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9799260570757717,
+          "sentence": "The paper would also benefit from more detailed ablations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.020073942924228257,
+            "ai": 0.9721533100816327,
+            "paraphrased": 0.007772746994139032
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.874108239422125,
+          "sentence": "The HyperLSTM cell includes several design choices: the size of the hypernetwork, the dimensionality of the embedding used to generate scaling vectors, whether both input-to-hidden and hidden-to-hidden matrices are modulated, whether biases are dynamically generated, and whether the hypernetwork state is needed in addition to conditioning on the main hidden state.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.12589176057787502,
+            "ai": 0.864207033366929,
+            "paraphrased": 0.009901206055196031
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9406693770893064,
+          "sentence": "It is hard to tell which of these choices drives the improvements.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05933062291069353,
+            "ai": 0.9288021205776525,
+            "paraphrased": 0.011867256511653873
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8593085428813819,
+          "sentence": "One strong baseline would be a non-recurrent network that produces the same scaling vectors directly from the current input and previous main hidden state.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1406914571186181,
+            "ai": 0.849699813193252,
+            "paraphrased": 0.009608729688129862
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8990998198320166,
+          "sentence": "Another useful comparison would be a learned multiplicative gate applied to the LSTM preactivations, with a similar number of parameters but without framing it as weight generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.10090018016798338,
+            "ai": 0.8867531973554138,
+            "paraphrased": 0.0123466224766028
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9830902338018515,
+          "sentence": "Since the implemented model does not generate arbitrary weights, but instead produces dynamic scaling vectors, the difference between “hypernetwork-generated weights” and “additional recurrent gates” needs closer empirical study.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01690976619814853,
+            "ai": 0.9824293419534467,
+            "paraphrased": 0.0006608918484047615
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999864300864448,
+          "sentence": "The novelty is promising, but the paper sometimes overstates it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001356991355520273,
+            "ai": 0.9997215306035941,
+            "paraphrased": 0.00014277026085382955
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998164967627209,
+          "sentence": "The model is described as challenging weight sharing across recurrent time steps, but in the implemented version the base weight matrices are still shared; only their rows are dynamically rescaled.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018350323727905711,
+            "ai": 0.9996271486320687,
+            "paraphrased": 0.00018934813065219446
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998329383822775,
+          "sentence": "This is a weaker form of non-shared weights than the introduction may suggest.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016706161772242194,
+            "ai": 0.9996715742759009,
+            "paraphrased": 0.00016136410637660584
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998707159859818,
+          "sentence": "It would be more precise to describe the model as learning context-dependent modulation of shared recurrent matrices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012928401401823378,
+            "ai": 0.999692893652393,
+            "paraphrased": 0.00017782233358878228
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999851448895221,
+          "sentence": "That does not reduce the method’s usefulness, but it would make the conceptual claim more accurate.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014855110477928368,
+            "ai": 0.9998711777551844,
+            "paraphrased": 0.00011396713433768495
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999983837229323,
+          "sentence": "The paper acknowledges links to fast weights and multiplicative recurrent models, but it could explain more sharply what HyperLSTM gains over those approaches in expressivity and efficiency.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016162770676899744,
+            "ai": 0.9998461174792999,
+            "paraphrased": 0.0001377197500232377
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999833726516696,
+          "sentence": "In particular, the mechanism resembles learned dynamic diagonal modulation of recurrent transformations, and the paper should clarify when this is preferable to existing multiplicative integration or input-conditioned gating methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016627348330325486,
+            "ai": 0.9998527026170109,
+            "paraphrased": 0.0001306700346587578
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999427853866915,
+          "sentence": "The model presentation is mostly clear, but some important details are difficult to follow.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005721461330860779,
+            "ai": 0.9998143968868973,
+            "paraphrased": 0.00012838849979409086
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999885122326425,
+          "sentence": "The shift from the full hypernetwork formulation to the memory-efficient row-scaling version is central, yet the LSTM-specific equations are not given in full detail.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011487767357464792,
+            "ai": 0.9998748133624069,
+            "paraphrased": 0.0001136988702356273
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999747909167356,
+          "sentence": "Since most experiments use HyperLSTM rather than the simpler HyperRNN, it would help to provide explicit equations for all LSTM gates, including exactly where the generated scaling vectors are applied and how layer normalization is inserted when the two methods are combined.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000025209083264428,
+            "ai": 0.9998562869663193,
+            "paraphrased": 0.00011850395041626778
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999625298671666,
+          "sentence": "The notation for the hypernetwork inputs and embeddings is also occasionally confusing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003747013283336916,
+            "ai": 0.9998165660419052,
+            "paraphrased": 0.00014596382526144952
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999575233951675,
+          "sentence": "For reproducibility, the authors should specify how the hypernetwork hidden state is initialized, whether it is reset at sequence boundaries, whether dropout is applied inside the hypernetwork, and whether the same hypernetwork generates all gate modulations or separate projections are used for each gate and matrix.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004247660483252312,
+            "ai": 0.9997919734988275,
+            "paraphrased": 0.00016554989633998967
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998716084512476,
+          "sentence": "The results are strong, but some comparisons need more caution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012839154875242807,
+            "ai": 0.9996762388677112,
+            "paraphrased": 0.00019536958353635317
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999275051397846,
+          "sentence": "On Penn Treebank and enwik8, the paper compares against a mixture of published results with different training procedures, regularization methods, and evaluation protocols.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007249486021540918,
+            "ai": 0.9989585606874757,
+            "paraphrased": 0.00031649071037027237
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997297663727098,
+          "sentence": "The authors appropriately avoid dynamic evaluation comparisons in some cases, but the tables could more clearly separate directly comparable in-house baselines from external numbers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00027023362729023916,
+            "ai": 0.9994966695230485,
+            "paraphrased": 0.00023309684966131826
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9919005830761922,
+          "sentence": "The handwriting experiment reports a very large validation log-likelihood improvement for HyperLSTM without layer normalization, but the reason is unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008099416923807726,
+            "ai": 0.9910718405522929,
+            "paraphrased": 0.0008287425238993249
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8729887664449096,
+          "sentence": "Since layer normalization helps substantially in the language modeling experiments, why does it appear to hurt or underperform in handwriting relative to plain HyperLSTM?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.12701123355509034,
+            "ai": 0.8714261241191819,
+            "paraphrased": 0.001562642325727793
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9839364663009562,
+          "sentence": "This could be due to interactions with mixture density outputs, sequence length, or regularization, but it deserves discussion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0160635336990438,
+            "ai": 0.9828563317683139,
+            "paraphrased": 0.001080134532642347
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995399735054437,
+          "sentence": "The machine translation result is exciting, but more detail is needed on variance across runs, decoding settings, and whether the gain is robust to final training schedules.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004600264945562852,
+            "ai": 0.9991483053268195,
+            "paraphrased": 0.0003916681786241446
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994108258605828,
+          "sentence": "A single BLEU score for such a large system is hard to interpret without run-to-run variability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000589174139417133,
+            "ai": 0.9990036730075817,
+            "paraphrased": 0.0004071528530010875
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995401666410466,
+          "sentence": "I have several questions for the authors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004598333589533656,
+            "ai": 0.9992213749749228,
+            "paraphrased": 0.00031879166612382447
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992199408526726,
+          "sentence": "How much of the improvement remains when HyperLSTM is compared with LSTMs matched for total parameter count and training compute rather than hidden size?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007800591473274459,
+            "ai": 0.998715766287878,
+            "paraphrased": 0.0005041745647946323
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9968650608502686,
+          "sentence": "What is the inference-time overhead relative to the baseline LSTM on each task, especially translation?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0031349391497313885,
+            "ai": 0.9960574002692599,
+            "paraphrased": 0.0008076605810086889
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9943522019982426,
+          "sentence": "Are both input-to-hidden and hidden-to-hidden matrices modulated in all experiments, and what happens if only one is modulated?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005647798001757427,
+            "ai": 0.9933562756839278,
+            "paraphrased": 0.0009959263143147709
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9958926798066196,
+          "sentence": "How sensitive are the results to the hypernetwork hidden size and embedding dimension?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004107320193380523,
+            "ai": 0.994948852203677,
+            "paraphrased": 0.000943827602942486
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9965902970280384,
+          "sentence": "Is the recurrent state of the hypernetwork essential, or would a feedforward conditioner using the same inputs perform similarly?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003409702971961573,
+            "ai": 0.9957417082175756,
+            "paraphrased": 0.0008485888104628442
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991077720318781,
+          "sentence": "In the layer-normalized HyperLSTM, is normalization applied before or after the generated scaling factors, and is the layer normalization gain itself dynamically modulated?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008922279681219619,
+            "ai": 0.9985331260879983,
+            "paraphrased": 0.0005746459438797774
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997224321007231,
+          "sentence": "For machine translation, are HyperLSTM cells used in every encoder and decoder layer, including the bidirectional first encoder layer, or only in selected layers?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00027756789927692045,
+            "ai": 0.9992398585497643,
+            "paraphrased": 0.00048257355095885913
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999734364073414,
+          "sentence": "Finally, can the authors provide quantitative analysis of the learned scaling vectors, such as their variance, correlation across gates, or relation to token boundaries, rather than only visual examples?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002656359265861535,
+            "ai": 0.9996879951865618,
+            "paraphrased": 0.000285441220779531
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999445368612572,
+          "sentence": "Overall, I find the paper interesting, well motivated, and empirically strong.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000055463138742862896,
+            "ai": 0.9997095131354223,
+            "paraphrased": 0.00023502372583484216
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999465273721624,
+          "sentence": "The central idea is not entirely new, and the implemented mechanism is closer to dynamic gating or row-wise modulation than full weight generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000534726278376692,
+            "ai": 0.9996283747238319,
+            "paraphrased": 0.00031815264833044205
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999339712970193,
+          "sentence": "Still, the paper makes a meaningful contribution by showing that this family of methods can be practical and effective at scale.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000660287029806717,
+            "ai": 0.9996685801948426,
+            "paraphrased": 0.00026539110217675037
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998108838854536,
+          "sentence": "The range of experiments and the strong results on both character modeling and machine translation make it a valuable addition to the literature on adaptive recurrent architectures.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001891161145464207,
+            "ai": 0.9994492691570244,
+            "paraphrased": 0.0003616147284292255
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999837847418959,
+          "sentence": "I recommend acceptance, while encouraging the authors to temper some claims about non-shared weights and add stronger ablations and compute-matched comparisons in a revision.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016215258104071522,
+            "ai": 0.9997618069353542,
+            "paraphrased": 0.0002219778065416723
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1.0000000000000002,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1.0000000000000002,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The paper proposes a smaller “hypernetwork” that dynamically generates parameters for a larger recurrent network, mainly for LSTM language modeling and sequence generation. In the recurrent version, the hypernetwork is also an RNN. It observes the current input and the previous hidden state of the main RNN, keeps its own hidden state, and outputs low-dimensional embeddings. These embeddings are then transformed into time-varying scaling vectors and biases for the main recurrent computation. Since generating full dense recurrent weight matrices at every time step would be too expensive, the practical model instead generates row-wise scaling factors for existing weight matrices. The authors evaluate this HyperLSTM architecture on character-level Penn Treebank, enwik8, IAM handwriting generation, and WMT English-to-French translation. Across these tasks, it improves over strong LSTM baselines and works well with layer normalization, with especially strong reported results on enwik8 and machine translation.\n\nThe main strength of the paper is that it gives a convincing and scalable version of an older but still underused idea: letting one network dynamically modulate the weights of another. The formulation is simple enough to implement in modern sequence models, but expressive enough to improve over standard LSTMs. I especially like the practical choice to generate multiplicative row-wise scaling factors rather than full matrices. This makes the method computationally plausible for large RNNs and also links it clearly to normalization, gating, and multiplicative interaction mechanisms. The paper is not just presenting a high-level concept; it shows a concrete model that can be trained end to end with standard backpropagation and optimizers.\n\nThe experiments are also a major strength. Many papers in this area would stop at a small character modeling benchmark, but this one tests the idea across several different sequence modeling settings: discrete character prediction, real-valued handwriting generation, and large-scale neural machine translation. The WMT experiment is particularly useful because it shows that the method is not limited to toy or medium-sized problems. It can improve a production-scale sequence-to-sequence architecture. The reported gain over a strong GNMT-style baseline is large for a single architectural change, and it suggests that adaptive recurrent weights can help even in deep, heavily engineered systems.\n\nThe paper also does a good job of positioning the approach relative to related methods such as fast weights, multiplicative RNNs, and normalization techniques. The discussion makes clear that HyperLSTM is not simply a second-order RNN, since the modulation is produced by a recurrent nonlinear model with its own hidden state rather than by a single linear interaction. The comparison with layer-normalized LSTMs is useful, since layer normalization is a natural alternative explanation for some of the gains. The finding that HyperLSTM and layer normalization are complementary is interesting. It suggests that the hypernetwork is doing more than static rescaling or normalization-like adjustment. The visualizations of changing scaling vectors during text and handwriting generation are also helpful, though qualitative. They give some intuition that the hypernetwork learns shifts around boundaries and uncertain regions.\n\nThere are several weaknesses that should be addressed. The largest concern is that the experiments do not always separate architectural benefit from parameter count, tuning effort, and computational cost. HyperLSTM models usually have more parameters than the LSTM baselines, sometimes many more. The authors include some larger LSTM comparisons, but the matching is not fully systematic. A fairer evaluation would compare models matched not only for hidden size, but also for total parameter count, training time, and inference cost. The row-wise modulation mechanism adds recurrent computation at every time step, so it would be important to know whether an ordinary LSTM with the same wall-clock budget, parameter count, or number of layers would reduce or remove the gap.\n\nThe paper would also benefit from more detailed ablations. The HyperLSTM cell includes several design choices: the size of the hypernetwork, the dimensionality of the embedding used to generate scaling vectors, whether both input-to-hidden and hidden-to-hidden matrices are modulated, whether biases are dynamically generated, and whether the hypernetwork state is needed in addition to conditioning on the main hidden state. It is hard to tell which of these choices drives the improvements. One strong baseline would be a non-recurrent network that produces the same scaling vectors directly from the current input and previous main hidden state. Another useful comparison would be a learned multiplicative gate applied to the LSTM preactivations, with a similar number of parameters but without framing it as weight generation. Since the implemented model does not generate arbitrary weights, but instead produces dynamic scaling vectors, the difference between “hypernetwork-generated weights” and “additional recurrent gates” needs closer empirical study.\n\nThe novelty is promising, but the paper sometimes overstates it. The model is described as challenging weight sharing across recurrent time steps, but in the implemented version the base weight matrices are still shared; only their rows are dynamically rescaled. This is a weaker form of non-shared weights than the introduction may suggest. It would be more precise to describe the model as learning context-dependent modulation of shared recurrent matrices. That does not reduce the method’s usefulness, but it would make the conceptual claim more accurate. The paper acknowledges links to fast weights and multiplicative recurrent models, but it could explain more sharply what HyperLSTM gains over those approaches in expressivity and efficiency. In particular, the mechanism resembles learned dynamic diagonal modulation of recurrent transformations, and the paper should clarify when this is preferable to existing multiplicative integration or input-conditioned gating methods.\n\nThe model presentation is mostly clear, but some important details are difficult to follow. The shift from the full hypernetwork formulation to the memory-efficient row-scaling version is central, yet the LSTM-specific equations are not given in full detail. Since most experiments use HyperLSTM rather than the simpler HyperRNN, it would help to provide explicit equations for all LSTM gates, including exactly where the generated scaling vectors are applied and how layer normalization is inserted when the two methods are combined. The notation for the hypernetwork inputs and embeddings is also occasionally confusing. For reproducibility, the authors should specify how the hypernetwork hidden state is initialized, whether it is reset at sequence boundaries, whether dropout is applied inside the hypernetwork, and whether the same hypernetwork generates all gate modulations or separate projections are used for each gate and matrix.\n\nThe results are strong, but some comparisons need more caution. On Penn Treebank and enwik8, the paper compares against a mixture of published results with different training procedures, regularization methods, and evaluation protocols. The authors appropriately avoid dynamic evaluation comparisons in some cases, but the tables could more clearly separate directly comparable in-house baselines from external numbers. The handwriting experiment reports a very large validation log-likelihood improvement for HyperLSTM without layer normalization, but the reason is unclear. Since layer normalization helps substantially in the language modeling experiments, why does it appear to hurt or underperform in handwriting relative to plain HyperLSTM? This could be due to interactions with mixture density outputs, sequence length, or regularization, but it deserves discussion. The machine translation result is exciting, but more detail is needed on variance across runs, decoding settings, and whether the gain is robust to final training schedules. A single BLEU score for such a large system is hard to interpret without run-to-run variability.\n\nI have several questions for the authors. How much of the improvement remains when HyperLSTM is compared with LSTMs matched for total parameter count and training compute rather than hidden size? What is the inference-time overhead relative to the baseline LSTM on each task, especially translation? Are both input-to-hidden and hidden-to-hidden matrices modulated in all experiments, and what happens if only one is modulated? How sensitive are the results to the hypernetwork hidden size and embedding dimension? Is the recurrent state of the hypernetwork essential, or would a feedforward conditioner using the same inputs perform similarly? In the layer-normalized HyperLSTM, is normalization applied before or after the generated scaling factors, and is the layer normalization gain itself dynamically modulated? For machine translation, are HyperLSTM cells used in every encoder and decoder layer, including the bidirectional first encoder layer, or only in selected layers? Finally, can the authors provide quantitative analysis of the learned scaling vectors, such as their variance, correlation across gates, or relation to token boundaries, rather than only visual examples?\n\nOverall, I find the paper interesting, well motivated, and empirically strong. The central idea is not entirely new, and the implemented mechanism is closer to dynamic gating or row-wise modulation than full weight generation. Still, the paper makes a meaningful contribution by showing that this family of methods can be practical and effective at scale. The range of experiments and the strong results on both character modeling and machine translation make it a valuable addition to the literature on adaptive recurrent architectures. I recommend acceptance, while encouraging the authors to temper some claims about non-shared weights and add stronger ablations and compute-matched comparisons in a revision.\n",
+      "document_id": null
+    }
+  ]
+}

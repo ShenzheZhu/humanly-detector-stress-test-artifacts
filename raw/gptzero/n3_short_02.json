@@ -1,0 +1,266 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.975137597740567,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9885268546213465,
+          "sentence": "I made a small tool for writers and would like to share it for free.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.011473145378653501,
+            "ai": 0.5240867753479137,
+            "paraphrased": 0.4644400792734328
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9884280346085985,
+          "sentence": "It is not typesetting software, and it does not have complex features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01157196539140151,
+            "ai": 0.523071817537409,
+            "paraphrased": 0.46535621707118957
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.986443214330136,
+          "sentence": "You could even say it is a little “dumb”: once opened, it enters a focused writing mode that temporarily blocks the browser, social apps, and other programs that easily pull you away.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.013556785669863954,
+            "ai": 0.5186592019755156,
+            "paraphrased": 0.46778401235462047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9850840994722312,
+          "sentence": "At the same time, it limits your ability to go back and revise; you can only edit a small section of what you have just written.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.014915900527768837,
+            "ai": 0.5280163633368588,
+            "paraphrased": 0.4570677361353724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.984846130704865,
+          "sentence": "I made it because I get stuck too easily during the first-draft stage.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.015153869295134934,
+            "ai": 0.5446781602311216,
+            "paraphrased": 0.4401679704737435
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9856418197411334,
+          "sentence": "I write two sentences and want to look something up, then end up reading something else; or I keep polishing an opening, and by the end of the night I have only three hundred words that look nice but go nowhere.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.014358180258866671,
+            "ai": 0.5207677706659934,
+            "paraphrased": 0.4648740490751399
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9815835380484293,
+          "sentence": "Later I realized that, for me, the most important thing about a first draft is not that it looks good, but that it exists.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.018416461951570717,
+            "ai": 0.4787981078364484,
+            "paraphrased": 0.502785430211981
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9788091972988999,
+          "sentence": "If you are often stopped halfway by “it’s not good enough,” maybe it can help you first write your story, article, memoir, or anything else through to the end.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.021190802701100096,
+            "ai": 0.4903519996246397,
+            "paraphrased": 0.48845719767426016
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9804046585715526,
+          "sentence": "After it is finished, you can revise slowly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01959534142844738,
+            "ai": 0.47405093113620134,
+            "paraphrased": 0.5063537274353512
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9819458364793954,
+          "sentence": "It is still very simple, so you are welcome to try it and tell me what does not work well.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.018054163520604606,
+            "ai": 0.4788928743928808,
+            "paraphrased": 0.5030529620865146
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I made a small tool for writers and would like to share it for free. It is not typesetting software, and it does not have complex features. You could even say it is a little “dumb”: once opened, it enters a focused writing mode that temporarily blocks the browser, social apps, and other programs that easily pull you away. At the same time, it limits your ability to go back and revise; you can only edit a small section of what you have just written.\n\nI made it because I get stuck too easily during the first-draft stage. I write two sentences and want to look something up, then end up reading something else; or I keep polishing an opening, and by the end of the night I have only three hundred words that look nice but go nowhere. Later I realized that, for me, the most important thing about a first draft is not that it looks good, but that it exists.\n\nIf you are often stopped halfway by “it’s not good enough,” maybe it can help you first write your story, article, memoir, or anything else through to the end. After it is finished, you can revise slowly. It is still very simple, so you are welcome to try it and tell me what does not work well.\n",
+      "document_id": null
+    }
+  ]
+}

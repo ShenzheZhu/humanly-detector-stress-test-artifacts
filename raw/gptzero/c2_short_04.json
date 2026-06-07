@@ -1,0 +1,324 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.41314012530461797,
+      "average_generated_prob": 1,
+      "predicted_class": "mixed",
+      "confidence_score": 0.8262802506092359,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9638604319331243,
+          "sentence": "This is my first Reddit post, but I felt like celebrating.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.036139568066875696,
+            "ai": 0.006619330791503077,
+            "paraphrased": 0.9572411011416212
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9623936213393935,
+          "sentence": "I’ve been “working” on a novel for years, but kept getting stuck trying to make the first draft “perfect.” I could never bring myself to fix things in post, worried the story itself would be unfixable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03760637866060648,
+            "ai": 0.007609070583423632,
+            "paraphrased": 0.9547845507559699
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9625229282824777,
+          "sentence": "This year, I finally buckled down and aimed for at least 200 words a day.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.037477071717522334,
+            "ai": 0.006890853288965363,
+            "paraphrased": 0.9556320749935123
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9627239359135462,
+          "sentence": "At first, it felt like walking on burning coals each night.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0372760640864538,
+            "ai": 0.007718622885757536,
+            "paraphrased": 0.9550053130277887
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9623557326197846,
+          "sentence": "Eventually, it became a habit, then something I ache to do every day—even during the day, which I never used to do.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03764426738021548,
+            "ai": 0.006546072248035682,
+            "paraphrased": 0.9558096603717489
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9633195689720933,
+          "sentence": "I’m still in the first act, so the book could stretch on for a while.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03668043102790674,
+            "ai": 0.006212598788845325,
+            "paraphrased": 0.957106970183248
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9608935767514015,
+          "sentence": "But I thought the average novel was around 40,000 words.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03910642324859847,
+            "ai": 0.005189850270581865,
+            "paraphrased": 0.9557037264808197
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9611036565752059,
+          "sentence": "Tonight, when I hit 20,000, I had to sit back, think about how long it took, and play Bon Jovi’s “Livin’ on a Prayer.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.038896343424794116,
+            "ai": 0.0056788402753301815,
+            "paraphrased": 0.9554248162998757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9620703089082963,
+          "sentence": "Maybe it can inspire blocked writers like I was.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03792969109170369,
+            "ai": 0.006861001202009609,
+            "paraphrased": 0.9552093077062866
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9566807334482901,
+          "sentence": "Edit: Wow, thank you for the response!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04331926655170995,
+            "ai": 0.0059400922978395596,
+            "paraphrased": 0.9507406411504505
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9585539299244975,
+          "sentence": "Good luck on your projects.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0414460700755025,
+            "ai": 0.006542640696012907,
+            "paraphrased": 0.9520112892284845
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9570407790725346,
+          "sentence": "Thanks for the correction: modern novels are 60,000 words, haha.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.042959220927465444,
+            "ai": 0.005473720403486362,
+            "paraphrased": 0.9515670586690482
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.955833437467618,
+          "sentence": "I guess I have farther to go.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04416656253238209,
+            "ai": 0.006614718783340418,
+            "paraphrased": 0.9492187186842775
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.17178195886429226,
+        "ai": 0.0019377905264719205,
+        "mixed": 0.8262802506092359
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0019377905264719205,
+          "mixed": 0.8262802506092359,
+          "human": 0.17178195886429226
+        }
+      },
+      "subclass": {
+        "mixed": {
+          "predicted_class": "polished",
+          "result_message": "We are highly confident that this text was originally written by a human and improved using AI",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "concatenated": 0,
+            "polished": 1
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "polished": 1,
+              "concatenated": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "polished": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "concatenated": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text may include parts written by AI.",
+      "result_sub_message": null,
+      "document_classification": "MIXED",
+      "inputText": "This is my first Reddit post, but I felt like celebrating. I’ve been “working” on a novel for years, but kept getting stuck trying to make the first draft “perfect.” I could never bring myself to fix things in post, worried the story itself would be unfixable.\n\nThis year, I finally buckled down and aimed for at least 200 words a day. At first, it felt like walking on burning coals each night. Eventually, it became a habit, then something I ache to do every day—even during the day, which I never used to do.\n\nI’m still in the first act, so the book could stretch on for a while. But I thought the average novel was around 40,000 words. Tonight, when I hit 20,000, I had to sit back, think about how long it took, and play Bon Jovi’s “Livin’ on a Prayer.”\n\nMaybe it can inspire blocked writers like I was.\n\nEdit: Wow, thank you for the response! Good luck on your projects. Thanks for the correction: modern novels are 60,000 words, haha. I guess I have farther to go.\n",
+      "document_id": null
+    }
+  ]
+}

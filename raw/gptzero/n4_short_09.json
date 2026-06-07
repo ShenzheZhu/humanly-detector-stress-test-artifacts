@@ -1,0 +1,292 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.9997769966220588,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9947783776732954,
+          "sentence": "I don’t really have anyone in my day-to-day life who understands why this feels so huge.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005221622326704583,
+            "ai": 0.9931632778669442,
+            "paraphrased": 0.0016150998063511235
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9928298468590698,
+          "sentence": "So I’m putting it here.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007170153140930144,
+            "ai": 0.9907994075676186,
+            "paraphrased": 0.002030439291451228
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988092400929193,
+          "sentence": "For the last couple of years, my manuscript has basically been an icon on my desktop that made me feel guilty whenever I noticed it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001190759907080692,
+            "ai": 0.997458132287134,
+            "paraphrased": 0.0013511078057852973
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990435553753784,
+          "sentence": "I’d open it once in a while, read a paragraph, decide that everything was terrible, and close it again.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009564446246216339,
+            "ai": 0.9977590169147456,
+            "paraphrased": 0.0012845384606327817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992728510457506,
+          "sentence": "Work, school, bills, relationships, and general burnout all became very convenient reasons not to try.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007271489542494428,
+            "ai": 0.9979789782226182,
+            "paraphrased": 0.0012938728231324066
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992221384625529,
+          "sentence": "On Monday night I opened it for “just ten minutes,” mostly to prove to myself that I didn’t care anymore.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007778615374470085,
+            "ai": 0.9979471905270475,
+            "paraphrased": 0.0012749479355054463
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993239077068795,
+          "sentence": "Instead, I found myself remembering why I started it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006760922931204995,
+            "ai": 0.9979640376138215,
+            "paraphrased": 0.0013598700930580246
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995275109080904,
+          "sentence": "I fixed one scene, wrote another, and then stayed up way too late.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004724890919094939,
+            "ai": 0.9982230423722553,
+            "paraphrased": 0.001304468535835124
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9981062506203314,
+          "sentence": "It’s now Thursday, and I’ve added a little over 18,000 words.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001893749379668615,
+            "ai": 0.9967854789201787,
+            "paraphrased": 0.0013207717001527531
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999415587781819,
+          "sentence": "I know momentum like this can vanish, and I’m trying not to treat it like magic or a cure-all.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005844122181813566,
+            "ai": 0.9991886475393726,
+            "paraphrased": 0.00075291123880923
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988077382244102,
+          "sentence": "But for the first time in ages, writing feels alive again, instead of like homework from a past version of myself.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011922617755898805,
+            "ai": 0.9974787290656901,
+            "paraphrased": 0.0013290091587200455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I don’t really have anyone in my day-to-day life who understands why this feels so huge. So I’m putting it here.\n\nFor the last couple of years, my manuscript has basically been an icon on my desktop that made me feel guilty whenever I noticed it. I’d open it once in a while, read a paragraph, decide that everything was terrible, and close it again. Work, school, bills, relationships, and general burnout all became very convenient reasons not to try.\n\n\nOn Monday night I opened it for “just ten minutes,” mostly to prove to myself that I didn’t care anymore. Instead, I found myself remembering why I started it. I fixed one scene, wrote another, and then stayed up way too late.\n\nIt’s now Thursday, and I’ve added a little over 18,000 words.\n\nI know momentum like this can vanish, and I’m trying not to treat it like magic or a cure-all. But for the first time in ages, writing feels alive again, instead of like homework from a past version of myself.\n",
+      "document_id": null
+    }
+  ]
+}

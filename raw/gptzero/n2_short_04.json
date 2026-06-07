@@ -1,0 +1,255 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        }
+      ],
+      "completely_generated_prob": 0.9994428253483373,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9985356407618753,
+          "sentence": "I don’t really have anyone in my everyday life who would understand why this feels so big, so I’m putting it here: tonight I passed 20,000 words on my draft.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014643592381247228,
+            "ai": 0.9972934186065062,
+            "paraphrased": 0.0012422221553690417
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998334896199208,
+          "sentence": "For years, I was “writing a novel” mostly in the sense that I had a folder full of openings, character notes, maps, and nervous little rewrites of chapter one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001665103800791964,
+            "ai": 0.9989638494562928,
+            "paraphrased": 0.0008696401636280508
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999969684172138,
+          "sentence": "Every sentence had to earn its place before I let myself move on.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000030315827861993385,
+            "ai": 0.9991405381887016,
+            "paraphrased": 0.0008291459834363839
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999598731163216,
+          "sentence": "If a scene felt weak, I’d stop and try to fix the whole book at once.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004012688367832132,
+            "ai": 0.9991873629290988,
+            "paraphrased": 0.0007725101872228334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988535976494315,
+          "sentence": "No surprise, I never got very far.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011464023505685416,
+            "ai": 0.9975217194938371,
+            "paraphrased": 0.0013318781555944526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997228569063559,
+          "sentence": "A few months ago, I gave myself one simple rule: 300 words a day, even if they were bad, even if I already knew I might cut them later.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002771430936441886,
+            "ai": 0.9988223964450769,
+            "paraphrased": 0.0009004604612789698
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999109616236633,
+          "sentence": "At first, leaving problems unresolved felt almost physically uncomfortable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008903837633671484,
+            "ai": 0.9990779000139782,
+            "paraphrased": 0.0008330616096850545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996986330131217,
+          "sentence": "But now the story exists beyond the idea of it, and that’s new for me.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003013669868783359,
+            "ai": 0.9988340563632394,
+            "paraphrased": 0.0008645766498822253
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999115062152883,
+          "sentence": "It’s still messy, but it’s mine, and I’m finally moving forward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000884937847117129,
+            "ai": 0.999104334109762,
+            "paraphrased": 0.0008071721055263429
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I don’t really have anyone in my everyday life who would understand why this feels so big, so I’m putting it here: tonight I passed 20,000 words on my draft.\n\nFor years, I was “writing a novel” mostly in the sense that I had a folder full of openings, character notes, maps, and nervous little rewrites of chapter one. Every sentence had to earn its place before I let myself move on. If a scene felt weak, I’d stop and try to fix the whole book at once. No surprise, I never got very far.\n\nA few months ago, I gave myself one simple rule: 300 words a day, even if they were bad, even if I already knew I might cut them later. At first, leaving problems unresolved felt almost physically uncomfortable. But now the story exists beyond the idea of it, and that’s new for me.\n\nIt’s still messy, but it’s mine, and I’m finally moving forward.\n",
+      "document_id": null
+    }
+  ]
+}

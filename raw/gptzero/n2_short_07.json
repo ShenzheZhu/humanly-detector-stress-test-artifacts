@@ -1,0 +1,324 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.960487851842896,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9615633399509674,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9228327671286518,
+          "sentence": "I can’t say much yet because nothing is signed, and I’m trying very hard not to jinx it, but I got the call today: there’s an offer on my book.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07716723287134812,
+            "ai": 0.9211603707452746,
+            "paraphrased": 0.0016723963833772792
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993798144110976,
+          "sentence": "I’ve been pacing around my kitchen for an hour, grinning at the dishwasher like it personally believed in me.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006201855889024404,
+            "ai": 0.9988330275786396,
+            "paraphrased": 0.0005467868324580081
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992278848877703,
+          "sentence": "My agent is handling the next steps, and if all goes well, I’ll be able to share actual details soon.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007721151122297682,
+            "ai": 0.9986706249140666,
+            "paraphrased": 0.0005572599737036973
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9443512890261399,
+          "sentence": "For now, I just needed to put this somewhere.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.055648710973860156,
+            "ai": 0.9427800841524249,
+            "paraphrased": 0.0015712048737150032
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980830510162543,
+          "sentence": "I can’t tell coworkers, family, or even the group chat without immediately bursting into specifics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019169489837456873,
+            "ai": 0.9973033295086275,
+            "paraphrased": 0.0007797215076267158
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9136746632969774,
+          "sentence": "This is the fifth book I’ve written.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08632533670302249,
+            "ai": 0.9121478045654351,
+            "paraphrased": 0.0015268587315423918
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9840116476588334,
+          "sentence": "The first two were useful only in the way falling down stairs teaches you about gravity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.015988352341166554,
+            "ai": 0.9827019918894748,
+            "paraphrased": 0.0013096557693585867
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9556202104160348,
+          "sentence": "The third got close.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04437978958396515,
+            "ai": 0.9539960461406383,
+            "paraphrased": 0.001624164275396611
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9960149323898285,
+          "sentence": "The fourth taught me patience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003985067610171496,
+            "ai": 0.9951056857128999,
+            "paraphrased": 0.0009092466769285948
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9965853011508705,
+          "sentence": "This one was the one I almost gave up on twice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0034146988491294094,
+            "ai": 0.995758056967393,
+            "paraphrased": 0.0008272441834776247
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9920820806959648,
+          "sentence": "There’s still paperwork, edits, and a lot of waiting ahead, but tonight I’m letting myself be happy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007917919304035204,
+            "ai": 0.990965975907517,
+            "paraphrased": 0.0011161047884477606
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9508257645453979,
+          "sentence": "It happened.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0491742354546021,
+            "ai": 0.9488064752344421,
+            "paraphrased": 0.0020192893109558553
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9499837206958638,
+          "sentence": "It actually happened.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05001627930413614,
+            "ai": 0.9481746482643016,
+            "paraphrased": 0.0018090724315621663
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9615633399509674,
+        "mixed": 0.03843666004903263
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9615633399509674,
+          "mixed": 0.03843666004903263,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I can’t say much yet because nothing is signed, and I’m trying very hard not to jinx it, but I got the call today: there’s an offer on my book.\n\nI’ve been pacing around my kitchen for an hour, grinning at the dishwasher like it personally believed in me. My agent is handling the next steps, and if all goes well, I’ll be able to share actual details soon. For now, I just needed to put this somewhere. I can’t tell coworkers, family, or even the group chat without immediately bursting into specifics.\n\nThis is the fifth book I’ve written. The first two were useful only in the way falling down stairs teaches you about gravity. The third got close. The fourth taught me patience. This one was the one I almost gave up on twice.\n\nThere’s still paperwork, edits, and a lot of waiting ahead, but tonight I’m letting myself be happy.\n\nIt happened. It actually happened.\n",
+      "document_id": null
+    }
+  ]
+}

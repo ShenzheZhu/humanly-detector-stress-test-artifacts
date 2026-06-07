@@ -1,0 +1,580 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.7145451996534505
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.0003567719278557345
+        }
+      ],
+      "completely_generated_prob": 0.9475810913987348,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9476295737441254,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999484179800662,
+          "sentence": "Affective forecasting refers to the way people imagine, before something has happened, how they will feel in the future, how strong that feeling will be, and how long it will last.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005158201993386097,
+            "ai": 0.9999102830327514,
+            "paraphrased": 0.00003813494731475972
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999180762220928,
+          "sentence": "In more everyday terms, it is the mental estimate of “I think I will feel very happy, very hurt, very regretful, or very satisfied when the time comes.” People make this kind of prediction every day: when choosing a major, they imagine whether they will feel a sense of achievement in the future; when deciding whether to confess their feelings, they imagine how painful rejection would be; when buying an expensive item, they imagine whether it will make them happier.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008192377790725613,
+            "ai": 0.9998723534956844,
+            "paraphrased": 0.00004572272640841755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999446246331107,
+          "sentence": "The problem is that these predictions are often inaccurate.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005537536688917552,
+            "ai": 0.9998976614124342,
+            "paraphrased": 0.000046963220676589785
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999398317248631,
+          "sentence": "We tend to overestimate the emotional impact of a particular event, and we also tend to focus our attention on the event itself while ignoring the many other factors in future life that may distract us, change our mood, or even help us adapt.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006016827513685837,
+            "ai": 0.999891612290363,
+            "paraphrased": 0.000048219434500070574
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999727801353574,
+          "sentence": "Affective forecasting is closely related to motivation, because people often decide whether to act in the present based on “how they will feel in the future.” If a student believes that finishing a paper will make him feel very relieved and proud, he may be more willing to start writing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027219864642553524,
+            "ai": 0.9999339997826818,
+            "paraphrased": 0.00003878035267559342
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999736273414735,
+          "sentence": "If he imagines that the process of writing the paper will bring only anxiety and pain, he may procrastinate.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026372658526411408,
+            "ai": 0.999932840518611,
+            "paraphrased": 0.000040786822862581695
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999842739853866,
+          "sentence": "Affective forecasting also influences learning behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001572601461347197,
+            "ai": 0.9999501662425557,
+            "paraphrased": 0.00003410774283083229
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999860158642175,
+          "sentence": "Learning often requires delayed gratification: it may feel boring in the moment, while the rewards come later.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013984135782437655,
+            "ai": 0.9999499254121185,
+            "paraphrased": 0.00003609045209910891
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999843374585644,
+          "sentence": "If students mistakenly predict that “reviewing will definitely be very unpleasant and will not bring any obvious satisfaction,” they may underestimate the sense of control and confidence that comes after studying hard.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015662541435560154,
+            "ai": 0.999953178733173,
+            "paraphrased": 0.00003115872539140635
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999852190556784,
+          "sentence": "Conversely, some people may overestimate the happiness of getting a high score, believing that one good grade will completely change their self-evaluation, only to find after receiving the grade that the happiness fades quickly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001478094432161049,
+            "ai": 0.9999510142802129,
+            "paraphrased": 0.000034204775465431906
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999884678168045,
+          "sentence": "Affective forecasting is also connected to emotion regulation and decision-making.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011532183195538611,
+            "ai": 0.9999561717641288,
+            "paraphrased": 0.000032296052675748695
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999884135371857,
+          "sentence": "When people make choices, they are not only comparing objective outcomes; they are also comparing imagined emotional outcomes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001158646281429289,
+            "ai": 0.9999560987294507,
+            "paraphrased": 0.000032314807735037875
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999862750769929,
+          "sentence": "For example, changing jobs involves not only salary and location, but also imagined future stress, freedom, identity, and happiness.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013724923007132157,
+            "ai": 0.9999518683821121,
+            "paraphrased": 0.00003440669488071162
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999720888360508,
+          "sentence": "If the prediction is very biased, the decision may move away from one’s true long-term needs.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000279111639491513,
+            "ai": 0.999931074445805,
+            "paraphrased": 0.00004101439024584455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.7383691003781547,
+          "sentence": "Sometimes people avoid trying new things in order to escape anticipated pain, only to discover after the actual experience that they are more adaptable than they had imagined.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.2616308996218452,
+            "ai": 0.7377100780552279,
+            "paraphrased": 0.0006590223229268489
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8820570474741707,
+          "sentence": "Others pursue imagined intense happiness through impulsive spending or by choosing a path that does not suit them, and later find that the satisfaction is brief and limited.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1179429525258293,
+            "ai": 0.8814455338492297,
+            "paraphrased": 0.0006115136249409871
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8057751556197593,
+          "sentence": "A specific example is a university student named Xiaolin, who was very afraid of taking a public speaking course when choosing classes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.19422484438024074,
+            "ai": 0.8051884564642252,
+            "paraphrased": 0.0005866991555340979
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8410098117884892,
+          "sentence": "He predicted that he would feel extremely embarrassed every time he went on stage, that his classmates would always remember his mistakes, and that this sense of shame would last a long time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.15899018821151084,
+            "ai": 0.8404554064071206,
+            "paraphrased": 0.0005544053813686181
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8685023716209177,
+          "sentence": "For this reason, he initially wanted to avoid the course, even though it would be very helpful for his professional development.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1314976283790823,
+            "ai": 0.8680224870338631,
+            "paraphrased": 0.0004798845870546543
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8600101183924495,
+          "sentence": "Later, he took the course anyway.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.13998988160755055,
+            "ai": 0.8595050505808798,
+            "paraphrased": 0.0005050678115696557
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8861957149031918,
+          "sentence": "Before his first speech, he was indeed nervous, but after the speech ended, he found that his classmates did not judge him as harshly as he had imagined, and the teacher’s feedback was also specific and friendly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.11380428509680826,
+            "ai": 0.8856697420190136,
+            "paraphrased": 0.0005259728841781755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8912502060199078,
+          "sentence": "A few weeks later, he even began to look forward to performing better next time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.10874979398009221,
+            "ai": 0.8907412454412688,
+            "paraphrased": 0.0005089605786390336
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8409981807198279,
+          "sentence": "This example shows that people often overestimate the intensity and duration of negative emotions, while underestimating their ability to adapt, learn, and recover.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.159001819280172,
+            "ai": 0.8404524693230255,
+            "paraphrased": 0.0005457113968024232
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.7774857398946274,
+          "sentence": "This topic is important because affective forecasting influences many real-life choices: learning, careers, relationships, consumption, health behaviors, and risk judgments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.22251426010537256,
+            "ai": 0.7769976372476611,
+            "paraphrased": 0.00048810264696634364
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6495751075394341,
+          "sentence": "If we do not understand that our predictions may be wrong, we can easily be led by imagined happiness or pain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.35042489246056585,
+            "ai": 0.6491047864288252,
+            "paraphrased": 0.00047032111060896686
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.607138526890081,
+          "sentence": "A more accurate understanding of affective forecasting can help people ask more questions when making decisions: Am I focusing only on one outcome?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.39286147310991903,
+            "ai": 0.606653492420473,
+            "paraphrased": 0.0004850344696080051
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.4149367136114257,
+          "sentence": "Have I ignored my ability to adapt to change?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5850632863885743,
+            "ai": 0.4144884700585179,
+            "paraphrased": 0.00044824355290778707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.4733417697024703,
+          "sentence": "Were similar past experiences really as intense as I now imagine?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5266582302975297,
+            "ai": 0.47289615269451396,
+            "paraphrased": 0.0004456170079563449
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8137691723638998,
+          "sentence": "When people can see future emotions more clearly, they are more likely to make choices that align with their long-term goals and true values, rather than being controlled only by temporary expectations, fears, or impulses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.18623082763610022,
+            "ai": 0.8132732099614702,
+            "paraphrased": 0.0004959624024295073
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9476295737441254,
+        "mixed": 0.05237042625587481
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9476295737441254,
+          "mixed": 0.05237042625587481,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Affective forecasting refers to the way people imagine, before something has happened, how they will feel in the future, how strong that feeling will be, and how long it will last. In more everyday terms, it is the mental estimate of “I think I will feel very happy, very hurt, very regretful, or very satisfied when the time comes.” People make this kind of prediction every day: when choosing a major, they imagine whether they will feel a sense of achievement in the future; when deciding whether to confess their feelings, they imagine how painful rejection would be; when buying an expensive item, they imagine whether it will make them happier. The problem is that these predictions are often inaccurate. We tend to overestimate the emotional impact of a particular event, and we also tend to focus our attention on the event itself while ignoring the many other factors in future life that may distract us, change our mood, or even help us adapt.\n\nAffective forecasting is closely related to motivation, because people often decide whether to act in the present based on “how they will feel in the future.” If a student believes that finishing a paper will make him feel very relieved and proud, he may be more willing to start writing. If he imagines that the process of writing the paper will bring only anxiety and pain, he may procrastinate. Affective forecasting also influences learning behavior. Learning often requires delayed gratification: it may feel boring in the moment, while the rewards come later. If students mistakenly predict that “reviewing will definitely be very unpleasant and will not bring any obvious satisfaction,” they may underestimate the sense of control and confidence that comes after studying hard. Conversely, some people may overestimate the happiness of getting a high score, believing that one good grade will completely change their self-evaluation, only to find after receiving the grade that the happiness fades quickly.\n\nAffective forecasting is also connected to emotion regulation and decision-making. When people make choices, they are not only comparing objective outcomes; they are also comparing imagined emotional outcomes. For example, changing jobs involves not only salary and location, but also imagined future stress, freedom, identity, and happiness. If the prediction is very biased, the decision may move away from one’s true long-term needs. Sometimes people avoid trying new things in order to escape anticipated pain, only to discover after the actual experience that they are more adaptable than they had imagined. Others pursue imagined intense happiness through impulsive spending or by choosing a path that does not suit them, and later find that the satisfaction is brief and limited.\n\nA specific example is a university student named Xiaolin, who was very afraid of taking a public speaking course when choosing classes. He predicted that he would feel extremely embarrassed every time he went on stage, that his classmates would always remember his mistakes, and that this sense of shame would last a long time. For this reason, he initially wanted to avoid the course, even though it would be very helpful for his professional development. Later, he took the course anyway. Before his first speech, he was indeed nervous, but after the speech ended, he found that his classmates did not judge him as harshly as he had imagined, and the teacher’s feedback was also specific and friendly. A few weeks later, he even began to look forward to performing better next time. This example shows that people often overestimate the intensity and duration of negative emotions, while underestimating their ability to adapt, learn, and recover.\n\nThis topic is important because affective forecasting influences many real-life choices: learning, careers, relationships, consumption, health behaviors, and risk judgments. If we do not understand that our predictions may be wrong, we can easily be led by imagined happiness or pain. A more accurate understanding of affective forecasting can help people ask more questions when making decisions: Am I focusing only on one outcome? Have I ignored my ability to adapt to change? Were similar past experiences really as intense as I now imagine? When people can see future emotions more clearly, they are more likely to make choices that align with their long-term goals and true values, rather than being controlled only by temporary expectations, fears, or impulses.\n",
+      "document_id": null
+    }
+  ]
+}

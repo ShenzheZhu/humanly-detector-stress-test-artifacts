@@ -1,0 +1,611 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.9995313262029416,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999920728283221,
+          "sentence": "Online Shopping Motivation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007927171677840388,
+            "ai": 0.9998647473763188,
+            "paraphrased": 0.00012732545200336124
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999950156252788,
+          "sentence": "Online shopping motivation refers to the psychological drivers that lead people to browse and buy products through digital platforms.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004984374721157708,
+            "ai": 0.9998943738380893,
+            "paraphrased": 0.00010064178718953326
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999947028087911,
+          "sentence": "While shopping might appear to be a simple matter of acquiring needed goods, research shows that the motivations behind it are varied and often emotional.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005297191208818829,
+            "ai": 0.9998938743155421,
+            "paraphrased": 0.0001008284932490372
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953345540329,
+          "sentence": "Understanding these drivers illuminates how motivation, emotion, and decision-making interact in everyday consumer behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004665445967090421,
+            "ai": 0.9998717482645021,
+            "paraphrased": 0.00012358628953084623
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999995041456651,
+          "sentence": "In plain language, motivations for online shopping are commonly divided into two broad categories: utilitarian and hedonic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004958543349005223,
+            "ai": 0.9998595841225727,
+            "paraphrased": 0.00013545733407831882
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999960491899212,
+          "sentence": "Utilitarian motivation is goal-oriented and practical; the shopper wants to acquire a specific product efficiently, comparing prices, reading specifications, and completing the purchase with minimal effort.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003950810078788378,
+            "ai": 0.9998773614377127,
+            "paraphrased": 0.00011868775220852437
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999995297575213,
+          "sentence": "Hedonic motivation, by contrast, is experiential and emotional; the shopper is seeking enjoyment, stimulation, escape, or the pleasure of discovery.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004702424786942446,
+            "ai": 0.9998597580461074,
+            "paraphrased": 0.0001355395291056307
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999951919717633,
+          "sentence": "In practice, most shopping episodes blend the two, but the balance between them shapes how people behave online.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004808028236610367,
+            "ai": 0.9998726755568433,
+            "paraphrased": 0.0001225164149200204
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999949969263613,
+          "sentence": "The connection to emotion and decision-making is significant.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005003073638798744,
+            "ai": 0.99987747838446,
+            "paraphrased": 0.00011751854190128541
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999958312593136,
+          "sentence": "Hedonic shopping is driven by feelings such as excitement, curiosity, and the anticipation of reward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004168740686464081,
+            "ai": 0.999859778888802,
+            "paraphrased": 0.00013605237051162063
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999960265194408,
+          "sentence": "The design of online stores often amplifies these emotions through personalized recommendations, limited-time offers, and the frictionless ease of one-click purchasing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000039734805592685955,
+            "ai": 0.9998666225777864,
+            "paraphrased": 0.0001294039416544098
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999956691429743,
+          "sentence": "These features can encourage impulsive decisions by reducing the time between desire and action.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004330857025620583,
+            "ai": 0.9998737905188121,
+            "paraphrased": 0.00012187862416226888
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953581116111,
+          "sentence": "Utilitarian motivation, meanwhile, engages more deliberate, rational decision processes, though even careful shoppers are influenced by how information is presented.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000046418883888480115,
+            "ai": 0.9998727350966111,
+            "paraphrased": 0.00012262301499999217
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999953551340653,
+          "sentence": "A concrete example illustrates the difference.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000046448659346952985,
+            "ai": 0.9999121632445357,
+            "paraphrased": 0.00008319188952962545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999941989030997,
+          "sentence": "Imagine two people visiting the same online store.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005801096900308853,
+            "ai": 0.999884723949967,
+            "paraphrased": 0.00010947495313275805
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999939490066361,
+          "sentence": "The first needs a replacement charger for her laptop; she searches for the exact model, checks reviews and price, buys it, and leaves.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006050993363907493,
+            "ai": 0.9998715018856797,
+            "paraphrased": 0.00012244712095629788
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999915962040359,
+          "sentence": "Her behavior is utilitarian and efficient.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000840379596416976,
+            "ai": 0.999871771931067,
+            "paraphrased": 0.00011982427296884703
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.888574973254648,
+          "sentence": "The second has no particular need but opens the site after a stressful day, scrolling through clothing and home goods for the pleasure of it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.11142502674535196,
+            "ai": 0.8876726587047761,
+            "paraphrased": 0.0009023145498719221
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8940422111839645,
+          "sentence": "She adds several items to her cart on impulse, motivated by the enjoyable experience rather than a concrete goal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.10595778881603543,
+            "ai": 0.8932923504907945,
+            "paraphrased": 0.0007498606931700935
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8834592950542869,
+          "sentence": "Same platform, very different psychological drivers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.11654070494571313,
+            "ai": 0.882417833996732,
+            "paraphrased": 0.0010414610575548572
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9949406297539514,
+          "sentence": "This distinction helps explain phenomena like impulse buying and the emotional comfort some people derive from shopping.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005059370246048603,
+            "ai": 0.9946510079071055,
+            "paraphrased": 0.0002896218468459089
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987667666244997,
+          "sentence": "When hedonic motivation dominates, purchases may serve mood regulation, offering a brief lift that has little to do with the usefulness of the items acquired.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001233233375500215,
+            "ai": 0.9985557228894052,
+            "paraphrased": 0.00021104373509454514
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.997679942382353,
+          "sentence": "Recognizing this can help consumers make more intentional choices and become aware of when emotion, rather than need, is guiding their decisions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002320057617647042,
+            "ai": 0.9974424240142571,
+            "paraphrased": 0.00023751836809588088
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995271940508654,
+          "sentence": "It is worth adding nuance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00047280594913464005,
+            "ai": 0.9993693669981885,
+            "paraphrased": 0.00015782705267693053
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999567651494082,
+          "sentence": "Motivations are not fixed traits; the same person can be utilitarian in one session and hedonic in another, depending on mood, context, and even the time of day.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004323485059179667,
+            "ai": 0.9994081626864799,
+            "paraphrased": 0.00015948880760211865
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998401347387211,
+          "sentence": "Cultural and individual differences also shape how people shop, and the rise of mobile commerce and social media has blurred the line between browsing for fun and buying with intent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001598652612789431,
+            "ai": 0.9997323249456087,
+            "paraphrased": 0.00010780979311237798
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999393658352084,
+          "sentence": "Understanding online shopping motivation matters for several reasons.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000060634164791597715,
+            "ai": 0.9998524973191524,
+            "paraphrased": 0.00008686851605597745
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998857263677491,
+          "sentence": "For consumers, awareness of their own motivations can support healthier financial habits and reduce regret from impulsive spending.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011427363225093068,
+            "ai": 0.9997969540945126,
+            "paraphrased": 0.00008877227323641298
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999042365567392,
+          "sentence": "For businesses and designers, the same knowledge informs how platforms are built, raising important ethical questions about how persuasive design can exploit emotional drivers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000957634432608189,
+            "ai": 0.9998217978578351,
+            "paraphrased": 0.00008243869890413105
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993830489424189,
+          "sentence": "As commerce continues to move online, understanding why people shop, and not just what they buy, becomes increasingly valuable for both well-being and responsible design.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006169510575810833,
+            "ai": 0.999263032140031,
+            "paraphrased": 0.00012001680238798651
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Online Shopping Motivation\n\nOnline shopping motivation refers to the psychological drivers that lead people to browse and buy products through digital platforms. While shopping might appear to be a simple matter of acquiring needed goods, research shows that the motivations behind it are varied and often emotional. Understanding these drivers illuminates how motivation, emotion, and decision-making interact in everyday consumer behavior.\n\nIn plain language, motivations for online shopping are commonly divided into two broad categories: utilitarian and hedonic. Utilitarian motivation is goal-oriented and practical; the shopper wants to acquire a specific product efficiently, comparing prices, reading specifications, and completing the purchase with minimal effort. Hedonic motivation, by contrast, is experiential and emotional; the shopper is seeking enjoyment, stimulation, escape, or the pleasure of discovery. In practice, most shopping episodes blend the two, but the balance between them shapes how people behave online.\n\nThe connection to emotion and decision-making is significant. Hedonic shopping is driven by feelings such as excitement, curiosity, and the anticipation of reward. The design of online stores often amplifies these emotions through personalized recommendations, limited-time offers, and the frictionless ease of one-click purchasing. These features can encourage impulsive decisions by reducing the time between desire and action. Utilitarian motivation, meanwhile, engages more deliberate, rational decision processes, though even careful shoppers are influenced by how information is presented.\n\nA concrete example illustrates the difference. Imagine two people visiting the same online store. The first needs a replacement charger for her laptop; she searches for the exact model, checks reviews and price, buys it, and leaves. Her behavior is utilitarian and efficient. The second has no particular need but opens the site after a stressful day, scrolling through clothing and home goods for the pleasure of it. She adds several items to her cart on impulse, motivated by the enjoyable experience rather than a concrete goal. Same platform, very different psychological drivers.\n\nThis distinction helps explain phenomena like impulse buying and the emotional comfort some people derive from shopping. When hedonic motivation dominates, purchases may serve mood regulation, offering a brief lift that has little to do with the usefulness of the items acquired. Recognizing this can help consumers make more intentional choices and become aware of when emotion, rather than need, is guiding their decisions.\n\nIt is worth adding nuance. Motivations are not fixed traits; the same person can be utilitarian in one session and hedonic in another, depending on mood, context, and even the time of day. Cultural and individual differences also shape how people shop, and the rise of mobile commerce and social media has blurred the line between browsing for fun and buying with intent.\n\nUnderstanding online shopping motivation matters for several reasons. For consumers, awareness of their own motivations can support healthier financial habits and reduce regret from impulsive spending. For businesses and designers, the same knowledge informs how platforms are built, raising important ethical questions about how persuasive design can exploit emotional drivers. As commerce continues to move online, understanding why people shop, and not just what they buy, becomes increasingly valuable for both well-being and responsible design.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.3063829682933457
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.8485885887581702,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.8571951043403284,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9223097729166648,
+          "sentence": "I really need to shout this here: my novel is finally revised!!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07769022708333521,
+            "ai": 0.8664343759469455,
+            "paraphrased": 0.0558753969697193
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.7887375841152373,
+          "sentence": "!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.21126241588476272,
+            "ai": 0.7271355851155596,
+            "paraphrased": 0.06160199899967762
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9184532960788397,
+          "sentence": "From that messy document at the very beginning to the version I can now honestly call “a complete book,” almost three years have passed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08154670392116022,
+            "ai": 0.8598723071775528,
+            "paraphrased": 0.05858098890128698
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9156376563257689,
+          "sentence": "In that time, I overturned the main plot, cut chapters I could hardly bear to let go of, and turned a character who was originally just passing through into a central figure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08436234367423108,
+            "ai": 0.8542345993597045,
+            "paraphrased": 0.06140305696606443
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9093924520424093,
+          "sentence": "More than once, I stared at the screen and thought, forget it, this thing can’t be saved.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09060754795759074,
+            "ai": 0.8551216284767097,
+            "paraphrased": 0.0542708235656996
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.912379699250095,
+          "sentence": "But today, after rereading the final chapter, I suddenly realized it really does stand on its own now.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08762030074990501,
+            "ai": 0.8606037869146969,
+            "paraphrased": 0.0517759123353981
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9334425563719365,
+          "sentence": "The characters are no longer just speaking for me; they have their own choices, mistakes, and voices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.06655744362806355,
+            "ai": 0.8703452595657735,
+            "paraphrased": 0.06309729680616304
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8923027076400614,
+          "sentence": "The passages I once worked hardest on are now the cleanest cuts, while a few little details I added casually have become my favorite parts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.10769729235993852,
+            "ai": 0.8428440031197368,
+            "paraphrased": 0.04945870452032458
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9271614731646463,
+          "sentence": "Next will probably be proofreading, organizing submission materials, and maybe facing more rejection letters.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07283852683535379,
+            "ai": 0.8704286736505433,
+            "paraphrased": 0.056732799514102907
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9299151604628924,
+          "sentence": "But tonight, I don’t want to be anxious.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07008483953710765,
+            "ai": 0.885686152535035,
+            "paraphrased": 0.04422900792785728
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.943287507122103,
+          "sentence": "Tonight, I just want to let myself be happy: I wrote it, and I revised it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.056712492877896925,
+            "ai": 0.8921468787480378,
+            "paraphrased": 0.051140628374065245
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.14280489565967158,
+        "ai": 0.8571951043403284,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.8571951043403284,
+          "mixed": 0,
+          "human": 0.14280489565967158
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I really need to shout this here: my novel is finally revised!!!\n\nFrom that messy document at the very beginning to the version I can now honestly call “a complete book,” almost three years have passed. In that time, I overturned the main plot, cut chapters I could hardly bear to let go of, and turned a character who was originally just passing through into a central figure. More than once, I stared at the screen and thought, forget it, this thing can’t be saved.\n\nBut today, after rereading the final chapter, I suddenly realized it really does stand on its own now. The characters are no longer just speaking for me; they have their own choices, mistakes, and voices. The passages I once worked hardest on are now the cleanest cuts, while a few little details I added casually have become my favorite parts.\n\nNext will probably be proofreading, organizing submission materials, and maybe facing more rejection letters. But tonight, I don’t want to be anxious. Tonight, I just want to let myself be happy: I wrote it, and I revised it.\n",
+      "document_id": null
+    }
+  ]
+}

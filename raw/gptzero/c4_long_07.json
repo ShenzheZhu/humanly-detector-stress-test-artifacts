@@ -1,0 +1,969 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9997200939280013,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999666575872563,
+          "sentence": "Summary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003334241274375098,
+            "ai": 0.9996732067034874,
+            "paraphrased": 0.0002934508837689401
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999762650366651,
+          "sentence": "This paper proposes a memory-augmented attention model for video understanding tasks, with a focus on problems such as video captioning or video question answering.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023734963334897035,
+            "ai": 0.9997083610450246,
+            "paraphrased": 0.00026790399164056914
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999923975668468,
+          "sentence": "The motivation is that videos contain long temporal sequences in which relevant information may be distributed across many frames and separated by large time gaps, and that standard recurrent or attention mechanisms can struggle to capture these long-range dependencies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007602433153217513,
+            "ai": 0.9998105943420216,
+            "paraphrased": 0.00018180322482522034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999960791302583,
+          "sentence": "To address this, the authors augment an attention-based architecture with an external memory component that can store and retrieve information over extended temporal spans, allowing the model to attend not only to recent frames but to a richer accumulated representation of the video.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003920869741661805,
+            "ai": 0.9997775853746713,
+            "paraphrased": 0.0002184937555870701
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999994085465785,
+          "sentence": "The paper describes the architecture, including how memory is written and read and how attention operates over both frame-level features and memory contents, and details the training procedure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005914534214991628,
+            "ai": 0.9997897962893548,
+            "paraphrased": 0.0002042891764301817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999942888798113,
+          "sentence": "Experiments are conducted on standard video understanding benchmarks, comparing the proposed model against attention and recurrent baselines, with both quantitative metrics and qualitative examples intended to demonstrate the benefit of the memory mechanism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005711120188683485,
+            "ai": 0.9997548548659648,
+            "paraphrased": 0.0002394340138465314
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99999082719951,
+          "sentence": "Strengths",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009172800490016427,
+            "ai": 0.999706427106015,
+            "paraphrased": 0.0002844000934950265
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999950862447577,
+          "sentence": "The paper targets a real and well-recognized challenge.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004913755242293642,
+            "ai": 0.9997840569884863,
+            "paraphrased": 0.00021102925627146355
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999955481256704,
+          "sentence": "Modeling long-range temporal dependencies in video is genuinely difficult, and the combination of attention with external memory is a reasonable and well-motivated strategy for retaining information that would otherwise be lost in long sequences.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004451874329689014,
+            "ai": 0.999761795885106,
+            "paraphrased": 0.00023375224056426677
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999951313205251,
+          "sentence": "The motivation is clearly explained and grounded in the practical limitations of existing models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000048686794749156235,
+            "ai": 0.9997673994123067,
+            "paraphrased": 0.00022773190821830878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999957499420921,
+          "sentence": "The architectural design is thoughtfully constructed, integrating memory and attention in a way that is coherent and consistent with successful ideas from related areas such as memory networks and attention-based sequence modeling.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004250057907926208,
+            "ai": 0.9997587989337063,
+            "paraphrased": 0.00023695100838569486
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999962575226263,
+          "sentence": "Combining these complementary mechanisms, attention for selective focus and memory for long-term retention, is sensible, and the paper articulates how the two components interact.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000037424773736157596,
+            "ai": 0.9997473674071629,
+            "paraphrased": 0.000248890115463499
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999965458131377,
+          "sentence": "The experimental evaluation includes comparisons against relevant baselines and reports improvements on established benchmarks, which lends empirical support to the central claim.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003454186862317773,
+            "ai": 0.9997678055897392,
+            "paraphrased": 0.00022874022339848573
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999996459003041,
+          "sentence": "The inclusion of qualitative examples is helpful, since visualizing what the memory stores and what the model attends to can offer intuition about why the approach helps and can make the contribution more persuasive than aggregate metrics alone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000035409969590565925,
+            "ai": 0.999816314536745,
+            "paraphrased": 0.0001801444662959427
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999943665426674,
+          "sentence": "The paper is generally well organized and situates itself appropriately within the literature on video understanding, attention, and memory-augmented networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005633457332696816,
+            "ai": 0.9997978551270297,
+            "paraphrased": 0.00019651141563764904
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999713818302508,
+          "sentence": "Weaknesses",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002861816974923122,
+            "ai": 0.9996957907585015,
+            "paraphrased": 0.00027559107174930766
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8580188888496884,
+          "sentence": "My main concern is disentangling the contribution of the memory component from the rest of the architecture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.14198111115031165,
+            "ai": 0.8561384748650984,
+            "paraphrased": 0.0018804139845899066
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9939393630801623,
+          "sentence": "Video models have many moving parts, and improvements over baselines could stem from factors unrelated to memory, such as additional parameters, different feature extractors, or training details.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006060636919837706,
+            "ai": 0.9925387259068512,
+            "paraphrased": 0.0014006371733111089
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996639786738235,
+          "sentence": "The paper needs careful ablations that isolate the memory mechanism, ideally holding capacity and other factors fixed, to demonstrate that the gains genuinely arise from memory-based long-range modeling.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003360213261765671,
+            "ai": 0.9987204275200464,
+            "paraphrased": 0.0009435511537770352
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999656346547614,
+          "sentence": "The magnitude of the improvements and their significance deserve scrutiny.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000034365345238572465,
+            "ai": 0.9990749405096346,
+            "paraphrased": 0.0008906941451267437
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999595360442145,
+          "sentence": "On standard benchmarks, gains can be small and sensitive to hyperparameters and evaluation choices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000040463955785465,
+            "ai": 0.9992544479911348,
+            "paraphrased": 0.0007050880530797231
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999404923305948,
+          "sentence": "Without measures of variability across runs or appropriate significance analysis, it is difficult to be confident that the reported improvements are robust rather than incidental.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005950766940523511,
+            "ai": 0.9992993252591242,
+            "paraphrased": 0.0006411670714705057
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999543245609397,
+          "sentence": "The interpretability claims associated with the qualitative examples should be treated with care.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004567543906032794,
+            "ai": 0.9992145369669477,
+            "paraphrased": 0.0007397875939919773
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999602270412573,
+          "sentence": "Selected examples can be unrepresentative, and attention or memory visualizations do not always reflect what drives the model's predictions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003977295874267731,
+            "ai": 0.9992563724547171,
+            "paraphrased": 0.0007038545865401963
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999954672149943,
+          "sentence": "A more systematic analysis, rather than a handful of favorable cases, would strengthen the argument that the memory is being used in the intended way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004532785005700053,
+            "ai": 0.9993286963932965,
+            "paraphrased": 0.0006259757566465367
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999540543492119,
+          "sentence": "Finally, the computational cost and scalability of the memory mechanism are not fully analyzed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004594565078806532,
+            "ai": 0.9993794219031896,
+            "paraphrased": 0.0005746324460223173
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999627196202652,
+          "sentence": "External memory can introduce substantial overhead, and for long videos the read and write operations may become expensive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000037280379734774965,
+            "ai": 0.9993984240131694,
+            "paraphrased": 0.0005642956070958441
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999380072464795,
+          "sentence": "A discussion of how cost scales with video length and memory size, and of any trade-offs against simpler alternatives, would be valuable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006199275352045161,
+            "ai": 0.9994505243341152,
+            "paraphrased": 0.0004874829123643689
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9971718494210776,
+          "sentence": "Questions for the Authors",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002828150578922365,
+            "ai": 0.9965026579325739,
+            "paraphrased": 0.0006691914885037262
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989730563986408,
+          "sentence": "First, can you provide ablations that isolate the memory component while controlling for parameter count and other architectural changes, so that the improvement can be attributed specifically to memory-based long-range modeling?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010269436013592471,
+            "ai": 0.998393523389567,
+            "paraphrased": 0.0005795330090737669
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980592861633644,
+          "sentence": "Second, how variable are the results across random seeds and hyperparameter settings, and are the reported improvements statistically significant?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001940713836635698,
+            "ai": 0.9973490189424881,
+            "paraphrased": 0.0007102672208762701
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9977479921987072,
+          "sentence": "Third, beyond selected qualitative examples, is there systematic evidence that the memory stores and retrieves information in the intended, interpretable way and that this drives predictions?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0022520078012926896,
+            "ai": 0.9968567777667203,
+            "paraphrased": 0.0008912144319869325
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9967067852008944,
+          "sentence": "Fourth, how does the computational and memory cost scale with video length and the size of the external memory, and how does this compare with simpler long-range modeling alternatives?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0032932147991055795,
+            "ai": 0.9957924983296,
+            "paraphrased": 0.0009142868712943466
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998531956977006,
+          "sentence": "Fifth, in which types of videos or tasks does the memory mechanism help most, for instance those requiring reasoning over events separated by long gaps, and are there cases where it offers little benefit?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001468043022993779,
+            "ai": 0.9993890362046659,
+            "paraphrased": 0.00046415949303468346
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99993750800955,
+          "sentence": "Additional Comments",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006249199045006453,
+            "ai": 0.9992480575293367,
+            "paraphrased": 0.0006894504802132582
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999589859953649,
+          "sentence": "Several further points would improve the paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000041014004635095114,
+            "ai": 0.9996326939662813,
+            "paraphrased": 0.00032629202908359106
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999860838441681,
+          "sentence": "It would be helpful to visualize and quantify how memory usage changes with the temporal distance between relevant events, since the central claim is about long-range dependencies; a controlled experiment with synthetic videos in which the gap between cue and target is varied systematically would directly test whether memory provides the intended benefit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001391615583197475,
+            "ai": 0.9996402362422406,
+            "paraphrased": 0.00034584760192741144
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991759994942,
+          "sentence": "The authors might also compare against simpler long-range baselines, such as dilated temporal convolutions or hierarchical recurrence, to show that external memory is necessary rather than merely sufficient.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008240005057970499,
+            "ai": 0.9996443296377158,
+            "paraphrased": 0.00034743035722628005
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999898068831368,
+          "sentence": "Reporting the number of parameters and the inference latency for each model would make the efficiency trade-offs explicit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001019311686327147,
+            "ai": 0.9996237021578129,
+            "paraphrased": 0.00036610472532384435
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999919164619264,
+          "sentence": "On the analysis side, it would be valuable to characterize when the memory fails, for instance whether very long videos overwhelm its capacity, and how the read and write operations behave as the memory fills.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008083538073582535,
+            "ai": 0.9996161579501782,
+            "paraphrased": 0.0003757585117481513
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931722987799,
+          "sentence": "Finally, releasing code and the exact data splits would aid reproducibility, which is especially important given the sensitivity of video benchmarks to preprocessing and feature extraction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000682770122007011,
+            "ai": 0.9996149383420103,
+            "paraphrased": 0.0003782339567696417
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931607838893,
+          "sentence": "These additions would help confirm that the gains arise specifically from the memory-augmented modeling of long-range temporal structure, which is the paper's distinctive claim.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006839216110638582,
+            "ai": 0.9996435161709465,
+            "paraphrased": 0.00034964461294283286
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999887757833107,
+          "sentence": "Overall Recommendation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011224216689269495,
+            "ai": 0.9994644330348191,
+            "paraphrased": 0.000524342748491545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999926121806217,
+          "sentence": "This paper presents a sensible and well-motivated approach to a real problem, augmenting attention-based video models with external memory to capture long-range temporal dependencies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007387819378237533,
+            "ai": 0.9996192837125002,
+            "paraphrased": 0.0003733284681215285
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931174689194,
+          "sentence": "The architecture is coherent, the evaluation includes relevant baselines and improvements, and the qualitative analysis offers useful intuition.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006882531080668381,
+            "ai": 0.9996263385482738,
+            "paraphrased": 0.0003667789206456148
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999933249030976,
+          "sentence": "The central reservations concern whether the gains can be attributed specifically to the memory mechanism, the robustness and significance of the reported improvements, and the lack of a thorough cost and scalability analysis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000066750969023993504,
+            "ai": 0.9996346454178848,
+            "paraphrased": 0.0003586794852127289
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999920837413601,
+          "sentence": "I view this as a borderline paper leaning slightly positive: the idea is reasonable and the results are encouraging, but the evidence isolating the contribution of memory is not yet conclusive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000791625863988822,
+            "ai": 0.9996917777202399,
+            "paraphrased": 0.0003003060211201921
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999940344705492,
+          "sentence": "I would support acceptance if the authors add rigorous ablations, report variability and significance, and analyze computational trade-offs, since these additions would substantially clarify the value of the proposed mechanism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005965529450749894,
+            "ai": 0.9997050161465735,
+            "paraphrased": 0.0002890183239758095
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Summary\n\nThis paper proposes a memory-augmented attention model for video understanding tasks, with a focus on problems such as video captioning or video question answering. The motivation is that videos contain long temporal sequences in which relevant information may be distributed across many frames and separated by large time gaps, and that standard recurrent or attention mechanisms can struggle to capture these long-range dependencies. To address this, the authors augment an attention-based architecture with an external memory component that can store and retrieve information over extended temporal spans, allowing the model to attend not only to recent frames but to a richer accumulated representation of the video. The paper describes the architecture, including how memory is written and read and how attention operates over both frame-level features and memory contents, and details the training procedure. Experiments are conducted on standard video understanding benchmarks, comparing the proposed model against attention and recurrent baselines, with both quantitative metrics and qualitative examples intended to demonstrate the benefit of the memory mechanism.\n\nStrengths\n\nThe paper targets a real and well-recognized challenge. Modeling long-range temporal dependencies in video is genuinely difficult, and the combination of attention with external memory is a reasonable and well-motivated strategy for retaining information that would otherwise be lost in long sequences. The motivation is clearly explained and grounded in the practical limitations of existing models.\n\nThe architectural design is thoughtfully constructed, integrating memory and attention in a way that is coherent and consistent with successful ideas from related areas such as memory networks and attention-based sequence modeling. Combining these complementary mechanisms, attention for selective focus and memory for long-term retention, is sensible, and the paper articulates how the two components interact.\n\nThe experimental evaluation includes comparisons against relevant baselines and reports improvements on established benchmarks, which lends empirical support to the central claim. The inclusion of qualitative examples is helpful, since visualizing what the memory stores and what the model attends to can offer intuition about why the approach helps and can make the contribution more persuasive than aggregate metrics alone.\n\nThe paper is generally well organized and situates itself appropriately within the literature on video understanding, attention, and memory-augmented networks.\n\nWeaknesses\n\nMy main concern is disentangling the contribution of the memory component from the rest of the architecture. Video models have many moving parts, and improvements over baselines could stem from factors unrelated to memory, such as additional parameters, different feature extractors, or training details. The paper needs careful ablations that isolate the memory mechanism, ideally holding capacity and other factors fixed, to demonstrate that the gains genuinely arise from memory-based long-range modeling.\n\nThe magnitude of the improvements and their significance deserve scrutiny. On standard benchmarks, gains can be small and sensitive to hyperparameters and evaluation choices. Without measures of variability across runs or appropriate significance analysis, it is difficult to be confident that the reported improvements are robust rather than incidental.\n\nThe interpretability claims associated with the qualitative examples should be treated with care. Selected examples can be unrepresentative, and attention or memory visualizations do not always reflect what drives the model's predictions. A more systematic analysis, rather than a handful of favorable cases, would strengthen the argument that the memory is being used in the intended way.\n\nFinally, the computational cost and scalability of the memory mechanism are not fully analyzed. External memory can introduce substantial overhead, and for long videos the read and write operations may become expensive. A discussion of how cost scales with video length and memory size, and of any trade-offs against simpler alternatives, would be valuable.\n\nQuestions for the Authors\n\nFirst, can you provide ablations that isolate the memory component while controlling for parameter count and other architectural changes, so that the improvement can be attributed specifically to memory-based long-range modeling?\n\nSecond, how variable are the results across random seeds and hyperparameter settings, and are the reported improvements statistically significant?\n\nThird, beyond selected qualitative examples, is there systematic evidence that the memory stores and retrieves information in the intended, interpretable way and that this drives predictions?\n\nFourth, how does the computational and memory cost scale with video length and the size of the external memory, and how does this compare with simpler long-range modeling alternatives?\n\nFifth, in which types of videos or tasks does the memory mechanism help most, for instance those requiring reasoning over events separated by long gaps, and are there cases where it offers little benefit?\n\nAdditional Comments\n\nSeveral further points would improve the paper. It would be helpful to visualize and quantify how memory usage changes with the temporal distance between relevant events, since the central claim is about long-range dependencies; a controlled experiment with synthetic videos in which the gap between cue and target is varied systematically would directly test whether memory provides the intended benefit. The authors might also compare against simpler long-range baselines, such as dilated temporal convolutions or hierarchical recurrence, to show that external memory is necessary rather than merely sufficient. Reporting the number of parameters and the inference latency for each model would make the efficiency trade-offs explicit. On the analysis side, it would be valuable to characterize when the memory fails, for instance whether very long videos overwhelm its capacity, and how the read and write operations behave as the memory fills. Finally, releasing code and the exact data splits would aid reproducibility, which is especially important given the sensitivity of video benchmarks to preprocessing and feature extraction. These additions would help confirm that the gains arise specifically from the memory-augmented modeling of long-range temporal structure, which is the paper's distinctive claim.\n\nOverall Recommendation\n\nThis paper presents a sensible and well-motivated approach to a real problem, augmenting attention-based video models with external memory to capture long-range temporal dependencies. The architecture is coherent, the evaluation includes relevant baselines and improvements, and the qualitative analysis offers useful intuition. The central reservations concern whether the gains can be attributed specifically to the memory mechanism, the robustness and significance of the reported improvements, and the lack of a thorough cost and scalability analysis. I view this as a borderline paper leaning slightly positive: the idea is reasonable and the results are encouraging, but the evidence isolating the contribution of memory is not yet conclusive. I would support acceptance if the authors add rigorous ablations, report variability and significance, and analyze computational trade-offs, since these additions would substantially clarify the value of the proposed mechanism.\n",
+      "document_id": null
+    }
+  ]
+}

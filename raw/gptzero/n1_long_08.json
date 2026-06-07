@@ -1,0 +1,1383 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 10,
+          "completely_generated_prob": 0.9316904254198173
+        },
+        {
+          "start_sentence_index": 44,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 51,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 57,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 63,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 71,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        }
+      ],
+      "completely_generated_prob": 0.9959117588211669,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9996624299147762,
+          "sentence": "The paper studies the expressive power of deep neural networks through the behavior of random networks and then uses the resulting picture to motivate several observations about trained networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00033757008522386587,
+            "ai": 0.9833533257798386,
+            "paraphrased": 0.01630910413493759
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996185981446801,
+          "sentence": "The central object is the length of a one-dimensional input trajectory after it is propagated through successive layers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003814018553198494,
+            "ai": 0.9821870298410444,
+            "paraphrased": 0.01743156830363567
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996581353285767,
+          "sentence": "The authors argue, both theoretically and empirically, that this trajectory length grows exponentially with depth for random hard-tanh networks in appropriate parameter regimes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00034186467142326507,
+            "ai": 0.9813385923962793,
+            "paraphrased": 0.018319542932297473
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996806849376113,
+          "sentence": "They then connect this growth to three proposed measures of expressivity: the number of neuron transitions along an input curve, the number of activation patterns, and the number of dichotomies realized when sweeping weights along a trajectory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00031931506238873787,
+            "ai": 0.9828410149192695,
+            "paraphrased": 0.01683967001834184
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994966909729979,
+          "sentence": "A further consequence is that earlier layers should have more influence on expressivity because they have more remaining depth above them; this is tested by freezing all but one layer in networks trained on MNIST and CIFAR-10.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005033090270021479,
+            "ai": 0.9833809468543073,
+            "paraphrased": 0.01611574411869054
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997624110573307,
+          "sentence": "Finally, the authors examine how training changes trajectory length, suggesting that training may trade off expressivity and stability depending on initialization scale.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002375889426693016,
+            "ai": 0.9853731291748471,
+            "paraphrased": 0.014389281882483571
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998047713332563,
+          "sentence": "The paper is ambitious and addresses an important conceptual issue: why depth appears to provide representational advantages beyond merely increasing parameter count.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001952286667437638,
+            "ai": 0.9854056247206449,
+            "paraphrased": 0.014399146612611435
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998353747451824,
+          "sentence": "I found the trajectory-length perspective appealing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016462525481759723,
+            "ai": 0.9878962361821275,
+            "paraphrased": 0.011939138563054895
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998543678620401,
+          "sentence": "It gives an intuitive geometric mechanism by which depth can amplify complexity: a simple input curve can be stretched and folded repeatedly through the network, creating more crossings of decision boundaries and more activation changes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001456321379598867,
+            "ai": 0.986569992878169,
+            "paraphrased": 0.013284374983871068
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996913658058161,
+          "sentence": "This is a useful complement to existing work based on worst-case constructions or counting linear regions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003086341941838654,
+            "ai": 0.9855553063780625,
+            "paraphrased": 0.014136059427753542
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999690787915398,
+          "sentence": "In particular, focusing on random networks is a valuable choice, since random initialization is the starting point for modern training procedures and may be more representative than hand-designed weights used in some expressivity separations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003092120846019355,
+            "ai": 0.9853518908640341,
+            "paraphrased": 0.014338897051363982
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99969604083164,
+          "sentence": "A major strength of the paper is that it tries to unify several notions of expressivity under a single geometric quantity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00030395916836001307,
+            "ai": 0.9864675874346357,
+            "paraphrased": 0.01322845339700431
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991655184411974,
+          "sentence": "The connection between trajectory length and transitions is intuitive and well supported by the figures.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008344815588026326,
+            "ai": 0.9843780409828504,
+            "paraphrased": 0.014787477458346958
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994667827898005,
+          "sentence": "The dichotomy experiments are also interesting, especially the observation that remaining depth, rather than absolute layer index alone, predicts the diversity of labelings obtained by sweeping a layer’s weights.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000533217210199483,
+            "ai": 0.9834687621650409,
+            "paraphrased": 0.015998020624759655
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9974714647644445,
+          "sentence": "The paper’s empirical figures are generally clear and convey the main message effectively: depth has a much stronger effect than width on the proposed measures in the tested regimes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002528535235555464,
+            "ai": 0.9969816935664767,
+            "paraphrased": 0.000489771197967817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998824041962873,
+          "sentence": "I also appreciate that the authors do not restrict attention to purely theoretical statements about untrained networks, but attempt to draw consequences for training behavior and layerwise influence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011759580371271181,
+            "ai": 0.9996631266072034,
+            "paraphrased": 0.00021927758908395656
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999876832541168,
+          "sentence": "The theorem on trajectory-length growth is potentially the most important contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001231674588319812,
+            "ai": 0.9996498011181383,
+            "paraphrased": 0.00022703142302973878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998760141353705,
+          "sentence": "If correct and stated with sufficient precision, it provides a useful mathematical explanation for the exponential depth dependence observed in the simulations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012398586462952722,
+            "ai": 0.9996579580433501,
+            "paraphrased": 0.0002180560920203625
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999398323125697,
+          "sentence": "The paper’s broad structure is also compelling: first identify a mechanism in random networks, then relate it to several expressivity measures, then test implications for trained networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006016768743037551,
+            "ai": 0.9996577493150713,
+            "paraphrased": 0.0002820829974982677
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999982056654448,
+          "sentence": "This gives the work a coherent narrative and makes it more interesting than a collection of unrelated counting arguments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000017943345552037207,
+            "ai": 0.999817008648306,
+            "paraphrased": 0.00016504800614193106
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999733346010201,
+          "sentence": "That said, the current version has several weaknesses that limit the strength of the conclusions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026665398979918747,
+            "ai": 0.9997872281202441,
+            "paraphrased": 0.00018610648077600094
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999752904219673,
+          "sentence": "The first is that many of the claims connecting trajectory length to expressivity are empirical or only partially formalized.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000024709578032722544,
+            "ai": 0.9997393622981291,
+            "paraphrased": 0.00023592812383819178
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997990473035308,
+          "sentence": "The paper proves a lower bound on expected trajectory length growth for hard-tanh networks, and it proves a result on transitions in a large-weight limit, but the broader claim that trajectory length is “responsible for” the depth sensitivity of transitions, activation patterns, and dichotomies is not fully established at the same level of rigor.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00020095269646920906,
+            "ai": 0.9994590518749341,
+            "paraphrased": 0.00033999542859665
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999398160080378,
+          "sentence": "The linear relationship between trajectory length and transitions is shown experimentally and argued intuitively, but it would be helpful to have a clearer statement of the conditions under which this proportionality should hold.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006018399196219608,
+            "ai": 0.999045581990212,
+            "paraphrased": 0.0003525780901660195
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997091966533727,
+          "sentence": "For example, how does the curvature or self-intersection structure of the latent trajectory affect the number of crossings?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00029080334662727914,
+            "ai": 0.9993535782911204,
+            "paraphrased": 0.00035561836225232415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997243815714277,
+          "sentence": "Could a long trajectory remain largely within one side of a readout hyperplane, or repeatedly traverse correlated regions, thereby reducing transitions?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002756184285723342,
+            "ai": 0.9994040964798871,
+            "paraphrased": 0.00032028509154054464
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999375670936653,
+          "sentence": "The paper’s intuition is plausible for random orientations, but the precise probabilistic assumptions should be made explicit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006243290633469287,
+            "ai": 0.9996914031324077,
+            "paraphrased": 0.00024616396125764817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998963371312696,
+          "sentence": "A second concern is that the expressivity measures, while natural, are not always clearly tied to useful function approximation or task performance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010366286873051034,
+            "ai": 0.999623739922191,
+            "paraphrased": 0.00027259720907852535
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994843939665278,
+          "sentence": "Counting transitions along a one-dimensional path can reveal complexity along that path, but it is not obvious how this measure scales to high-dimensional data manifolds or how it relates to classification performance in realistic settings.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005156060334721961,
+            "ai": 0.9994660251780962,
+            "paraphrased": 0.000018368788431530022
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995488150760979,
+          "sentence": "Similarly, activation pattern counts can be enormous without necessarily implying useful representational structure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000451184923902083,
+            "ai": 0.9995295415961721,
+            "paraphrased": 0.00001927347992579536
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998589381999912,
+          "sentence": "The dichotomy measure is closer to classification, but the experimental setup involves sweeping weights along a one-dimensional great circle trajectory, which is a rather special subset of parameter space.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014106180000878014,
+            "ai": 0.9998450526573814,
+            "paraphrased": 0.000013885542609740988
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999718405031003,
+          "sentence": "The paper would benefit from a more careful discussion of what these measures do and do not capture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028159496899698975,
+            "ai": 0.9999608435940905,
+            "paraphrased": 0.000010996909009717919
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999399993798131,
+          "sentence": "In particular, greater trajectory length may reflect instability or sensitivity rather than useful expressivity, and the later training experiments seem to acknowledge this tension.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000060000620186888724,
+            "ai": 0.9999270373860089,
+            "paraphrased": 0.000012961993804261371
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999977890909546,
+          "sentence": "This distinction should be made more central.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022109090453902806,
+            "ai": 0.9999664213018936,
+            "paraphrased": 0.000011469607652446117
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999676906464027,
+          "sentence": "The empirical results on trained networks are intriguing but not yet fully convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000032309353597388896,
+            "ai": 0.9999560737349066,
+            "paraphrased": 0.0000116169114960593
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999403136484507,
+          "sentence": "The experiments in which only one layer is trained show that earlier layers perform better than later layers, consistent with the remaining-depth hypothesis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005968635154928554,
+            "ai": 0.9999264714543579,
+            "paraphrased": 0.000013842194092828599
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999970886900514,
+          "sentence": "However, there are possible confounds.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002911309948587961,
+            "ai": 0.999959268577759,
+            "paraphrased": 0.000011618322755137891
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999426889359957,
+          "sentence": "Training an earlier layer changes the representation that all subsequent random layers process, while training a later layer operates on a fixed random representation from lower layers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005731106400424208,
+            "ai": 0.9999299251362059,
+            "paraphrased": 0.000012763799789794569
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999782262399227,
+          "sentence": "The observed effect may indeed be due to remaining depth, but it could also depend on optimization conditioning, signal propagation, saturation patterns, or the compatibility of random upper layers with the learned lower representation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021773760077246324,
+            "ai": 0.9999648136828412,
+            "paraphrased": 0.000013412557081536798
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999987350726273,
+          "sentence": "The paper should include additional controls.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012649273726995411,
+            "ai": 0.9999736939861259,
+            "paraphrased": 0.000013656740147071154
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999838239643047,
+          "sentence": "For instance, do the results persist for ReLU networks, for different initializations, for batch normalization or normalized activations, or when training comparable blocks rather than single layers?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000161760356951879,
+            "ai": 0.9999702729142343,
+            "paraphrased": 0.00001355105007044055
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999798707669988,
+          "sentence": "What happens if one trains a layer and the final readout together?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020129233001216872,
+            "ai": 0.9999674442546307,
+            "paraphrased": 0.000012426512368052107
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999982531132675,
+          "sentence": "Does the monotonic trend hold across multiple random seeds with confidence intervals?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001746886732504617,
+            "ai": 0.9999688061067576,
+            "paraphrased": 0.00001372502591736014
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999837639648088,
+          "sentence": "The figures suggest a pattern, but the paper should quantify variability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001623603519120778,
+            "ai": 0.9999704070641607,
+            "paraphrased": 0.00001335690064808752
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999805125426197,
+          "sentence": "The training trajectory-length experiments are also interesting but somewhat underinterpreted.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019487457380350037,
+            "ai": 0.9999683155222332,
+            "paraphrased": 0.000012197020386459387
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999129314893697,
+          "sentence": "For large weight variance, training decreases trajectory length; for smaller variance, training increases it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008706851063031628,
+            "ai": 0.9998995406662308,
+            "paraphrased": 0.000013390823138924562
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999532579598333,
+          "sentence": "The authors describe this as a tradeoff between stability and expressivity, but the mechanism remains unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004674204016682409,
+            "ai": 0.9999404497623284,
+            "paraphrased": 0.000012808197504775204
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9774580780048227,
+          "sentence": "Is the change in trajectory length correlated with test accuracy, training loss, margin, or calibration?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02254192199517738,
+            "ai": 0.9703582105431567,
+            "paraphrased": 0.00709986746166592
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9702362266168237,
+          "sentence": "Is the decrease for large variance simply moving the network away from a chaotic or saturated regime into a more trainable regime?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.029763773383176255,
+            "ai": 0.963029096942646,
+            "paraphrased": 0.007207129674177724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9507314173663838,
+          "sentence": "Does the increase for smaller variance occur mainly near the data manifold or globally?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0492685826336162,
+            "ai": 0.9435045919774969,
+            "paraphrased": 0.007226825388886833
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9977611472185525,
+          "sentence": "The paper compares MNIST interpolation curves and random input interpolation curves, which is useful, but more systematic measurements over many pairs of inputs and across different datasets would make the claim stronger.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0022388527814474987,
+            "ai": 0.9893621100890752,
+            "paraphrased": 0.008399037129477344
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.996585206588082,
+          "sentence": "The scope of the theoretical analysis is also somewhat narrow relative to the language used in the paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003414793411917956,
+            "ai": 0.9890564619840375,
+            "paraphrased": 0.007528744604044545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980090790204013,
+          "sentence": "Much of the formal work is for hard-tanh networks, with some results extended or stated for ReLU activation patterns.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001990920979598768,
+            "ai": 0.9900248659597032,
+            "paraphrased": 0.007984213060698029
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996551882175553,
+          "sentence": "Hard-tanh networks are analytically convenient, but they are not the default architecture in most modern applications.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003448117824447563,
+            "ai": 0.9936661653456128,
+            "paraphrased": 0.005989022871942488
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991151836949479,
+          "sentence": "The authors say that hard-tanh results carry over to tanh with additional technical steps, but the relevance to ReLU networks, convolutional architectures, residual networks, and normalized networks is less clear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008848163050520955,
+            "ai": 0.9917325564230337,
+            "paraphrased": 0.00738262727191423
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980735229027566,
+          "sentence": "Since the paper’s motivation is modern deep learning, it would be valuable either to extend the main trajectory-length theorem to ReLU-like nonlinearities or to more explicitly delimit the conclusions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019264770972433403,
+            "ai": 0.991454676060233,
+            "paraphrased": 0.0066188468425236605
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99831992037313,
+          "sentence": "In ReLU networks, the absence of saturation and the possibility of unbounded activations may change the geometry of trajectory length substantially.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001680079626869985,
+            "ai": 0.9917156171852686,
+            "paraphrased": 0.006604303187861433
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995443686160067,
+          "sentence": "The presentation is generally readable, but some definitions and theorem statements need tightening.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00045563138399324596,
+            "ai": 0.9929560515662565,
+            "paraphrased": 0.006588317049750179
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998603576188293,
+          "sentence": "The theorem on trajectory-length growth uses big-O notation inside a lower bound, which is potentially confusing: a lower bound of the form “greater than O(·)” is not mathematically precise unless constants and asymptotic regimes are specified carefully.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013964238117069822,
+            "ai": 0.990996496947073,
+            "paraphrased": 0.007607079241219983
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.996395334685681,
+          "sentence": "The statement that the bound is tight in the limits of large weight variance and width should be clarified.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003604665314319022,
+            "ai": 0.9885396768738336,
+            "paraphrased": 0.007855657811847383
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9981394478482677,
+          "sentence": "The assumptions on the input trajectory are also somewhat informal; the condition involving nonzero perpendicular magnitude should be stated precisely.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001860552151732331,
+            "ai": 0.9891053020618067,
+            "paraphrased": 0.009034145786461023
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9981865209693189,
+          "sentence": "Similarly, the activation-pattern upper bound is described as tight, but the paper should clarify in what sense tightness is achieved and whether it holds for generic weights, worst-case weights, or some asymptotic construction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0018134790306810781,
+            "ai": 0.9905883237560678,
+            "paraphrased": 0.007598197213251144
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9427297178530399,
+          "sentence": "Since this paper relies heavily on geometric intuition, precise definitions are especially important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.057270282146960096,
+            "ai": 0.941212609844567,
+            "paraphrased": 0.0015171080084729017
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9651683049887341,
+          "sentence": "I have several specific questions for the authors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03483169501126588,
+            "ai": 0.9637364676701924,
+            "paraphrased": 0.001431837318541706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.966001111094981,
+          "sentence": "First, can the proportionality between trajectory length and transition count be formalized for random readout hyperplanes under assumptions on the trajectory, perhaps in terms of expected crossings?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03399888890501901,
+            "ai": 0.9646682539081909,
+            "paraphrased": 0.0013328571867901196
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9605113698567785,
+          "sentence": "Second, how sensitive are the empirical results to the choice of input curve?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03948863014322151,
+            "ai": 0.9589443604210616,
+            "paraphrased": 0.0015670094357169418
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9912956646664776,
+          "sentence": "Circular interpolation between random vectors or data points is convenient, but would the same conclusions hold for more realistic paths on the data manifold or for random walks in input space?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008704335333522465,
+            "ai": 0.9900973926916306,
+            "paraphrased": 0.001198271974847004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.995048462593099,
+          "sentence": "Third, in the single-layer training experiments, how many random seeds were used, and how large is the variance across seeds?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004951537406900936,
+            "ai": 0.9940028425621699,
+            "paraphrased": 0.0010456200309291656
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998101921840227,
+          "sentence": "Fourth, does the remaining-depth effect persist if the final linear classifier is trained in all conditions, or if the trained layer is initialized differently from the frozen layers?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0018980781597730243,
+            "ai": 0.9972809701752807,
+            "paraphrased": 0.0008209516649462531
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986491749610478,
+          "sentence": "Fifth, can the authors clarify whether increased trajectory length is always desirable from an expressivity standpoint, or whether it should be interpreted as a capacity measure that may be harmful when excessive?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00135082503895217,
+            "ai": 0.9979780083992982,
+            "paraphrased": 0.000671166561749611
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979622204627007,
+          "sentence": "Finally, how do the results change for ReLU networks, which are more commonly used and are already discussed in the activation-pattern section?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0020377795372992823,
+            "ai": 0.9971870175173464,
+            "paraphrased": 0.0007752029453543091
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980021465306255,
+          "sentence": "Overall, I view this as a creative and potentially significant paper with a compelling central idea, but one whose strongest claims need more careful qualification.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019978534693744806,
+            "ai": 0.9973304635685752,
+            "paraphrased": 0.0006716829620502667
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994007583861653,
+          "sentence": "The trajectory-length framework is promising and may provide a useful bridge between random network geometry, expressivity counts, and training behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005992416138346382,
+            "ai": 0.9989170577225637,
+            "paraphrased": 0.00048370066360163826
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991846036109892,
+          "sentence": "The empirical evidence is suggestive, and the theoretical analysis is a valuable start.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008153963890108814,
+            "ai": 0.9986974095299453,
+            "paraphrased": 0.0004871940810437959
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991565116127833,
+          "sentence": "However, some of the links among the different expressivity measures remain informal, the trained-network experiments are limited, and the applicability beyond hard-tanh fully connected networks is not yet fully established.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000843488387216767,
+            "ai": 0.9985423694869873,
+            "paraphrased": 0.0006141421257959958
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989197317798101,
+          "sentence": "My recommendation is a weak accept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010802682201899248,
+            "ai": 0.998439528803542,
+            "paraphrased": 0.0004802029762680611
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988945782433233,
+          "sentence": "I think the paper would be a worthwhile contribution because it introduces a novel perspective and raises important questions, but it should be revised to state its claims more precisely, add controls for the training experiments, and better distinguish between expressivity as potential complexity and expressivity as useful task-relevant representation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011054217566766591,
+            "ai": 0.9984002133891118,
+            "paraphrased": 0.000494364854211518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The paper studies the expressive power of deep neural networks through the behavior of random networks and then uses the resulting picture to motivate several observations about trained networks. The central object is the length of a one-dimensional input trajectory after it is propagated through successive layers. The authors argue, both theoretically and empirically, that this trajectory length grows exponentially with depth for random hard-tanh networks in appropriate parameter regimes. They then connect this growth to three proposed measures of expressivity: the number of neuron transitions along an input curve, the number of activation patterns, and the number of dichotomies realized when sweeping weights along a trajectory. A further consequence is that earlier layers should have more influence on expressivity because they have more remaining depth above them; this is tested by freezing all but one layer in networks trained on MNIST and CIFAR-10. Finally, the authors examine how training changes trajectory length, suggesting that training may trade off expressivity and stability depending on initialization scale.\n\nThe paper is ambitious and addresses an important conceptual issue: why depth appears to provide representational advantages beyond merely increasing parameter count. I found the trajectory-length perspective appealing. It gives an intuitive geometric mechanism by which depth can amplify complexity: a simple input curve can be stretched and folded repeatedly through the network, creating more crossings of decision boundaries and more activation changes. This is a useful complement to existing work based on worst-case constructions or counting linear regions. In particular, focusing on random networks is a valuable choice, since random initialization is the starting point for modern training procedures and may be more representative than hand-designed weights used in some expressivity separations.\n\nA major strength of the paper is that it tries to unify several notions of expressivity under a single geometric quantity. The connection between trajectory length and transitions is intuitive and well supported by the figures. The dichotomy experiments are also interesting, especially the observation that remaining depth, rather than absolute layer index alone, predicts the diversity of labelings obtained by sweeping a layer’s weights. The paper’s empirical figures are generally clear and convey the main message effectively: depth has a much stronger effect than width on the proposed measures in the tested regimes. I also appreciate that the authors do not restrict attention to purely theoretical statements about untrained networks, but attempt to draw consequences for training behavior and layerwise influence.\n\nThe theorem on trajectory-length growth is potentially the most important contribution. If correct and stated with sufficient precision, it provides a useful mathematical explanation for the exponential depth dependence observed in the simulations. The paper’s broad structure is also compelling: first identify a mechanism in random networks, then relate it to several expressivity measures, then test implications for trained networks. This gives the work a coherent narrative and makes it more interesting than a collection of unrelated counting arguments.\n\nThat said, the current version has several weaknesses that limit the strength of the conclusions. The first is that many of the claims connecting trajectory length to expressivity are empirical or only partially formalized. The paper proves a lower bound on expected trajectory length growth for hard-tanh networks, and it proves a result on transitions in a large-weight limit, but the broader claim that trajectory length is “responsible for” the depth sensitivity of transitions, activation patterns, and dichotomies is not fully established at the same level of rigor. The linear relationship between trajectory length and transitions is shown experimentally and argued intuitively, but it would be helpful to have a clearer statement of the conditions under which this proportionality should hold. For example, how does the curvature or self-intersection structure of the latent trajectory affect the number of crossings? Could a long trajectory remain largely within one side of a readout hyperplane, or repeatedly traverse correlated regions, thereby reducing transitions? The paper’s intuition is plausible for random orientations, but the precise probabilistic assumptions should be made explicit.\n\nA second concern is that the expressivity measures, while natural, are not always clearly tied to useful function approximation or task performance. Counting transitions along a one-dimensional path can reveal complexity along that path, but it is not obvious how this measure scales to high-dimensional data manifolds or how it relates to classification performance in realistic settings. Similarly, activation pattern counts can be enormous without necessarily implying useful representational structure. The dichotomy measure is closer to classification, but the experimental setup involves sweeping weights along a one-dimensional great circle trajectory, which is a rather special subset of parameter space. The paper would benefit from a more careful discussion of what these measures do and do not capture. In particular, greater trajectory length may reflect instability or sensitivity rather than useful expressivity, and the later training experiments seem to acknowledge this tension. This distinction should be made more central.\n\nThe empirical results on trained networks are intriguing but not yet fully convincing. The experiments in which only one layer is trained show that earlier layers perform better than later layers, consistent with the remaining-depth hypothesis. However, there are possible confounds. Training an earlier layer changes the representation that all subsequent random layers process, while training a later layer operates on a fixed random representation from lower layers. The observed effect may indeed be due to remaining depth, but it could also depend on optimization conditioning, signal propagation, saturation patterns, or the compatibility of random upper layers with the learned lower representation. The paper should include additional controls. For instance, do the results persist for ReLU networks, for different initializations, for batch normalization or normalized activations, or when training comparable blocks rather than single layers? What happens if one trains a layer and the final readout together? Does the monotonic trend hold across multiple random seeds with confidence intervals? The figures suggest a pattern, but the paper should quantify variability.\n\nThe training trajectory-length experiments are also interesting but somewhat underinterpreted. For large weight variance, training decreases trajectory length; for smaller variance, training increases it. The authors describe this as a tradeoff between stability and expressivity, but the mechanism remains unclear. Is the change in trajectory length correlated with test accuracy, training loss, margin, or calibration? Is the decrease for large variance simply moving the network away from a chaotic or saturated regime into a more trainable regime? Does the increase for smaller variance occur mainly near the data manifold or globally? The paper compares MNIST interpolation curves and random input interpolation curves, which is useful, but more systematic measurements over many pairs of inputs and across different datasets would make the claim stronger.\n\nThe scope of the theoretical analysis is also somewhat narrow relative to the language used in the paper. Much of the formal work is for hard-tanh networks, with some results extended or stated for ReLU activation patterns. Hard-tanh networks are analytically convenient, but they are not the default architecture in most modern applications. The authors say that hard-tanh results carry over to tanh with additional technical steps, but the relevance to ReLU networks, convolutional architectures, residual networks, and normalized networks is less clear. Since the paper’s motivation is modern deep learning, it would be valuable either to extend the main trajectory-length theorem to ReLU-like nonlinearities or to more explicitly delimit the conclusions. In ReLU networks, the absence of saturation and the possibility of unbounded activations may change the geometry of trajectory length substantially.\n\nThe presentation is generally readable, but some definitions and theorem statements need tightening. The theorem on trajectory-length growth uses big-O notation inside a lower bound, which is potentially confusing: a lower bound of the form “greater than O(·)” is not mathematically precise unless constants and asymptotic regimes are specified carefully. The statement that the bound is tight in the limits of large weight variance and width should be clarified. The assumptions on the input trajectory are also somewhat informal; the condition involving nonzero perpendicular magnitude should be stated precisely. Similarly, the activation-pattern upper bound is described as tight, but the paper should clarify in what sense tightness is achieved and whether it holds for generic weights, worst-case weights, or some asymptotic construction. Since this paper relies heavily on geometric intuition, precise definitions are especially important.\n\nI have several specific questions for the authors. First, can the proportionality between trajectory length and transition count be formalized for random readout hyperplanes under assumptions on the trajectory, perhaps in terms of expected crossings? Second, how sensitive are the empirical results to the choice of input curve? Circular interpolation between random vectors or data points is convenient, but would the same conclusions hold for more realistic paths on the data manifold or for random walks in input space? Third, in the single-layer training experiments, how many random seeds were used, and how large is the variance across seeds? Fourth, does the remaining-depth effect persist if the final linear classifier is trained in all conditions, or if the trained layer is initialized differently from the frozen layers? Fifth, can the authors clarify whether increased trajectory length is always desirable from an expressivity standpoint, or whether it should be interpreted as a capacity measure that may be harmful when excessive? Finally, how do the results change for ReLU networks, which are more commonly used and are already discussed in the activation-pattern section?\n\nOverall, I view this as a creative and potentially significant paper with a compelling central idea, but one whose strongest claims need more careful qualification. The trajectory-length framework is promising and may provide a useful bridge between random network geometry, expressivity counts, and training behavior. The empirical evidence is suggestive, and the theoretical analysis is a valuable start. However, some of the links among the different expressivity measures remain informal, the trained-network experiments are limited, and the applicability beyond hard-tanh fully connected networks is not yet fully established. My recommendation is a weak accept. I think the paper would be a worthwhile contribution because it introduces a novel perspective and raises important questions, but it should be revised to state its claims more precisely, add controls for the training experiments, and better distinguish between expressivity as potential complexity and expressivity as useful task-relevant representation.\n",
+      "document_id": null
+    }
+  ]
+}

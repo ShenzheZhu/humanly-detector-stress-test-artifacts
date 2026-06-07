@@ -1,0 +1,1017 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 38,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 40,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 41,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 44,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 45,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 46,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 50,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        }
+      ],
+      "completely_generated_prob": 0.001446981794533764,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9985510616257486,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.02273140121113912,
+          "sentence": "The paper presents a method for training a generative model via an iterative denoising procedure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9772685987888609,
+            "ai": 0.022657236117507383,
+            "paraphrased": 0.0000741650936317352
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.022344849884592538,
+          "sentence": "The denoising process is initialized with a random sample from a crude approximation of the data distribution and produces a high-quality sample via multiple denoising steps.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9776551501154075,
+            "ai": 0.022271113816693066,
+            "paraphrased": 0.00007373606789947235
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.019712578960656583,
+          "sentence": "Training is performed by setting up a Markov chain that slowly blends proposals from the current denoising model with a real example from the data distribution; using this chain, the current denoising model is updated toward reproducing the changed, “better” samples from the blending process.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9802874210393434,
+            "ai": 0.019651253738079195,
+            "paraphrased": 0.00006132522257738636
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.014690749563189998,
+          "sentence": "This is a clearly written paper that considers an interesting approach to training generative models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.98530925043681,
+            "ai": 0.014635045234834212,
+            "paraphrased": 0.000055704328355785996
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.011166300772302446,
+          "sentence": "I was intrigued by the simplicity of the presented approach and really enjoyed reading the paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9888336992276976,
+            "ai": 0.011121148879926566,
+            "paraphrased": 0.00004515189237588022
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.01310169962855934,
+          "sentence": "The proposed method is novel, although it has clear ties to other recent work aiming to use denoising models for sampling from distributions, such as the work by Sohl-Dickstein and the recent work on using DAEs as generative models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9868983003714407,
+            "ai": 0.013049046187363774,
+            "paraphrased": 0.00005265344119556542
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.011012405444137596,
+          "sentence": "I think this general direction of research is important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9889875945558624,
+            "ai": 0.01096654556854184,
+            "paraphrased": 0.000045859875595756825
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010246624227683779,
+          "sentence": "The proposed procedure takes inspiration from the perspective of generating samples by minimizing an energy function via transitions along a Markov chain and, if successful, could potentially sidestep many problems of current procedures for training directed generative models, such as:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9897533757723163,
+            "ai": 0.01020020506749277,
+            "paraphrased": 0.000046419160191008384
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.012701356475953694,
+          "sentence": "- convergence and mode coverage problems, as in generative adversarial networks",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9872986435240463,
+            "ai": 0.012648248738744792,
+            "paraphrased": 0.00005310773720890175
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.011693899123721093,
+          "sentence": "- problems with modeling multi-modal distributions, which can arise when a too-restrictive approximate inference model is paired with a powerful generative model",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9883061008762789,
+            "ai": 0.011644485356378154,
+            "paraphrased": 0.00004941376734293839
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.012779999900276675,
+          "sentence": "That being said, another method that seems promising for addressing these issues, and that also has some superficial similarity to the presented work, is the idea of combining Hamiltonian Monte Carlo inference with variational inference, as in [1].",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9872200000997233,
+            "ai": 0.01272677567269364,
+            "paraphrased": 0.00005322422758303572
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.013856476113313585,
+          "sentence": "As such, I am not entirely convinced that the method presented here will be able to perform better than the mentioned paper, although it might be simpler to train.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9861435238866865,
+            "ai": 0.01380360863814945,
+            "paraphrased": 0.000052867475164134595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0133808209073117,
+          "sentence": "Similarly, although I agree that using an MCMC chain to generate samples via an MC-EM-like procedure is likely very costly, I am not convinced such a procedure would not also work reasonably well for the simple MNIST example.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9866191790926883,
+            "ai": 0.013323309893605086,
+            "paraphrased": 0.00005751101370661364
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00017114249559467174,
+          "sentence": "In general, a more direct comparison between different inference methods using an MCMC-chain-like procedure would be nice to have, but I understand that this is perhaps outside the scope of this paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998288575044053,
+            "ai": 0.00013006642076447954,
+            "paraphrased": 0.00004107607483019219
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011849136749098461,
+          "sentence": "One thing that I would have expected, however, is a direct comparison to the procedure from Sohl-Dickstein in terms of sampling steps and generation quality, as it is so directly related.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999881508632509,
+            "ai": 0.00007202266734672818,
+            "paraphrased": 0.000046468700144256424
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009282178156847372,
+          "sentence": "Other major points (good and bad):",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999071782184316,
+            "ai": 0.00004186750489422751,
+            "paraphrased": 0.000050954276674246204
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010693318082497706,
+          "sentence": "- Although the method is generally explained well, some training details are missing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999893066819175,
+            "ai": 0.00005890469023272869,
+            "paraphrased": 0.000048028490592248366
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008923718748040669,
+          "sentence": "Most importantly, it is never mentioned how alpha or omega are set.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999107628125196,
+            "ai": 0.000035697857406984,
+            "paraphrased": 0.000053539330073422686
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009545589203076326,
+          "sentence": "I am assuming omega is 0.01, as that is the increase mentioned in the experimental setup.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999045441079693,
+            "ai": 0.00004657647657481341,
+            "paraphrased": 0.00004887941545594985
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014413693938789189,
+          "sentence": "It is also unclear how alpha affects the capabilities of the generator.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998558630606121,
+            "ai": 0.00008303795921784083,
+            "paraphrased": 0.00006109898017005106
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010241328945194509,
+          "sentence": "While it intuitively seems reasonable to use a small alpha over many steps to ensure slow blending of the two distributions, it is not clear how necessary this is or at what point the procedure would break.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998975867105481,
+            "ai": 0.00005463630009073591,
+            "paraphrased": 0.000047776989361209174
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000804075982046712,
+          "sentence": "I assume alpha = 1 will not work, as the generator would then have to magically denoise a sample from the relatively uninformative draw from p0.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999195924017953,
+            "ai": 0.00003347388534130113,
+            "paraphrased": 0.00004693371286337007
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007768157016772192,
+          "sentence": "The authors do mention in one of the figure captions that the denoising model does not produce good samples in only 1–2 steps, but that might also be an artifact of training the model with small alpha; at least, I see no a priori reason for this.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999223184298323,
+            "ai": 0.000027430417770632304,
+            "paraphrased": 0.000050251152397089614
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001221932575372467,
+          "sentence": "More experiments should be carried out here.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998778067424627,
+            "ai": 0.00007815244287389738,
+            "paraphrased": 0.00004404081466334931
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010058767180611095,
+          "sentence": "- No infusion chains or generating chains are shown for any of the more complicated data distributions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998994123281939,
+            "ai": 0.00005600567013761218,
+            "paraphrased": 0.000044582001668498775
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011483349916148621,
+          "sentence": "This is unfortunate, as I feel these would be interesting to look at.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998851665008385,
+            "ai": 0.00006891108692010081,
+            "paraphrased": 0.000045922412241385395
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020752698959388647,
+          "sentence": "- The paper does a good job of evaluating the model with respect to several different metrics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997924730104061,
+            "ai": 0.00014945957163571406,
+            "paraphrased": 0.00005806741795817242
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001474573771083473,
+          "sentence": "The bound on the log-likelihood is nice to have as well.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998525426228917,
+            "ai": 0.00009012554841991298,
+            "paraphrased": 0.000057331828688434324
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00045756844543576157,
+          "sentence": "- Unfortunately, the current approach does not come with any theoretical guarantees.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995424315545642,
+            "ai": 0.00040393847740058397,
+            "paraphrased": 0.00005362996803517759
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006230006256621129,
+          "sentence": "It is unclear for what choices of alpha the procedure will work and whether there is some deeper connection to MCMC sampling or energy-based models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993769993743379,
+            "ai": 0.0005589473555431739,
+            "paraphrased": 0.00006405327011893906
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006848542855759894,
+          "sentence": "In my eyes, this does not subtract from the value of the paper, but it would perhaps be worth a short sentence in the conclusion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999315145714424,
+            "ai": 0.0006227827999395951,
+            "paraphrased": 0.00006207148563639428
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.009213086647189485,
+          "sentence": "Minor points:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9907869133528105,
+            "ai": 0.009150674977893342,
+            "paraphrased": 0.00006241166929614301
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.008320843645223426,
+          "sentence": "- The second reference seems broken.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9916791563547765,
+            "ai": 0.008275403844528602,
+            "paraphrased": 0.00004543980069482442
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0018070330714902542,
+          "sentence": "- Figure 3 starts at 100 epochs and, as a result, contains little information.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9981929669285098,
+            "ai": 0.0017752615984557196,
+            "paraphrased": 0.000031771473034534514
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011157857111046994,
+          "sentence": "Perhaps it would be more useful to show the complete training procedure and put the x-axis on a log scale.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988842142888953,
+            "ai": 0.001092493497343015,
+            "paraphrased": 0.00002329221376168451
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020031135079534598,
+          "sentence": "- The explanation regarding the convolutional networks you use makes no sense to me.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997996886492047,
+            "ai": 0.00018737108993479703,
+            "paraphrased": 0.00001294026086054895
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00025551244067248386,
+          "sentence": "You write that you use the same structure as in the “Improved GANs” paper, which, unlike your model, generates samples from a fixed-length random input.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997444875593275,
+            "ai": 0.00024062345924296872,
+            "paraphrased": 0.000014888981429515156
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00021630620337837985,
+          "sentence": "I thus suppose you do not really use a generator with one fully connected network followed by up-convolutions, but rather have several stages of convolutions followed by a fully connected layer and then up-convolutions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997836937966216,
+            "ai": 0.00020230129283773027,
+            "paraphrased": 0.000014004910540649583
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0013960370267143683,
+          "sentence": "- The choice of parametrizing the variance via a sigmoid output unit is somewhat unusual.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9986039629732857,
+            "ai": 0.001373178508038551,
+            "paraphrased": 0.000022858518675817252
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006998795548512504,
+          "sentence": "Was there a specific reason for this choice?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993001204451487,
+            "ai": 0.0006839873955263039,
+            "paraphrased": 0.000015892159324946502
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012958826927619036,
+          "sentence": "- Footnote 1 contains errors: “This allow to” -> “allows one to”; “few informations” -> “little information”; “This force the network” -> “forces the network.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998704117307238,
+            "ai": 0.0001192243134765786,
+            "paraphrased": 0.000010363955799611753
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011307517792940458,
+          "sentence": "- Page 1 error: etc.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998869248220706,
+            "ai": 0.00010253433783599738,
+            "paraphrased": 0.00001054084009340719
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000219661293528194,
+          "sentence": "- Page 4 error: “operator should to learn”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997803387064718,
+            "ai": 0.00020767891608120806,
+            "paraphrased": 0.000011982377446985955
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002583974271974169,
+          "sentence": "[1] Markov Chain Monte Carlo and Variational Inference: Bridging the Gap, Tim Salimans, Diedrik P. Kingma, and Max Welling, ICML 2015",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997416025728025,
+            "ai": 0.0002439648933161152,
+            "paraphrased": 0.000014432533881301754
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020523305900487076,
+          "sentence": ">>> Update <<<<",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997947669409951,
+            "ai": 0.0001931705018879755,
+            "paraphrased": 0.000012062557116895259
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011424478694926579,
+          "sentence": "Copied here from my response below:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998857552130508,
+            "ai": 0.00010475833629342436,
+            "paraphrased": 0.000009486450655841432
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011571342362734914,
+          "sentence": "I believe the authors’ response clarifies all open issues.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998842865763726,
+            "ai": 0.00010410673602960911,
+            "paraphrased": 0.000011606687597740027
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013848032106059235,
+          "sentence": "I strongly believe the paper should be accepted to the conference.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998615196789394,
+            "ai": 0.0001276094896963184,
+            "paraphrased": 0.00001087083136427396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012894235894087157,
+          "sentence": "The only remaining issue I have with the paper is that, as the authors acknowledge, the architecture of the generator is likely highly suboptimal and might hamper the performance of the method in the evaluation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998710576410591,
+            "ai": 0.00011535100687911113,
+            "paraphrased": 0.000013591352061760439
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014963321409127982,
+          "sentence": "This, however, does not at all subtract from any of the main points of the paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998503667859088,
+            "ai": 0.00013603681525360786,
+            "paraphrased": 0.000013596398837671953
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00030974945375937524,
+          "sentence": "I am thus keeping my score as a clear accept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996902505462406,
+            "ai": 0.0002959324208587437,
+            "paraphrased": 0.000013817032900631579
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010350214444313087,
+          "sentence": "I want to emphasize that I believe the paper should be published, just in case the review process results in some form of cut-off threshold that is high due to overall “inflated” review scores.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989649785555687,
+            "ai": 0.0010128308315714386,
+            "paraphrased": 0.000022190612859870203
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9985510616257486,
+        "ai": 0.0014489383742513628,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9985510616257486,
+          "ai": 0.0014489383742513628,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "The paper presents a method for training a generative model via an iterative denoising procedure. The denoising process is initialized with a random sample from a crude approximation of the data distribution and produces a high-quality sample via multiple denoising steps. Training is performed by setting up a Markov chain that slowly blends proposals from the current denoising model with a real example from the data distribution; using this chain, the current denoising model is updated toward reproducing the changed, “better” samples from the blending process.\n\nThis is a clearly written paper that considers an interesting approach to training generative models. I was intrigued by the simplicity of the presented approach and really enjoyed reading the paper.\n\nThe proposed method is novel, although it has clear ties to other recent work aiming to use denoising models for sampling from distributions, such as the work by Sohl-Dickstein and the recent work on using DAEs as generative models.\n\nI think this general direction of research is important. The proposed procedure takes inspiration from the perspective of generating samples by minimizing an energy function via transitions along a Markov chain and, if successful, could potentially sidestep many problems of current procedures for training directed generative models, such as:\n- convergence and mode coverage problems, as in generative adversarial networks\n- problems with modeling multi-modal distributions, which can arise when a too-restrictive approximate inference model is paired with a powerful generative model\n\nThat being said, another method that seems promising for addressing these issues, and that also has some superficial similarity to the presented work, is the idea of combining Hamiltonian Monte Carlo inference with variational inference, as in [1]. As such, I am not entirely convinced that the method presented here will be able to perform better than the mentioned paper, although it might be simpler to train. Similarly, although I agree that using an MCMC chain to generate samples via an MC-EM-like procedure is likely very costly, I am not convinced such a procedure would not also work reasonably well for the simple MNIST example. In general, a more direct comparison between different inference methods using an MCMC-chain-like procedure would be nice to have, but I understand that this is perhaps outside the scope of this paper. One thing that I would have expected, however, is a direct comparison to the procedure from Sohl-Dickstein in terms of sampling steps and generation quality, as it is so directly related.\n\nOther major points (good and bad):\n- Although the method is generally explained well, some training details are missing. Most importantly, it is never mentioned how alpha or omega are set. I am assuming omega is 0.01, as that is the increase mentioned in the experimental setup. It is also unclear how alpha affects the capabilities of the generator. While it intuitively seems reasonable to use a small alpha over many steps to ensure slow blending of the two distributions, it is not clear how necessary this is or at what point the procedure would break. I assume alpha = 1 will not work, as the generator would then have to magically denoise a sample from the relatively uninformative draw from p0. The authors do mention in one of the figure captions that the denoising model does not produce good samples in only 1–2 steps, but that might also be an artifact of training the model with small alpha; at least, I see no a priori reason for this. More experiments should be carried out here.\n- No infusion chains or generating chains are shown for any of the more complicated data distributions. This is unfortunate, as I feel these would be interesting to look at.\n- The paper does a good job of evaluating the model with respect to several different metrics. The bound on the log-likelihood is nice to have as well.\n- Unfortunately, the current approach does not come with any theoretical guarantees. It is unclear for what choices of alpha the procedure will work and whether there is some deeper connection to MCMC sampling or energy-based models. In my eyes, this does not subtract from the value of the paper, but it would perhaps be worth a short sentence in the conclusion.\n\nMinor points:\n- The second reference seems broken.\n- Figure 3 starts at 100 epochs and, as a result, contains little information. Perhaps it would be more useful to show the complete training procedure and put the x-axis on a log scale.\n- The explanation regarding the convolutional networks you use makes no sense to me. You write that you use the same structure as in the “Improved GANs” paper, which, unlike your model, generates samples from a fixed-length random input. I thus suppose you do not really use a generator with one fully connected network followed by up-convolutions, but rather have several stages of convolutions followed by a fully connected layer and then up-convolutions.\n- The choice of parametrizing the variance via a sigmoid output unit is somewhat unusual. Was there a specific reason for this choice?\n- Footnote 1 contains errors: “This allow to” -> “allows one to”; “few informations” -> “little information”; “This force the network” -> “forces the network.”\n- Page 1 error: etc.\n- Page 4 error: “operator should to learn”\n\n[1] Markov Chain Monte Carlo and Variational Inference: Bridging the Gap, Tim Salimans, Diedrik P. Kingma, and Max Welling, ICML 2015\n\n>>> Update <<<<\n\nCopied here from my response below:\n\nI believe the authors’ response clarifies all open issues. I strongly believe the paper should be accepted to the conference. The only remaining issue I have with the paper is that, as the authors acknowledge, the architecture of the generator is likely highly suboptimal and might hamper the performance of the method in the evaluation. This, however, does not at all subtract from any of the main points of the paper.\n\nI am thus keeping my score as a clear accept. I want to emphasize that I believe the paper should be published, just in case the review process results in some form of cut-off threshold that is high due to overall “inflated” review scores.\n",
+      "document_id": null
+    }
+  ]
+}

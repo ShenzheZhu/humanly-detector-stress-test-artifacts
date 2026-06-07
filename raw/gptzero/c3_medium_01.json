@@ -1,0 +1,309 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.00004141407864878203,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999582489219656,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0008988117969795712,
+          "sentence": "The remote classroom is a concept that has been developing since the 1980s.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9991011882030204,
+            "ai": 0.0008616955245899713,
+            "paraphrased": 0.00003711627238959992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001014590028446609,
+          "sentence": "This term is attributed to Roxanne Hiltz, who defines it as “the use of computer-mediated communications to create an electronic environment similar to the forms of communication that normally occur in the conventional classroom.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989854099715534,
+            "ai": 0.0009791914490194485,
+            "paraphrased": 0.00003539857942716046
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00035092240748724527,
+          "sentence": "Through this environment, the student can access and carry out a series of actions that are typical of an in-person teaching process, such as talking, reading documents, doing exercises, asking the teacher questions, working in teams, etc.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996490775925128,
+            "ai": 0.00032729778714071035,
+            "paraphrased": 0.000023624620346534886
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000381672224720996,
+          "sentence": "All of this takes place in a simulated way, without physical interaction between teachers and students.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999618327775279,
+            "ai": 0.0003549547236837144,
+            "paraphrased": 0.000026717501037281605
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00036224308816961955,
+          "sentence": "Websites are used by each class to make educational material available to students and to enrich it with resources published on the Internet.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996377569118304,
+            "ai": 0.0003358961080633392,
+            "paraphrased": 0.000026346980106280313
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019992892686651395,
+          "sentence": "Course programs, schedules, and information related to the course are also published in this space, and communication beyond the limits of face-to-face meetings is promoted between students and the teacher, or among students.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998000710731335,
+            "ai": 0.00017956866287806137,
+            "paraphrased": 0.000020360263988452573
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00036693284647734383,
+          "sentence": "This system allows students to become familiar with the use of Information Technologies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996330671535226,
+            "ai": 0.00033708734329883995,
+            "paraphrased": 0.000029845503178503902
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022774674166859963,
+          "sentence": "It also gives access to the materials for each class from any computer connected to the network, making it possible to keep the class updated with the latest publications from good sources—teachers—and especially in the case of large classes, students are able to communicate even outside class hours without having to attend consultation classes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997722532583314,
+            "ai": 0.0002052972709756268,
+            "paraphrased": 0.000022449470692972847
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003530788391010983,
+          "sentence": "They can share points of view with classmates and carry out group work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996469211608989,
+            "ai": 0.0003244284273648652,
+            "paraphrased": 0.000028650411736233085
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00031161479947665723,
+          "sentence": "It also allows students to decide whether they are going to save the readings and class contents on a physical medium in order to read them from the computer screen, or whether they are going to print them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996883852005234,
+            "ai": 0.0002853931504989102,
+            "paraphrased": 0.000026221648977747032
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020293751698541385,
+          "sentence": "This use of the virtual classroom as a complement to the in-person class has in some cases been the first step toward the distance modality, since the class is available in electronic format and on the Web, and this format is easier to adapt to the materials offered in semi-in-person or remote classes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997970624830146,
+            "ai": 0.000182460632704919,
+            "paraphrased": 0.000020476884280494845
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00038954210591858124,
+          "sentence": "In the case of distance education, the virtual classroom takes on a central role, since it will be the space where the learning process is concentrated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996104578940814,
+            "ai": 0.0003617808595228738,
+            "paraphrased": 0.00002776124639570747
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00026558029262484565,
+          "sentence": "Beyond the way in which distance education is organized, whether it is semi-in-person or remote, synchronous or asynchronous, the virtual classroom will be the medium of exchange where the class will take place.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997344197073752,
+            "ai": 0.00024328702863306886,
+            "paraphrased": 0.00002229326399177679
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004043852189764771,
+          "sentence": "It is important that, in the design or choice of a system or type of virtual classroom, it be clear what students are expected to achieve in their distance learning and what elements this tool should contain in order to allow the learning experience to be productive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995956147810235,
+            "ai": 0.00037596480738627525,
+            "paraphrased": 0.00002842041159020182
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999582489219656,
+        "ai": 0.00004175107803449075,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999582489219656,
+          "ai": 0.00004175107803449075,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "The remote classroom is a concept that has been developing since the 1980s. This term is attributed to Roxanne Hiltz, who defines it as “the use of computer-mediated communications to create an electronic environment similar to the forms of communication that normally occur in the conventional classroom.”\n\nThrough this environment, the student can access and carry out a series of actions that are typical of an in-person teaching process, such as talking, reading documents, doing exercises, asking the teacher questions, working in teams, etc. All of this takes place in a simulated way, without physical interaction between teachers and students.\n\nWebsites are used by each class to make educational material available to students and to enrich it with resources published on the Internet. Course programs, schedules, and information related to the course are also published in this space, and communication beyond the limits of face-to-face meetings is promoted between students and the teacher, or among students. This system allows students to become familiar with the use of Information Technologies. It also gives access to the materials for each class from any computer connected to the network, making it possible to keep the class updated with the latest publications from good sources—teachers—and especially in the case of large classes, students are able to communicate even outside class hours without having to attend consultation classes. They can share points of view with classmates and carry out group work. It also allows students to decide whether they are going to save the readings and class contents on a physical medium in order to read them from the computer screen, or whether they are going to print them.\n\nThis use of the virtual classroom as a complement to the in-person class has in some cases been the first step toward the distance modality, since the class is available in electronic format and on the Web, and this format is easier to adapt to the materials offered in semi-in-person or remote classes.\n\nIn the case of distance education, the virtual classroom takes on a central role, since it will be the space where the learning process is concentrated. Beyond the way in which distance education is organized, whether it is semi-in-person or remote, synchronous or asynchronous, the virtual classroom will be the medium of exchange where the class will take place. It is important that, in the design or choice of a system or type of virtual classroom, it be clear what students are expected to achieve in their distance learning and what elements this tool should contain in order to allow the learning experience to be productive.\n",
+      "document_id": null
+    }
+  ]
+}

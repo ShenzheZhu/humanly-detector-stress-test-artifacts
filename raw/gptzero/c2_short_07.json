@@ -1,0 +1,304 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.0016345559837813962,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9979062284656589,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0909357615342231,
+          "sentence": "The contract hasn’t been finalized yet, so I can’t name names or tell anyone I know until Monday, when I can sign.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9090642384657769,
+            "ai": 0.08939301859453871,
+            "paraphrased": 0.0015427429396843862
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.1280917450972883,
+          "sentence": "But my agent just called, and I had to tell someone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.8719082549027117,
+            "ai": 0.1266200168660506,
+            "paraphrased": 0.0014717282312376994
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.09675747459469378,
+          "sentence": "I started writing seriously at 38 while teaching, which is still my day job and first love.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9032425254053063,
+            "ai": 0.09544300885735298,
+            "paraphrased": 0.001314465737340805
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.07432762118845354,
+          "sentence": "My first manuscript sucked, though I couldn’t see it then.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9256723788115464,
+            "ai": 0.07289446078272002,
+            "paraphrased": 0.0014331604057335253
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.07934913017084358,
+          "sentence": "My second sucked in different ways.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9206508698291564,
+            "ai": 0.078107332163767,
+            "paraphrased": 0.001241798007076577
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0873577656379493,
+          "sentence": "My third was almost good enough, and my fourth was ready for readers, though it was in a genre that wasn’t selling; five agents said they loved it but couldn’t find a home for it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9126422343620507,
+            "ai": 0.0860385739954378,
+            "paraphrased": 0.0013191916425115062
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.06269588533184434,
+          "sentence": "So I wrote my fifth manuscript—this one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9373041146681557,
+            "ai": 0.06132735541875107,
+            "paraphrased": 0.0013685299130932699
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.04135802600728237,
+          "sentence": "On my 37th query, I signed with an agent at a boutique agency.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9586419739927177,
+            "ai": 0.04009854164259023,
+            "paraphrased": 0.001259484364692136
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.03310504930477386,
+          "sentence": "We revised it and sent it out in June.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9668949506952261,
+            "ai": 0.03193161174421624,
+            "paraphrased": 0.0011734375605576186
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.06002802958905982,
+          "sentence": "Nothing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9399719704109402,
+            "ai": 0.05867500894443061,
+            "paraphrased": 0.0013530206446292045
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.011740488677654119,
+          "sentence": "In December, we tried a second round: love from editors, but not acquisitions teams.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9882595113223459,
+            "ai": 0.010493985259555534,
+            "paraphrased": 0.0012465034180985852
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.02244543152957901,
+          "sentence": "Then an editor from the first round loved it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.977554568470421,
+            "ai": 0.021440858213573936,
+            "paraphrased": 0.0010045733160050755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010792026608686375,
+          "sentence": "Fifteen months later, two weeks before my 45th birthday, she made an offer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9892079733913136,
+            "ai": 0.009106142906479773,
+            "paraphrased": 0.0016858837022066032
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010473329311871424,
+          "sentence": "I’m accepting, and next year I may see it on bookstore shelves.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9895266706881286,
+            "ai": 0.009362897294563851,
+            "paraphrased": 0.0011104320173075729
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9979062284656589,
+        "ai": 0.0020937715343411637,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9979062284656589,
+          "ai": 0.0020937715343411637,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "The contract hasn’t been finalized yet, so I can’t name names or tell anyone I know until Monday, when I can sign. But my agent just called, and I had to tell someone.\n\nI started writing seriously at 38 while teaching, which is still my day job and first love. My first manuscript sucked, though I couldn’t see it then. My second sucked in different ways. My third was almost good enough, and my fourth was ready for readers, though it was in a genre that wasn’t selling; five agents said they loved it but couldn’t find a home for it.\n\nSo I wrote my fifth manuscript—this one. On my 37th query, I signed with an agent at a boutique agency. We revised it and sent it out in June. Nothing. In December, we tried a second round: love from editors, but not acquisitions teams.\n\nThen an editor from the first round loved it. Fifteen months later, two weeks before my 45th birthday, she made an offer. I’m accepting, and next year I may see it on bookstore shelves.\n",
+      "document_id": null
+    }
+  ]
+}

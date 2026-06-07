@@ -1,0 +1,272 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 11,
+          "completely_generated_prob": 0.9367359127724141
+        }
+      ],
+      "completely_generated_prob": 0.9999703912933906,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999926498866948,
+          "sentence": "I just finished the first draft of a novel I started when I was thirteen, and honestly I'm not sure what I'm feeling.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007350113305263074,
+            "ai": 0.9999735410572971,
+            "paraphrased": 0.00001910882939771135
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999848498326397,
+          "sentence": "It's messy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001515016736034712,
+            "ai": 0.9999703274194475,
+            "paraphrased": 0.00001452241319219326
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993181820569,
+          "sentence": "The pacing is all over the place, half the characters change names somewhere in the middle, and there are scenes I already know I'll have to delete entirely.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006818179430998141,
+            "ai": 0.9999731198383564,
+            "paraphrased": 0.00002006198221261212
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999935244224395,
+          "sentence": "But it's done, and that feels enormous.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000064755775605370776,
+            "ai": 0.9999721995698146,
+            "paraphrased": 0.000021324852624865047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999928204824081,
+          "sentence": "I think a lot of younger writers, myself included, get stuck believing the first attempt has to be good.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007179517591858788,
+            "ai": 0.999973306502147,
+            "paraphrased": 0.000019513980261149966
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999880974571951,
+          "sentence": "It just has to exist.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011902542804977524,
+            "ai": 0.999970333251864,
+            "paraphrased": 0.00001776420533101292
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999934169355803,
+          "sentence": "If anyone here has finished an early draft at a young age, I'd love to hear how you approached revising it without getting discouraged.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006583064419650242,
+            "ai": 0.999972326286772,
+            "paraphrased": 0.000021090648808334498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999928357549518,
+          "sentence": "Did you set it aside for a while?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007164245048193827,
+            "ai": 0.9999723732422306,
+            "paraphrased": 0.000020462512721154357
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999927867353096,
+          "sentence": "Did you rewrite from scratch?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007213264690447579,
+            "ai": 0.9999725763019097,
+            "paraphrased": 0.00002021043339983031
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999933129382538,
+          "sentence": "I'm proud of the milestone, but I'm also a little overwhelmed by how much work clearly still lies ahead.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006687061746273982,
+            "ai": 0.9999720056306525,
+            "paraphrased": 0.000021307307601274263
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999934557159623,
+          "sentence": "Any advice on what to focus on first would genuinely mean a lot.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000065442840377369345,
+            "ai": 0.9999720407052451,
+            "paraphrased": 0.000021415010717136035
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I just finished the first draft of a novel I started when I was thirteen, and honestly I'm not sure what I'm feeling. It's messy. The pacing is all over the place, half the characters change names somewhere in the middle, and there are scenes I already know I'll have to delete entirely. But it's done, and that feels enormous. I think a lot of younger writers, myself included, get stuck believing the first attempt has to be good. It doesn't. It just has to exist. If anyone here has finished an early draft at a young age, I'd love to hear how you approached revising it without getting discouraged. Did you set it aside for a while? Did you rewrite from scratch? I'm proud of the milestone, but I'm also a little overwhelmed by how much work clearly still lies ahead. Any advice on what to focus on first would genuinely mean a lot.\n",
+      "document_id": null
+    }
+  ]
+}

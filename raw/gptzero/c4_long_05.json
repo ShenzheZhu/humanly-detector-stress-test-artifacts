@@ -1,0 +1,985 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 36,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 44,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9481358561465953,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.949025419603053,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.999965636523371,
+          "sentence": "Summary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000034363476629084815,
+            "ai": 0.9989463056543686,
+            "paraphrased": 0.001019330869002362
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999764198337766,
+          "sentence": "This paper proposes an iterative refinement approach to machine translation, motivated by the observation that human translators rarely produce a final translation in a single pass, but instead draft and then revise their output.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023580166223380947,
+            "ai": 0.9989734061061876,
+            "paraphrased": 0.0010030137275890388
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999691707576654,
+          "sentence": "Standard neural machine translation systems generate a target sentence in one left-to-right decoding pass, with no opportunity to revisit and improve earlier decisions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000308292423345076,
+            "ai": 0.9989000080582368,
+            "paraphrased": 0.0010691626994287177
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999873043638526,
+          "sentence": "The authors propose a model that produces an initial translation and then refines it over one or more subsequent passes, allowing the system to correct errors and improve fluency by conditioning on a complete, if imperfect, draft.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001269563614735938,
+            "ai": 0.9989140438779783,
+            "paraphrased": 0.001073260485874306
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999864365133397,
+          "sentence": "The paper describes the architecture and training procedure for such a refinement model, including how the successive revisions are generated and supervised, and presents experiments on standard translation benchmarks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013563486660202534,
+            "ai": 0.9989465077360394,
+            "paraphrased": 0.0010399287773003429
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999919514504159,
+          "sentence": "The evaluation examines whether iterative refinement improves translation quality relative to single-pass baselines, analyzes the nature of the corrections made across passes, and considers the trade-off between additional computation and gains in quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000080485495841956,
+            "ai": 0.9989514123441643,
+            "paraphrased": 0.0010405391062515625
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999872977705712,
+          "sentence": "Strengths",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012702229428741979,
+            "ai": 0.99891161600936,
+            "paraphrased": 0.0010756817612112544
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999915502434837,
+          "sentence": "The motivation is intuitive and appealing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008449756516243494,
+            "ai": 0.9990446553763638,
+            "paraphrased": 0.0009468948671200122
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991879869583,
+          "sentence": "The analogy to human revision is apt, and the underlying technical point is sound: single-pass autoregressive decoding commits to each output token without the benefit of seeing the full translation, so providing a mechanism to revise in light of a complete draft addresses a genuine structural limitation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008120130416960992,
+            "ai": 0.9988585500762893,
+            "paraphrased": 0.0011333297932937195
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999989407057527,
+          "sentence": "This is a clean and well-articulated idea.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001059294247301315,
+            "ai": 0.9991455439658289,
+            "paraphrased": 0.0008438630916981247
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999887266456334,
+          "sentence": "The approach is general in spirit and connects to a broader and important theme of non-single-pass and editing-based generation, which has relevance well beyond translation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011273354366617537,
+            "ai": 0.9989320805144362,
+            "paraphrased": 0.0010566461311972343
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999917961108333,
+          "sentence": "By framing generation as draft-then-refine, the paper contributes to a line of work that questions the necessity of strictly left-to-right decoding, and this conceptual framing is one of its more valuable aspects.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008203889166714032,
+            "ai": 0.9989715296057483,
+            "paraphrased": 0.00102026650508501
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999932776944632,
+          "sentence": "The experimental analysis goes beyond reporting aggregate scores.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006722305536810077,
+            "ai": 0.998982554685935,
+            "paraphrased": 0.0010107230085282263
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999992945187902,
+          "sentence": "The authors examine what kinds of changes the refinement passes make, which provides insight into whether the mechanism is doing something meaningful, such as fixing agreement errors or improving word choice, rather than merely perturbing the output.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000705481209794638,
+            "ai": 0.9989958867955782,
+            "paraphrased": 0.0009970583923238558
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999907968722503,
+          "sentence": "This kind of qualitative analysis strengthens the paper and helps the reader understand the source of any gains.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009203127749599922,
+            "ai": 0.9991126629471568,
+            "paraphrased": 0.0008781339250935317
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999842877759066,
+          "sentence": "The writing is clear, and the method is described in enough detail to convey how the refinement process is structured and trained.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015712224093453027,
+            "ai": 0.9989494154569138,
+            "paraphrased": 0.0010348723189927416
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999333289936266,
+          "sentence": "Weaknesses",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000066671006373428,
+            "ai": 0.9989128486588654,
+            "paraphrased": 0.0010204803347611622
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998903796677303,
+          "sentence": "The principal concern is the magnitude and consistency of the improvements relative to the added cost.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010962033226973175,
+            "ai": 0.9984797137923915,
+            "paraphrased": 0.0014106658753387743
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998832281733105,
+          "sentence": "Iterative refinement necessarily increases inference computation, and the paper needs to make a compelling case that the quality gains justify this overhead.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011677182668941328,
+            "ai": 0.9979436208920499,
+            "paraphrased": 0.0019396072812606613
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998737462254564,
+          "sentence": "If the improvements over a strong single-pass baseline are modest, the practical value of the approach is uncertain, and the comparison must ensure that the baseline is genuinely competitive and not handicapped relative to the refinement model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001262537745435605,
+            "ai": 0.9983116759494636,
+            "paraphrased": 0.0015620702759928762
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999714153126517,
+          "sentence": "The handling of supervision for the refinement passes raises questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000285846873482996,
+            "ai": 0.9979021331984901,
+            "paraphrased": 0.0018120199280269762
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993078427559972,
+          "sentence": "Training a model to revise drafts requires some notion of what the intermediate and final targets should be, and the paper's choices here are important but not fully ablated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006921572440027952,
+            "ai": 0.9980300829873542,
+            "paraphrased": 0.0012777597686430262
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9984700024110368,
+          "sentence": "It is not entirely clear how sensitive the results are to these decisions, nor how the model avoids simply learning to leave the draft unchanged.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001529997588963159,
+            "ai": 0.9969105721200905,
+            "paraphrased": 0.0015594302909463017
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989211576921224,
+          "sentence": "There is also a question of how many refinement iterations are beneficial and whether gains saturate quickly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010788423078775522,
+            "ai": 0.9976495949441512,
+            "paraphrased": 0.0012715627479712528
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992503266093244,
+          "sentence": "If most of the benefit comes from a single additional pass, the framing of iterative, multi-pass refinement may overstate the mechanism's importance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007496733906754766,
+            "ai": 0.998307610556276,
+            "paraphrased": 0.0009427160530484474
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978702517347176,
+          "sentence": "A clear analysis of quality as a function of the number of passes would help.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0021297482652824127,
+            "ai": 0.9966705705346008,
+            "paraphrased": 0.001199681200116761
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990346716863184,
+          "sentence": "Finally, the comparison to alternative methods that address the same single-pass limitation, such as reranking, beam-search variants, or other editing approaches, is somewhat limited.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009653283136815625,
+            "ai": 0.9977932065760341,
+            "paraphrased": 0.001241465110284371
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9946770383356726,
+          "sentence": "Establishing that iterative refinement offers advantages over these simpler or established alternatives would make the contribution more convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00532296166432744,
+            "ai": 0.9932593818900569,
+            "paraphrased": 0.0014176564456156507
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6397050794672551,
+          "sentence": "Questions for the Authors",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3602949205327449,
+            "ai": 0.6366942145296735,
+            "paraphrased": 0.003010864937581653
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.4425427774787129,
+          "sentence": "First, how large and consistent are the improvements over a strong single-pass baseline, and how do they compare on a like-for-like computational budget, for instance against a baseline given comparable additional decoding time?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5574572225212872,
+            "ai": 0.44035301709495783,
+            "paraphrased": 0.0021897603837550527
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3534672743431399,
+          "sentence": "Second, how is supervision for the refinement passes defined, and how sensitive are the results to these choices?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6465327256568602,
+            "ai": 0.35121963041403154,
+            "paraphrased": 0.0022476439291083472
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.2956246582785315,
+          "sentence": "What prevents the model from learning to leave drafts essentially unchanged?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7043753417214684,
+            "ai": 0.293637907834418,
+            "paraphrased": 0.001986750444113519
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.2677147741544422,
+          "sentence": "Third, how does translation quality vary with the number of refinement iterations, and at what point do gains saturate?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7322852258455578,
+            "ai": 0.26578626918479414,
+            "paraphrased": 0.0019285049696480757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.2330143520443112,
+          "sentence": "Fourth, how does the approach compare with alternative remedies for single-pass limitations, such as reranking or other non-autoregressive and editing-based methods?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7669856479556888,
+            "ai": 0.23144425244289363,
+            "paraphrased": 0.0015700996014175856
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990362688337193,
+          "sentence": "Fifth, are there particular error types or language pairs for which refinement helps most, and does the benefit depend on the quality of the initial draft?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00096373116628067,
+            "ai": 0.9989911545531268,
+            "paraphrased": 0.00004511428059253479
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.997480904832282,
+          "sentence": "Additional Comments",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0025190951677179856,
+            "ai": 0.997395787126605,
+            "paraphrased": 0.0000851177056769634
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997217431927723,
+          "sentence": "A few additional considerations would strengthen the paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00027825680722772016,
+            "ai": 0.9996928076421934,
+            "paraphrased": 0.00002893555057894853
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999881961006637,
+          "sentence": "It would help to specify how the refinement model is initialized and whether the same parameters are reused across passes or separate parameters are learned for each, as this affects both capacity and the interpretation of the results.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011803899336305342,
+            "ai": 0.9998599116249258,
+            "paraphrased": 0.000022049381711123598
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999979455172647,
+          "sentence": "The authors might also report how often refinement changes the output at all, and among the changes, what fraction improve versus harm quality according to human judgment, since aggregate scores can mask a mixture of helpful and harmful edits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020544827353073474,
+            "ai": 0.9999625047754473,
+            "paraphrased": 0.000016950397199574367
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999577947877551,
+          "sentence": "A comparison against simply increasing beam size or model capacity in the single-pass baseline, matched for compute, would test whether refinement offers something beyond additional search or parameters.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000042205212244837794,
+            "ai": 0.9999378075714219,
+            "paraphrased": 0.000019987216333238883
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999694549829995,
+          "sentence": "It would also be valuable to examine whether the benefits of refinement depend on sentence length or syntactic complexity, as longer or more reordering-heavy translations might gain the most from a second look.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000030545017000515273,
+            "ai": 0.9999511648768171,
+            "paraphrased": 0.00001829010618239013
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999815291978171,
+          "sentence": "Finally, releasing example draft-and-revision pairs would let readers judge the qualitative nature of the improvements directly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018470802182819788,
+            "ai": 0.9999631532195509,
+            "paraphrased": 0.000018375978266266475
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999875765698287,
+          "sentence": "These additions would help establish that iterative refinement is not merely a more expensive way to obtain marginal gains, but a mechanism that captures genuinely useful corrections that single-pass decoding cannot.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001242343017129785,
+            "ai": 0.9999701925682234,
+            "paraphrased": 0.00001738400160532972
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999424580054913,
+          "sentence": "Overall Recommendation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005754199450869606,
+            "ai": 0.999923889236603,
+            "paraphrased": 0.00001856876888832765
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999647191932722,
+          "sentence": "This paper presents a well-motivated and conceptually attractive approach to machine translation that addresses a real limitation of single-pass decoding through draft-and-revise generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003528080672774688,
+            "ai": 0.9999466260598023,
+            "paraphrased": 0.000018093133469918702
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999307085671671,
+          "sentence": "The idea is clean, the analysis of the corrections made across passes is informative, and the work connects to an important broader theme in text generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006929143283291142,
+            "ai": 0.9999105944115076,
+            "paraphrased": 0.00002011415565947851
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999831434981437,
+          "sentence": "The main reservations concern whether the quality improvements are large and consistent enough to justify the additional computation, the sensitivity of the method to supervision choices, and the relatively limited comparison with alternative approaches.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001685650185641428,
+            "ai": 0.9999656566509822,
+            "paraphrased": 0.000017486847161381
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999813773295156,
+          "sentence": "I regard this as a borderline paper leaning positive: the direction is valuable and the execution is competent, but the practical case is not yet fully established.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018622670484290347,
+            "ai": 0.9999652484515131,
+            "paraphrased": 0.000016128878002521008
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999774817044925,
+          "sentence": "I would support acceptance if the authors provide a more thorough cost-versus-quality analysis, clarify the supervision and iteration behavior, and broaden the comparison to competing methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002251829550753463,
+            "ai": 0.9999598970761204,
+            "paraphrased": 0.00001758462837206044
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.949025419603053,
+        "mixed": 0.05097458039694694
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.949025419603053,
+          "mixed": 0.05097458039694694,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Summary\n\nThis paper proposes an iterative refinement approach to machine translation, motivated by the observation that human translators rarely produce a final translation in a single pass, but instead draft and then revise their output. Standard neural machine translation systems generate a target sentence in one left-to-right decoding pass, with no opportunity to revisit and improve earlier decisions. The authors propose a model that produces an initial translation and then refines it over one or more subsequent passes, allowing the system to correct errors and improve fluency by conditioning on a complete, if imperfect, draft. The paper describes the architecture and training procedure for such a refinement model, including how the successive revisions are generated and supervised, and presents experiments on standard translation benchmarks. The evaluation examines whether iterative refinement improves translation quality relative to single-pass baselines, analyzes the nature of the corrections made across passes, and considers the trade-off between additional computation and gains in quality.\n\nStrengths\n\nThe motivation is intuitive and appealing. The analogy to human revision is apt, and the underlying technical point is sound: single-pass autoregressive decoding commits to each output token without the benefit of seeing the full translation, so providing a mechanism to revise in light of a complete draft addresses a genuine structural limitation. This is a clean and well-articulated idea.\n\nThe approach is general in spirit and connects to a broader and important theme of non-single-pass and editing-based generation, which has relevance well beyond translation. By framing generation as draft-then-refine, the paper contributes to a line of work that questions the necessity of strictly left-to-right decoding, and this conceptual framing is one of its more valuable aspects.\n\nThe experimental analysis goes beyond reporting aggregate scores. The authors examine what kinds of changes the refinement passes make, which provides insight into whether the mechanism is doing something meaningful, such as fixing agreement errors or improving word choice, rather than merely perturbing the output. This kind of qualitative analysis strengthens the paper and helps the reader understand the source of any gains.\n\nThe writing is clear, and the method is described in enough detail to convey how the refinement process is structured and trained.\n\nWeaknesses\n\nThe principal concern is the magnitude and consistency of the improvements relative to the added cost. Iterative refinement necessarily increases inference computation, and the paper needs to make a compelling case that the quality gains justify this overhead. If the improvements over a strong single-pass baseline are modest, the practical value of the approach is uncertain, and the comparison must ensure that the baseline is genuinely competitive and not handicapped relative to the refinement model.\n\nThe handling of supervision for the refinement passes raises questions. Training a model to revise drafts requires some notion of what the intermediate and final targets should be, and the paper's choices here are important but not fully ablated. It is not entirely clear how sensitive the results are to these decisions, nor how the model avoids simply learning to leave the draft unchanged.\n\nThere is also a question of how many refinement iterations are beneficial and whether gains saturate quickly. If most of the benefit comes from a single additional pass, the framing of iterative, multi-pass refinement may overstate the mechanism's importance. A clear analysis of quality as a function of the number of passes would help.\n\nFinally, the comparison to alternative methods that address the same single-pass limitation, such as reranking, beam-search variants, or other editing approaches, is somewhat limited. Establishing that iterative refinement offers advantages over these simpler or established alternatives would make the contribution more convincing.\n\nQuestions for the Authors\n\nFirst, how large and consistent are the improvements over a strong single-pass baseline, and how do they compare on a like-for-like computational budget, for instance against a baseline given comparable additional decoding time?\n\nSecond, how is supervision for the refinement passes defined, and how sensitive are the results to these choices? What prevents the model from learning to leave drafts essentially unchanged?\n\nThird, how does translation quality vary with the number of refinement iterations, and at what point do gains saturate?\n\nFourth, how does the approach compare with alternative remedies for single-pass limitations, such as reranking or other non-autoregressive and editing-based methods?\n\nFifth, are there particular error types or language pairs for which refinement helps most, and does the benefit depend on the quality of the initial draft?\n\nAdditional Comments\n\nA few additional considerations would strengthen the paper. It would help to specify how the refinement model is initialized and whether the same parameters are reused across passes or separate parameters are learned for each, as this affects both capacity and the interpretation of the results. The authors might also report how often refinement changes the output at all, and among the changes, what fraction improve versus harm quality according to human judgment, since aggregate scores can mask a mixture of helpful and harmful edits. A comparison against simply increasing beam size or model capacity in the single-pass baseline, matched for compute, would test whether refinement offers something beyond additional search or parameters. It would also be valuable to examine whether the benefits of refinement depend on sentence length or syntactic complexity, as longer or more reordering-heavy translations might gain the most from a second look. Finally, releasing example draft-and-revision pairs would let readers judge the qualitative nature of the improvements directly. These additions would help establish that iterative refinement is not merely a more expensive way to obtain marginal gains, but a mechanism that captures genuinely useful corrections that single-pass decoding cannot.\n\nOverall Recommendation\n\nThis paper presents a well-motivated and conceptually attractive approach to machine translation that addresses a real limitation of single-pass decoding through draft-and-revise generation. The idea is clean, the analysis of the corrections made across passes is informative, and the work connects to an important broader theme in text generation. The main reservations concern whether the quality improvements are large and consistent enough to justify the additional computation, the sensitivity of the method to supervision choices, and the relatively limited comparison with alternative approaches. I regard this as a borderline paper leaning positive: the direction is valuable and the execution is competent, but the practical case is not yet fully established. I would support acceptance if the authors provide a more thorough cost-versus-quality analysis, clarify the supervision and iteration behavior, and broaden the comparison to competing methods.\n",
+      "document_id": null
+    }
+  ]
+}

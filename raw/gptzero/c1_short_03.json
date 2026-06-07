@@ -1,0 +1,383 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        }
+      ],
+      "completely_generated_prob": 0.000055105041388217115,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999448348440322,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0006955921430335375,
+          "sentence": "I studied creative writing at University alongside English literature.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993044078569665,
+            "ai": 0.0006839136435985968,
+            "paraphrased": 0.000011678499434940645
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00036129306775954185,
+          "sentence": "Each week we'd do a writer's workshop and whatnot, show our work around, writing to some task we had been set the week before.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996387069322404,
+            "ai": 0.00035238726899459094,
+            "paraphrased": 0.000008905798764950928
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00046109258171369585,
+          "sentence": "Problem was, being a literature course first and foremost, the majority of the tutors were fixated on literary fiction; they'd always be questioning the meanings, the symbolism, the point of everything we wrote.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995389074182863,
+            "ai": 0.00045054869529331007,
+            "paraphrased": 0.000010543886420385795
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005595022021783975,
+          "sentence": "And God forbid if you wrote something without a deeper meaning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994404977978216,
+            "ai": 0.0005486181507716711,
+            "paraphrased": 0.00001088405140672633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000574855979535151,
+          "sentence": "The problem is now, that after graduating, I can't write a damn thing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994251440204649,
+            "ai": 0.0005631988589490161,
+            "paraphrased": 0.000011657120586134902
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004721774544640097,
+          "sentence": "Any idea I come up with, there's a voice in my mind saying \"why?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999527822545536,
+            "ai": 0.0004618922619432149,
+            "paraphrased": 0.000010285192520794824
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005136517774145868,
+          "sentence": "What's the point?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994863482225854,
+            "ai": 0.000503525032091268,
+            "paraphrased": 0.000010126745323318726
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005317223442526649,
+          "sentence": "What's the message you're trying to get across here?\"",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994682776557473,
+            "ai": 0.0005208495477984183,
+            "paraphrased": 0.000010872796454246628
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000590878032271275,
+          "sentence": "Even though I wasn't trying to write literary fiction, each time the same road block would appear and stop me in my tracks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994091219677287,
+            "ai": 0.0005790419082401463,
+            "paraphrased": 0.000011836124031128804
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004362823226603019,
+          "sentence": "Sure, I don't have a problem writing literary fiction now and again, but it's damn hard work and I just want to enjoy writing the way I used to, without putting too much meta-thought into it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995637176773396,
+            "ai": 0.0004262806170603562,
+            "paraphrased": 0.000010001705599945667
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000652187760591364,
+          "sentence": "Has anyone else ever had similar issues, and how did you cope with it?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993478122394086,
+            "ai": 0.000638867712312371,
+            "paraphrased": 0.00001332004827899307
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004748740558393372,
+          "sentence": "EDIT: An absolutely huge thanks to everyone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995251259441607,
+            "ai": 0.00046468490881997255,
+            "paraphrased": 0.000010189147019364624
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005448455315813276,
+          "sentence": "I never expected such a huge amount of feedback, and it's great.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994551544684187,
+            "ai": 0.0005343005180378532,
+            "paraphrased": 0.000010545013543474454
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000517111121263449,
+          "sentence": "All of your advice is helping me, and each and every one of your comments is compelling me to write again.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994828888787366,
+            "ai": 0.0005065115496677232,
+            "paraphrased": 0.00001059957159572582
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009687381096241343,
+          "sentence": "Thank you all so much for your help, advice and your own experiences.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990312618903758,
+            "ai": 0.0009558065355330358,
+            "paraphrased": 0.000012931574091098504
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004943019276467574,
+          "sentence": "I really would have liked to reply to each and every comment, but as the comments have reached 164 (at time of typing), I think that I'd have my work cut out, so I'll have to settle for this acknowledgement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995056980723532,
+            "ai": 0.00048493675373893926,
+            "paraphrased": 0.000009365173907818118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009892454210013912,
+          "sentence": "I'll be joining in with some of the discussions below now.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990107545789986,
+            "ai": 0.000974668318908708,
+            "paraphrased": 0.000014577102092683182
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006428805832295267,
+          "sentence": "Thanks again!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993571194167705,
+            "ai": 0.000631639007299358,
+            "paraphrased": 0.000011241575930168747
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999448348440322,
+        "ai": 0.00005516515596778853,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999448348440322,
+          "ai": 0.00005516515596778853,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "I studied creative writing at University alongside English literature. Each week we'd do a writer's workshop and whatnot, show our work around, writing to some task we had been set the week before.\nProblem was, being a literature course first and foremost, the majority of the tutors were fixated on literary fiction; they'd always be questioning the meanings, the symbolism, the point of everything we wrote. And God forbid if you wrote something without a deeper meaning.\nThe problem is now, that after graduating, I can't write a damn thing. Any idea I come up with, there's a voice in my mind saying \"why? What's the point? What's the message you're trying to get across here?\" and it stops me stone-dead.\nI even tried writing some short stories in different genres to try and get going, but I couldn't. Even though I wasn't trying to write literary fiction, each time the same road block would appear and stop me in my tracks.\nSure, I don't have a problem writing literary fiction now and again, but it's damn hard work and I just want to enjoy writing the way I used to, without putting too much meta-thought into it.\nHas anyone else ever had similar issues, and how did you cope with it?\nEDIT: An absolutely huge thanks to everyone. I never expected such a huge amount of feedback, and it's great. All of your advice is helping me, and each and every one of your comments is compelling me to write again. Thank you all so much for your help, advice and your own experiences. I really would have liked to reply to each and every comment, but as the comments have reached 164 (at time of typing), I think that I'd have my work cut out, so I'll have to settle for this acknowledgement. I'll be joining in with some of the discussions below now. Thanks again!\n",
+      "document_id": null
+    }
+  ]
+}

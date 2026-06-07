@@ -1,0 +1,1250 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 36,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 49,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 56,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 64,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9999075309033146,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999369648417952,
+          "sentence": "The paper studies whether a convolutional network trained with weak labels on rendered tic-tac-toe boards can acquire representations corresponding to game concepts such as board locations, legal turns, and winning moves.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006303515820484573,
+            "ai": 0.9964109265129143,
+            "paraphrased": 0.0035260383288808427
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999175564461698,
+          "sentence": "The authors generate all legal tic-tac-toe states in which one player can win on the next move, render them as images, assign one of 18 labels corresponding to the winning side and location, train an AlexNet-style classifier with global average pooling, and visualize class activation maps (CAMs).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008244355383019901,
+            "ai": 0.9963587906578825,
+            "paraphrased": 0.003558765788287338
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999410022957572,
+          "sentence": "They observe that the resulting CAMs often highlight the empty square where the winning move should be placed, even though the network was not directly trained with pixel-level localization labels.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005899770424283383,
+            "ai": 0.9964322746815223,
+            "paraphrased": 0.0035087276142348935
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999549029188715,
+          "sentence": "Other variants add grid lines or alter the appearance of the pieces, and the paper proposes two quantitative measures intended to capture whether the activation map corresponds to the correct move.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004509708112857345,
+            "ai": 0.9967778542112335,
+            "paraphrased": 0.003177048707637865
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999678225767459,
+          "sentence": "The authors interpret the results as evidence that game concepts can emerge under weak supervision, that cross-modal supervision ideas extend to higher-level action and game-rule semantics, and that CAM can activate on non-salient image regions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003217742325421176,
+            "ai": 0.9966433964238988,
+            "paraphrased": 0.003324426152847063
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999704220283859,
+          "sentence": "The paper has an appealing central intuition.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000029577971614071268,
+            "ai": 0.9972709347418439,
+            "paraphrased": 0.0026994872865420435
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999768755410954,
+          "sentence": "Tic-tac-toe is simple enough that the full state space can be enumerated, yet it still contains nontrivial relational structure: lines, turns, two players, and outcomes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023124458904580735,
+            "ai": 0.9967997643226303,
+            "paraphrased": 0.0031771112184651243
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999570289865405,
+          "sentence": "Using such a controlled domain to probe what a CNN learns is a reasonable and potentially useful way to study representation learning, visualization, and weak supervision without the confounds of large natural-image datasets.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000042971013459481684,
+            "ai": 0.9969113670843254,
+            "paraphrased": 0.0030456619022151115
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999666720222512,
+          "sentence": "The observation that activation maps can peak at empty board locations is also interesting at a qualitative level.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003332797774881653,
+            "ai": 0.997087155175642,
+            "paraphrased": 0.0028795168466092887
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999792107037827,
+          "sentence": "It highlights that discriminative spatial evidence in CNNs need not coincide with object texture or local saliency, but can arise from contextual information in the receptive field.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020789296217307268,
+            "ai": 0.9973354146800768,
+            "paraphrased": 0.002643796023705905
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999812868569905,
+          "sentence": "The paper is clearly motivated and tries to connect the experiment to several broader questions in deep reinforcement learning, cross-modal supervision, and interpretability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018713143009551238,
+            "ai": 0.997589507255687,
+            "paraphrased": 0.002391779601303517
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999724095844991,
+          "sentence": "The authors also deserve credit for proposing quantitative measures rather than relying only on hand-picked visualizations, and for including appearance-change controls and an intermediate-training analysis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002759041550092992,
+            "ai": 0.997263864283961,
+            "paraphrased": 0.0027085453005381106
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999956633716928,
+          "sentence": "However, I find the main claims substantially overstated relative to the evidence provided.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004336628307199116,
+            "ai": 0.997701953196135,
+            "paraphrased": 0.002254680520793047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999061523414496,
+          "sentence": "The most serious issue is that the supervision is not as weak as the paper suggests.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009384765855041532,
+            "ai": 0.9972603722189137,
+            "paraphrased": 0.002645780122535877
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9938573371247134,
+          "sentence": "The labels are 18 classes corresponding directly to the player and square of the winning next move.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006142662875286591,
+            "ai": 0.9893524706650442,
+            "paraphrased": 0.004504866459669203
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980512881192428,
+          "sentence": "Although the network is not given a segmentation mask or an explicit rule table, the class label effectively encodes the answer to the localization and action problem.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019487118807571386,
+            "ai": 0.9936924333540015,
+            "paraphrased": 0.004358854765241349
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995727361782927,
+          "sentence": "In this setting, a CAM that highlights the square associated with a class is not strong evidence that the network has discovered a game concept in the sense of understanding the rule.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004272638217073542,
+            "ai": 0.99924947548479,
+            "paraphrased": 0.0003232606935026191
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988148685712391,
+          "sentence": "It may simply have learned discriminative visual templates associated with each of the 18 output classes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011851314287608626,
+            "ai": 0.9983596652884597,
+            "paraphrased": 0.0004552032827794858
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998530795841375,
+          "sentence": "Since the task is restricted to positions where the game ends in one move, the input-output mapping can be solved by recognizing local and semi-local patterns of pieces, without representing the full rules of tic-tac-toe.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001469204158624908,
+            "ai": 0.9995511273110571,
+            "paraphrased": 0.00030195227308035165
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999731328233024,
+          "sentence": "The paper's terminology around \"concepts\" is therefore problematic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002686717669761021,
+            "ai": 0.9997573734157643,
+            "paraphrased": 0.00021575940753804405
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999916233665191,
+          "sentence": "The claim that the network learns the concept of a grid, the winning rule, and two sides requires stronger behavioral tests.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008376633480873305,
+            "ai": 0.9997758175780345,
+            "paraphrased": 0.0002158057884846327
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999941476343251,
+          "sentence": "For example, if a representation truly encoded the winning rule, it should transfer to states where the best move blocks an opponent, creates a fork, or avoids a trap; it should generalize to board transformations or different board sizes; it should allow accurate play beyond immediate wins; and it should be usable by a simple downstream model to infer legal and winning moves under held-out configurations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005852365674863419,
+            "ai": 0.9998049310127952,
+            "paraphrased": 0.00018921662152990523
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999943598486375,
+          "sentence": "The current experiment considers only a narrow subset of positions and evaluates whether the most activated region matches the already encoded class.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005640151362464301,
+            "ai": 0.9997799195250969,
+            "paraphrased": 0.00021444032354057295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999908034086488,
+          "sentence": "This is closer to weakly supervised localization of a class-correlated location than to concept learning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009196591351205183,
+            "ai": 0.9997684484677062,
+            "paraphrased": 0.0002223549409425926
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999942802450124,
+          "sentence": "A second major concern is the lack of clarity about train/test separation and generalization.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005719754987649929,
+            "ai": 0.9997941242657247,
+            "paraphrased": 0.0002001559792876416
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999787811749614,
+          "sentence": "The paper reports 100% classification accuracy on the tic-tac-toe dataset, but it is not clear whether this is training accuracy, validation accuracy, or accuracy on a held-out set of states.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002121882503865871,
+            "ai": 0.9997493992249199,
+            "paraphrased": 0.0002293819500414756
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999757090348467,
+          "sentence": "Since the dataset contains only 1029 samples for the main task and is synthetically generated from a small finite state space, memorization is a real possibility.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002429096515341663,
+            "ai": 0.9997512936274574,
+            "paraphrased": 0.00022441540738922581
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999668422540602,
+          "sentence": "The quantitative localization scores are also not described in enough detail to assess whether they are computed on training examples or held-out examples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000033157745939789885,
+            "ai": 0.999730744201226,
+            "paraphrased": 0.0002360980528342522
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999914187457611,
+          "sentence": "If all CAM visualizations and RAC/RCO scores are measured on the same examples used for fine-tuning, they provide weak evidence about learned structure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008581254238855949,
+            "ai": 0.999781887163102,
+            "paraphrased": 0.00020953158265911518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999942532930078,
+          "sentence": "A convincing study would need held-out board states, possibly held-out board symmetries, and controls that test whether the network is learning rules rather than associating visual templates with labels.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005746706992141733,
+            "ai": 0.9997669114368722,
+            "paraphrased": 0.00022734185613556675
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999929948934558,
+          "sentence": "The use of CAM as evidence for internal understanding is also not sufficiently justified.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007005106544206036,
+            "ai": 0.9997602233857885,
+            "paraphrased": 0.0002327715076672698
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999916320760776,
+          "sentence": "CAM is a visualization of class-discriminative spatial contributions under a particular architecture, not a direct readout of semantic concepts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008367923922423085,
+            "ai": 0.9997027139382463,
+            "paraphrased": 0.00028891813783127524
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999572125181806,
+          "sentence": "A highlighted empty square may arise because the feature at that spatial location has a receptive field covering the relevant row, column, or diagonal, not because the model represents \"this is the winning move\" in a conceptually meaningful way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004278748181933083,
+            "ai": 0.9993289238289087,
+            "paraphrased": 0.0006282886892719451
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999809157938987,
+          "sentence": "This observation is still interesting, but it should be framed more cautiously.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001908420610128396,
+            "ai": 0.9994510061580315,
+            "paraphrased": 0.0005299096358671707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999904512998566,
+          "sentence": "In addition, the paper does not compare CAM to other attribution methods, occlusion tests, gradient-based saliency, or direct probing of intermediate features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009548700143383239,
+            "ai": 0.9993340218646272,
+            "paraphrased": 0.0006564294352294684
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999913083536693,
+          "sentence": "Without such controls, it is difficult to know whether the heatmaps reflect robust model reasoning or artifacts of the visualization method, the rendering geometry, the receptive field layout, padding, or class-specific templates.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008691646330654025,
+            "ai": 0.9993693446987166,
+            "paraphrased": 0.0006219636549527518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999911245418096,
+          "sentence": "The experimental design would benefit from several additional baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008875458190360873,
+            "ai": 0.999346603653526,
+            "paraphrased": 0.0006445208882835761
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999851193042043,
+          "sentence": "A linear classifier or multilayer perceptron on symbolic 3-by-3 board encodings could establish the intrinsic difficulty of the classification task.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014880695795688859,
+            "ai": 0.9992748518879716,
+            "paraphrased": 0.0007102674162327087
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999916475597455,
+          "sentence": "A CNN trained from scratch, rather than fine-tuned from ImageNet AlexNet, would test whether pretraining is relevant in this synthetic domain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000835244025445204,
+            "ai": 0.9992831649291191,
+            "paraphrased": 0.0007084826306264349
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999926774726589,
+          "sentence": "A model trained with randomly permuted labels, or with labels that encode only the side but not the square, would help determine whether CAM localization is genuinely tied to the game structure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000732252734118685,
+            "ai": 0.9993930380229027,
+            "paraphrased": 0.0005996394497561313
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999924164356245,
+          "sentence": "A baseline that chooses the square from simple pattern matching or from a non-convolutional classifier would contextualize the RAC values.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007583564375548259,
+            "ai": 0.9994228731779922,
+            "paraphrased": 0.000569543257632319
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993807636166,
+          "sentence": "Since the board states are tiny and discrete, the paper should also discuss whether the CNN is exploiting absolute spatial position and fixed rendering conventions rather than learning a reusable rule.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006192363834076281,
+            "ai": 0.9995457129197881,
+            "paraphrased": 0.0004480947163778075
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999897061572641,
+          "sentence": "The quantitative evaluation is not yet convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010293842735951686,
+            "ai": 0.999493102909311,
+            "paraphrased": 0.0004966032479530552
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999905633331271,
+          "sentence": "Representation accuracy is intuitive, but the definition of \"most activated patch\" depends on map resolution, interpolation, patch size, and tie-breaking, and these details are missing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009436666872970225,
+            "ai": 0.9994964555566546,
+            "paraphrased": 0.0004941077764724904
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999894593615959,
+          "sentence": "Representation consistency is less clear: the reported values are negative and scaled by 10^3, but their interpretation is not explained.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010540638404076325,
+            "ai": 0.9994626200996463,
+            "paraphrased": 0.0005268392619496266
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999924628261309,
+          "sentence": "If higher consistency means better alignment with an ideal activation map, the table should make that explicit and should report confidence intervals, or at least variation across random initializations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007537173869070128,
+            "ai": 0.9995486513684768,
+            "paraphrased": 0.00044381145765408933
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999772333835427,
+          "sentence": "The improvements from adding grid lines are plausible, but the paper attributes them to the network being given an implied board concept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022766616457281626,
+            "ai": 0.9994239615445144,
+            "paraphrased": 0.0005532718390282784
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999823650828595,
+          "sentence": "An alternative explanation is simply that grid lines provide strong spatial anchors and high-frequency gradients at fixed locations, making localization by CAM easier.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001763491714047543,
+            "ai": 0.9994722241085655,
+            "paraphrased": 0.0005101409742940122
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999573431971002,
+          "sentence": "That is not necessarily evidence of a more semantic representation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000042656802899858747,
+            "ai": 0.9994325636751982,
+            "paraphrased": 0.0005247795219019903
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999964415674275,
+          "sentence": "The connection to cross-modal supervision is also weak.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003558432572497695,
+            "ai": 0.9992623729477895,
+            "paraphrased": 0.0007020427264854772
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9648892300606849,
+          "sentence": "In the described experiments, the labels are generated by a simulator from the same underlying board state that is rendered as an image.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03511076993931511,
+            "ai": 0.9634489542049635,
+            "paraphrased": 0.0014402758557214566
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9918951553914176,
+          "sentence": "This is not really a separate modality in the sense used by the cited cross-modal learning papers; it is a symbolic target derived from the game engine.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008104844608582353,
+            "ai": 0.9908762156617373,
+            "paraphrased": 0.001018939729680286
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993275007151488,
+          "sentence": "The paper may still be about weakly supervised representation learning from automatically generated labels, but the cross-modal framing does not add much and may obscure the contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006724992848513081,
+            "ai": 0.9989349021292094,
+            "paraphrased": 0.0003925985859393053
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9970591116369684,
+          "sentence": "Similarly, the analogy to deep reinforcement learning is only motivational.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0029408883630316304,
+            "ai": 0.9964014560294963,
+            "paraphrased": 0.0006576556074720893
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985406187994352,
+          "sentence": "The experiments do not involve reinforcement learning, sequential decision-making, rewards, exploration, or policies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014593812005647409,
+            "ai": 0.9978760526767122,
+            "paraphrased": 0.0006645661227230869
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998222163833056,
+          "sentence": "The claim that this helps answer whether a DRL network \"understands\" game concepts is therefore indirect at best.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017778361669436456,
+            "ai": 0.9995172114969652,
+            "paraphrased": 0.00030500488634043816
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999727654850413,
+          "sentence": "I would like the authors to clarify several points.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027234514958720414,
+            "ai": 0.9998102217750254,
+            "paraphrased": 0.00016254371001587752
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999155656300313,
+          "sentence": "Are the reported classification and localization results computed on held-out states, or on the training set?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008443436996865909,
+            "ai": 0.9996259596302566,
+            "paraphrased": 0.0002896059997747278
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999469100174653,
+          "sentence": "How are train/validation/test splits constructed, and are symmetric rotations and reflections of a board allowed to appear across splits?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005308998253467754,
+            "ai": 0.9996870262120917,
+            "paraphrased": 0.00025988380537360497
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999804839152189,
+          "sentence": "What exactly is the label generation procedure for states with multiple winning moves, and how many such cases exist?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001951608478109201,
+            "ai": 0.9997759529181439,
+            "paraphrased": 0.00020453099707499318
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999808971802852,
+          "sentence": "Does the network receive only positions where the next move wins, or does it also see non-winning states during training?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019102819714917334,
+            "ai": 0.999732453782053,
+            "paraphrased": 0.00024844339823213633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999836152726688,
+          "sentence": "How is the ideal activation map defined for RCO, and why are the reported correlations negative?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016384727331269978,
+            "ai": 0.999733281349509,
+            "paraphrased": 0.0002503339231597752
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999771257869894,
+          "sentence": "How sensitive are RAC and RCO to random initialization, crop and rendering details, CAM resolution, and pretraining?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000228742130106667,
+            "ai": 0.9997290246428785,
+            "paraphrased": 0.00024810114411086406
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999817291077334,
+          "sentence": "Finally, can the learned representation be used to select moves in states that do not end the game immediately, or to transfer to a different rendering without retraining?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018270892266565832,
+            "ai": 0.9997203001315872,
+            "paraphrased": 0.0002614289761462217
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999737858746086,
+          "sentence": "Overall, I appreciate the simplicity and creativity of the experimental setup, and I think the observation about CAM activation on empty squares is worth reporting in a more focused paper on visualization behavior in synthetic relational domains.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026214125391428374,
+            "ai": 0.9997190223657475,
+            "paraphrased": 0.0002547635088610652
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999910165709526,
+          "sentence": "However, the current version makes much stronger claims about concept emergence, rule understanding, and cross-modal higher-level semantics than the experiments support.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000898342904739708,
+            "ai": 0.9996918131086807,
+            "paraphrased": 0.0002992034622718631
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999799156667799,
+          "sentence": "The task labels already encode the desired action, the evaluation appears limited to a small and possibly non-held-out dataset, and the CAM evidence is not sufficient to infer conceptual understanding.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020084333220137616,
+            "ai": 0.9996694286414403,
+            "paraphrased": 0.00031048702533960576
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999914144612633,
+          "sentence": "My recommendation is rejection in its present form.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008585538736700384,
+            "ai": 0.9997250090077746,
+            "paraphrased": 0.00026640545348866095
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999897127502032,
+          "sentence": "A revised version with rigorous held-out generalization tests, stronger baselines, clearer metrics, causal attribution experiments, and more cautious claims could become a useful case study in weakly supervised localization and the probing of CNN representations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010287249796781934,
+            "ai": 0.9996944770360168,
+            "paraphrased": 0.00029523571418642216
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The paper studies whether a convolutional network trained with weak labels on rendered tic-tac-toe boards can acquire representations corresponding to game concepts such as board locations, legal turns, and winning moves. The authors generate all legal tic-tac-toe states in which one player can win on the next move, render them as images, assign one of 18 labels corresponding to the winning side and location, train an AlexNet-style classifier with global average pooling, and visualize class activation maps (CAMs). They observe that the resulting CAMs often highlight the empty square where the winning move should be placed, even though the network was not directly trained with pixel-level localization labels. Other variants add grid lines or alter the appearance of the pieces, and the paper proposes two quantitative measures intended to capture whether the activation map corresponds to the correct move. The authors interpret the results as evidence that game concepts can emerge under weak supervision, that cross-modal supervision ideas extend to higher-level action and game-rule semantics, and that CAM can activate on non-salient image regions.\n\nThe paper has an appealing central intuition. Tic-tac-toe is simple enough that the full state space can be enumerated, yet it still contains nontrivial relational structure: lines, turns, two players, and outcomes. Using such a controlled domain to probe what a CNN learns is a reasonable and potentially useful way to study representation learning, visualization, and weak supervision without the confounds of large natural-image datasets. The observation that activation maps can peak at empty board locations is also interesting at a qualitative level. It highlights that discriminative spatial evidence in CNNs need not coincide with object texture or local saliency, but can arise from contextual information in the receptive field. The paper is clearly motivated and tries to connect the experiment to several broader questions in deep reinforcement learning, cross-modal supervision, and interpretability. The authors also deserve credit for proposing quantitative measures rather than relying only on hand-picked visualizations, and for including appearance-change controls and an intermediate-training analysis.\n\nHowever, I find the main claims substantially overstated relative to the evidence provided. The most serious issue is that the supervision is not as weak as the paper suggests. The labels are 18 classes corresponding directly to the player and square of the winning next move. Although the network is not given a segmentation mask or an explicit rule table, the class label effectively encodes the answer to the localization and action problem. In this setting, a CAM that highlights the square associated with a class is not strong evidence that the network has discovered a game concept in the sense of understanding the rule. It may simply have learned discriminative visual templates associated with each of the 18 output classes. Since the task is restricted to positions where the game ends in one move, the input-output mapping can be solved by recognizing local and semi-local patterns of pieces, without representing the full rules of tic-tac-toe.\n\nThe paper's terminology around \"concepts\" is therefore problematic. The claim that the network learns the concept of a grid, the winning rule, and two sides requires stronger behavioral tests. For example, if a representation truly encoded the winning rule, it should transfer to states where the best move blocks an opponent, creates a fork, or avoids a trap; it should generalize to board transformations or different board sizes; it should allow accurate play beyond immediate wins; and it should be usable by a simple downstream model to infer legal and winning moves under held-out configurations. The current experiment considers only a narrow subset of positions and evaluates whether the most activated region matches the already encoded class. This is closer to weakly supervised localization of a class-correlated location than to concept learning.\n\nA second major concern is the lack of clarity about train/test separation and generalization. The paper reports 100% classification accuracy on the tic-tac-toe dataset, but it is not clear whether this is training accuracy, validation accuracy, or accuracy on a held-out set of states. Since the dataset contains only 1029 samples for the main task and is synthetically generated from a small finite state space, memorization is a real possibility. The quantitative localization scores are also not described in enough detail to assess whether they are computed on training examples or held-out examples. If all CAM visualizations and RAC/RCO scores are measured on the same examples used for fine-tuning, they provide weak evidence about learned structure. A convincing study would need held-out board states, possibly held-out board symmetries, and controls that test whether the network is learning rules rather than associating visual templates with labels.\n\nThe use of CAM as evidence for internal understanding is also not sufficiently justified. CAM is a visualization of class-discriminative spatial contributions under a particular architecture, not a direct readout of semantic concepts. A highlighted empty square may arise because the feature at that spatial location has a receptive field covering the relevant row, column, or diagonal, not because the model represents \"this is the winning move\" in a conceptually meaningful way. This observation is still interesting, but it should be framed more cautiously. In addition, the paper does not compare CAM to other attribution methods, occlusion tests, gradient-based saliency, or direct probing of intermediate features. Without such controls, it is difficult to know whether the heatmaps reflect robust model reasoning or artifacts of the visualization method, the rendering geometry, the receptive field layout, padding, or class-specific templates.\n\nThe experimental design would benefit from several additional baselines. A linear classifier or multilayer perceptron on symbolic 3-by-3 board encodings could establish the intrinsic difficulty of the classification task. A CNN trained from scratch, rather than fine-tuned from ImageNet AlexNet, would test whether pretraining is relevant in this synthetic domain. A model trained with randomly permuted labels, or with labels that encode only the side but not the square, would help determine whether CAM localization is genuinely tied to the game structure. A baseline that chooses the square from simple pattern matching or from a non-convolutional classifier would contextualize the RAC values. Since the board states are tiny and discrete, the paper should also discuss whether the CNN is exploiting absolute spatial position and fixed rendering conventions rather than learning a reusable rule.\n\nThe quantitative evaluation is not yet convincing. Representation accuracy is intuitive, but the definition of \"most activated patch\" depends on map resolution, interpolation, patch size, and tie-breaking, and these details are missing. Representation consistency is less clear: the reported values are negative and scaled by 10^3, but their interpretation is not explained. If higher consistency means better alignment with an ideal activation map, the table should make that explicit and should report confidence intervals, or at least variation across random initializations. The improvements from adding grid lines are plausible, but the paper attributes them to the network being given an implied board concept. An alternative explanation is simply that grid lines provide strong spatial anchors and high-frequency gradients at fixed locations, making localization by CAM easier. That is not necessarily evidence of a more semantic representation.\n\nThe connection to cross-modal supervision is also weak. In the described experiments, the labels are generated by a simulator from the same underlying board state that is rendered as an image. This is not really a separate modality in the sense used by the cited cross-modal learning papers; it is a symbolic target derived from the game engine. The paper may still be about weakly supervised representation learning from automatically generated labels, but the cross-modal framing does not add much and may obscure the contribution. Similarly, the analogy to deep reinforcement learning is only motivational. The experiments do not involve reinforcement learning, sequential decision-making, rewards, exploration, or policies. The claim that this helps answer whether a DRL network \"understands\" game concepts is therefore indirect at best.\n\nI would like the authors to clarify several points. Are the reported classification and localization results computed on held-out states, or on the training set? How are train/validation/test splits constructed, and are symmetric rotations and reflections of a board allowed to appear across splits? What exactly is the label generation procedure for states with multiple winning moves, and how many such cases exist? Does the network receive only positions where the next move wins, or does it also see non-winning states during training? How is the ideal activation map defined for RCO, and why are the reported correlations negative? How sensitive are RAC and RCO to random initialization, crop and rendering details, CAM resolution, and pretraining? Finally, can the learned representation be used to select moves in states that do not end the game immediately, or to transfer to a different rendering without retraining?\n\nOverall, I appreciate the simplicity and creativity of the experimental setup, and I think the observation about CAM activation on empty squares is worth reporting in a more focused paper on visualization behavior in synthetic relational domains. However, the current version makes much stronger claims about concept emergence, rule understanding, and cross-modal higher-level semantics than the experiments support. The task labels already encode the desired action, the evaluation appears limited to a small and possibly non-held-out dataset, and the CAM evidence is not sufficient to infer conceptual understanding. My recommendation is rejection in its present form. A revised version with rigorous held-out generalization tests, stronger baselines, clearer metrics, causal attribution experiments, and more cautious claims could become a useful case study in weakly supervised localization and the probing of CNN representations.\n",
+      "document_id": null
+    }
+  ]
+}

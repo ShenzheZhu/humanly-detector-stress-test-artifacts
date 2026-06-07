@@ -1,0 +1,250 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.9973800980861202,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.999960629492892,
+          "sentence": "This may sound a little melodramatic, but I was so stuck on my plot that I started questioning everything, and a strange method saved it: I pretended I wasn’t the author, but the kind of reader who writes three-thousand-word conspiracy theories on forums.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003937050710799216,
+            "ai": 0.9952739695375062,
+            "paraphrased": 0.004686659955385779
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999684467471798,
+          "sentence": "I reread the main storyline from the beginning and asked myself irritating questions: What if this character is lying?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000031553252820282566,
+            "ai": 0.9949019061352461,
+            "paraphrased": 0.005066540611933659
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999833372448941,
+          "sentence": "What if that “coincidence” wasn’t one?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016662755105881845,
+            "ai": 0.9947534144852159,
+            "paraphrased": 0.005229922759678167
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999864475766623,
+          "sentence": "What if the motive the protagonist believes in is only the surface?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013552423337711918,
+            "ai": 0.9957605033952169,
+            "paraphrased": 0.004225944181445371
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999777878744841,
+          "sentence": "The more I thought about it, the more wrong it felt, until I found a hidden thread I could add without overturning the plot.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022212125515867333,
+            "ai": 0.9952384348521086,
+            "paraphrased": 0.004739353022375487
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999840314201722,
+          "sentence": "Many parts that had seemed too smooth and direct suddenly gained a second layer of meaning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015968579827785473,
+            "ai": 0.9951329315193445,
+            "paraphrased": 0.004851099900827772
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999809495079216,
+          "sentence": "The surprising thing is that I’d worried the story was just “event A leads to event B,” but now the relationships and worldbuilding feel more charged.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019050492078366558,
+            "ai": 0.9951548364944514,
+            "paraphrased": 0.004826113013470287
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999789987090747,
+          "sentence": "Not every story needs a huge twist or mastermind, but looking at your draft through a reader’s overinterpretation can reveal spaces you’ve missed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002100129092527787,
+            "ai": 0.9960433059503799,
+            "paraphrased": 0.003935692758694765
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999740610020071,
+          "sentence": "If you’re stuck, try it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002593899799289734,
+            "ai": 0.9961450067130161,
+            "paraphrased": 0.003829054288990997
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "This may sound a little melodramatic, but I was so stuck on my plot that I started questioning everything, and a strange method saved it: I pretended I wasn’t the author, but the kind of reader who writes three-thousand-word conspiracy theories on forums.\n\nI reread the main storyline from the beginning and asked myself irritating questions: What if this character is lying? What if that “coincidence” wasn’t one? What if the motive the protagonist believes in is only the surface? The more I thought about it, the more wrong it felt, until I found a hidden thread I could add without overturning the plot. Many parts that had seemed too smooth and direct suddenly gained a second layer of meaning.\n\nThe surprising thing is that I’d worried the story was just “event A leads to event B,” but now the relationships and worldbuilding feel more charged. Not every story needs a huge twist or mastermind, but looking at your draft through a reader’s overinterpretation can reveal spaces you’ve missed. If you’re stuck, try it.\n",
+      "document_id": null
+    }
+  ]
+}

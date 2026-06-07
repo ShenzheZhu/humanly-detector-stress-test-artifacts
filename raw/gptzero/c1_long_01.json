@@ -1,0 +1,1185 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 9,
+          "completely_generated_prob": 4.1887248735431006e-8
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 36,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 40,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 46,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 50,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 52,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 54,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 55,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 56,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 58,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        }
+      ],
+      "completely_generated_prob": 0.000012779183298793283,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999867105583629,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00008112945638017496,
+          "sentence": "This paper describes an approach to predict (unseen) future frames of a video given a set of known past frames.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999188705436198,
+            "ai": 0.00004490657608691519,
+            "paraphrased": 0.00003622288029325976
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007830849884491925,
+          "sentence": "The approach is based on a CNN that, in contrast to most related papers, work in the space of affine transformations (instead of pixels or flow).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999216915011551,
+            "ai": 0.00003773820617256599,
+            "paraphrased": 0.000040570292672353264
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006157964109612291,
+          "sentence": "Said another way, the network takes as input a set of affine transforms that describe the motion of patches in the past frames, and likewise, outputs a set of affine transforms that predict future patch motion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999384203589039,
+            "ai": 0.000026738676761915728,
+            "paraphrased": 0.00003484096433420719
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006187280976798678,
+          "sentence": "To that aim, the authors make a few simplifying hypotheses, namely, that a sequence of frames can be modeled accurately enough in their patch-affine framework.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999938127190232,
+            "ai": 0.00002236922038862168,
+            "paraphrased": 0.00003950358937936509
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007678273231347238,
+          "sentence": "This is not unreasonable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999232172676865,
+            "ai": 0.00003746101311459123,
+            "paraphrased": 0.00003932171919888115
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000543809425962531,
+          "sentence": "model the flow as a smoothly varying affine field (for instance see \"Locally affine sparse-to-dense matching for motion and occlusion estimation\" by Leordeanu et al., \"EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow\" by Revaud et al., \"Optical Flow With Semantic Segmentation and Localized Layers\" by Sevilla-Lara et al.).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999456190574038,
+            "ai": 0.00002031041687559924,
+            "paraphrased": 0.00003407052572065386
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007660678032281827,
+          "sentence": "These methods are state of the art, which gives a hint about the validity of this kind of approach.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999233932196772,
+            "ai": 0.00003723694767629699,
+            "paraphrased": 0.00003936983264652129
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006984661992632887,
+          "sentence": "In addition, it also seems very reasonable to reformulate the prediction task as predicting motion rather than predicting raw pixels.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999301533800736,
+            "ai": 0.00002987174805570831,
+            "paraphrased": 0.000039974871870620555
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014129161179674248,
+          "sentence": "Indeed, the (patch-affine) motion space is considerably smaller than the image space, making the problem much more tractable and amenable to high-resolution videos.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998587083882032,
+            "ai": 0.00009757547533993607,
+            "paraphrased": 0.000043716136456806425
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006493555555833664,
+          "sentence": "While I agree with the authors on these points, I also find that the paper suffer from important flaws.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999350644444417,
+            "ai": 0.000030246851669667195,
+            "paraphrased": 0.00003468870388866945
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.003210817701179244,
+          "sentence": "Specifically:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9967891822988207,
+            "ai": 0.0021992599757412992,
+            "paraphrased": 0.0010115577254379447
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005767305950665744,
+          "sentence": "- the choice of not comparing with previous approaches in term of pixel prediction error seems very \"convenient\", to say the least.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999423269404933,
+            "ai": 0.00002255196395800325,
+            "paraphrased": 0.00003512109554865419
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001111448486535512,
+          "sentence": "While it is clear that the evaluation metric is imperfect, it is not a reason to completely dismiss all quantitative comparisons with previous work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998888551513464,
+            "ai": 0.0000779075113609199,
+            "paraphrased": 0.000033237337292631305
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000053070681715935715,
+          "sentence": "the moving digits datasets (Figure 4), looks ok and can definitely be compared with other papers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999469293182841,
+            "ai": 0.000022367945691621093,
+            "paraphrased": 0.00003070273602431462
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.014869381911977377,
+          "sentence": "Yet, the authors chose not to, which is suspicious.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9851306180880226,
+            "ai": 0.014797844143015321,
+            "paraphrased": 0.00007153776896205618
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0020113090014393024,
+          "sentence": "- The newly proposed metric poses several problems.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9979886909985607,
+            "ai": 0.0019778830269355746,
+            "paraphrased": 0.00003342597450372778
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006563819677148321,
+          "sentence": "First, action classification is evaluated with C3D, which is not a state-of-the-art approach at all for this task.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993436180322852,
+            "ai": 0.0006356622605037405,
+            "paraphrased": 0.000020719707211091656
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008903777609895344,
+          "sentence": "Second, this metric actually *does not* evaluate what the network is claimed to do, that is, next frame prediction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999109622239011,
+            "ai": 0.00007659763011719303,
+            "paraphrased": 0.000012440145981760411
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016691798036621856,
+          "sentence": "Instead, it evaluates if another network, which was never trained to distinguish between real or synthetic frames by the way, can accurately classify an action from the predicted frames.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998330820196338,
+            "ai": 0.00015350103777305688,
+            "paraphrased": 0.00001341694259316168
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007588810151304221,
+          "sentence": "I find that this proxy metric is only weakly related to what is supposed to be measured.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999924111898487,
+            "ai": 0.00006371713550666309,
+            "paraphrased": 0.000012170966006379127
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003948685565310793,
+          "sentence": "In adition, it does not really make sense to train a network for something else that the final task it is evaluated for.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999605131443469,
+            "ai": 0.000027029781170808495,
+            "paraphrased": 0.000012457074482299439
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003229771235445192,
+          "sentence": "- how is the affine motion of patches estimated?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999677022876455,
+            "ai": 0.00001693923709271909,
+            "paraphrased": 0.000015358475261732835
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003529667318054356,
+          "sentence": "It is only explained that the problem is solved globally (not treating each patch independently) in a pretty vague manner.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999647033268194,
+            "ai": 0.000020316481605230698,
+            "paraphrased": 0.000014980191575312856
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003949539894874562,
+          "sentence": "Estimating the motion of all patches is akin to solving the optical flow, which is still an active subject of research.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999605046010512,
+            "ai": 0.00002457283244160588,
+            "paraphrased": 0.00001492256650713974
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003813119807217448,
+          "sentence": "Therefore, an important flaw of the paper lies in the potentially erroneous etimation of the motion input to the network.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999618688019278,
+            "ai": 0.000024837709525681995,
+            "paraphrased": 0.00001329348854649248
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003058942237939584,
+          "sentence": "In the videos made available, it is clear that the motion is wrongly estimated sometimes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999694105776206,
+            "ai": 0.000015329441156024856,
+            "paraphrased": 0.00001525998122337098
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004030014467559906,
+          "sentence": "Since the entire approach depends on this input, I find it important to discuss this aspect.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999596998553244,
+            "ai": 0.000026550169226382898,
+            "paraphrased": 0.000013749975449216163
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004959755201286369,
+          "sentence": "How do motion estimation failures impact the network?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999504024479872,
+            "ai": 0.00003630349283379148,
+            "paraphrased": 0.000013294059179072214
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003981405923759948,
+          "sentence": "Also, the patch-affine hypothesis does not hold when patches are large enough that they cover several objects with contradictory motion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999601859407624,
+            "ai": 0.000026874780864523182,
+            "paraphrased": 0.000012939278373076302
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003663584015853969,
+          "sentence": "Which appears to be the case on UCF101 videos.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999633641598414,
+            "ai": 0.000023572443833133027,
+            "paraphrased": 0.00001306339632540666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005924806912976236,
+          "sentence": "- Even ignoring the weird proxy-evaluation part, the network is still not trained end-to-end.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999407519308703,
+            "ai": 0.000048246871250902016,
+            "paraphrased": 0.000011001197878860343
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007056369083618068,
+          "sentence": "That is, the network is trained to minimize the difference between (noisy) ground-truth and output affine transforms, instead of minimizing a loss in the actual output space (frame pixels) for which an (exact) ground-truth is available.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992943630916382,
+            "ai": 0.0006903918095802578,
+            "paraphrased": 0.00001524509878154898
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00952395861553068,
+          "sentence": "It is true that the MSE loss on raw pixels leads to blurry results, but other types of losses do exist, for instance the gradient loss introduced by Mathieu et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9904760413844693,
+            "ai": 0.009467240701631251,
+            "paraphrased": 0.000056717913899427515
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.007474837829201313,
+          "sentence": "was shown to solve this issue.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9925251621707987,
+            "ai": 0.007424112403435143,
+            "paraphrased": 0.00005072542576617051
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010328849587552928,
+          "sentence": "As noted by the authors themselves, minimizing a loss in the transformation space, where affine parameters are harder to intepret, introduces unexpected artifacts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.989671150412447,
+            "ai": 0.010280205657328045,
+            "paraphrased": 0.00004864393022488192
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.004426546046187328,
+          "sentence": "The motion is often largely underestimated, as is obvious in Figure 5 where it is hard to tell the difference between the input and output frames.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9955734539538127,
+            "ai": 0.004386594750351205,
+            "paraphrased": 0.00003995129583612282
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003078142359607904,
+          "sentence": "- The proposed approach is not sufficiently compared to previous work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996921857640392,
+            "ai": 0.00029282242293923147,
+            "paraphrased": 0.000014991813021558959
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013727325352238002,
+          "sentence": "In particular, the approach is closely related to \"SPATIO-TEMPORAL VIDEO AUTOENCODER WITH DIFFERENTIABLE MEMORY\" of Taraucean et al, ICLR'15.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998627267464776,
+            "ai": 0.00012391598248557434,
+            "paraphrased": 0.00001335727103680569
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011149970597741287,
+          "sentence": "This paper also output prediction in the motion space.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998885002940225,
+            "ai": 0.00009751158706055578,
+            "paraphrased": 0.000013988118916857087
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011105001201727487,
+          "sentence": "Experimental results should compare against it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998889499879827,
+            "ai": 0.00010007941986053324,
+            "paraphrased": 0.000010970592156741632
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009710721602767524,
+          "sentence": "- The comparison with optical flow is unfair.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999028927839724,
+            "ai": 0.00008459165519335101,
+            "paraphrased": 0.000012515560834324243
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005962938155615195,
+          "sentence": "First, the approach of Brox et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999403706184439,
+            "ai": 0.00004718682859358365,
+            "paraphrased": 0.000012442552962568298
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010196599455521468,
+          "sentence": "is more than 10 years old.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998980340054447,
+            "ai": 0.00008960300292735808,
+            "paraphrased": 0.000012362991627856593
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007132203178553034,
+          "sentence": "Second, it is not really fair to assume a constant flow for all frames.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999286779682145,
+            "ai": 0.00005925369416911128,
+            "paraphrased": 0.00001206833761641906
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007497311051872033,
+          "sentence": "At least some basic extrapolation could be done to take into account the flow of all pairs of input frames and not just the last one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999250268894813,
+            "ai": 0.00006229035411972972,
+            "paraphrased": 0.000012682756398990616
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010824139560654085,
+          "sentence": "Overall, the approach is not compared to very challenging baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998917586043935,
+            "ai": 0.00009547922679041393,
+            "paraphrased": 0.00001276216881612691
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007487882952079989,
+          "sentence": "- I disagree with the answer that the authors gave to a reviewer's question.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999251211704792,
+            "ai": 0.0000646074321650856,
+            "paraphrased": 0.000010271397355714285
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00028519607059252037,
+          "sentence": "Denote ground-truth frames as {X_0, X_1 ...} and predicted frames as {Y_1, Y_2, ...}.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997148039294075,
+            "ai": 0.0002709667638758071,
+            "paraphrased": 0.000014229306716713265
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002605463376890533,
+          "sentence": "When asked if the videos at http://joo.st/ICLR/ReconstructionsFromGroundTruth are generated from a single groundtruth frame (X_0) which is warped several times for each next frame (X_0 --> Y_1 --> Y_2 --> ...), they said that it was the case.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999739453662311,
+            "ai": 0.0002461950608370964,
+            "paraphrased": 0.000014351276851956872
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014429681550496125,
+          "sentence": "However, it is clear that the reconstruction is based on the previous groundtruth frame (X_t-1 --> Y_t) because it would be impossible to render objects that enter the camera field with motion alone (e.g.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999855703184495,
+            "ai": 0.00013460919587441751,
+            "paraphrased": 0.000009687619630543749
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00021712164821169124,
+          "sentence": "Perhaps I misunderstood something or there was a misunderstanding between the reviewer and the authors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997828783517884,
+            "ai": 0.0002067055111266923,
+            "paraphrased": 0.000010416137084998948
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005517641608168722,
+          "sentence": "Here is the original question:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999448235839183,
+            "ai": 0.00004596147562884228,
+            "paraphrased": 0.000009214940452844935
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000050577100592149194,
+          "sentence": "(1) In the reconstructions shown on this page - http://joo.st/ICLR/ReconstructionsFromGroundTruth, is the reconstruction at time t (say Y_t) created by applying the estimated affine transform on ground truth at t-1 (X_{t-1}), or by applying it on Y_{t-1} ?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999494228994078,
+            "ai": 0.00003998818517817237,
+            "paraphrased": 0.000010588915413976823
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007168764206513907,
+          "sentence": "In other words, do we start from ground truth X_0 and apply a sequence of transforms, or do we apply the transform to each ground truth frame ?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999283123579349,
+            "ai": 0.00006217002120995127,
+            "paraphrased": 0.000009517620855187797
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000057341462604076965,
+          "sentence": "And answer:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999942658537396,
+            "ai": 0.00004881889972573873,
+            "paraphrased": 0.000008522562878338234
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010349274710115852,
+          "sentence": "(1) We start from ground truth X_0 and apply a sequence of transforms.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998965072528988,
+            "ai": 0.0000939005822415277,
+            "paraphrased": 0.000009592164859630812
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000060729738391788896,
+          "sentence": "In the end, this qualitative result is not convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999392702616082,
+            "ai": 0.000051625739648641605,
+            "paraphrased": 0.000009103998743147291
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003705123975203182,
+          "sentence": "If the output was just trivally Y_t = X_t-1, then the two videos (X and Y) would render almost the same except for a negligible lag.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999629487602479,
+            "ai": 0.000025716290698343153,
+            "paraphrased": 0.00001133494905368867
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000043538386951337565,
+          "sentence": "To conclude, this paper takes an interesting direction but suffers from important flaws.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999564616130486,
+            "ai": 0.00003330317032253214,
+            "paraphrased": 0.000010235216628805419
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000059312710154932964,
+          "sentence": "The most important ones are about the experiments: qualitative experiments are not so convincing (Figure 4 is not as good as in the paper by Srivastava et al) and quantitative results are either missing or questionable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999406872898451,
+            "ai": 0.00004921102926875666,
+            "paraphrased": 0.000010101680886176302
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000818951549686157,
+          "sentence": "In addition, the network is not really trained end-to-end w.r.t.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999181048450314,
+            "ai": 0.00007159966492335279,
+            "paraphrased": 0.000010295490045262916
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009925498858022275,
+          "sentence": "Training for the affine loss is hard to intepret and seems to lead to unexpected artifacts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999007450114198,
+            "ai": 0.00008889094581764297,
+            "paraphrased": 0.000010364042762579782
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010025014811275291,
+          "sentence": "Using a spatial transformer layer would make it possible to train in the image space, e.g.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998997498518872,
+            "ai": 0.0000906078571321463,
+            "paraphrased": 0.000009642290980606608
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0019738030553914797,
+          "sentence": "Using per-patch affine spatial transformers is also possible, see the \"Universal Correspondence Network\" of Choy et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9980261969446085,
+            "ai": 0.0019537624996134725,
+            "paraphrased": 0.000020040555778007287
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.006679517032182058,
+          "sentence": "NIPS 16.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9933204829678179,
+            "ai": 0.006654365240713638,
+            "paraphrased": 0.0000251517914684198
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999867105583629,
+        "ai": 0.000013289441637147003,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999867105583629,
+          "ai": 0.000013289441637147003,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "This paper describes an approach to predict (unseen) future frames of a video given a set of known past frames. The approach is based on a CNN that, in contrast to most related papers, work in the space of affine transformations (instead of pixels or flow). Said another way, the network takes as input a set of affine transforms that describe the motion of patches in the past frames, and likewise, outputs a set of affine transforms that predict future patch motion.\n\nTo that aim, the authors make a few simplifying hypotheses, namely, that a sequence of frames can be modeled accurately enough in their patch-affine framework. This is not unreasonable. A lot of papers in the optical flow community are based on similar hypotheses, i.e. model the flow as a smoothly varying affine field (for instance see \"Locally affine sparse-to-dense matching for motion and occlusion estimation\" by Leordeanu et al., \"EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow\" by Revaud et al., \"Optical Flow With Semantic Segmentation and Localized Layers\" by Sevilla-Lara et al.). These methods are state of the art, which gives a hint about the validity of this kind of approach.\nIn addition, it also seems very reasonable to reformulate the prediction task as predicting motion rather than predicting raw pixels. Indeed, the (patch-affine) motion space is considerably smaller than the image space, making the problem much more tractable and amenable to high-resolution videos.\n\nWhile I agree with the authors on these points, I also find that the paper suffer from important flaws. Specifically:\n\n  - the choice of not comparing with previous approaches in term of pixel prediction error seems very \"convenient\", to say the least. While it is clear that the evaluation metric is imperfect, it is not a reason to completely dismiss all quantitative comparisons with previous work. The frames output by the network on, e.g. the moving digits datasets (Figure 4), looks ok and can definitely be compared with other papers. Yet, the authors chose not to, which is suspicious.\n\n  - The newly proposed metric poses several problems. First, action classification is evaluated with C3D, which is not a state-of-the-art approach at all for this task. Second, this metric actually *does not* evaluate what the network is claimed to do, that is, next frame prediction. Instead, it evaluates if another network, which was never trained to distinguish between real or synthetic frames by the way, can accurately classify an action from the predicted frames. I find that this proxy metric is only weakly related to what is supposed to be measured. In adition, it does not really make sense to train a network for something else that the final task it is evaluated for.\n\n  - how is the affine motion of patches estimated? It is only explained that the problem is solved globally (not treating each patch independently) in a pretty vague manner. Estimating the motion of all patches is akin to solving the optical flow, which is still an active subject of research. Therefore, an important flaw of the paper lies in the potentially erroneous etimation of the motion input to the network. In the videos made available, it is clear that the motion is wrongly estimated sometimes. Since the entire approach depends on this input, I find it important to discuss this aspect. How do motion estimation failures impact the network? Also, the patch-affine hypothesis does not hold when patches are large enough that they cover several objects with contradictory motion. Which appears to be the case on UCF101 videos.\n\n  - Even ignoring the weird proxy-evaluation part, the network is still not trained end-to-end. That is, the network is trained to minimize the difference between (noisy) ground-truth and output affine transforms, instead of minimizing a loss in the actual output space (frame pixels) for which an (exact) ground-truth is available. It is true that the MSE loss on raw pixels leads to blurry results, but other types of losses do exist, for instance the gradient loss introduced by Mathieu et al. was shown to solve this issue. As noted by the authors themselves, minimizing a loss in the transformation space, where affine parameters are harder to intepret, introduces unexpected artifacts. The motion is often largely underestimated, as is obvious in Figure 5 where it is hard to tell the difference between the input and output frames.\n\n  - The proposed approach is not sufficiently compared to previous work. In particular, the approach is closely related to \"SPATIO-TEMPORAL VIDEO AUTOENCODER WITH DIFFERENTIABLE MEMORY\" of Taraucean et al, ICLR'15. This paper also output prediction in the motion space. Experimental results should compare against it.\n\n  - The comparison with optical flow is unfair. First, the approach of Brox et al. is more than 10 years old. Second, it is not really fair to assume a constant flow for all frames. At least some basic extrapolation could be done to take into account the flow of all pairs of input frames and not just the last one. Overall, the approach is not compared to very challenging baselines.\n\n  - I disagree with the answer that the authors gave to a reviewer's question. Denote ground-truth frames as {X_0, X_1 ...} and predicted frames as {Y_1, Y_2, ...}. When asked if the videos at http://joo.st/ICLR/ReconstructionsFromGroundTruth are generated from a single groundtruth frame (X_0) which is warped several times for each next frame (X_0 --> Y_1 --> Y_2 --> ...), they said that it was the case. However, it is clear that the reconstruction is based on the previous groundtruth frame (X_t-1 --> Y_t) because it would be impossible to render objects that enter the camera field with motion alone (e.g. the dentist sequence, the top of the toothbrush enter the frame at some point).\n  Perhaps I misunderstood something or there was a misunderstanding between the reviewer and the authors. Here is the original question:\n      (1) In the reconstructions shown on this page - http://joo.st/ICLR/ReconstructionsFromGroundTruth, is the reconstruction at time t (say Y_t) created by applying the estimated affine transform on ground truth at t-1 (X_{t-1}), or by applying it on Y_{t-1} ? In other words, do we start from ground truth X_0 and apply a sequence of transforms, or do we apply the transform to each ground truth frame ?\n  And answer:\n      (1) We start from ground truth X_0 and apply a sequence of transforms.\n\n  In the end, this qualitative result is not convincing. If the output was just trivally Y_t = X_t-1, then the two videos (X and Y) would render almost the same except for a negligible lag.\n\n\nTo conclude, this paper takes an interesting direction but suffers from important flaws. The most important ones are about the experiments: qualitative experiments are not so convincing (Figure 4 is not as good as in the paper by Srivastava et al) and quantitative results are either missing or questionable. In addition, the network is not really trained end-to-end w.r.t. the final task. Training for the affine loss is hard to intepret and seems to lead to unexpected artifacts. Using a spatial transformer layer would make it possible to train in the image space, e.g. with the robust gradient loss of Mathieu et al. Using per-patch affine spatial transformers is also possible, see the \"Universal Correspondence Network\" of Choy et al. (NIPS'16).\n",
+      "document_id": null
+    }
+  ]
+}

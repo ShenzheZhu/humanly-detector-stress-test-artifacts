@@ -1,0 +1,1399 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.4355389046213882
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 37,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 44,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 50,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 56,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 62,
+          "num_sentences": 9,
+          "completely_generated_prob": 0.9257822263275673
+        },
+        {
+          "start_sentence_index": 71,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        }
+      ],
+      "completely_generated_prob": 0.9315042968961559,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.935440636638409,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9997070369110731,
+          "sentence": "The paper proposes a video prediction model that predicts local transformations rather than future pixels.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002929630889269185,
+            "ai": 0.8510310723433571,
+            "paraphrased": 0.14867596456771603
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997361600941624,
+          "sentence": "The method first estimates affine transformations between adjacent frames on a dense grid of overlapping patches, then trains a convolutional network to predict future affine transform fields from past transform fields.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00026383990583748416,
+            "ai": 0.8542876371387347,
+            "paraphrased": 0.1454485229554278
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997235281778645,
+          "sentence": "At test time, predicted transforms are applied to the most recent frame to synthesize future frames.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00027647182213560263,
+            "ai": 0.8503236896470477,
+            "paraphrased": 0.14939983853081668
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998742386190018,
+          "sentence": "The paper argues that this avoids the blurriness typical of pixel-space regression because uncertainty is handled in transformation space, where averaging errors may still correspond to plausible motion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012576138099816697,
+            "ai": 0.8828644458626103,
+            "paraphrased": 0.11700979275639158
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998655683925983,
+          "sentence": "A second contribution is an evaluation protocol in which generated frames are passed to an action classifier trained on real videos, with classification accuracy used as a proxy for whether the generated sequence preserves discriminative content.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013443160740170805,
+            "ai": 0.8843592134810305,
+            "paraphrased": 0.11550635491156779
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998476434097463,
+          "sentence": "Experiments on moving MNIST and UCF-101 suggest that the proposed method produces sharper outputs than pixel-regression or adversarial baselines and obtains higher downstream classification accuracy while using substantially fewer parameters and computation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00015235659025372806,
+            "ai": 0.8903186456906205,
+            "paraphrased": 0.10952899771912578
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998192823066752,
+          "sentence": "The main strength of the paper is the clarity and simplicity of the central idea.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018071769332483596,
+            "ai": 0.879912458838719,
+            "paraphrased": 0.11990682346795607
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998255999730989,
+          "sentence": "Modeling local motion explicitly is a natural and appealing alternative to direct pixel prediction, and the paper presents a concrete instantiation that is easy to understand.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017440002690099555,
+            "ai": 0.8853956755122334,
+            "paraphrased": 0.11442992446086554
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998311600391429,
+          "sentence": "The decomposition into affine transform extraction, transform prediction, and frame reconstruction makes the approach modular.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016883996085721077,
+            "ai": 0.8773908275157424,
+            "paraphrased": 0.12244033252340046
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998612900622958,
+          "sentence": "The use of overlapping patches is also sensible: it provides more flexibility than a single global transform while retaining a structured, low-dimensional prediction target.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013870993770404613,
+            "ai": 0.8854160289134131,
+            "paraphrased": 0.11444526114888282
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996868313192174,
+          "sentence": "The unrolled multi-step training procedure is another positive aspect, since it directly addresses the train-test mismatch that arises when a one-step predictor is recursively applied at test time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00031316868078254417,
+            "ai": 0.8668972798881223,
+            "paraphrased": 0.1327895514310952
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995470991616984,
+          "sentence": "The paper is also valuable in emphasizing that pixel MSE is a poor measure for video prediction quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00045290083830157454,
+            "ai": 0.8692065650910286,
+            "paraphrased": 0.13034053407066987
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998095429813404,
+          "sentence": "The proposed classifier-based evaluation is a practical attempt to define a task-oriented alternative.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000190457018659679,
+            "ai": 0.8839253476303429,
+            "paraphrased": 0.11588419535099745
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995971540742226,
+          "sentence": "The reported difference between ground-truth frames and reconstructions from ground-truth affine transforms is particularly useful: it suggests that for the tested frame sizes and patch parameters, the affine patch representation preserves much of the information needed by the action classifier.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00040284592577738827,
+            "ai": 0.8768577963586387,
+            "paraphrased": 0.12273935771558386
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995878965238556,
+          "sentence": "The comparison to a copy-last-frame baseline, optical flow extrapolation, and a stronger learned video prediction model is also helpful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00041210347614439673,
+            "ai": 0.879177189174719,
+            "paraphrased": 0.12041070734913663
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996383073625622,
+          "sentence": "The computational efficiency of the method is another significant advantage.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003616926374377996,
+            "ai": 0.8799960182725537,
+            "paraphrased": 0.11964228909000847
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995235872042078,
+          "sentence": "If the reported parameter and floating-point operation counts are accurate and comparable, the approach is an attractive baseline for future work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004764127957922651,
+            "ai": 0.8878254954202415,
+            "paraphrased": 0.11169809178396625
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6945654979623593,
+          "sentence": "However, I have several concerns that make the paper less convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3054345020376407,
+            "ai": 0.6671683341376856,
+            "paraphrased": 0.02739716382467368
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6389308522633435,
+          "sentence": "The largest issue is that the proposed evaluation protocol is not sufficient on its own to establish the quality of video prediction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.36106914773665655,
+            "ai": 0.6139749461466949,
+            "paraphrased": 0.024955906116648528
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8187661617515402,
+          "sentence": "Action classification accuracy on generated frames may reflect preservation of static appearance more than realistic temporal dynamics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.18123383824845984,
+            "ai": 0.7909088678658192,
+            "paraphrased": 0.027857293885721023
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8301458029103614,
+          "sentence": "This concern is supported by the high score of the copy-last-frame baseline, especially when using only four generated frames.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1698541970896385,
+            "ai": 0.7983135133667572,
+            "paraphrased": 0.031832289543604286
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9780813072437681,
+          "sentence": "Many UCF-101 classes can be recognized from scene context, objects, clothing, or pose, and the classifier may not be very sensitive to subtle motion artifacts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.021918692756231897,
+            "ai": 0.9461604218933191,
+            "paraphrased": 0.03192088535044905
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9957114274539093,
+          "sentence": "Thus, a model that simply keeps frames sharp and preserves the actor and background may score well even if it substantially underestimates or distorts motion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004288572546090715,
+            "ai": 0.9646878678233937,
+            "paraphrased": 0.031023559630515653
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9941179123898849,
+          "sentence": "The paper acknowledges some underestimation of movement, but the proposed metric may not penalize this sufficiently.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005882087610115012,
+            "ai": 0.9626887409301376,
+            "paraphrased": 0.031429171459747385
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9960800131453569,
+          "sentence": "The classifier-based metric has a potentially ambiguous interpretation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003919986854643144,
+            "ai": 0.9585517865985864,
+            "paraphrased": 0.03752822654677041
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9975698726998026,
+          "sentence": "If the goal is to evaluate whether generated videos are plausible continuations, then retaining discriminative features is only one requirement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0024301273001974075,
+            "ai": 0.9704707524748837,
+            "paraphrased": 0.027099120224918897
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9977658530593191,
+          "sentence": "A generated sequence could preserve the class label while being dynamically implausible, temporally inconsistent, or nearly static.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002234146940680905,
+            "ai": 0.9754993960983092,
+            "paraphrased": 0.022266456961009918
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983872284239562,
+          "sentence": "Conversely, a plausible future may change the appearance in a way that makes the classifier less confident, particularly for actions requiring longer temporal context.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0016127715760438069,
+            "ai": 0.967926039584657,
+            "paraphrased": 0.030461188839299245
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99943998794877,
+          "sentence": "It would strengthen the paper to include additional quantitative measures targeted at temporal realism, such as flow statistics, human preference studies, or comparisons under classifiers trained to distinguish real from generated sequences.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000560012051230023,
+            "ai": 0.9711608666255641,
+            "paraphrased": 0.02827912132320592
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999558250309895,
+          "sentence": "A careful breakdown by action category would help determine whether the gains arise from motion-sensitive classes or mostly from appearance-dominated ones.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004417496901050386,
+            "ai": 0.9656190173872925,
+            "paraphrased": 0.03393923292260245
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996835458294462,
+          "sentence": "A second concern is the limited experimental depth.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00031645417055387997,
+            "ai": 0.981097267003306,
+            "paraphrased": 0.018586278826140147
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9981450055788893,
+          "sentence": "The moving MNIST results are purely qualitative, and the UCF-101 experiments use a single main downstream classifier.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0018549944211106938,
+            "ai": 0.9741283499803879,
+            "paraphrased": 0.024016655598501465
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9981790275027848,
+          "sentence": "There is no statistical analysis or indication of variance across splits, generated samples, or training runs.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001820972497215304,
+            "ai": 0.9778120891804158,
+            "paraphrased": 0.020366938322368897
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.993759844659188,
+          "sentence": "It is also unclear how sensitive the results are to the affine extraction procedure, which appears to be a crucial part of the system.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006240155340812088,
+            "ai": 0.9760519670642098,
+            "paraphrased": 0.017707877594978133
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9973655015939646,
+          "sentence": "The ablations on patch size, input frames, and prediction horizon are useful, but they are relatively shallow.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0026344984060352903,
+            "ai": 0.9740300008835364,
+            "paraphrased": 0.023335500710428256
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.996880893424415,
+          "sentence": "For example, the paper reports classification accuracy changes but not reconstruction quality of the affine extraction step, transform prediction error, or the relationship between transform-space MSE and visual quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003119106575584957,
+            "ai": 0.9754159853536731,
+            "paraphrased": 0.021464908070741875
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.982597809155269,
+          "sentence": "Since the method depends heavily on the assumption that local affine transforms are a good representation, more detailed quantitative analysis of that assumption would be valuable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.017402190844730964,
+            "ai": 0.9659608674493496,
+            "paraphrased": 0.016636941705919367
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9976713016985086,
+          "sentence": "The affine transform extractor itself needs more explanation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0023286983014913602,
+            "ai": 0.9974339651404968,
+            "paraphrased": 0.00023733655801184134
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999981529270292,
+          "sentence": "The paper describes estimating a set of affine mappings by minimizing reconstruction error, but it does not provide enough detail about the optimization procedure, initialization, convergence criteria, boundary handling, regularization, or computational cost.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001847072970792083,
+            "ai": 0.9999258561234904,
+            "paraphrased": 0.000055673146801686
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998157439668474,
+          "sentence": "Are the affine transforms estimated independently for every pair of frames in the training set through iterative optimization?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018425603315268038,
+            "ai": 0.9997175480925711,
+            "paraphrased": 0.00009819587427629866
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999128632813479,
+          "sentence": "If so, how expensive is this preprocessing stage compared with training a direct prediction model?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008713671865204964,
+            "ai": 0.9998376720557033,
+            "paraphrased": 0.00007519122564461472
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999865753299173,
+          "sentence": "Are there failure cases when illumination changes, occlusions, or non-rigid deformations cause poor local affine estimates?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013424670082762383,
+            "ai": 0.9999329945601162,
+            "paraphrased": 0.00005358076980109074
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999769855412336,
+          "sentence": "Since the learned predictor is trained on these estimated transforms, noise or ambiguity in the extraction stage could substantially affect performance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002301445876641557,
+            "ai": 0.9999181435490481,
+            "paraphrased": 0.0000588419921855572
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999000060829936,
+          "sentence": "The paper would benefit from a more complete description and analysis of this stage.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009999391700652021,
+            "ai": 0.9998210760403899,
+            "paraphrased": 0.00007893004260357611
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999852337191693,
+          "sentence": "The method also has inherent representational limitations that deserve more serious discussion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014766280830790357,
+            "ai": 0.9999340447724138,
+            "paraphrased": 0.000051188946755449874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999729315629112,
+          "sentence": "Applying local transforms to the previous frame cannot synthesize newly visible content, model disocclusions, handle significant out-of-plane rotations, or represent appearance changes except through warping.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027068437088682287,
+            "ai": 0.999898955028634,
+            "paraphrased": 0.0000739765342772549
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999969905363644,
+          "sentence": "Averaging overlapping transformed patches may hide some artifacts, but it cannot solve the missing-content problem.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000030094636355961947,
+            "ai": 0.9999025034821825,
+            "paraphrased": 0.00006740188146157113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999523515804266,
+          "sentence": "On short horizons this may be acceptable, but for longer prediction it should cause degradation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004764841957337462,
+            "ai": 0.9998808549531378,
+            "paraphrased": 0.0000714966272888048
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999927580763935,
+          "sentence": "The paper reports results up to eight frames, but the conclusions sometimes sound broader than the evidence supports.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007241923606453369,
+            "ai": 0.999936193328922,
+            "paraphrased": 0.000056564747471554523
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999872928237182,
+          "sentence": "It would be useful to see how quickly the method fails as the prediction horizon increases, and whether failures are qualitatively different from those of pixel-space models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012707176281738824,
+            "ai": 0.9999364670289743,
+            "paraphrased": 0.00005082579474389338
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999740064700906,
+          "sentence": "The comparison to prior learned prediction models is not fully satisfying.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002599352990948558,
+            "ai": 0.999914231927812,
+            "paraphrased": 0.000059774542278528526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999946259195269,
+          "sentence": "The paper compares to a multi-scale adversarial model and notes that it is much larger and more expensive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000053740804730927285,
+            "ai": 0.9998673824619798,
+            "paraphrased": 0.00007887673328925433
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999742525709819,
+          "sentence": "However, it is not entirely clear whether all models were trained under comparable conditions, with the same input preprocessing, frame resolution, number of conditioning frames, and prediction horizon.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000257474290181293,
+            "ai": 0.9999095056950303,
+            "paraphrased": 0.00006474687595156243
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999849333233573,
+          "sentence": "Since the proposed method predicts transformations extracted from frames, while the baseline predicts pixels, the training targets and losses differ substantially.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015066676642727887,
+            "ai": 0.9999249666918151,
+            "paraphrased": 0.000059966631542191855
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999907736868372,
+          "sentence": "This is the point of the paper, but it also makes fairness important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000922631316274606,
+            "ai": 0.9999422636642324,
+            "paraphrased": 0.00004851002260476003
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999913478412874,
+          "sentence": "More details about baseline implementation, hyperparameter tuning, and whether the reported results are from retraining or from existing models would improve confidence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008652158712543084,
+            "ai": 0.9999282475492595,
+            "paraphrased": 0.00006310029202796232
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999775600601233,
+          "sentence": "I also find the claim that MSE in transformation space avoids averaging somewhat overstated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022439939876763053,
+            "ai": 0.9999083994887882,
+            "paraphrased": 0.00006916057133510569
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998958419567251,
+          "sentence": "The paper itself observes that the model underestimates movement, which is exactly an averaging effect.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010415804327494068,
+            "ai": 0.999790522037569,
+            "paraphrased": 0.00010531991915608756
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9954711413981056,
+          "sentence": "Predicting the mean of plausible transformations may produce a sharp frame because the previous image is warped rather than regressed, but it can still yield an implausible or overly conservative trajectory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004528858601894464,
+            "ai": 0.993224420729874,
+            "paraphrased": 0.0022467206682315324
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9914137408970081,
+          "sentence": "This is a meaningful distinction, but the paper should be more precise: the approach avoids pixel blurring due to averaging in image space, not uncertainty averaging more generally.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008586259102991997,
+            "ai": 0.989406831193539,
+            "paraphrased": 0.0020069097034690407
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9868112356554277,
+          "sentence": "If multiple futures are possible, a deterministic MSE-trained transform predictor still has the usual conditional mean problem.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.013188764344572286,
+            "ai": 0.9845482129275149,
+            "paraphrased": 0.0022630227279127786
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9898339915130353,
+          "sentence": "Modeling a distribution over transformations, as mentioned in the conclusion, seems important rather than merely a future extension.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01016600848696466,
+            "ai": 0.9873679728565632,
+            "paraphrased": 0.0024660186564721257
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9968114514754803,
+          "sentence": "I have several specific questions for the authors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003188548524519698,
+            "ai": 0.9945991500106712,
+            "paraphrased": 0.002212301464809103
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9951559766624293,
+          "sentence": "How exactly are the affine transforms estimated in practice, and how long does this preprocessing take on UCF-101?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004844023337570744,
+            "ai": 0.9928731830489866,
+            "paraphrased": 0.0022827936134426486
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9964830102835724,
+          "sentence": "Are the reported computational savings measured only for the prediction network, or do they include affine extraction for conditioning frames at test time?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003516989716427546,
+            "ai": 0.9943203268777568,
+            "paraphrased": 0.002162683405815593
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9969709662417108,
+          "sentence": "How sensitive is the method to the stride and overlap used in patch reconstruction?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0030290337582892326,
+            "ai": 0.9947981781139136,
+            "paraphrased": 0.0021727881277971606
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9970015016565241,
+          "sentence": "Does the classifier-based evaluation use only generated frames, or are the conditioning frames also included as input to the classifier?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0029984983434759487,
+            "ai": 0.9947320891522216,
+            "paraphrased": 0.002269412504302518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992006472408693,
+          "sentence": "If conditioning frames are excluded, how are short clips aligned with the classifier’s expected temporal input?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007993527591306848,
+            "ai": 0.997092592565153,
+            "paraphrased": 0.002108054675716245
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998539743180552,
+          "sentence": "If they are included, how much of the classification accuracy comes from the real conditioning frames rather than the generated continuation?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014602568194479269,
+            "ai": 0.9964210245073025,
+            "paraphrased": 0.0021187186732495723
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994621531433642,
+          "sentence": "Can the authors report category-level accuracies, especially for actions where temporal motion is essential?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005378468566358244,
+            "ai": 0.9975218978167839,
+            "paraphrased": 0.0019402553265802658
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999762460549942,
+          "sentence": "Finally, can the authors provide quantitative results for longer horizons, even if performance degrades, to clarify the useful operating range of the method?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00023753945005800447,
+            "ai": 0.9979686576394311,
+            "paraphrased": 0.0017938029105108745
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985498647119296,
+          "sentence": "Overall, I find the paper interesting and potentially useful, particularly as a strong and efficient baseline for short-term video prediction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014501352880703716,
+            "ai": 0.9966164450580846,
+            "paraphrased": 0.0019334196538450562
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999684790243367,
+          "sentence": "The central idea of predicting local transformations is intuitive, well motivated, and produces sharper outputs than direct pixel regression.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003152097566330121,
+            "ai": 0.9977745200923899,
+            "paraphrased": 0.0019102701509770698
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979473496279818,
+          "sentence": "The proposed evaluation protocol is also a worthwhile contribution in that it moves away from pixel MSE.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0020526503720181546,
+            "ai": 0.9958030890205463,
+            "paraphrased": 0.002144260607435533
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999524854697488,
+          "sentence": "At the same time, the empirical case is not yet fully convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000047514530251183835,
+            "ai": 0.9986737679699967,
+            "paraphrased": 0.0012787174997521118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999018935508602,
+          "sentence": "The evaluation may reward preservation of appearance more than realistic motion, the affine extraction stage is under-specified, and the method’s limitations for occlusion, disocclusion, and long-term prediction are not sufficiently quantified.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009810644913971911,
+            "ai": 0.9982814565685065,
+            "paraphrased": 0.0016204369823536952
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999334950255585,
+          "sentence": "My recommendation is therefore borderline, leaning weak reject in its current form.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006650497444148333,
+            "ai": 0.9985627628055225,
+            "paraphrased": 0.0013707322200360648
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999285759998476,
+          "sentence": "With a more rigorous evaluation of temporal realism, clearer implementation details, and stronger baseline comparisons, this could become a compelling contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007142400015236437,
+            "ai": 0.9982946345987882,
+            "paraphrased": 0.0016339414010594514
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.935440636638409,
+        "mixed": 0.06455936336159085
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.935440636638409,
+          "mixed": 0.06455936336159085,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The paper proposes a video prediction model that predicts local transformations rather than future pixels. The method first estimates affine transformations between adjacent frames on a dense grid of overlapping patches, then trains a convolutional network to predict future affine transform fields from past transform fields. At test time, predicted transforms are applied to the most recent frame to synthesize future frames. The paper argues that this avoids the blurriness typical of pixel-space regression because uncertainty is handled in transformation space, where averaging errors may still correspond to plausible motion. A second contribution is an evaluation protocol in which generated frames are passed to an action classifier trained on real videos, with classification accuracy used as a proxy for whether the generated sequence preserves discriminative content. Experiments on moving MNIST and UCF-101 suggest that the proposed method produces sharper outputs than pixel-regression or adversarial baselines and obtains higher downstream classification accuracy while using substantially fewer parameters and computation.\n\n\nThe main strength of the paper is the clarity and simplicity of the central idea. Modeling local motion explicitly is a natural and appealing alternative to direct pixel prediction, and the paper presents a concrete instantiation that is easy to understand. The decomposition into affine transform extraction, transform prediction, and frame reconstruction makes the approach modular. The use of overlapping patches is also sensible: it provides more flexibility than a single global transform while retaining a structured, low-dimensional prediction target. The unrolled multi-step training procedure is another positive aspect, since it directly addresses the train-test mismatch that arises when a one-step predictor is recursively applied at test time.\n\n\nThe paper is also valuable in emphasizing that pixel MSE is a poor measure for video prediction quality. The proposed classifier-based evaluation is a practical attempt to define a task-oriented alternative. The reported difference between ground-truth frames and reconstructions from ground-truth affine transforms is particularly useful: it suggests that for the tested frame sizes and patch parameters, the affine patch representation preserves much of the information needed by the action classifier. The comparison to a copy-last-frame baseline, optical flow extrapolation, and a stronger learned video prediction model is also helpful. The computational efficiency of the method is another significant advantage. If the reported parameter and floating-point operation counts are accurate and comparable, the approach is an attractive baseline for future work.\n\n\nHowever, I have several concerns that make the paper less convincing. The largest issue is that the proposed evaluation protocol is not sufficient on its own to establish the quality of video prediction. Action classification accuracy on generated frames may reflect preservation of static appearance more than realistic temporal dynamics. This concern is supported by the high score of the copy-last-frame baseline, especially when using only four generated frames. Many UCF-101 classes can be recognized from scene context, objects, clothing, or pose, and the classifier may not be very sensitive to subtle motion artifacts. Thus, a model that simply keeps frames sharp and preserves the actor and background may score well even if it substantially underestimates or distorts motion. The paper acknowledges some underestimation of movement, but the proposed metric may not penalize this sufficiently.\n\n\nThe classifier-based metric has a potentially ambiguous interpretation. If the goal is to evaluate whether generated videos are plausible continuations, then retaining discriminative features is only one requirement. A generated sequence could preserve the class label while being dynamically implausible, temporally inconsistent, or nearly static. Conversely, a plausible future may change the appearance in a way that makes the classifier less confident, particularly for actions requiring longer temporal context. It would strengthen the paper to include additional quantitative measures targeted at temporal realism, such as flow statistics, human preference studies, or comparisons under classifiers trained to distinguish real from generated sequences. A careful breakdown by action category would help determine whether the gains arise from motion-sensitive classes or mostly from appearance-dominated ones.\n\n\nA second concern is the limited experimental depth. The moving MNIST results are purely qualitative, and the UCF-101 experiments use a single main downstream classifier. There is no statistical analysis or indication of variance across splits, generated samples, or training runs. It is also unclear how sensitive the results are to the affine extraction procedure, which appears to be a crucial part of the system. The ablations on patch size, input frames, and prediction horizon are useful, but they are relatively shallow. For example, the paper reports classification accuracy changes but not reconstruction quality of the affine extraction step, transform prediction error, or the relationship between transform-space MSE and visual quality. Since the method depends heavily on the assumption that local affine transforms are a good representation, more detailed quantitative analysis of that assumption would be valuable.\n\n\nThe affine transform extractor itself needs more explanation. The paper describes estimating a set of affine mappings by minimizing reconstruction error, but it does not provide enough detail about the optimization procedure, initialization, convergence criteria, boundary handling, regularization, or computational cost. Are the affine transforms estimated independently for every pair of frames in the training set through iterative optimization? If so, how expensive is this preprocessing stage compared with training a direct prediction model? Are there failure cases when illumination changes, occlusions, or non-rigid deformations cause poor local affine estimates? Since the learned predictor is trained on these estimated transforms, noise or ambiguity in the extraction stage could substantially affect performance. The paper would benefit from a more complete description and analysis of this stage.\n\n\nThe method also has inherent representational limitations that deserve more serious discussion. Applying local transforms to the previous frame cannot synthesize newly visible content, model disocclusions, handle significant out-of-plane rotations, or represent appearance changes except through warping. Averaging overlapping transformed patches may hide some artifacts, but it cannot solve the missing-content problem. On short horizons this may be acceptable, but for longer prediction it should cause degradation. The paper reports results up to eight frames, but the conclusions sometimes sound broader than the evidence supports. It would be useful to see how quickly the method fails as the prediction horizon increases, and whether failures are qualitatively different from those of pixel-space models.\n\n\nThe comparison to prior learned prediction models is not fully satisfying. The paper compares to a multi-scale adversarial model and notes that it is much larger and more expensive. However, it is not entirely clear whether all models were trained under comparable conditions, with the same input preprocessing, frame resolution, number of conditioning frames, and prediction horizon. Since the proposed method predicts transformations extracted from frames, while the baseline predicts pixels, the training targets and losses differ substantially. This is the point of the paper, but it also makes fairness important. More details about baseline implementation, hyperparameter tuning, and whether the reported results are from retraining or from existing models would improve confidence.\n\n\nI also find the claim that MSE in transformation space avoids averaging somewhat overstated. The paper itself observes that the model underestimates movement, which is exactly an averaging effect. Predicting the mean of plausible transformations may produce a sharp frame because the previous image is warped rather than regressed, but it can still yield an implausible or overly conservative trajectory. This is a meaningful distinction, but the paper should be more precise: the approach avoids pixel blurring due to averaging in image space, not uncertainty averaging more generally. If multiple futures are possible, a deterministic MSE-trained transform predictor still has the usual conditional mean problem. Modeling a distribution over transformations, as mentioned in the conclusion, seems important rather than merely a future extension.\n\n\nI have several specific questions for the authors. How exactly are the affine transforms estimated in practice, and how long does this preprocessing take on UCF-101? Are the reported computational savings measured only for the prediction network, or do they include affine extraction for conditioning frames at test time? How sensitive is the method to the stride and overlap used in patch reconstruction? Does the classifier-based evaluation use only generated frames, or are the conditioning frames also included as input to the classifier? If conditioning frames are excluded, how are short clips aligned with the classifier’s expected temporal input? If they are included, how much of the classification accuracy comes from the real conditioning frames rather than the generated continuation? Can the authors report category-level accuracies, especially for actions where temporal motion is essential? Finally, can the authors provide quantitative results for longer horizons, even if performance degrades, to clarify the useful operating range of the method?\n\n\nOverall, I find the paper interesting and potentially useful, particularly as a strong and efficient baseline for short-term video prediction. The central idea of predicting local transformations is intuitive, well motivated, and produces sharper outputs than direct pixel regression. The proposed evaluation protocol is also a worthwhile contribution in that it moves away from pixel MSE. At the same time, the empirical case is not yet fully convincing. The evaluation may reward preservation of appearance more than realistic motion, the affine extraction stage is under-specified, and the method’s limitations for occlusion, disocclusion, and long-term prediction are not sufficiently quantified. My recommendation is therefore borderline, leaning weak reject in its current form. With a more rigorous evaluation of temporal realism, clearer implementation details, and stronger baseline comparisons, this could become a compelling contribution.\n",
+      "document_id": null
+    }
+  ]
+}

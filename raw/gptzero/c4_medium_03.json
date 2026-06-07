@@ -1,0 +1,547 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.999925643358121,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999905598377977,
+          "sentence": "Motivational Interviewing",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009440162202286847,
+            "ai": 0.9998799667942946,
+            "paraphrased": 0.00011059304350317626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999932091051498,
+          "sentence": "Motivational interviewing is a counseling approach designed to help people resolve ambivalence and strengthen their own motivation to change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006790894850219978,
+            "ai": 0.9999077789905058,
+            "paraphrased": 0.00008543011464404339
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993825266664,
+          "sentence": "Developed by clinical psychologists William Miller and Stephen Rollnick, it began in the treatment of addiction but has since spread to health care, education, and behavior change more broadly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006174733335983086,
+            "ai": 0.9999025753641146,
+            "paraphrased": 0.00009124990254933199
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999956761290089,
+          "sentence": "At its heart is a simple but counterintuitive idea: people are more likely to change when they talk themselves into it, rather than when someone else argues for it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004323870991121303,
+            "ai": 0.9999111747228219,
+            "paraphrased": 0.0000845014061869902
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999959344169776,
+          "sentence": "In plain terms, motivational interviewing rests on the observation that most people considering a difficult change feel two ways about it at once.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004065583022342896,
+            "ai": 0.9999179407822343,
+            "paraphrased": 0.0000779936347433309
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999961631757548,
+          "sentence": "A person who drinks too much may genuinely want to cut back while also valuing the relief and social comfort that drinking provides.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003836824245166764,
+            "ai": 0.9999128275029981,
+            "paraphrased": 0.00008333567275667962
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999946955493664,
+          "sentence": "This internal conflict is called ambivalence, and it is the normal state of anyone contemplating change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000530445063351525,
+            "ai": 0.9999233742317535,
+            "paraphrased": 0.00007132131761294876
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999957755982503,
+          "sentence": "When a counselor pushes too hard for change, the natural human response is to defend the opposite side, an effect that paradoxically strengthens resistance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004224401749699055,
+            "ai": 0.9999112747466574,
+            "paraphrased": 0.00008450085159288855
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999938389656725,
+          "sentence": "Motivational interviewing avoids this trap by guiding people to voice their own reasons for change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006161034327468043,
+            "ai": 0.9999169675378192,
+            "paraphrased": 0.0000768714278533025
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999996300599593,
+          "sentence": "The approach uses several core skills, often summarized as expressing empathy, developing discrepancy, rolling with resistance, and supporting self-efficacy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003699400407027647,
+            "ai": 0.9999176296568778,
+            "paraphrased": 0.0000786709427151367
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999996266461886,
+          "sentence": "The counselor listens reflectively, asks open questions, and gently highlights the gap between a person's current behavior and their deeper values or goals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003733538113983689,
+            "ai": 0.999908880032004,
+            "paraphrased": 0.00008738642988208819
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999959784559675,
+          "sentence": "Crucially, the practitioner listens for and reinforces \"change talk,\" the person's own statements about wanting, needing, or being able to change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004021544032452191,
+            "ai": 0.9999204643696328,
+            "paraphrased": 0.00007551408633473028
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999955945037267,
+          "sentence": "By amplifying these statements rather than imposing them, the method respects autonomy while nudging motivation forward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000044054962733724666,
+            "ai": 0.9999077069697171,
+            "paraphrased": 0.00008788753400955165
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999805485484328,
+          "sentence": "The link to motivation and emotion is central to why the technique works.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001945145156716494,
+            "ai": 0.9999701591143687,
+            "paraphrased": 0.000010389434064079266
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999985967823526,
+          "sentence": "Motivation is not simply present or absent; it is shaped by how safe, respected, and autonomous a person feels in the moment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014032176474004594,
+            "ai": 0.9999738514841474,
+            "paraphrased": 0.000012116339378605836
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999848331951476,
+          "sentence": "Confrontation tends to provoke defensiveness and shame, emotions that shut down openness to change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015166804852406271,
+            "ai": 0.9999730761760317,
+            "paraphrased": 0.000011757019115894874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999877253867743,
+          "sentence": "An empathic, nonjudgmental stance, by contrast, lowers emotional defenses and allows intrinsic motivation to surface.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001227461322573379,
+            "ai": 0.9999744868519576,
+            "paraphrased": 0.000013238534816669928
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999878581860151,
+          "sentence": "A concrete example clarifies the process.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012141813984891329,
+            "ai": 0.9999751345964352,
+            "paraphrased": 0.000012723589579984046
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999864058150145,
+          "sentence": "Imagine a patient with diabetes who has not been managing their diet.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013594184985502091,
+            "ai": 0.9999736187337882,
+            "paraphrased": 0.000012787081226321931
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999837638528758,
+          "sentence": "Rather than lecturing them about the dangers, a practitioner using motivational interviewing might ask, \"What concerns you about your health right now?\"",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016236147124202993,
+            "ai": 0.9999715471545052,
+            "paraphrased": 0.000012216698370575577
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999863176489917,
+          "sentence": "If the patient says they want to be around for their grandchildren, the practitioner gently connects that goal to current choices, letting the patient articulate the discrepancy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013682351008289041,
+            "ai": 0.999974199977314,
+            "paraphrased": 0.000012117671677752721
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999774636427897,
+          "sentence": "The motivation to change then comes from within the patient, making it more durable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022536357210307265,
+            "ai": 0.9999661768641078,
+            "paraphrased": 0.000011286778681900437
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999988151538913,
+          "sentence": "It is worth acknowledging that motivational interviewing is not a guaranteed cure, and its effectiveness varies across contexts and practitioners.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011848461086957854,
+            "ai": 0.999974869054022,
+            "paraphrased": 0.000013282484891008596
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999827594973053,
+          "sentence": "It requires genuine skill and authenticity; mechanically applying the techniques without true empathy tends to fail.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000017240502694668658,
+            "ai": 0.9999715713056974,
+            "paraphrased": 0.000011188191607949895
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999803459148724,
+          "sentence": "Understanding motivational interviewing matters because so much of human behavior, from health to learning to personal habits, depends on motivation that cannot simply be commanded.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019654085127561838,
+            "ai": 0.9999690845846697,
+            "paraphrased": 0.000011261330202718517
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999891744736893,
+          "sentence": "By showing that change is more sustainable when it grows from a person's own values, the approach offers a respectful, practical model for helping people move forward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001082552631069982,
+            "ai": 0.9998808473712374,
+            "paraphrased": 0.000010897365655608422
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Motivational Interviewing\n\nMotivational interviewing is a counseling approach designed to help people resolve ambivalence and strengthen their own motivation to change. Developed by clinical psychologists William Miller and Stephen Rollnick, it began in the treatment of addiction but has since spread to health care, education, and behavior change more broadly. At its heart is a simple but counterintuitive idea: people are more likely to change when they talk themselves into it, rather than when someone else argues for it.\n\nIn plain terms, motivational interviewing rests on the observation that most people considering a difficult change feel two ways about it at once. A person who drinks too much may genuinely want to cut back while also valuing the relief and social comfort that drinking provides. This internal conflict is called ambivalence, and it is the normal state of anyone contemplating change. When a counselor pushes too hard for change, the natural human response is to defend the opposite side, an effect that paradoxically strengthens resistance. Motivational interviewing avoids this trap by guiding people to voice their own reasons for change.\n\nThe approach uses several core skills, often summarized as expressing empathy, developing discrepancy, rolling with resistance, and supporting self-efficacy. The counselor listens reflectively, asks open questions, and gently highlights the gap between a person's current behavior and their deeper values or goals. Crucially, the practitioner listens for and reinforces \"change talk,\" the person's own statements about wanting, needing, or being able to change. By amplifying these statements rather than imposing them, the method respects autonomy while nudging motivation forward.\n\nThe link to motivation and emotion is central to why the technique works. Motivation is not simply present or absent; it is shaped by how safe, respected, and autonomous a person feels in the moment. Confrontation tends to provoke defensiveness and shame, emotions that shut down openness to change. An empathic, nonjudgmental stance, by contrast, lowers emotional defenses and allows intrinsic motivation to surface.\n\nA concrete example clarifies the process. Imagine a patient with diabetes who has not been managing their diet. Rather than lecturing them about the dangers, a practitioner using motivational interviewing might ask, \"What concerns you about your health right now?\" and then reflect back the patient's answer. If the patient says they want to be around for their grandchildren, the practitioner gently connects that goal to current choices, letting the patient articulate the discrepancy. The motivation to change then comes from within the patient, making it more durable.\n\nIt is worth acknowledging that motivational interviewing is not a guaranteed cure, and its effectiveness varies across contexts and practitioners. It requires genuine skill and authenticity; mechanically applying the techniques without true empathy tends to fail.\n\nUnderstanding motivational interviewing matters because so much of human behavior, from health to learning to personal habits, depends on motivation that cannot simply be commanded. By showing that change is more sustainable when it grows from a person's own values, the approach offers a respectful, practical model for helping people move forward.\n",
+      "document_id": null
+    }
+  ]
+}

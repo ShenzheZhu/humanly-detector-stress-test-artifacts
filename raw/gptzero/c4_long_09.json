@@ -1,0 +1,969 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9994499491972313,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999124396412226,
+          "sentence": "Summary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008756035877742682,
+            "ai": 0.9950697484871528,
+            "paraphrased": 0.004842691154069732
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999434797678428,
+          "sentence": "This paper introduces a generative modeling approach called infusion training, which learns to generate samples by starting from noise and progressively transforming it into samples resembling the data distribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000056520232157146264,
+            "ai": 0.9960268168731573,
+            "paraphrased": 0.00391666289468555
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999788523623735,
+          "sentence": "The method defines a procedure in which a chain begins at a simple noise distribution and is gradually steered toward the data through a sequence of small steps, with the training signal \"infusing\" information about a target data point into the intermediate states so that the model learns transitions that move noise toward realistic samples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002114763762652087,
+            "ai": 0.9958699975330539,
+            "paraphrased": 0.004108854829319588
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999819636865981,
+          "sentence": "At generation time, the learned transitions are applied iteratively, transforming an initial noise sample into a final generated sample without requiring the target.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018036313401923836,
+            "ai": 0.9956672346071176,
+            "paraphrased": 0.004314729079480475
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999739274497937,
+          "sentence": "The approach relates conceptually to other iterative and denoising-based generative methods that construct samples through a sequence of refinements rather than in a single step.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026072550206263607,
+            "ai": 0.9957688590314822,
+            "paraphrased": 0.004205068418311609
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999799966118139,
+          "sentence": "The paper describes the training objective and the infusion mechanism, explains how generation proceeds from noise, and presents experiments on image generation benchmarks, evaluating sample quality both qualitatively and with quantitative measures and comparing against contemporary generative models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002000338818608976,
+            "ai": 0.9951762823188735,
+            "paraphrased": 0.00480371429294048
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999968444869454,
+          "sentence": "Strengths",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000031555130545891966,
+            "ai": 0.9952912603494585,
+            "paraphrased": 0.0046771845199955805
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999690827067677,
+          "sentence": "The paper proposes a creative and conceptually interesting generative modeling framework.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003091729323227174,
+            "ai": 0.996004981345745,
+            "paraphrased": 0.003964101361022676
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999682568846238,
+          "sentence": "The idea of learning to transform noise into data through an infusion-guided chain is elegant and offers a distinctive perspective on iterative generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000031743115376220585,
+            "ai": 0.9954130184140185,
+            "paraphrased": 0.0045552384706052
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999614227213012,
+          "sentence": "At a time when the community is actively exploring alternatives to single-step generators and adversarial training, a well-motivated iterative approach is a welcome and relevant contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003857727869884715,
+            "ai": 0.9958585743964402,
+            "paraphrased": 0.004102848324860908
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999405508717762,
+          "sentence": "The training procedure is intuitive and avoids some of the difficulties associated with adversarial methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005944912822374582,
+            "ai": 0.9953464243580968,
+            "paraphrased": 0.004594126513679459
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999780251471303,
+          "sentence": "Because the model learns transitions toward data through a defined process rather than through a minimax game, it sidesteps the instability and mode-collapse problems that can plague generative adversarial networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021974852869669053,
+            "ai": 0.9951366060955061,
+            "paraphrased": 0.004841419051624142
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999639514778217,
+          "sentence": "This is an appealing property, and the paper makes a reasonable case that the approach is more stable to train.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003604852217830625,
+            "ai": 0.9957190482361643,
+            "paraphrased": 0.004244903241657369
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999814670677367,
+          "sentence": "The connection to denoising and iterative refinement ideas situates the work within a meaningful and promising lineage, and the theoretical motivation for why the infusion chain should converge toward the data distribution is articulated with care.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018532932263309286,
+            "ai": 0.9957931295974926,
+            "paraphrased": 0.004188337470244175
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999631400461612,
+          "sentence": "The experiments demonstrate that the method can produce coherent samples, providing a proof of concept that the approach works in practice and not only in principle.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003685995383888985,
+            "ai": 0.9961199931325194,
+            "paraphrased": 0.0038431469136416853
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9975843826468638,
+          "sentence": "The paper is clearly written and the central mechanism is explained in enough detail to convey both the intuition and the procedure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00241561735313624,
+            "ai": 0.9930266885442711,
+            "paraphrased": 0.004557694102592613
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99796387781204,
+          "sentence": "Weaknesses",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0020361221879600707,
+            "ai": 0.9933640057177753,
+            "paraphrased": 0.0045998720942646626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999811198521944,
+          "sentence": "The principal concern is the competitiveness of sample quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018880147805604646,
+            "ai": 0.9951455594560041,
+            "paraphrased": 0.004665639065939857
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998285976556014,
+          "sentence": "Generative modeling is a crowded field with strong baselines, and the paper needs to make a clear case for how its samples compare, both quantitatively and perceptually, with leading methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017140234439856609,
+            "ai": 0.9953050966947884,
+            "paraphrased": 0.004523500960813047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999468587393864,
+          "sentence": "If the generated samples are of lower quality than those from established models, the contribution rests primarily on conceptual novelty and training stability, and this trade-off should be stated explicitly and honestly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005314126061368785,
+            "ai": 0.9957357978953681,
+            "paraphrased": 0.004211060844018207
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999181439378325,
+          "sentence": "The evaluation of generative models is notoriously difficult, and the metrics used carry well-known limitations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008185606216744866,
+            "ai": 0.995939958174319,
+            "paraphrased": 0.003978185763513542
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999517225024167,
+          "sentence": "Reliance on quantitative scores that imperfectly capture sample quality, without complementary careful perceptual assessment, weakens the empirical claims.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000048277497583295055,
+            "ai": 0.9964607414870693,
+            "paraphrased": 0.0034909810153473863
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998593931528096,
+          "sentence": "A more thorough evaluation, including comparisons under matched conditions, would strengthen the paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014060684719045046,
+            "ai": 0.9964284264119285,
+            "paraphrased": 0.0034309667408810554
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999078371869295,
+          "sentence": "The computational cost of iterative generation is a relevant practical consideration.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009216281307041574,
+            "ai": 0.9963106180651508,
+            "paraphrased": 0.0035972191217788375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998285950879363,
+          "sentence": "Generating a sample requires multiple transformation steps, which is more expensive than single-pass generation, and the paper should analyze this cost and the trade-off between the number of steps and sample quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017140491206358693,
+            "ai": 0.9964911229140545,
+            "paraphrased": 0.0033374721738818566
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998345677633124,
+          "sentence": "It is also not fully clear how the number of steps affects results and where quality saturates.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001654322366875832,
+            "ai": 0.9964466463508901,
+            "paraphrased": 0.0033879214124223115
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996828080333363,
+          "sentence": "Finally, some theoretical aspects, such as the precise conditions under which the infusion chain converges to the true data distribution and the role of the various hyperparameters, would benefit from deeper analysis and from ablations isolating the contribution of key design choices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00031719196666367145,
+            "ai": 0.9958422768153968,
+            "paraphrased": 0.003840531217939518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996269598917782,
+          "sentence": "Questions for the Authors",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00037304010822181095,
+            "ai": 0.9964291857040204,
+            "paraphrased": 0.0031977741877577985
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997686704236511,
+          "sentence": "First, how does sample quality compare with leading generative models under matched conditions, both quantitatively and in careful perceptual evaluation?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00023132957634891416,
+            "ai": 0.9958057113673765,
+            "paraphrased": 0.0039629590562746024
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998423381248192,
+          "sentence": "Where there is a gap, what is the intended compensating advantage?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001576618751808012,
+            "ai": 0.9953107755607347,
+            "paraphrased": 0.0045315625640845415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997731960474378,
+          "sentence": "Second, how many transformation steps are required for good samples, how does quality vary with this number, and what is the resulting computational cost relative to single-step generators?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00022680395256222629,
+            "ai": 0.9950271765294484,
+            "paraphrased": 0.004746019517989377
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996528749576273,
+          "sentence": "Third, under what conditions does the infusion chain provably or empirically converge to the data distribution, and how sensitive is convergence to the choice of noise schedule and infusion strength?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003471250423727093,
+            "ai": 0.9948374326166245,
+            "paraphrased": 0.004815442341002849
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9970616415383801,
+          "sentence": "Fourth, can you provide ablations isolating the effect of the main hyperparameters and design choices on stability and sample quality?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0029383584616199557,
+            "ai": 0.9922646674543454,
+            "paraphrased": 0.004796974084034706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997678896193406,
+          "sentence": "Fifth, beyond training stability, what specific advantages does infusion training offer over closely related iterative or denoising-based generative approaches?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00023211038065937904,
+            "ai": 0.999290817916242,
+            "paraphrased": 0.0004770717030986607
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99992985189175,
+          "sentence": "Additional Comments",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007014810824996469,
+            "ai": 0.999468581664674,
+            "paraphrased": 0.00046127022707603355
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999739952260772,
+          "sentence": "Several additions would help substantiate the contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026004773922774398,
+            "ai": 0.9996753688325647,
+            "paraphrased": 0.00029862639351255877
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999973056436865,
+          "sentence": "A direct, matched comparison against contemporary likelihood-based and adversarial generators, using the same architecture backbone and evaluation protocol, would isolate the effect of the infusion training procedure itself.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002694356313504585,
+            "ai": 0.9996344175260354,
+            "paraphrased": 0.0003386389108295671
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999824823405051,
+          "sentence": "It would also be informative to visualize the intermediate states along the generation chain, showing how a noise sample is progressively transformed into a coherent image, as this would build intuition and help diagnose where quality is gained or lost.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001751765949480927,
+            "ai": 0.9996614614975324,
+            "paraphrased": 0.0003210208429727118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999890205943288,
+          "sentence": "The authors might study how robust the method is to the choice of starting noise distribution and to the schedule governing the infusion process, since these appear central to convergence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010979405671211353,
+            "ai": 0.999674492521691,
+            "paraphrased": 0.0003145280726377714
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999855685416271,
+          "sentence": "Reporting both sample quality and a measure of diversity would address the common failure mode in which a generator produces high-quality but insufficiently varied samples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014431458372859393,
+            "ai": 0.9996690930760683,
+            "paraphrased": 0.00031647546555880996
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999910337491896,
+          "sentence": "Finally, a clearer theoretical statement of the relationship between the training objective and the data likelihood, even if approximate, would help readers understand what the model is ultimately optimizing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008966250810334238,
+            "ai": 0.9996926808364095,
+            "paraphrased": 0.0002983529127801191
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999808879981457,
+          "sentence": "These suggestions aim to convert a promising and conceptually appealing proof of concept into a more thoroughly characterized method whose strengths and limitations relative to established generative models are clearly understood.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019112001854363864,
+            "ai": 0.9996760260104053,
+            "paraphrased": 0.0003048619877403601
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999761899202796,
+          "sentence": "Overall Recommendation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002381007972039224,
+            "ai": 0.9995818118945538,
+            "paraphrased": 0.00039437802572580335
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999873571330732,
+          "sentence": "This paper presents a creative and well-motivated generative modeling framework that learns to transform noise into data through an infusion-guided iterative process, offering an appealing alternative to adversarial training with attractive stability properties.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012642866926725032,
+            "ai": 0.9997199317519466,
+            "paraphrased": 0.00026742538112660473
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999842074720797,
+          "sentence": "The conceptual contribution is genuine, the method is clearly explained, and the experiments provide a credible proof of concept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001579252792024746,
+            "ai": 0.9996894644231554,
+            "paraphrased": 0.00029474304892435034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999845427261328,
+          "sentence": "The main reservations concern whether sample quality is competitive with strong baselines, the limitations of the evaluation, the computational cost of iterative generation, and the depth of the theoretical and ablation analysis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015457273867247258,
+            "ai": 0.9996994940130943,
+            "paraphrased": 0.00028504871303841844
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999675381262081,
+          "sentence": "I consider this a borderline paper leaning positive, valued primarily for its novel perspective and training stability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003246187379191526,
+            "ai": 0.9996759877458167,
+            "paraphrased": 0.0002915503803914603
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999447569623258,
+          "sentence": "I would support acceptance if the authors provide a more rigorous and honest comparison of sample quality, analyze the step-count and cost trade-off, and deepen the theoretical and empirical analysis of the method's behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005524303767420415,
+            "ai": 0.999608017715079,
+            "paraphrased": 0.0003367392472467608
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Summary\n\nThis paper introduces a generative modeling approach called infusion training, which learns to generate samples by starting from noise and progressively transforming it into samples resembling the data distribution. The method defines a procedure in which a chain begins at a simple noise distribution and is gradually steered toward the data through a sequence of small steps, with the training signal \"infusing\" information about a target data point into the intermediate states so that the model learns transitions that move noise toward realistic samples. At generation time, the learned transitions are applied iteratively, transforming an initial noise sample into a final generated sample without requiring the target. The approach relates conceptually to other iterative and denoising-based generative methods that construct samples through a sequence of refinements rather than in a single step. The paper describes the training objective and the infusion mechanism, explains how generation proceeds from noise, and presents experiments on image generation benchmarks, evaluating sample quality both qualitatively and with quantitative measures and comparing against contemporary generative models.\n\nStrengths\n\nThe paper proposes a creative and conceptually interesting generative modeling framework. The idea of learning to transform noise into data through an infusion-guided chain is elegant and offers a distinctive perspective on iterative generation. At a time when the community is actively exploring alternatives to single-step generators and adversarial training, a well-motivated iterative approach is a welcome and relevant contribution.\n\nThe training procedure is intuitive and avoids some of the difficulties associated with adversarial methods. Because the model learns transitions toward data through a defined process rather than through a minimax game, it sidesteps the instability and mode-collapse problems that can plague generative adversarial networks. This is an appealing property, and the paper makes a reasonable case that the approach is more stable to train.\n\nThe connection to denoising and iterative refinement ideas situates the work within a meaningful and promising lineage, and the theoretical motivation for why the infusion chain should converge toward the data distribution is articulated with care. The experiments demonstrate that the method can produce coherent samples, providing a proof of concept that the approach works in practice and not only in principle.\n\nThe paper is clearly written and the central mechanism is explained in enough detail to convey both the intuition and the procedure.\n\nWeaknesses\n\nThe principal concern is the competitiveness of sample quality. Generative modeling is a crowded field with strong baselines, and the paper needs to make a clear case for how its samples compare, both quantitatively and perceptually, with leading methods. If the generated samples are of lower quality than those from established models, the contribution rests primarily on conceptual novelty and training stability, and this trade-off should be stated explicitly and honestly.\n\nThe evaluation of generative models is notoriously difficult, and the metrics used carry well-known limitations. Reliance on quantitative scores that imperfectly capture sample quality, without complementary careful perceptual assessment, weakens the empirical claims. A more thorough evaluation, including comparisons under matched conditions, would strengthen the paper.\n\nThe computational cost of iterative generation is a relevant practical consideration. Generating a sample requires multiple transformation steps, which is more expensive than single-pass generation, and the paper should analyze this cost and the trade-off between the number of steps and sample quality. It is also not fully clear how the number of steps affects results and where quality saturates.\n\nFinally, some theoretical aspects, such as the precise conditions under which the infusion chain converges to the true data distribution and the role of the various hyperparameters, would benefit from deeper analysis and from ablations isolating the contribution of key design choices.\n\nQuestions for the Authors\n\nFirst, how does sample quality compare with leading generative models under matched conditions, both quantitatively and in careful perceptual evaluation? Where there is a gap, what is the intended compensating advantage?\n\nSecond, how many transformation steps are required for good samples, how does quality vary with this number, and what is the resulting computational cost relative to single-step generators?\n\nThird, under what conditions does the infusion chain provably or empirically converge to the data distribution, and how sensitive is convergence to the choice of noise schedule and infusion strength?\n\nFourth, can you provide ablations isolating the effect of the main hyperparameters and design choices on stability and sample quality?\n\nFifth, beyond training stability, what specific advantages does infusion training offer over closely related iterative or denoising-based generative approaches?\n\nAdditional Comments\n\nSeveral additions would help substantiate the contribution. A direct, matched comparison against contemporary likelihood-based and adversarial generators, using the same architecture backbone and evaluation protocol, would isolate the effect of the infusion training procedure itself. It would also be informative to visualize the intermediate states along the generation chain, showing how a noise sample is progressively transformed into a coherent image, as this would build intuition and help diagnose where quality is gained or lost. The authors might study how robust the method is to the choice of starting noise distribution and to the schedule governing the infusion process, since these appear central to convergence. Reporting both sample quality and a measure of diversity would address the common failure mode in which a generator produces high-quality but insufficiently varied samples. Finally, a clearer theoretical statement of the relationship between the training objective and the data likelihood, even if approximate, would help readers understand what the model is ultimately optimizing. These suggestions aim to convert a promising and conceptually appealing proof of concept into a more thoroughly characterized method whose strengths and limitations relative to established generative models are clearly understood.\n\nOverall Recommendation\n\nThis paper presents a creative and well-motivated generative modeling framework that learns to transform noise into data through an infusion-guided iterative process, offering an appealing alternative to adversarial training with attractive stability properties. The conceptual contribution is genuine, the method is clearly explained, and the experiments provide a credible proof of concept. The main reservations concern whether sample quality is competitive with strong baselines, the limitations of the evaluation, the computational cost of iterative generation, and the depth of the theoretical and ablation analysis. I consider this a borderline paper leaning positive, valued primarily for its novel perspective and training stability. I would support acceptance if the authors provide a more rigorous and honest comparison of sample quality, analyze the step-count and cost trade-off, and deepen the theoretical and empirical analysis of the method's behavior.\n",
+      "document_id": null
+    }
+  ]
+}

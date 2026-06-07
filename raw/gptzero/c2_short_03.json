@@ -1,0 +1,361 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.3040666206428106,
+      "average_generated_prob": 1,
+      "predicted_class": "mixed",
+      "confidence_score": 0.6081332412856212,
+      "confidence_category": "medium",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.8902204475568267,
+          "sentence": "I studied creative writing at university alongside English literature.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.10977955244317317,
+            "ai": 0.08455125305467287,
+            "paraphrased": 0.8056691945021539
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.899334267531825,
+          "sentence": "Each week we had a writers’ workshop, sharing work written to a prompt we’d been given the week before.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1006657324681749,
+            "ai": 0.08576073433637071,
+            "paraphrased": 0.8135735331954543
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9019027068927481,
+          "sentence": "The problem was that, because it was mainly a literature course, most tutors were fixated on literary fiction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09809729310725193,
+            "ai": 0.07688771073687507,
+            "paraphrased": 0.825014996155873
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9062773550405112,
+          "sentence": "They always questioned the meanings, symbolism, and point of everything we wrote.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09372264495948869,
+            "ai": 0.08011677414613866,
+            "paraphrased": 0.8261605808943726
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9133744916813485,
+          "sentence": "God forbid you wrote something without a deeper meaning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0866255083186514,
+            "ai": 0.07774455787431778,
+            "paraphrased": 0.8356299338070308
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9146795519995422,
+          "sentence": "Now, after graduating, I can’t write a damn thing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08532044800045777,
+            "ai": 0.06964311418790306,
+            "paraphrased": 0.8450364378116392
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9007649421691895,
+          "sentence": "Any idea brings a voice saying, “Why?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09923505783081055,
+            "ai": 0.0814782977104187,
+            "paraphrased": 0.8192866444587708
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9038356177223055,
+          "sentence": "What’s the point?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09616438227769447,
+            "ai": 0.0749460155148356,
+            "paraphrased": 0.8288896022074699
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9019893147792412,
+          "sentence": "What message are you trying to get across?” It stops me stone-dead.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09801068522075881,
+            "ai": 0.07714700986247547,
+            "paraphrased": 0.8248423049167657
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9012301013240249,
+          "sentence": "I’ve tried short stories in different genres to get going, but the same roadblock appears every time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09876989867597516,
+            "ai": 0.07707856080170157,
+            "paraphrased": 0.8241515405223233
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9054325570313044,
+          "sentence": "I don’t mind writing literary fiction now and again, but it’s hard work, and I just want to enjoy writing the way I used to, without so much meta-thought.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09456744296869561,
+            "ai": 0.06521417605504966,
+            "paraphrased": 0.8402183809762548
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9014388001704842,
+          "sentence": "Has anyone else had similar issues, and how did you cope?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09856119982951582,
+            "ai": 0.0786886323182253,
+            "paraphrased": 0.8227501678522589
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9072765449910069,
+          "sentence": "Edit: Huge thanks to everyone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09272345500899311,
+            "ai": 0.07194048434274213,
+            "paraphrased": 0.8353360606482647
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.899839872124197,
+          "sentence": "Your feedback is helping and making me want to write again.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.100160127875803,
+            "ai": 0.0847431483158,
+            "paraphrased": 0.815096723808397
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9030802192139755,
+          "sentence": "I’d reply to every comment if I could.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09691978078602438,
+            "ai": 0.07970268009320974,
+            "paraphrased": 0.8233775391207658
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.3702158434538826,
+        "ai": 0.02165091526049619,
+        "mixed": 0.6081332412856212
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02165091526049619,
+          "mixed": 0.6081332412856212,
+          "human": 0.3702158434538826
+        }
+      },
+      "subclass": {
+        "mixed": {
+          "predicted_class": "polished",
+          "result_message": "We are highly confident that this text was originally written by a human and improved using AI",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "concatenated": 0,
+            "polished": 1
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "polished": 1,
+              "concatenated": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "polished": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "concatenated": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is moderately confident that the text may include parts written by AI.",
+      "result_sub_message": null,
+      "document_classification": "MIXED",
+      "inputText": "I studied creative writing at university alongside English literature. Each week we had a writers’ workshop, sharing work written to a prompt we’d been given the week before.\n\nThe problem was that, because it was mainly a literature course, most tutors were fixated on literary fiction. They always questioned the meanings, symbolism, and point of everything we wrote. God forbid you wrote something without a deeper meaning.\n\nNow, after graduating, I can’t write a damn thing. Any idea brings a voice saying, “Why? What’s the point? What message are you trying to get across?” It stops me stone-dead.\n\nI’ve tried short stories in different genres to get going, but the same roadblock appears every time. I don’t mind writing literary fiction now and again, but it’s hard work, and I just want to enjoy writing the way I used to, without so much meta-thought.\n\nHas anyone else had similar issues, and how did you cope?\n\nEdit: Huge thanks to everyone. Your feedback is helping and making me want to write again. I’d reply to every comment if I could.\n",
+      "document_id": null
+    }
+  ]
+}

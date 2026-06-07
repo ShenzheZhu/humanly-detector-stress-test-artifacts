@@ -1,0 +1,362 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        }
+      ],
+      "completely_generated_prob": 0.000008233677258947455,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999892006489179,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00033811233824331287,
+          "sentence": "I created a free text editor for writers who want to complete a full first draft, but have trouble making it to the end because of distractions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996618876617567,
+            "ai": 0.00030706592634529184,
+            "paraphrased": 0.00003104641189802101
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009757043030696874,
+          "sentence": "This is a no-frills program that 1) restricts the opening of new programs while it’s running, and 2) will only let the user edit the last two words typed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999902429569693,
+            "ai": 0.00007742180357713619,
+            "paraphrased": 0.00002014862672983255
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022813036969697518,
+          "sentence": "It’s called Worst Draft, and I hope it can help a community like /r/writing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997718696303031,
+            "ai": 0.00020314529935920085,
+            "paraphrased": 0.000024985070337774334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00021203080361082295,
+          "sentence": "I’m a writer with an MFA in creative nonfiction, and I’ve always had trouble finishing my work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997879691963891,
+            "ai": 0.00018821133968618758,
+            "paraphrased": 0.000023819463924635375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00015465695721141482,
+          "sentence": "I used to edit and research as I wrote.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998453430427886,
+            "ai": 0.00013387869125081734,
+            "paraphrased": 0.00002077826596059747
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00015663276046356793,
+          "sentence": "Instead of creating first drafts that looked like final drafts, I ended up with final drafts that looked like first drafts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998433672395365,
+            "ai": 0.0001352442206793008,
+            "paraphrased": 0.000021388539784267122
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022528737803109619,
+          "sentence": "Frustrated, I looked to professional writers for advice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997747126219689,
+            "ai": 0.00019956580118394524,
+            "paraphrased": 0.000025721576847150938
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008329421419124969,
+          "sentence": "Most have said that editing and research are integral to the final draft, but detrimental to the first one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999167057858087,
+            "ai": 0.00006590905322571043,
+            "paraphrased": 0.000017385160965539258
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002085227295348422,
+          "sentence": "With that advice in mind, I developed Worst Draft.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997914772704651,
+            "ai": 0.00018160411016190022,
+            "paraphrased": 0.00002691861937294199
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010997323159798168,
+          "sentence": "I’m not a programmer by trade so I enlisted a freelance developer to help code it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999890026768402,
+            "ai": 0.00008973013393055413,
+            "paraphrased": 0.00002024309766742754
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002487006350582086,
+          "sentence": "I want this to help other writers like it helped me.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997512993649418,
+            "ai": 0.0002242688563345298,
+            "paraphrased": 0.000024431778723678765
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008216864714813845,
+          "sentence": "It’s free, and donations are accepted (I don’t think it’s right to charge people to use something that prides its self on having LESS features than most other software).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999178313528518,
+            "ai": 0.00006273512344044104,
+            "paraphrased": 0.00001943352370769741
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002665279157765631,
+          "sentence": "I plan to include useful metrics in future versions that will motivate writers to hit daily goals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997334720842235,
+            "ai": 0.0002428447681669669,
+            "paraphrased": 0.00002368314760959621
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002001742269141659,
+          "sentence": "I hope this helps you guys as much as it helped me!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997998257730858,
+            "ai": 0.00017726732778523656,
+            "paraphrased": 0.000022906899128929344
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00021362247765025519,
+          "sentence": "Any feedback is very much appreciated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997863775223498,
+            "ai": 0.00018944259836701236,
+            "paraphrased": 0.00002417987928324284
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010449236699783779,
+          "sentence": "www.WorstDraft.com",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998955076330022,
+            "ai": 0.00008408007305443073,
+            "paraphrased": 0.00002041229394340706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00017541640955785396,
+          "sentence": "EDIT: It's for Windows & Mac OS",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998245835904421,
+            "ai": 0.00014872838802131453,
+            "paraphrased": 0.000026688021536539427
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999892006489179,
+        "ai": 0.000010799351082024016,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999892006489179,
+          "ai": 0.000010799351082024016,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "I created a free text editor for writers who want to complete a full first draft, but have trouble making it to the end because of distractions. This is a no-frills program that 1) restricts the opening of new programs while it’s running, and 2) will only let the user edit the last two words typed. It’s called Worst Draft, and I hope it can help a community like /r/writing.\nI’m a writer with an MFA in creative nonfiction, and I’ve always had trouble finishing my work. I used to edit and research as I wrote. Instead of creating first drafts that looked like final drafts, I ended up with final drafts that looked like first drafts. Frustrated, I looked to professional writers for advice. Most have said that editing and research are integral to the final draft, but detrimental to the first one. With that advice in mind, I developed Worst Draft. I’m not a programmer by trade so I enlisted a freelance developer to help code it.\nI want this to help other writers like it helped me. It’s free, and donations are accepted (I don’t think it’s right to charge people to use something that prides its self on having LESS features than most other software). I plan to include useful metrics in future versions that will motivate writers to hit daily goals.\nI hope this helps you guys as much as it helped me! Any feedback is very much appreciated.\nwww.WorstDraft.com\nEDIT: It's for Windows & Mac OS\n",
+      "document_id": null
+    }
+  ]
+}

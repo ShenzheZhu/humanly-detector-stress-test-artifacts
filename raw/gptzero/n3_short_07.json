@@ -1,0 +1,315 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.19486702882137386,
+      "average_generated_prob": 1,
+      "predicted_class": "human",
+      "confidence_score": 0.5320472428221387,
+      "confidence_category": "low",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.8648659756054584,
+          "sentence": "I just got a call from my agent, and my hands are still shaking.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1351340243945416,
+            "ai": 0.5688475881688656,
+            "paraphrased": 0.29601838743659276
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8565933704376221,
+          "sentence": "Nothing is officially settled yet, and the contract won’t be signed until next Monday, so I can’t say which publisher it is, and I can’t tell my parents, coworkers, or friends in real life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.14340662956237793,
+            "ai": 0.5192450881004333,
+            "paraphrased": 0.3373482823371887
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.866715200739193,
+          "sentence": "But I really can’t keep it in anymore, so I’m coming here to shout it out: I might be getting a book published.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.13328479926080708,
+            "ai": 0.4893217093156749,
+            "paraphrased": 0.37739349142351797
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8794211453587539,
+          "sentence": "I’m not the kind of writer who had an easy path from childhood onward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.12057885464124611,
+            "ai": 0.546726368959715,
+            "paraphrased": 0.3326947763990388
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.868938650755246,
+          "sentence": "I only started writing seriously in my thirties.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.131061349244754,
+            "ai": 0.4976472704901478,
+            "paraphrased": 0.3712913802650982
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8602517798355386,
+          "sentence": "I worked during the day and revised at night.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.13974822016446142,
+            "ai": 0.4807197987497003,
+            "paraphrased": 0.3795319810858383
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.871860796819568,
+          "sentence": "After finishing my first book, I felt pretty good about it; looking back, it was almost unbearable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1281392031804321,
+            "ai": 0.48660012434422045,
+            "paraphrased": 0.3852606724753475
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8698302598221717,
+          "sentence": "With the second, I learned structure, but wrote characters as stiff as wood.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.13016974017782837,
+            "ai": 0.5021892414475638,
+            "paraphrased": 0.3676410183746078
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8758708508360814,
+          "sentence": "With the third, someone was finally willing to read it to the end, but it still fell short.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1241291491639186,
+            "ai": 0.5441524183693373,
+            "paraphrased": 0.33171843246674415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8595825561818862,
+          "sentence": "I was rejected so often I went numb, and I wondered if it was too late, if I should put away the “writer dream.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.14041744381811386,
+            "ai": 0.540756114434542,
+            "paraphrased": 0.31882644174734415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8688384074665065,
+          "sentence": "I still don’t dare celebrate too early.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1311615925334935,
+            "ai": 0.5288821143578223,
+            "paraphrased": 0.33995629310868425
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8744064997793213,
+          "sentence": "The contract isn’t signed, and there will be revisions, promotion, and figuring out real-life work.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.12559350022067875,
+            "ai": 0.5170825796884683,
+            "paraphrased": 0.35732392009085295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8462369522260258,
+          "sentence": "But tonight, I want to let myself be happy for a moment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1537630477739743,
+            "ai": 0.5370090247843724,
+            "paraphrased": 0.30922792744165334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8824547336291015,
+          "sentence": "Thank you to everyone here who has shared experience, rejection letters, and encouragement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.11754526637089852,
+            "ai": 0.585352130053747,
+            "paraphrased": 0.2971026035753545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9100538722421685,
+          "sentence": "You truly helped someone silently lurking.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08994612775783145,
+            "ai": 0.6505365919281796,
+            "paraphrased": 0.2595172803139889
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.4679527571778613,
+        "ai": 0.5320472428221387,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.4679527571778613,
+          "ai": 0.5320472428221387,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "I just got a call from my agent, and my hands are still shaking. Nothing is officially settled yet, and the contract won’t be signed until next Monday, so I can’t say which publisher it is, and I can’t tell my parents, coworkers, or friends in real life. But I really can’t keep it in anymore, so I’m coming here to shout it out: I might be getting a book published.\n\nI’m not the kind of writer who had an easy path from childhood onward. I only started writing seriously in my thirties. I worked during the day and revised at night. After finishing my first book, I felt pretty good about it; looking back, it was almost unbearable. With the second, I learned structure, but wrote characters as stiff as wood. With the third, someone was finally willing to read it to the end, but it still fell short. I was rejected so often I went numb, and I wondered if it was too late, if I should put away the “writer dream.”\n\nI still don’t dare celebrate too early. The contract isn’t signed, and there will be revisions, promotion, and figuring out real-life work. But tonight, I want to let myself be happy for a moment. Thank you to everyone here who has shared experience, rejection letters, and encouragement. You truly helped someone silently lurking.\n",
+      "document_id": null
+    }
+  ]
+}

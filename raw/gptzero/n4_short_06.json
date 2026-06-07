@@ -1,0 +1,255 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.5130428313304672,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.8509356744370478,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9479389528293205,
+          "sentence": "I just typed the final sentence of what I am finally able to call the finished version of my novel, and now I don’t know what to do with myself.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.052061047170679456,
+            "ai": 0.6937082278979871,
+            "paraphrased": 0.2542307249313334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9429751827235313,
+          "sentence": "I have been working on this for years.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05702481727646868,
+            "ai": 0.6348245072943214,
+            "paraphrased": 0.30815067542921
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9552569558356573,
+          "sentence": "It has survived false starts, entire chapters getting thrown out, characters changing their minds about who they were, and more “final” drafts than I want to admit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.044743044164342695,
+            "ai": 0.6877757599454033,
+            "paraphrased": 0.267481195890254
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9566656425471984,
+          "sentence": "At one point I was convinced a certain subplot was the heart of the book, and now it’s completely gone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.043334357452801536,
+            "ai": 0.6758225577178641,
+            "paraphrased": 0.28084308482933434
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9606940293415491,
+          "sentence": "Meanwhile, a tiny scene I added just to bridge two chapters somehow became one of my favorites.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03930597065845088,
+            "ai": 0.700169335308214,
+            "paraphrased": 0.26052469403333506
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9513042002138972,
+          "sentence": "The strangest part is looking back at the earliest pages and recognizing the story, but barely recognizing the writer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.048695799786102785,
+            "ai": 0.6643589339042345,
+            "paraphrased": 0.28694526630966266
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9497265487746327,
+          "sentence": "I can see all the clumsy choices I had to make before I learned how to make better ones.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05027345122536726,
+            "ai": 0.6826209236753538,
+            "paraphrased": 0.267105625099279
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9556468947972305,
+          "sentence": "I know there’s still querying, rejection, editing, and a long road ahead.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04435310520276956,
+            "ai": 0.68979531476383,
+            "paraphrased": 0.2658515800334004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.941354167808701,
+          "sentence": "But tonight, I’m letting myself celebrate: I finished the book!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05864583219129905,
+            "ai": 0.6860778203964639,
+            "paraphrased": 0.25527634741223704
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.1490643255629522,
+        "ai": 0.8509356744370478,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.8509356744370478,
+          "mixed": 0,
+          "human": 0.1490643255629522
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I just typed the final sentence of what I am finally able to call the finished version of my novel, and now I don’t know what to do with myself.\n\nI have been working on this for years. It has survived false starts, entire chapters getting thrown out, characters changing their minds about who they were, and more “final” drafts than I want to admit. At one point I was convinced a certain subplot was the heart of the book, and now it’s completely gone. Meanwhile, a tiny scene I added just to bridge two chapters somehow became one of my favorites.\n\nThe strangest part is looking back at the earliest pages and recognizing the story, but barely recognizing the writer. I can see all the clumsy choices I had to make before I learned how to make better ones.\n\nI know there’s still querying, rejection, editing, and a long road ahead. But tonight, I’m letting myself celebrate: I finished the book!\n",
+      "document_id": null
+    }
+  ]
+}

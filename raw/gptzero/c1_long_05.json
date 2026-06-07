@@ -1,0 +1,792 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 12,
+          "completely_generated_prob": 1.0731758790825431e-10
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 37,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 38,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 40,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        }
+      ],
+      "completely_generated_prob": 0.000031776064495006715,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999673969514274,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00023650209993481298,
+          "sentence": "This paper proposes a model for iteratively refining translation hypotheses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997634979000651,
+            "ai": 0.00021109998149935566,
+            "paraphrased": 0.000025402118435457312
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008389393198359339,
+          "sentence": "This has several benefits, including enabling the translation model to condition not only on “left context”, but also on “right context”, and potentially enabling more rapid and/or accurate decoding.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999161060680164,
+            "ai": 0.0000679937959702189,
+            "paraphrased": 0.000015900136013374476
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000548899678998746,
+          "sentence": "The motivation given is that often translators (and text generators generally) use a process of refinement in generating outputs.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999451100321001,
+            "ai": 0.00003921132413298016,
+            "paraphrased": 0.00001567864376689444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000766191394078805,
+          "sentence": "This is an important idea that is not currently playing much of a role in neural net models, so this paper is a welcome contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999233808605921,
+            "ai": 0.00006013077860410828,
+            "paraphrased": 0.00001648836080377222
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005507916442104094,
+          "sentence": "However, while I think this is an important first step, I do feel that the lack of in depth analysis suggests this paper is not quite ready for a final publication version.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999944920835579,
+            "ai": 0.00003933431053751871,
+            "paraphrased": 0.000015744853883522236
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000044296068540410466,
+          "sentence": "For example, there are many possible connections to prior work in NLP, MT, and other parts of ML that could better contextualize this work (see specifics below).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999557039314596,
+            "ai": 0.000027396823042919713,
+            "paraphrased": 0.000016899245497490753
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009422253889139191,
+          "sentence": "More substantively, the model in Section 3 could be interpreted as a globally normalized, undirected (~CRF) translation model trained using a pseudo-likelihood objective.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999057774611086,
+            "ai": 0.00007629388350341729,
+            "paraphrased": 0.000017928655387974622
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006616377487211897,
+          "sentence": "In this analysis, the model squarely back in the context of traditional discriminative translation models which used “undirected” features, and the decoding algorithm then looks more like a standard greedy hill-climbing algorithm (albeit with an extra heuristic model for selecting which variable to update), which is also nothing unfamiliar.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999338362251279,
+            "ai": 0.000048886114981731214,
+            "paraphrased": 0.00001727765989038775
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007368800680411813,
+          "sentence": "My second criticism the limitations of the model are not well discussed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999263119931959,
+            "ai": 0.00005550638730590272,
+            "paraphrased": 0.000018181619498215412
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007527715499635189,
+          "sentence": "For example, the proposed editing procedure cannot obviously remove or insert a word from a translation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999247228450037,
+            "ai": 0.000057192664798353984,
+            "paraphrased": 0.0000180844901979979
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005190588231503173,
+          "sentence": "While I think this is a reasonable assumption than can be made for the sake of tractability, it is very unfortunate since missing or extra words (esp.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999480941176849,
+            "ai": 0.000035767139743091026,
+            "paraphrased": 0.000016138742571940705
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006251955919216558,
+          "sentence": "function words) are a common problem in the baseline models that are being used.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999374804408079,
+            "ai": 0.00004626016494395585,
+            "paraphrased": 0.000016259394248209733
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000604364978913269,
+          "sentence": "Second, the standard objections to absolute positional models (vs. relative positional models) seem particularly crucial to bring up in this work, especially since they might make some of the design decisions a bit more justifiable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999395635021087,
+            "ai": 0.00004431862919526166,
+            "paraphrased": 0.000016117868696065234
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011450753538356347,
+          "sentence": "Overall, this is an initial step in an interesting direction, but it needs more thorough analysis to demonstrate its value.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998854924646164,
+            "ai": 0.00009652499791830786,
+            "paraphrased": 0.000017982537465255615
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009254906925909868,
+          "sentence": "A more thorough analysis will also likely suggest some important model variants (for example: is a global translation model really the goal?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999074509307408,
+            "ai": 0.00007709490318064707,
+            "paraphrased": 0.000015454166078451614
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012360265314991366,
+          "sentence": "or is a post-editing model that fixes outputs with more complex operations more ideal?)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998763973468501,
+            "ai": 0.00010733911954181645,
+            "paraphrased": 0.00001626353360809722
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011945882992133057,
+          "sentence": "Related work:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998805411700786,
+            "ai": 0.00010409513081587334,
+            "paraphrased": 0.000015363699105457236
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004847237778194853,
+          "sentence": "I think that more could be done to put this work in the context of what has come before and what is currently going on in other parts of ML.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995152762221805,
+            "ai": 0.0003761687478052599,
+            "paraphrased": 0.00010855503001422543
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002352172186384164,
+          "sentence": "The idea of iterative refinement has been proposed in other problems that have complex output spaces, for example the DRAW model of Gregor et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997647827813616,
+            "ai": 0.00011960106127458402,
+            "paraphrased": 0.00011561615736383237
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001813287395729487,
+          "sentence": "and the conditional adversarial network models used to refine images proposed recently by Isola et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999818671260427,
+            "ai": 0.00007268751856139577,
+            "paraphrased": 0.00010864122101155291
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002212109135164856,
+          "sentence": "In NLP, there have been several (stochastic) hill climbing approaches that have been proposed, such as the work on parsing by Zhang and Lei et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997787890864835,
+            "ai": 0.00010207583361146355,
+            "paraphrased": 0.00011913507990502204
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019091108019460266,
+          "sentence": "(2014) who use random initial guesses and then do greedy hill climbing using a series of local refinements, the structured prediction cascades of Weiss and Taskar (2009) (not to mention general coarse-to-fine modeling strategies).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998090889198054,
+            "ai": 0.00008857579837510683,
+            "paraphrased": 0.00010233528181949583
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002208332011719901,
+          "sentence": "Finally, in MT, Arun et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997791667988281,
+            "ai": 0.0001216347520936047,
+            "paraphrased": 0.0000991984490783854
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00015550737407715308,
+          "sentence": "(2009) who use a Gibbs sampler to refine an initial guess to do decoding with a more complex model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998444926259229,
+            "ai": 0.00006739604183825873,
+            "paraphrased": 0.00008811133223889435
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00017229135989517676,
+          "sentence": "The use of an explicit error model is rather novel in the context of correction, but I would point out that although the proposed architecture is different, the discriminative word lexicon models of Mauser et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998277086401048,
+            "ai": 0.00006270524105260884,
+            "paraphrased": 0.00010958611884256793
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010328701651756274,
+          "sentence": "(2009) and the neural version of the same by Ha et al.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998967129834825,
+            "ai": 0.00003263388354753103,
+            "paraphrased": 0.0000706531329700317
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001805301094043582,
+          "sentence": "(2014) are similar in spirit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998194698905957,
+            "ai": 0.00006955178918847007,
+            "paraphrased": 0.00011097832021588813
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023816974348026234,
+          "sentence": "There have also been a number of papers on “automatic post editing”, including the shared task at WMT2016, and there are not only standard test sets and baselines, but also datasets that could actually be used to train a post editing model with human-generated data.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997618302565198,
+            "ai": 0.00013238175069496162,
+            "paraphrased": 0.00010578799278530073
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00017298203016223753,
+          "sentence": "Minimally using the techniques they described could be a useful foil for the models presented in this paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998270179698378,
+            "ai": 0.00008828854050005057,
+            "paraphrased": 0.00008469348966218696
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002691598517360669,
+          "sentence": "“the target sentence is also embedded in distributional space via a lookup table” I think “distributional space” is a bit unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999730840148264,
+            "ai": 0.00016368358767120128,
+            "paraphrased": 0.00010547626406486561
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00018105906185175317,
+          "sentence": "Maybe “the target sentence is represented in terms of distributed word representations via a lookup table” or something like that.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998189409381483,
+            "ai": 0.00009993908382264398,
+            "paraphrased": 0.00008111997802910919
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00024076936193704573,
+          "sentence": "“distributional” suggests that the representations are derived from how the words are distributed in the corpus, whereas you are learning these representations on this task which isn’t modeling their distribution except only very indirectly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997592306380629,
+            "ai": 0.00014003988686873582,
+            "paraphrased": 0.00010072947506830992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.03678917015799795,
+          "sentence": "Section 3 Model: In Section 3, the model computes the distribution over target word types at an absolute position i in the output sentence, given the target language context and the source language context.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.963210829842002,
+            "ai": 0.03671027008037152,
+            "paraphrased": 0.00007890007762642996
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001580058912528883,
+          "sentence": "It is introduced as the model that is used to refine an existing hypothesis, but it is not immediately clear that the training data for this model (at least in this section) are the gold standard translations- “training set” could be interpreted in variety of ways.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998419941087471,
+            "ai": 0.0001454379884582631,
+            "paraphrased": 0.000012567902794625202
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005580872963290911,
+          "sentence": "This becomes clearer when reading later in the paper, but it’s a bit less clear when reading from the beginning for the first time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999944191270367,
+            "ai": 0.00004368957236193492,
+            "paraphrased": 0.000012119157270974191
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006205542691150658,
+          "sentence": "The use of a fixed sized window for representing the target word in context also seems to make something like a model 1 assumption since only the lexical features (and not any “alignment” or “positional” features) determine the attention.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999379445730885,
+            "ai": 0.000050456703597916664,
+            "paraphrased": 0.000011598723313589916
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004794201136262873,
+          "sentence": "This should be clarified since it will make the assumptions of the model more transparent (and also suggest possible refinements to the model, e.g., including (representations) of i and j as components of S^j and T^i, which would allow model 2/3-like responses to be learned- although by leaving them out, the model might behave a bit more like a relative positional model than an absolute positional model, which is probably attractive).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999520579886374,
+            "ai": 0.00003658814530383961,
+            "paraphrased": 0.00001135386605878912
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006037392115795471,
+          "sentence": "Finally, some discussion for why a fixed window is used to represent the target sentence is worth including (since a global context is apparently used to represent the source sentence).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999939626078842,
+            "ai": 0.0000496933858467145,
+            "paraphrased": 0.000010680535311240211
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001575481738268411,
+          "sentence": "The relationship between this training objective and pseudo likelihood (PL; Besag, 1975) might be worth mentioning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998424518261732,
+            "ai": 0.0001458629626175657,
+            "paraphrased": 0.0000116852112092754
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005881662491104632,
+          "sentence": "Since I believe this is just a PL objective for a certain global model, this suggests alternative decoding algorithms, or certainly a different analysis of the proposed decoding objective.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999941183375089,
+            "ai": 0.00004711042637979565,
+            "paraphrased": 0.000011706198531250666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000057230704765278356,
+          "sentence": "The section 4 model conditions on the true context of a position in the true target, the current target guess, and the source.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999427692952347,
+            "ai": 0.000045235610278155596,
+            "paraphrased": 0.000011995094487122756
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011501040567862119,
+          "sentence": "I don’t completely understand the rationale for this model since at test time only two of these variables are available, and the replacement of y_ref with y_g seems hard to justify.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998849895943214,
+            "ai": 0.000103405657700898,
+            "paraphrased": 0.000011604747977723186
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999673969514274,
+        "ai": 0.000032603048572591024,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999673969514274,
+          "ai": 0.000032603048572591024,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "This paper proposes a model for iteratively refining translation hypotheses. This has several benefits, including enabling the translation model to condition not only on “left context”, but also on “right context”, and potentially enabling more rapid and/or accurate decoding. The motivation given is that often translators (and text generators generally) use a process of refinement in generating outputs.\n\nThis is an important idea that is not currently playing much of a role in neural net models, so this paper is a welcome contribution. However, while I think this is an important first step, I do feel that the lack of in depth analysis suggests this paper is not quite ready for a final publication version. For example, there are many possible connections to prior work in NLP, MT, and other parts of ML that could better contextualize this work (see specifics below). More substantively, the model in Section 3 could be interpreted as a globally normalized, undirected (~CRF) translation model trained using a pseudo-likelihood objective. In this analysis, the model squarely back in the context of traditional discriminative translation models which used “undirected” features, and the decoding algorithm then looks more like a standard greedy hill-climbing algorithm (albeit with an extra heuristic model for selecting which variable to update), which is also nothing unfamiliar.\n\nMy second criticism the limitations of the model are not well discussed. For example, the proposed editing procedure cannot obviously remove or insert a word from a translation. While I think this is a reasonable assumption than can be made for the sake of tractability, it is very unfortunate since missing or extra words (esp. function words) are a common problem in the baseline models that are being used. Second, the standard objections to absolute positional models (vs. relative positional models) seem particularly crucial to bring up in this work, especially since they might make some of the design decisions a bit more justifiable.\n\nOverall, this is an initial step in an interesting direction, but it needs more thorough analysis to demonstrate its value. A more thorough analysis will also likely suggest some important model variants (for example: is a global translation model really the goal? or is a post-editing model that fixes outputs with more complex operations more ideal?)\n\nRelated work:\nI think that more could be done to put this work in the context of what has come before and what is currently going on in other parts of ML. The idea of iterative refinement has been proposed in other problems that have complex output spaces, for example the DRAW model of Gregor et al. and the conditional adversarial network models used to refine images proposed recently by Isola et al. In NLP, there have been several (stochastic) hill climbing approaches that have been proposed, such as the work on parsing by Zhang and Lei et al. (2014) who use random initial guesses and then do greedy hill climbing using a series of local refinements, the structured prediction cascades of Weiss and Taskar (2009) (not to mention general coarse-to-fine modeling strategies). Finally, in MT, Arun et al. (2009) who use a Gibbs sampler to refine an initial guess to do decoding with a more complex model. The use of an explicit error model is rather novel in the context of correction, but I would point out that although the proposed architecture is different, the discriminative word lexicon models of Mauser et al. (2009) and the neural version of the same by Ha et al. (2014) are similar in spirit. There have also been a number of papers on “automatic post editing”, including the shared task at WMT2016, and there are not only standard test sets and baselines, but also datasets that could actually be used to train a post editing model with human-generated data. Minimally using the techniques they described could be a useful foil for the models presented in this paper.\n\n“the target sentence is also embedded in distributional space via a lookup table” I think “distributional space” is a bit unclear. Maybe “the target sentence is represented in terms of distributed word representations via a lookup table” or something like that. “distributional” suggests that the representations are derived from how the words are distributed in the corpus, whereas you are learning these representations on this task which isn’t modeling their distribution except only very indirectly.\n\nSection 3 Model: In Section 3, the model computes the distribution over target word types at an absolute position i in the output sentence, given the target language context and the source language context. It is introduced as the model that is used to refine an existing hypothesis, but it is not immediately clear that the training data for this model (at least in this section) are the gold standard translations- “training set” could be interpreted in variety of ways. This becomes clearer when reading later in the paper, but it’s a bit less clear when reading from the beginning for the first time.\n\nThe use of a fixed sized window for representing the target word in context also seems to make something like a model 1 assumption since only the lexical features (and not any “alignment” or “positional” features) determine the attention. This should be clarified since it will make the assumptions of the model more transparent (and also suggest possible refinements to the model, e.g., including (representations) of i and j as components of S^j and T^i, which would allow model 2/3-like responses to be learned- although by leaving them out, the model might behave a bit more like a relative positional model than an absolute positional model, which is probably attractive).\n\nFinally, some discussion for why a fixed window is used to represent the target sentence is worth including (since a global context is apparently used to represent the source sentence).\n\nThe relationship between this training objective and pseudo likelihood (PL; Besag, 1975) might be worth mentioning. Since I believe this is just a PL objective for a certain global model, this suggests alternative decoding algorithms, or certainly a different analysis of the proposed decoding objective.\n\nThe section 4 model conditions on the true context of a position in the true target, the current target guess, and the source. I don’t completely understand the rationale for this model since at test time only two of these variables are available, and the replacement of y_ref with y_g seems hard to justify.\n",
+      "document_id": null
+    }
+  ]
+}

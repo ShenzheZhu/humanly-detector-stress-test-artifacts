@@ -1,0 +1,990 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 10,
+          "completely_generated_prob": 5.7802509961791254e-9
+        },
+        {
+          "start_sentence_index": 39,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        },
+        {
+          "start_sentence_index": 47,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        }
+      ],
+      "completely_generated_prob": 0.000020654072809094338,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999696027454701,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00009880034724495747,
+          "sentence": "# 1960s Tristesse",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999901199652755,
+            "ai": 0.00006246060516691947,
+            "paraphrased": 0.00003633974207803799
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006089245614280311,
+          "sentence": "In “I’m Going to Make You So Happy” we are introduced to eight families who live in one stairwell of an apartment block in Trondheim in the mid-1960s.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999391075438572,
+            "ai": 0.000028273868092868736,
+            "paraphrased": 0.000032618588049934375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005218750038842985,
+          "sentence": "Outwardly fairly similar, but highly different once we get to know them, as it turns out.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999478124996116,
+            "ai": 0.000019061999908890342,
+            "paraphrased": 0.000033125500479539504
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006381739833909338,
+          "sentence": "While the men are at work, a teeming life goes on among the stay-at-home wives in the block.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999936182601661,
+            "ai": 0.00002906133205894271,
+            "paraphrased": 0.00003475606628015066
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007019681774838075,
+          "sentence": "Sound carries so much, so very much, between the flats that it is barely possible to have a private life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999298031822517,
+            "ai": 0.000034296063548217766,
+            "paraphrased": 0.00003590075420016299
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007356446349373607,
+          "sentence": "This bothers the women, who want to have something to themselves.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999264355365063,
+            "ai": 0.00003942954523639434,
+            "paraphrased": 0.00003413491825734173
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000057241829067544587,
+          "sentence": "Everyone keeps watch on everyone else, and is hungry for news in a time when, basically, nothing ever happens.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999427581709325,
+            "ai": 0.000024963855515488216,
+            "paraphrased": 0.00003227797355205637
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000725756197630462,
+          "sentence": "We get a tiny glimpse into the men’s world, but most of all this is about the women; the first generation of women who had moved far away from their home places, and who had to create something entirely their own from scratch, almost without role models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999927424380237,
+            "ai": 0.00003790712521724684,
+            "paraphrased": 0.00003466849454579936
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005220803934495758,
+          "sentence": "Who are in the phase of establishing themselves, and who fill their weekdays with children, cleaning, gossiping and weekly magazines ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999477919606551,
+            "ai": 0.000022503489289462412,
+            "paraphrased": 0.00002970455005549517
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005880266498895145,
+          "sentence": "At a time when the housewife role was associated with both pride and honor, and when everything was supposed to be spotlessly clean, preferably gleaming, and when all food was made from scratch to save a few øre here and a few øre there—in order to stretch the tight household budgets as far as possible—no one talked about the oppression of women.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999411973350111,
+            "ai": 0.00002649175717462134,
+            "paraphrased": 0.000032310907814330105
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007071860375784104,
+          "sentence": "If anything, it had to be the women themselves who oppressed one another, as they gossiped about anyone and everyone who was the slightest bit different from themselves.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999292813962422,
+            "ai": 0.000036773693599164704,
+            "paraphrased": 0.00003394491015867634
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008489334002296779,
+          "sentence": "Well, if it was to be acceptable to be different, one had to be different in the right way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999151066599771,
+            "ai": 0.00005081777916322538,
+            "paraphrased": 0.00003407556085974241
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010918840496469898,
+          "sentence": "But pity the person who did not iron all her clothes, who did not take the stair cleaning seriously enough, who did not make food from scratch—then she really got it!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998908115950353,
+            "ai": 0.00007362690720708207,
+            "paraphrased": 0.00003556149775761692
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003857422198770883,
+          "sentence": "One married couple in the block has just had a little baby, but everything is not as it should be.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996142577801229,
+            "ai": 0.00019187858926552977,
+            "paraphrased": 0.0001938636306115585
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022852452179099428,
+          "sentence": "The baby no longer cries, the mother is clearly in a postnatal depression, and she and her husband communicate extremely badly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999771475478209,
+            "ai": 0.000058419234983744984,
+            "paraphrased": 0.0001701052868072493
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023366948492248852,
+          "sentence": "Another married couple is not quite like the others, because the husband is a translator and in that sense has a free profession where he can come and go as he pleases, while the wife, who is English, runs a hairdressing salon in the kitchen to supplement their income.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997663305150775,
+            "ai": 0.00007438954484910773,
+            "paraphrased": 0.00015927994007338078
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00018803145974983387,
+          "sentence": "At the top of the block towers the Foss family; he a travelling salesman in Toro soup packets, she a tasty morsel of a woman who is slim, always tanned and with red-painted nails, but who is bored to death while her husband is away travelling, since they have not yet had children for her to fill her days with.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998119685402501,
+            "ai": 0.00004231128422015119,
+            "paraphrased": 0.00014572017552968267
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00021574870573089287,
+          "sentence": "The way to a highball glass or two to make the long days more bearable is not far ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997842512942691,
+            "ai": 0.000049600634015902746,
+            "paraphrased": 0.00016614807171499012
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00018952660588723573,
+          "sentence": "And then we have little Nina, Karlsen’s motherless daughter, who does not have her own key to the flat and always wanders around almost like a homeless person, smelling of pee from her dirty clothes because her father never manages these housewife things, and does not have all the understanding in the world for a small child’s needs either.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998104733941128,
+            "ai": 0.00004287383667527235,
+            "paraphrased": 0.00014665276921196338
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002154636765097055,
+          "sentence": "But little Nina has talents in mathematics that are completely unique.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997845363234903,
+            "ai": 0.00006137299395066503,
+            "paraphrased": 0.0001540906825590405
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00025655304187601575,
+          "sentence": "We sense a neglected dandelion child, who will probably manage, but who on the way up to adulthood will have a winding road, as she yearns for a love her father is not capable of giving her, and who therefore thinks it is okay to sit on the caretaker’s lap, even though he shakes so strangely and whispers “my girl” into her hair.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999743446958124,
+            "ai": 0.0001061451087005609,
+            "paraphrased": 0.00015040793317545488
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00035401280738471937,
+          "sentence": "In addition, we have the housewives who manage everything perfectly, and who use themselves as the measuring stick when they pass their strict, strict judgments on the others, who in their view clearly do not measure up.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996459871926153,
+            "ai": 0.0003428032929359325,
+            "paraphrased": 0.000011209514448786883
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006151846770267187,
+          "sentence": "The book is divided into three.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999384815322974,
+            "ai": 0.00005197500980101714,
+            "paraphrased": 0.000009543457901654731
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004998866534410644,
+          "sentence": "In the first part we get to know all the families.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999500113346559,
+            "ai": 0.00004010557516925442,
+            "paraphrased": 0.00000988309017485202
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005243793458797804,
+          "sentence": "In the second part we follow a door-to-door salesman from door to door in the stairwell.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999947562065412,
+            "ai": 0.00004218828385686181,
+            "paraphrased": 0.000010249650731116222
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005023329416288363,
+          "sentence": "He sells peepholes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999497667058371,
+            "ai": 0.00004025512246913929,
+            "paraphrased": 0.000009978171693744346
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006455328105208497,
+          "sentence": "For nineteen kroner each family can have a peephole with wide-angle glass installed, so that they can see who is ringing the bell, and thus can choose not to open the door to just anyone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999935446718948,
+            "ai": 0.00005490858485348277,
+            "paraphrased": 0.000009644696198602194
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004822311501146368,
+          "sentence": "On his way up the floors, we get his interpretation of what he sees inside each of the flats.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999517768849885,
+            "ai": 0.00003815119032473509,
+            "paraphrased": 0.000010071924686728589
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004915554724599758,
+          "sentence": "In the final part, it is the housing cooperative’s growing rat problems that must be dealt with.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999950844452754,
+            "ai": 0.00003927371127759962,
+            "paraphrased": 0.000009881835968397959
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003676011350361302,
+          "sentence": "I think one has to have lived a while to get the full benefit of this book, because its strength clearly lies in the easily recognizable elements from this period of history.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999632398864964,
+            "ai": 0.000025674295800568097,
+            "paraphrased": 0.000011085817703044923
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003428760754988535,
+          "sentence": "Otherwise I think one may well experience this book as a little boring, with the housewives mostly preoccupied with cleaning, cleaning and still more cleaning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999657123924501,
+            "ai": 0.000022069722209490855,
+            "paraphrased": 0.000012217885340394497
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004471376586886087,
+          "sentence": "But that was how it was!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999552862341311,
+            "ai": 0.000035094966372722695,
+            "paraphrased": 0.000009618799496138174
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003449168616170596,
+          "sentence": "And Anne B. Ragde has really done thorough research in order to write this book!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999655083138383,
+            "ai": 0.000022252297579256128,
+            "paraphrased": 0.000012239388582449832
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004930682827852094,
+          "sentence": "Many times I found myself sitting and roaring with laughter at the funny character descriptions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999506931717215,
+            "ai": 0.00004042971407885716,
+            "paraphrased": 0.000008877114199663775
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005102557931912579,
+          "sentence": "Like the woman who seriously considers having another child when her husband starts talking about closing down his office to save money, and sitting at home with his translations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999489744206809,
+            "ai": 0.00004195651109994964,
+            "paraphrased": 0.000009069068219176153
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010395747194985416,
+          "sentence": "She does not want him at home!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998960425280502,
+            "ai": 0.00009579695257854888,
+            "paraphrased": 0.00000816051937130529
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010482129214634603,
+          "sentence": "She wants to have her days entirely at her own disposal!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998951787078536,
+            "ai": 0.00009664714962893524,
+            "paraphrased": 0.00000817414251741079
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006685727422052662,
+          "sentence": "Or the woman who recoils when her husband suggests that she should get a job.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999331427257795,
+            "ai": 0.000058494920477559035,
+            "paraphrased": 0.00000836235374296758
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00022109868759141973,
+          "sentence": "Has she not just got married precisely to avoid having to work outside the home, perhaps?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997789013124085,
+            "ai": 0.00021305335945704236,
+            "paraphrased": 0.000008045328134377378
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0015537228912383193,
+          "sentence": "The fixation on “magazine day” as a high point of the week I remember well myself.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9984462771087617,
+            "ai": 0.0014902093551981068,
+            "paraphrased": 0.0000635135360402124
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016377679368849532,
+          "sentence": "Even the dreadful sunlamp is included in the book!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998362232063115,
+            "ai": 0.00013588578668168855,
+            "paraphrased": 0.000027891007006806788
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000717033721053503,
+          "sentence": "The ladies who chose to keep themselves outside the close-knit gossip environment among the women really got it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999282966278946,
+            "ai": 0.0000459359553502709,
+            "paraphrased": 0.000025767416755079413
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007263870137248176,
+          "sentence": "Did they perhaps think they were better than the others?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999273612986275,
+            "ai": 0.00004614069071811369,
+            "paraphrased": 0.000026498010654368073
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006237695552795338,
+          "sentence": "As they walked around with their noses in the air and would not stoop to mixing with them ... And if, on top of everything, one was childless, one was met with violent skepticism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999376230444721,
+            "ai": 0.00003556319898727787,
+            "paraphrased": 0.000026813756540675503
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006375060865270403,
+          "sentence": "Was one even feminine when it came down to it?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999362493913473,
+            "ai": 0.000038793201419545674,
+            "paraphrased": 0.00002495740723315836
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004462630016661812,
+          "sentence": "In a time when there was a shortage of most things, it attracted great attention if someone got a freezer or had a telephone installed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999553736998333,
+            "ai": 0.000019706873981108724,
+            "paraphrased": 0.000024919426185509396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000052658460713676976,
+          "sentence": "Making a long-distance call was horribly expensive, and one did not do that at all hours.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999473415392863,
+            "ai": 0.000028136165375513813,
+            "paraphrased": 0.000024522295338163166
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000043934419264212964,
+          "sentence": "I think Anne B. Ragde has succeeded well in her project of writing about the housewives of the 1960s!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999560655807358,
+            "ai": 0.00002027643180725248,
+            "paraphrased": 0.00002365798745696048
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004837840887724799,
+          "sentence": "With her customary humor and warmth she portrays the housewives’ simple lives in an optimistic age, where most things pointed upward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999516215911227,
+            "ai": 0.000024078476184890265,
+            "paraphrased": 0.000024299932692357723
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000039824775386904996,
+          "sentence": "With the Cuban Missile Crisis as a backdrop in a time when the position of the radio was central in every home, and when television was not yet common, she confidently hits the style of an epoch about which loads of books have been written, but never in the way she does it here.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999601752246131,
+            "ai": 0.00001444870382241647,
+            "paraphrased": 0.000025376071564488526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006340293943461384,
+          "sentence": "Even though it is natural to draw a certain parallel to the Norwegian film “Støv på hjernen,” this book is about so much more.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999365970605654,
+            "ai": 0.00004133752076592238,
+            "paraphrased": 0.000022065418668691464
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006436849827858414,
+          "sentence": "Here there is also more everyday realism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999356315017214,
+            "ai": 0.000042027070056783924,
+            "paraphrased": 0.00002234142822180021
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001168084055687686,
+          "sentence": "Furthermore, I would like to emphasize that the book comes across as linguistically well worked through.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998831915944313,
+            "ai": 0.0000941440245957643,
+            "paraphrased": 0.000022664380973004302
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00028875973463654434,
+          "sentence": "Whether it will remain as great literature in posterity is hard to say, but at any rate it rises well above the average mediocrity where most bestsellers are to be found.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997112402653635,
+            "ai": 0.0002635229677060967,
+            "paraphrased": 0.000025236766930447633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.003969628136252229,
+          "sentence": "So here it is a **five on the dice**!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9960303718637478,
+            "ai": 0.00391991708986466,
+            "paraphrased": 0.00004971104638756886
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999696027454701,
+        "ai": 0.000030397254529856956,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999696027454701,
+          "ai": 0.000030397254529856956,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "# 1960s Tristesse\n\nIn “I’m Going to Make You So Happy” we are introduced to eight families who live in one stairwell of an apartment block in Trondheim in the mid-1960s. Outwardly fairly similar, but highly different once we get to know them, as it turns out. While the men are at work, a teeming life goes on among the stay-at-home wives in the block.\n\nSound carries so much, so very much, between the flats that it is barely possible to have a private life. This bothers the women, who want to have something to themselves. Everyone keeps watch on everyone else, and is hungry for news in a time when, basically, nothing ever happens. We get a tiny glimpse into the men’s world, but most of all this is about the women; the first generation of women who had moved far away from their home places, and who had to create something entirely their own from scratch, almost without role models. Who are in the phase of establishing themselves, and who fill their weekdays with children, cleaning, gossiping and weekly magazines ...\n\nAt a time when the housewife role was associated with both pride and honor, and when everything was supposed to be spotlessly clean, preferably gleaming, and when all food was made from scratch to save a few øre here and a few øre there—in order to stretch the tight household budgets as far as possible—no one talked about the oppression of women. If anything, it had to be the women themselves who oppressed one another, as they gossiped about anyone and everyone who was the slightest bit different from themselves. Well, if it was to be acceptable to be different, one had to be different in the right way. But pity the person who did not iron all her clothes, who did not take the stair cleaning seriously enough, who did not make food from scratch—then she really got it!\n\nOne married couple in the block has just had a little baby, but everything is not as it should be. The baby no longer cries, the mother is clearly in a postnatal depression, and she and her husband communicate extremely badly. Another married couple is not quite like the others, because the husband is a translator and in that sense has a free profession where he can come and go as he pleases, while the wife, who is English, runs a hairdressing salon in the kitchen to supplement their income. At the top of the block towers the Foss family; he a travelling salesman in Toro soup packets, she a tasty morsel of a woman who is slim, always tanned and with red-painted nails, but who is bored to death while her husband is away travelling, since they have not yet had children for her to fill her days with. The way to a highball glass or two to make the long days more bearable is not far ...\n\nAnd then we have little Nina, Karlsen’s motherless daughter, who does not have her own key to the flat and always wanders around almost like a homeless person, smelling of pee from her dirty clothes because her father never manages these housewife things, and does not have all the understanding in the world for a small child’s needs either. But little Nina has talents in mathematics that are completely unique. We sense a neglected dandelion child, who will probably manage, but who on the way up to adulthood will have a winding road, as she yearns for a love her father is not capable of giving her, and who therefore thinks it is okay to sit on the caretaker’s lap, even though he shakes so strangely and whispers “my girl” into her hair. In addition, we have the housewives who manage everything perfectly, and who use themselves as the measuring stick when they pass their strict, strict judgments on the others, who in their view clearly do not measure up.\n\nThe book is divided into three. In the first part we get to know all the families. In the second part we follow a door-to-door salesman from door to door in the stairwell. He sells peepholes. For nineteen kroner each family can have a peephole with wide-angle glass installed, so that they can see who is ringing the bell, and thus can choose not to open the door to just anyone. On his way up the floors, we get his interpretation of what he sees inside each of the flats. In the final part, it is the housing cooperative’s growing rat problems that must be dealt with.\n\nI think one has to have lived a while to get the full benefit of this book, because its strength clearly lies in the easily recognizable elements from this period of history. Otherwise I think one may well experience this book as a little boring, with the housewives mostly preoccupied with cleaning, cleaning and still more cleaning. But that was how it was! And Anne B. Ragde has really done thorough research in order to write this book! Many times I found myself sitting and roaring with laughter at the funny character descriptions. Like the woman who seriously considers having another child when her husband starts talking about closing down his office to save money, and sitting at home with his translations. She does not want him at home! She wants to have her days entirely at her own disposal! Or the woman who recoils when her husband suggests that she should get a job. Has she not just got married precisely to avoid having to work outside the home, perhaps?\n\nThe fixation on “magazine day” as a high point of the week I remember well myself. Even the dreadful sunlamp is included in the book! The ladies who chose to keep themselves outside the close-knit gossip environment among the women really got it. Did they perhaps think they were better than the others? As they walked around with their noses in the air and would not stoop to mixing with them ... And if, on top of everything, one was childless, one was met with violent skepticism. Was one even feminine when it came down to it? In a time when there was a shortage of most things, it attracted great attention if someone got a freezer or had a telephone installed. Making a long-distance call was horribly expensive, and one did not do that at all hours.\n\nI think Anne B. Ragde has succeeded well in her project of writing about the housewives of the 1960s! With her customary humor and warmth she portrays the housewives’ simple lives in an optimistic age, where most things pointed upward. With the Cuban Missile Crisis as a backdrop in a time when the position of the radio was central in every home, and when television was not yet common, she confidently hits the style of an epoch about which loads of books have been written, but never in the way she does it here. Even though it is natural to draw a certain parallel to the Norwegian film “Støv på hjernen,” this book is about so much more. Here there is also more everyday realism. Furthermore, I would like to emphasize that the book comes across as linguistically well worked through. Whether it will remain as great literature in posterity is hard to say, but at any rate it rises well above the average mediocrity where most bestsellers are to be found. So here it is a **five on the dice**!\n",
+      "document_id": null
+    }
+  ]
+}

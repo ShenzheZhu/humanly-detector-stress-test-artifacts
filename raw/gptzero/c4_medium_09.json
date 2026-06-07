@@ -1,0 +1,526 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.9838235511718832,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9998517730646987,
+          "sentence": "Affective Forecasting",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014822693530123094,
+            "ai": 0.987115305811183,
+            "paraphrased": 0.01273646725351576
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998569727174635,
+          "sentence": "Affective forecasting refers to the predictions people make about how they will feel in the future.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014302728253642036,
+            "ai": 0.9880301371268453,
+            "paraphrased": 0.011826835590618298
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998744827584628,
+          "sentence": "Whenever we anticipate the emotional impact of an upcoming event, such as a job offer, a breakup, or a vacation, we are engaging in affective forecasting.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001255172415372137,
+            "ai": 0.9879435483839499,
+            "paraphrased": 0.011930934374512864
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998937258106888,
+          "sentence": "Research in this area, much of it associated with psychologists Daniel Gilbert and Timothy Wilson, reveals that people are surprisingly poor at this kind of prediction, and that these errors have important consequences for motivation and decision-making.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010627418931120215,
+            "ai": 0.986184494200257,
+            "paraphrased": 0.013709231610431796
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999184797646281,
+          "sentence": "In plain language, affective forecasting involves predicting both the intensity and the duration of future emotions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008152023537191684,
+            "ai": 0.9861091827325636,
+            "paraphrased": 0.013809297032064434
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999436705456881,
+          "sentence": "People are often reasonably accurate about whether an event will feel good or bad, but they systematically overestimate how strong and how long-lasting those feelings will be.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005632945431186647,
+            "ai": 0.9848506769026539,
+            "paraphrased": 0.015092993643034212
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999252454112245,
+          "sentence": "This tendency is known as the impact bias.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007475458877544976,
+            "ai": 0.986375911381441,
+            "paraphrased": 0.013549334029783526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999460810997401,
+          "sentence": "We expect a major positive event to make us happy for a long time, and a major negative event to devastate us indefinitely, yet in reality our emotional reactions tend to be milder and more temporary than we imagine.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005391890025981431,
+            "ai": 0.9848496547203969,
+            "paraphrased": 0.015096426379343306
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999504260795772,
+          "sentence": "A key reason for these errors is a process Gilbert and Wilson call the psychological immune system.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000049573920422800505,
+            "ai": 0.984674654927443,
+            "paraphrased": 0.015275771152134207
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999631577479128,
+          "sentence": "Just as the body defends against physical threats, the mind has mechanisms that help us rationalize, reframe, and adapt to negative events.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000036842252087255215,
+            "ai": 0.9852280753785706,
+            "paraphrased": 0.0147350823693422
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999967186978791,
+          "sentence": "Crucially, people tend to be unaware of how effective this system is, so they underestimate their own resilience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000032813021208994555,
+            "ai": 0.9865914633000167,
+            "paraphrased": 0.013375723678774272
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999635498220094,
+          "sentence": "Another contributing factor is focalism, the tendency to focus narrowly on the event being predicted while ignoring all the other experiences that will fill our days and dilute its emotional effect.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003645017799061205,
+            "ai": 0.9872466950264263,
+            "paraphrased": 0.012716854795583172
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999482645255441,
+          "sentence": "The connection to motivation and decision-making is central.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005173547445597985,
+            "ai": 0.9880676720423966,
+            "paraphrased": 0.011880592483147422
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9729907853487142,
+          "sentence": "We constantly make choices based on how we expect them to make us feel, from career decisions to purchases to relationships.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02700921465128582,
+            "ai": 0.9708237522121846,
+            "paraphrased": 0.0021670331365295902
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9723976292722539,
+          "sentence": "If our forecasts are systematically biased, our decisions may be misguided.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02760237072774607,
+            "ai": 0.9708585225893666,
+            "paraphrased": 0.0015391066828873401
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985968139952827,
+          "sentence": "For example, the impact bias can lead people to overvalue outcomes they believe will bring lasting happiness, pursuing goals that deliver less enduring satisfaction than anticipated, while also avoiding risks out of an exaggerated fear of how bad failure will feel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001403186004717318,
+            "ai": 0.9970640905772298,
+            "paraphrased": 0.0015327234180528817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998903299315212,
+          "sentence": "A concrete example illustrates the pattern.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010967006847879333,
+            "ai": 0.9988289103638911,
+            "paraphrased": 0.001061419567630055
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998278203224764,
+          "sentence": "Imagine someone convinced that getting a major promotion will make them deeply and durably happy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017217967752360605,
+            "ai": 0.9988668603228472,
+            "paraphrased": 0.0009609599996291566
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999797801854452,
+          "sentence": "Research on affective forecasting suggests that while the promotion may bring a genuine boost, the person will likely adapt to their new status within months, returning to roughly their previous level of happiness.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000202198145548054,
+            "ai": 0.9985775300979738,
+            "paraphrased": 0.0012202717564781804
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998800141377567,
+          "sentence": "The same dynamic applies to feared outcomes: a person dreading a divorce may discover that, painful as it is, they cope and recover far better than they predicted.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011998586224332382,
+            "ai": 0.9985948996309201,
+            "paraphrased": 0.001285114506836605
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995279068932555,
+          "sentence": "Their forecasts, in both cases, overshot reality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004720931067444866,
+            "ai": 0.9978193434093771,
+            "paraphrased": 0.0017085634838784939
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999934798077343,
+          "sentence": "Understanding affective forecasting matters because it has practical implications for how we live and choose.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006520192265702952,
+            "ai": 0.9983742253072148,
+            "paraphrased": 0.001560572770128245
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998866295950658,
+          "sentence": "Recognizing the impact bias can encourage more realistic expectations, reducing both the anxiety of dreaded events and the pressure placed on hoped-for ones.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011337040493423044,
+            "ai": 0.9986896988427119,
+            "paraphrased": 0.0011969307523539083
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996303798789674,
+          "sentence": "It can also promote wiser decisions: knowing that we adapt to most outcomes may free us to take reasonable risks and to value experiences and relationships that provide steady, renewable satisfaction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00036962012103257044,
+            "ai": 0.9982871927486363,
+            "paraphrased": 0.0013431871303310973
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9981497753091519,
+          "sentence": "By appreciating the limits of our emotional predictions, we can approach the future with greater wisdom and self-compassion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0018502246908479898,
+            "ai": 0.9969536677844782,
+            "paraphrased": 0.001196107524673715
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Affective Forecasting\n\nAffective forecasting refers to the predictions people make about how they will feel in the future. Whenever we anticipate the emotional impact of an upcoming event, such as a job offer, a breakup, or a vacation, we are engaging in affective forecasting. Research in this area, much of it associated with psychologists Daniel Gilbert and Timothy Wilson, reveals that people are surprisingly poor at this kind of prediction, and that these errors have important consequences for motivation and decision-making.\n\nIn plain language, affective forecasting involves predicting both the intensity and the duration of future emotions. People are often reasonably accurate about whether an event will feel good or bad, but they systematically overestimate how strong and how long-lasting those feelings will be. This tendency is known as the impact bias. We expect a major positive event to make us happy for a long time, and a major negative event to devastate us indefinitely, yet in reality our emotional reactions tend to be milder and more temporary than we imagine.\n\nA key reason for these errors is a process Gilbert and Wilson call the psychological immune system. Just as the body defends against physical threats, the mind has mechanisms that help us rationalize, reframe, and adapt to negative events. Crucially, people tend to be unaware of how effective this system is, so they underestimate their own resilience. Another contributing factor is focalism, the tendency to focus narrowly on the event being predicted while ignoring all the other experiences that will fill our days and dilute its emotional effect.\n\nThe connection to motivation and decision-making is central. We constantly make choices based on how we expect them to make us feel, from career decisions to purchases to relationships. If our forecasts are systematically biased, our decisions may be misguided. For example, the impact bias can lead people to overvalue outcomes they believe will bring lasting happiness, pursuing goals that deliver less enduring satisfaction than anticipated, while also avoiding risks out of an exaggerated fear of how bad failure will feel.\n\nA concrete example illustrates the pattern. Imagine someone convinced that getting a major promotion will make them deeply and durably happy. Research on affective forecasting suggests that while the promotion may bring a genuine boost, the person will likely adapt to their new status within months, returning to roughly their previous level of happiness. The same dynamic applies to feared outcomes: a person dreading a divorce may discover that, painful as it is, they cope and recover far better than they predicted. Their forecasts, in both cases, overshot reality.\n\nUnderstanding affective forecasting matters because it has practical implications for how we live and choose. Recognizing the impact bias can encourage more realistic expectations, reducing both the anxiety of dreaded events and the pressure placed on hoped-for ones. It can also promote wiser decisions: knowing that we adapt to most outcomes may free us to take reasonable risks and to value experiences and relationships that provide steady, renewable satisfaction. By appreciating the limits of our emotional predictions, we can approach the future with greater wisdom and self-compassion.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        }
+      ],
+      "completely_generated_prob": 0.000004027796016834418,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999958496134821,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00009060217843336898,
+          "sentence": "I could probably turn this into a longer personal account, but I really just wanted to share this experience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999093978215666,
+            "ai": 0.00008250207585397255,
+            "paraphrased": 0.000008100102579396432
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009064237161949772,
+          "sentence": "For years, I was working on this really ambitious sci-fi/fantasy project.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999093576283805,
+            "ai": 0.00008222762595555942,
+            "paraphrased": 0.000008414745663938304
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006271350444016112,
+          "sentence": "I guess I still am; I definitely want to finish it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999372864955598,
+            "ai": 0.00005436496525089426,
+            "paraphrased": 0.000008348539189266856
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005984853272827506,
+          "sentence": "But I wasn't able to write regularly on it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999401514672718,
+            "ai": 0.00005102505719436095,
+            "paraphrased": 0.000008823475533914114
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007818823371313667,
+          "sentence": "The writer's block was constant, perhaps because of the pressure I was putting on myself.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999218117662869,
+            "ai": 0.00006950108308783915,
+            "paraphrased": 0.000008687150625297518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000054244924940367784,
+          "sentence": "I solved this problem by accident.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999457550750597,
+            "ai": 0.00004511150088269823,
+            "paraphrased": 0.000009133424057669556
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004318722441076939,
+          "sentence": "I played a video game (League of Legends) with truly derpy lore that nonetheless had a bit of cartoony charm to it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999568127755892,
+            "ai": 0.000032801594709900134,
+            "paraphrased": 0.000010385629700869256
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000058773329143576084,
+          "sentence": "I started a community for roleplaying and themed matches, and I wrote some filler fanfic/fanlore/whatever to add flavor to the competitions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999412266708564,
+            "ai": 0.00004973253437835977,
+            "paraphrased": 0.000009040794765216312
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006704225629622587,
+          "sentence": "People enjoyed it, so I kept writing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999329577437037,
+            "ai": 0.00005825613393326216,
+            "paraphrased": 0.000008786122362963715
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000047006680857556556,
+          "sentence": "And it was easy, because my attitude to start with was, \"whatever, just write something, it doesn't have to be perfect, it's just for a silly game.\"",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999529933191424,
+            "ai": 0.00003714720815699655,
+            "paraphrased": 0.000009859472700560003
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006186570159719956,
+          "sentence": "But the thing is, over time, as I kept writing this silly throwaway lore, I found myself striving almost unconsciously to make it good.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999381342984028,
+            "ai": 0.00005303428791064814,
+            "paraphrased": 0.000008831413686551417
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004900755295650824,
+          "sentence": "Honestly, it wasn't until over a year or so into it that I recall realizing that I was writing now.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999509924470434,
+            "ai": 0.000039700829304641475,
+            "paraphrased": 0.000009306723651866766
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000484912571477236,
+          "sentence": "I suppose it was all very Zen: I only succeeded in my endeavor to begin writing regularly when I \"gave up\" on it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999515087428523,
+            "ai": 0.000039255650350762274,
+            "paraphrased": 0.000009235606796961325
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000767827232192238,
+          "sentence": "I realize, of course, that this is just a start.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999232172767808,
+            "ai": 0.0000683201861674715,
+            "paraphrased": 0.000008462537051752304
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007644535643807683,
+          "sentence": "If I want to become a \"real\" author, I need to move beyond writing entertaining little fanfic stories.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999923554643562,
+            "ai": 0.00006799131878551215,
+            "paraphrased": 0.000008454037652564676
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005458479862101683,
+          "sentence": "But after years of procrastination and angst, I'm very pleased that I've at least begun that journey in earnest now.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999945415201379,
+            "ai": 0.000045560573793470756,
+            "paraphrased": 0.00000902422482754607
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005519613556715112,
+          "sentence": "And I think I've learned more in a couple of years of this than I did in 5+ years of angsting over \"my masterpiece\".",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999448038644329,
+            "ai": 0.00004648308084669322,
+            "paraphrased": 0.000008713054720457899
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000048596704049551366,
+          "sentence": "Like so many real authors have said, you've just got to write.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999514032959504,
+            "ai": 0.0000392233139379945,
+            "paraphrased": 0.000009373390111556867
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000058091235855620045,
+          "sentence": "tl;dr: If you're one of those people who can't get past page one, try starting a new project that you don't really \"care\" about, with no expectation of producing a masterpiece, and just write \"garbage\".",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999419087641443,
+            "ai": 0.000049534425229614436,
+            "paraphrased": 0.00000855681062600561
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020029935399947394,
+          "sentence": "You might be surprised at how well you progress with the pressure gone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997997006460005,
+            "ai": 0.00019118749845234938,
+            "paraphrased": 0.000009111855547124568
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999958496134821,
+        "ai": 0.000004150386517945425,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999958496134821,
+          "ai": 0.000004150386517945425,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "I could probably turn this into a longer personal account, but I really just wanted to share this experience.\nFor years, I was working on this really ambitious sci-fi/fantasy project. I guess I still am; I definitely want to finish it. But I wasn't able to write regularly on it. The writer's block was constant, perhaps because of the pressure I was putting on myself.\nI solved this problem by accident. I played a video game (League of Legends) with truly derpy lore that nonetheless had a bit of cartoony charm to it. I started a community for roleplaying and themed matches, and I wrote some filler fanfic/fanlore/whatever to add flavor to the competitions. People enjoyed it, so I kept writing. And it was easy, because my attitude to start with was, \"whatever, just write something, it doesn't have to be perfect, it's just for a silly game.\"\nBut the thing is, over time, as I kept writing this silly throwaway lore, I found myself striving almost unconsciously to make it good. Honestly, it wasn't until over a year or so into it that I recall realizing that I was writing now. I suppose it was all very Zen: I only succeeded in my endeavor to begin writing regularly when I \"gave up\" on it.\nI realize, of course, that this is just a start. If I want to become a \"real\" author, I need to move beyond writing entertaining little fanfic stories. But after years of procrastination and angst, I'm very pleased that I've at least begun that journey in earnest now. And I think I've learned more in a couple of years of this than I did in 5+ years of angsting over \"my masterpiece\". Like so many real authors have said, you've just got to write.\ntl;dr: If you're one of those people who can't get past page one, try starting a new project that you don't really \"care\" about, with no expectation of producing a masterpiece, and just write \"garbage\". You might be surprised at how well you progress with the pressure gone.\n",
+      "document_id": null
+    }
+  ]
+}

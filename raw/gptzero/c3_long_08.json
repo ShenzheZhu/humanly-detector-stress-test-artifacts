@@ -1,0 +1,995 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 10,
+          "completely_generated_prob": 5.7802509961791254e-9
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 37,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 11,
+          "completely_generated_prob": 7.905466206762634e-10
+        },
+        {
+          "start_sentence_index": 54,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        }
+      ],
+      "completely_generated_prob": 0.00004815272598215051,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.999950551942263,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.001777976930756349,
+          "sentence": "# A satirical sideways glance at social-democratic Norway in the years 1980–2010",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982220230692437,
+            "ai": 0.0014778652250197217,
+            "paraphrased": 0.00030011170573662733
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00027267964058553265,
+          "sentence": "When Frode Grytten comes out with a new book, this is always connected with great excitement!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997273203594145,
+            "ai": 0.00005010154622113672,
+            "paraphrased": 0.00022257809436439593
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00031842017755437884,
+          "sentence": "And he does not disappoint this time either.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996815798224457,
+            "ai": 0.000053423430731704224,
+            "paraphrased": 0.0002649967468226746
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00026242541206931015,
+          "sentence": "To read his sharp portrayals of people and environments, first and foremost far from the noise and bustle of the city and then, not surprisingly this time too, partly from Odda, is a delight!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997375745879307,
+            "ai": 0.000037550122734967654,
+            "paraphrased": 0.0002248752893343425
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002914119090395116,
+          "sentence": "The village’s merciless and critical view of anything and anyone who is even a tiny bit different from everything else is anything but inclusive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997085880909605,
+            "ai": 0.00004410766975262186,
+            "paraphrased": 0.0002473042392868898
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00033467543814204,
+          "sentence": "If you do not fit in, it is over and out for you!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999665324561858,
+            "ai": 0.00005354880773926877,
+            "paraphrased": 0.00028112663040277125
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002975108610625888,
+          "sentence": "**“Saganatt”**, or the Lunde trilogy as it is called, is divided into three parts, and in reality contains three fairly independent novels.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997024891389374,
+            "ai": 0.00003868808566754253,
+            "paraphrased": 0.00025882277539504626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002788709551914018,
+          "sentence": "As in “Bikubesong,” however, there is a connection between the stories, as will become apparent after a while.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997211290448086,
+            "ai": 0.00002658751014749556,
+            "paraphrased": 0.00025228344504390625
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003483347118345278,
+          "sentence": "In the first part, **“Kom søndag,”** we are introduced to Arvid Lunde, who comes ashore in Odda in the late autumn of 1980.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996516652881655,
+            "ai": 0.00005995350116720538,
+            "paraphrased": 0.0002883812106673224
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00033753729034642773,
+          "sentence": "With his high-water trousers — or spring-tide trousers, as they are consistently referred to — he is immediately noticed, weighed and found wanting by those who look at him.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996624627096535,
+            "ai": 0.00005265108090726989,
+            "paraphrased": 0.00028488620943915784
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00029573956152538516,
+          "sentence": "Preferably by the boys from the smelting works, who frequent the pub “Smeltaren.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997042604384746,
+            "ai": 0.000031144135026251524,
+            "paraphrased": 0.00026459542649913365
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003039541679906916,
+          "sentence": "Arvid Lunde has been offered a job as a teacher, and has left his former life in Bergen in order to start anew in Odda.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996960458320093,
+            "ai": 0.000041512641387295846,
+            "paraphrased": 0.00026244152660339574
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003037013399749721,
+          "sentence": "For the first weeks he has to live at the place’s only guesthouse, where the receptionist Blondie works, a woman who always goes after newly arrived men in the hope that they will get her away from this dreary place.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996962986600251,
+            "ai": 0.000034898728414343136,
+            "paraphrased": 0.00026880261156062897
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002654621598960767,
+          "sentence": "She tries her luck with Arvid too, and the fact that he rejects her makes her never speak to him again.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997345378401039,
+            "ai": 0.000032560512838008225,
+            "paraphrased": 0.00023290164705806846
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00027972376506679844,
+          "sentence": "Arvid is wildly enthusiastic about Odda, and he has a vision of taking an active part in the labour movement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997202762349332,
+            "ai": 0.00004078227724435834,
+            "paraphrased": 0.0002389414878224401
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003229838167131914,
+          "sentence": "But his commitment is not quite believed, because he is so different from the typical industrial worker.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996770161832869,
+            "ai": 0.00005656826448480738,
+            "paraphrased": 0.000266415552228384
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002830520418161943,
+          "sentence": "Nor does he fit in with the power elite in the village, and he therefore remains a fairly lonely man through most of the 1980s.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997169479581838,
+            "ai": 0.000044245549822223456,
+            "paraphrased": 0.00023880649199397084
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00029011812955743126,
+          "sentence": "There is a lot of speculation about him as a person.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997098818704425,
+            "ai": 0.000046484615139624775,
+            "paraphrased": 0.00024363351441780646
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000216763048340226,
+          "sentence": "Is he perhaps gay, since he has no woman in his life?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997832369516598,
+            "ai": 0.000035666489630895894,
+            "paraphrased": 0.0001810965587093301
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000264637215426558,
+          "sentence": "The gay rumours are eventually replaced by rumours that he is involved with a 17-year-old girl whom he has reluctantly agreed to give extra lessons at home in his bedsit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997353627845734,
+            "ai": 0.000043929262790322054,
+            "paraphrased": 0.00022070795263623595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0035457501316578832,
+          "sentence": "He truly becomes an outcast man, but he does not leave Odda for that reason.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9964542498683421,
+            "ai": 0.003388174846838932,
+            "paraphrased": 0.0001575752848189512
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006295936392067864,
+          "sentence": "The village’s hostility toward Arvid Lunde takes a new turn when it turns out that he has gone and become rich almost “in secret” during the years he has lived in Odda.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993704063607932,
+            "ai": 0.0005514556016376197,
+            "paraphrased": 0.00007813803756916664
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011592240616833225,
+          "sentence": "The people of the village do not like rich people, while at the same time they cannot help admiring him, a man who has achieved what they all in fact go around dreaming of: getting a lot of money fast!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998840775938317,
+            "ai": 0.00006915308415369029,
+            "paraphrased": 0.000046769322014641954
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001312697443384624,
+          "sentence": "In time Arvid becomes a real yuppie, a successful financier, and moves to Oslo.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998687302556616,
+            "ai": 0.00007624058370403053,
+            "paraphrased": 0.00005502916063443187
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013261724338295902,
+          "sentence": "He gets himself a woman too.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999867382756617,
+            "ai": 0.00007317027215745042,
+            "paraphrased": 0.00005944697122550859
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001868874046368399,
+          "sentence": "Even a son.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998131125953632,
+            "ai": 0.0001174630274658661,
+            "paraphrased": 0.0000694243771709738
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001594909935516468,
+          "sentence": "Until the financial crisis brings most of it to a brutal end ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998405090064484,
+            "ai": 0.00010699585372867813,
+            "paraphrased": 0.000052495139822968685
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007311343591356717,
+          "sentence": "In part two — **“I morgon er det mondag”** — we meet the furniture dealer Harold Lunde, formerly a successful businessman who in his time took over the furniture shop after his father.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999268865640865,
+            "ai": 0.00003098018596637394,
+            "paraphrased": 0.00004213324994719323
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007551419499283291,
+          "sentence": "Harold Lunde’s shop stood for quality, and the running of the business was based on the fact that he knew all his customers, knew who were good and bad payers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999244858050071,
+            "ai": 0.0000327986872677682,
+            "paraphrased": 0.0000427155077250647
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000644168061099533,
+          "sentence": "And it could have continued like that, had it not been for IKEA coming to Åsane in Bergen, and competing him completely out onto the sidelines with its shoddy furniture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999355831938901,
+            "ai": 0.000024640412487705733,
+            "paraphrased": 0.00003977639362224756
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001366328606802277,
+          "sentence": "That, in fact, he does not get over.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998633671393198,
+            "ai": 0.00008733413562592892,
+            "paraphrased": 0.00004929872505429878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00025030906906166485,
+          "sentence": "Furniture-Lunde has two sons — the previously mentioned Arvid Lunde, as well as Jan Lunde, who is a journalist and lives in Oslo.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997496909309384,
+            "ai": 0.00020477348282991968,
+            "paraphrased": 0.00004553558623174516
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000608046327383905,
+          "sentence": "Neither of the sons likes him, and after the scandal around Arvid, Harold no longer speaks about him.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993919536726161,
+            "ai": 0.0005492602506740283,
+            "paraphrased": 0.00005878607670987674
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012474697509401837,
+          "sentence": "His wife Marny has disappeared into the fog of dementia and barely remembers who he is.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987525302490599,
+            "ai": 0.001171007095602732,
+            "paraphrased": 0.00007646265533745164
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001093930281296562,
+          "sentence": "So there he stands — without a livelihood, long since bankrupt, with a wife who has forgotten him and with children and grandchildren who do not want contact with him.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989060697187034,
+            "ai": 0.0010236959752874066,
+            "paraphrased": 0.00007023430600915533
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001334252582281838,
+          "sentence": "He carries out one last desperate act when he travels to Sweden to kidnap IKEA’s Ingvar Kamprad.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9986657474177182,
+            "ai": 0.0012497132796849102,
+            "paraphrased": 0.00008453930259692782
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012222946751697804,
+          "sentence": "He wants revenge!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987777053248302,
+            "ai": 0.0011348625614182226,
+            "paraphrased": 0.0000874321137515577
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005106494393145047,
+          "sentence": "In part three — **“Den åttande dagen”** — we find ourselves around Oslo in 2010.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994893505606854,
+            "ai": 0.00045189731959387896,
+            "paraphrased": 0.000058752119720625736
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002389348167608947,
+          "sentence": "To the extent that this last part is connected with the two preceding ones, it is because we meet Robby Lunde, the son of Arvid Lunde, who has managed to get into his twenties.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997610651832392,
+            "ai": 0.00019245899263882057,
+            "paraphrased": 0.00004647582412207413
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000374539983048275,
+          "sentence": "Gerhardsen and Bratteli drive around in Toyota Corollas to make sure that good social democrats live their lives in accordance with the party book.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996254600169517,
+            "ai": 0.0003145882268650824,
+            "paraphrased": 0.000059951756183192576
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0029763724817339476,
+          "sentence": "They are so-called “unliving,” and no one can see them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.997023627518266,
+            "ai": 0.0028838759333144753,
+            "paraphrased": 0.0000924965484194721
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0016901072888811893,
+          "sentence": "At regular intervals they prevent scandals in which elected representatives are involved from reaching the public’s ears.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9983098927111188,
+            "ai": 0.001608442157936844,
+            "paraphrased": 0.00008166513094434525
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003842014232535743,
+          "sentence": "Whether it is the man who has cashed in the pension of his long-dead mother for more than thirty years, while the mother has been frozen in the freezer ... and many other cases which, if they came out, would have damaged social democracy and its spirit ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996157985767464,
+            "ai": 0.00033231760944366247,
+            "paraphrased": 0.000051883813809911845
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016613293718094715,
+          "sentence": "Parts 1 and 2 of the book engaged me 110 percent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998338670628191,
+            "ai": 0.0001299821218758725,
+            "paraphrased": 0.000036150815305074665
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001434768165137516,
+          "sentence": "The story of Arvid Lunde and his brutal meeting with rural Norway is in many ways exactly the way I expect it to be when I am facing a Grytten book!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998565231834863,
+            "ai": 0.0001041176491148616,
+            "paraphrased": 0.00003935916739889001
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006779508895205309,
+          "sentence": "Even though part 2 goes a little over the top toward the end, it was perhaps the part of the trilogy that touched me most of all.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999932204911048,
+            "ai": 0.000037983159437924714,
+            "paraphrased": 0.00002981192951412838
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005610402939634981,
+          "sentence": "The story of Harold and Marny losing each other, because Marny’s dementia becomes more and more advanced, until Harold in the end can no longer keep her at home, is heartbreaking.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999438959706036,
+            "ai": 0.00002892570899804996,
+            "paraphrased": 0.000027178320398299854
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005630529232432428,
+          "sentence": "And even more heartbreaking was reading about both spouses being stripped of authority in relation to each other when Marny finally ended up in a nursing home, and was almost not given permission to come home — not by Harold, but by the nursing home staff.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999436947076756,
+            "ai": 0.00002873368501546639,
+            "paraphrased": 0.000027571607308857894
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00018754768443827766,
+          "sentence": "In the last part I basically fell off the wagon quite a bit, I must admit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998124523155617,
+            "ai": 0.0001619435688646355,
+            "paraphrased": 0.000025604115573642163
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002870459302235486,
+          "sentence": "At the beginning I did not quite understand the aim and purpose of this part, and even though the pieces eventually fell somewhat more into place, I still struggled to fully understand the connection.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997129540697764,
+            "ai": 0.000255850336177093,
+            "paraphrased": 0.00003119559404645563
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00024172298894616683,
+          "sentence": "I simply did not get very much out of this third part.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997582770110538,
+            "ai": 0.00020574559501431732,
+            "paraphrased": 0.000035977393931849514
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002451433091268062,
+          "sentence": "It affects my assessment of the book, which should have been a six on the dice, but which instead “only” becomes a five.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997548566908732,
+            "ai": 0.00021299541047648974,
+            "paraphrased": 0.00003214789865031645
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019059342427338294,
+          "sentence": "Otherwise I must add that it is especially part three that contains a load of humour and witty exchanges of lines, which made me roar with laughter many times.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998094065757266,
+            "ai": 0.00016035539138926897,
+            "paraphrased": 0.000030238032884113974
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0019561243523605267,
+          "sentence": "Grytten is and remains one of the greatest living Norwegian authors I know of!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9980438756476395,
+            "ai": 0.0019062264690066929,
+            "paraphrased": 0.00004989788335383399
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00292529442867077,
+          "sentence": "I am convinced that this is a book I will take great pleasure in reading again in a few years.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9970747055713293,
+            "ai": 0.0028607181232021732,
+            "paraphrased": 0.00006457630546859669
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.999950551942263,
+        "ai": 0.00004944805773695058,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.999950551942263,
+          "ai": 0.00004944805773695058,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "# A satirical sideways glance at social-democratic Norway in the years 1980–2010\n\nWhen Frode Grytten comes out with a new book, this is always connected with great excitement! And he does not disappoint this time either. To read his sharp portrayals of people and environments, first and foremost far from the noise and bustle of the city and then, not surprisingly this time too, partly from Odda, is a delight! The village’s merciless and critical view of anything and anyone who is even a tiny bit different from everything else is anything but inclusive. If you do not fit in, it is over and out for you!\n\n**“Saganatt”**, or the Lunde trilogy as it is called, is divided into three parts, and in reality contains three fairly independent novels. As in “Bikubesong,” however, there is a connection between the stories, as will become apparent after a while.\n\nIn the first part, **“Kom søndag,”** we are introduced to Arvid Lunde, who comes ashore in Odda in the late autumn of 1980. With his high-water trousers — or spring-tide trousers, as they are consistently referred to — he is immediately noticed, weighed and found wanting by those who look at him. Preferably by the boys from the smelting works, who frequent the pub “Smeltaren.”\n\nArvid Lunde has been offered a job as a teacher, and has left his former life in Bergen in order to start anew in Odda. For the first weeks he has to live at the place’s only guesthouse, where the receptionist Blondie works, a woman who always goes after newly arrived men in the hope that they will get her away from this dreary place. She tries her luck with Arvid too, and the fact that he rejects her makes her never speak to him again. Arvid is wildly enthusiastic about Odda, and he has a vision of taking an active part in the labour movement. But his commitment is not quite believed, because he is so different from the typical industrial worker. Nor does he fit in with the power elite in the village, and he therefore remains a fairly lonely man through most of the 1980s. There is a lot of speculation about him as a person. Is he perhaps gay, since he has no woman in his life? The gay rumours are eventually replaced by rumours that he is involved with a 17-year-old girl whom he has reluctantly agreed to give extra lessons at home in his bedsit. He truly becomes an outcast man, but he does not leave Odda for that reason.\n\nThe village’s hostility toward Arvid Lunde takes a new turn when it turns out that he has gone and become rich almost “in secret” during the years he has lived in Odda. The people of the village do not like rich people, while at the same time they cannot help admiring him, a man who has achieved what they all in fact go around dreaming of: getting a lot of money fast! In time Arvid becomes a real yuppie, a successful financier, and moves to Oslo. He gets himself a woman too. Even a son. Until the financial crisis brings most of it to a brutal end ...\n\nIn part two — **“I morgon er det mondag”** — we meet the furniture dealer Harold Lunde, formerly a successful businessman who in his time took over the furniture shop after his father. Harold Lunde’s shop stood for quality, and the running of the business was based on the fact that he knew all his customers, knew who were good and bad payers. And it could have continued like that, had it not been for IKEA coming to Åsane in Bergen, and competing him completely out onto the sidelines with its shoddy furniture. That, in fact, he does not get over.\n\nFurniture-Lunde has two sons — the previously mentioned Arvid Lunde, as well as Jan Lunde, who is a journalist and lives in Oslo. Neither of the sons likes him, and after the scandal around Arvid, Harold no longer speaks about him. His wife Marny has disappeared into the fog of dementia and barely remembers who he is. So there he stands — without a livelihood, long since bankrupt, with a wife who has forgotten him and with children and grandchildren who do not want contact with him. He carries out one last desperate act when he travels to Sweden to kidnap IKEA’s Ingvar Kamprad. He wants revenge!\n\nIn part three — **“Den åttande dagen”** — we find ourselves around Oslo in 2010. To the extent that this last part is connected with the two preceding ones, it is because we meet Robby Lunde, the son of Arvid Lunde, who has managed to get into his twenties. Gerhardsen and Bratteli drive around in Toyota Corollas to make sure that good social democrats live their lives in accordance with the party book. They are so-called “unliving,” and no one can see them. At regular intervals they prevent scandals in which elected representatives are involved from reaching the public’s ears. Whether it is the man who has cashed in the pension of his long-dead mother for more than thirty years, while the mother has been frozen in the freezer ... and many other cases which, if they came out, would have damaged social democracy and its spirit ...\n\nParts 1 and 2 of the book engaged me 110 percent. The story of Arvid Lunde and his brutal meeting with rural Norway is in many ways exactly the way I expect it to be when I am facing a Grytten book! Even though part 2 goes a little over the top toward the end, it was perhaps the part of the trilogy that touched me most of all. The story of Harold and Marny losing each other, because Marny’s dementia becomes more and more advanced, until Harold in the end can no longer keep her at home, is heartbreaking. And even more heartbreaking was reading about both spouses being stripped of authority in relation to each other when Marny finally ended up in a nursing home, and was almost not given permission to come home — not by Harold, but by the nursing home staff. In the last part I basically fell off the wagon quite a bit, I must admit. At the beginning I did not quite understand the aim and purpose of this part, and even though the pieces eventually fell somewhat more into place, I still struggled to fully understand the connection. I simply did not get very much out of this third part. It affects my assessment of the book, which should have been a six on the dice, but which instead “only” becomes a five. Otherwise I must add that it is especially part three that contains a load of humour and witty exchanges of lines, which made me roar with laughter many times. Grytten is and remains one of the greatest living Norwegian authors I know of!\n\nI am convinced that this is a book I will take great pleasure in reading again in a few years.\n",
+      "document_id": null
+    }
+  ]
+}

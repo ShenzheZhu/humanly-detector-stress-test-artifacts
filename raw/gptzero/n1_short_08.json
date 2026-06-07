@@ -1,0 +1,255 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.999975671666441,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999859109103506,
+          "sentence": "This is going to sound a little ridiculous, but I accidentally found a really useful plotting exercise by pretending my own book already had an obsessive fandom.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014089089649343703,
+            "ai": 0.9999741794145179,
+            "paraphrased": 0.000011731495832705406
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999917965702261,
+          "sentence": "I took a scene that felt pretty straightforward and asked myself, “If people online were trying to prove this meant something else, what would they point to?” Then I started doing it with character motives, repeated details, weird timing, unanswered questions, all of it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008203429773919287,
+            "ai": 0.9999745362262581,
+            "paraphrased": 0.000017260343968024447
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999924597694487,
+          "sentence": "Instead of treating my outline as the author, I treated it like evidence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007540230551230281,
+            "ai": 0.9999740325405803,
+            "paraphrased": 0.000018427228868483276
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999910053880873,
+          "sentence": "And somehow it worked.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008994611912706382,
+            "ai": 0.9999753807375622,
+            "paraphrased": 0.00001562465052510516
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999924702844606,
+          "sentence": "A side character’s odd choices suddenly suggested a much better hidden agenda.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007529715539379919,
+            "ai": 0.9999737485183998,
+            "paraphrased": 0.000018721766060800477
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993134060367,
+          "sentence": "A couple of scenes I thought were just connective tissue became potential foreshadowing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000068659396328500284,
+            "ai": 0.9999726430507139,
+            "paraphrased": 0.00002049100965322773
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999926921501257,
+          "sentence": "Even places where the story felt too clean gave me chances to add tension without changing the actual events.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007307849874276378,
+            "ai": 0.9999738198399525,
+            "paraphrased": 0.000018872310173200666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999992452723888,
+          "sentence": "I’m not saying every story needs a giant secret conspiracy, but looking at my draft through the eyes of a suspicious reader made it feel less flat.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000075472761118827515,
+            "ai": 0.9999742908382703,
+            "paraphrased": 0.00001816188561779904
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999840824577172,
+          "sentence": "If your plot seems too simple, try misinterpreting it on purpose.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015917542282807817,
+            "ai": 0.9999715561493984,
+            "paraphrased": 0.000012526308318844695
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "This is going to sound a little ridiculous, but I accidentally found a really useful plotting exercise by pretending my own book already had an obsessive fandom.\n\nI took a scene that felt pretty straightforward and asked myself, “If people online were trying to prove this meant something else, what would they point to?” Then I started doing it with character motives, repeated details, weird timing, unanswered questions, all of it. Instead of treating my outline as the author, I treated it like evidence.\n\nAnd somehow it worked. A side character’s odd choices suddenly suggested a much better hidden agenda. A couple of scenes I thought were just connective tissue became potential foreshadowing. Even places where the story felt too clean gave me chances to add tension without changing the actual events.\n\nI’m not saying every story needs a giant secret conspiracy, but looking at my draft through the eyes of a suspicious reader made it feel less flat. If your plot seems too simple, try misinterpreting it on purpose.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.0003734586231983425,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9996236119011804,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.005687619428883809,
+          "sentence": "Human beings interact with the world through bodily operations and mental processes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9943123805711162,
+            "ai": 0.005435790915900709,
+            "paraphrased": 0.00025182851298310006
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0025122388292110284,
+          "sentence": "Mental processes include the processing of the information provided by the senses, the storage of information, reasoning, decision-making in order to react appropriately to events in the environment, and problem solving.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.997487761170789,
+            "ai": 0.0023031274232575096,
+            "paraphrased": 0.0002091114059535187
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0024608202176455676,
+          "sentence": "Modern cognitive psychology is responsible for studying these processes, but unlike its nineteenth-century predecessor, it is not based on introspection.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9975391797823544,
+            "ai": 0.002231869618229753,
+            "paraphrased": 0.00022895059941581474
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0016228075214836989,
+          "sentence": "Modern cognitive psychology studies human behaviors, interpreted in terms of these processes, and together with cognitive neuroscience seeks to explain the processes in terms of the physiological functioning of the brain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9983771924785163,
+            "ai": 0.0014324425555213066,
+            "paraphrased": 0.00019036496596239218
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0020491547628973612,
+          "sentence": "Mental or cognitive processes are very complex and interactive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9979508452371026,
+            "ai": 0.001814436853824868,
+            "paraphrased": 0.00023471790907249324
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017437996200013208,
+          "sentence": "There are no specific points at which one can say that one ends and another begins.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982562003799986,
+            "ai": 0.0015129275499069818,
+            "paraphrased": 0.000230872070094339
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017954380262097888,
+          "sentence": "However, for teaching purposes it is possible to group them into four different areas based on the process they carry out on the information that people receive from the environment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982045619737903,
+            "ai": 0.0015825399469402833,
+            "paraphrased": 0.0002128980792695054
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002300782080627769,
+          "sentence": "The processes related to the capture of information (sensation, perception, and attention) receive information from the environment and make it available to the other processes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9976992179193722,
+            "ai": 0.0020948311201327953,
+            "paraphrased": 0.00020595096049497389
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017515664812398591,
+          "sentence": "The processes related to reaction (emotion and motivation) take the information and lead people to take actions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982484335187601,
+            "ai": 0.0015313649408757667,
+            "paraphrased": 0.00022020154036409242
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002423009652631836,
+          "sentence": "Memory is the process related to the storage of information, and the processes related to its processing (learning, thought, language, and intelligence) allow us to analyze both stored information and new information captured by the senses in order to adapt and modify the environment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9975769903473681,
+            "ai": 0.0022039503786890507,
+            "paraphrased": 0.00021905927394278525
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002463788390118021,
+          "sentence": "Sensation is the process that includes the capture of information by the senses (sight, hearing, taste, smell, pain, pressure, temperature, proprioception, etc.)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9975362116098819,
+            "ai": 0.002246919153851942,
+            "paraphrased": 0.000216869236266079
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0027077106036777834,
+          "sentence": "receive stimuli and encode them in order to transmit them to the brain through afferent neurons, especially with the minimum magnitude that a stimulus must have so that it can be reliably distinguished from its absence, known as the absolute threshold, and with the minimum difference that must exist between two stimuli so that the senses identify a difference, known as the minimum perceptible difference (MPD).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9972922893963222,
+            "ai": 0.0024785119421812866,
+            "paraphrased": 0.00022919866149649686
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0023878380178322155,
+          "sentence": "It also makes use of signal detection theory to understand the processes that make it possible to differentiate a stimulus from the rest of the information in the environment, called noise, because that process sometimes fails (we see something that does not exist, we hear a sound that has not been produced, etc.)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9976121619821677,
+            "ai": 0.0021526309198065447,
+            "paraphrased": 0.00023520709802567075
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9996236119011804,
+        "ai": 0.00037638809881953964,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9996236119011804,
+          "ai": 0.00037638809881953964,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Human beings interact with the world through bodily operations and mental processes. Mental processes include the processing of the information provided by the senses, the storage of information, reasoning, decision-making in order to react appropriately to events in the environment, and problem solving. Modern cognitive psychology is responsible for studying these processes, but unlike its nineteenth-century predecessor, it is not based on introspection. Modern cognitive psychology studies human behaviors, interpreted in terms of these processes, and together with cognitive neuroscience seeks to explain the processes in terms of the physiological functioning of the brain.\n\nMental or cognitive processes are very complex and interactive. There are no specific points at which one can say that one ends and another begins. However, for teaching purposes it is possible to group them into four different areas based on the process they carry out on the information that people receive from the environment. The processes related to the capture of information (sensation, perception, and attention) receive information from the environment and make it available to the other processes. The processes related to reaction (emotion and motivation) take the information and lead people to take actions. Memory is the process related to the storage of information, and the processes related to its processing (learning, thought, language, and intelligence) allow us to analyze both stored information and new information captured by the senses in order to adapt and modify the environment.\n\nSensation is the process that includes the capture of information by the senses (sight, hearing, taste, smell, pain, pressure, temperature, proprioception, etc.) and its transmission to the brain. It is concerned with the mechanisms through which the receptor organs (eyes, ears, etc.) receive stimuli and encode them in order to transmit them to the brain through afferent neurons, especially with the minimum magnitude that a stimulus must have so that it can be reliably distinguished from its absence, known as the absolute threshold, and with the minimum difference that must exist between two stimuli so that the senses identify a difference, known as the minimum perceptible difference (MPD). It also makes use of signal detection theory to understand the processes that make it possible to differentiate a stimulus from the rest of the information in the environment, called noise, because that process sometimes fails (we see something that does not exist, we hear a sound that has not been produced, etc.) and what the implications of those errors are.\n",
+      "document_id": null
+    }
+  ]
+}

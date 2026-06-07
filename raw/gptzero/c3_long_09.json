@@ -1,0 +1,900 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 11,
+          "completely_generated_prob": 7.905466206762634e-10
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 10,
+          "completely_generated_prob": 5.7802509961791254e-9
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        }
+      ],
+      "completely_generated_prob": 0.000029146009778539945,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999681114739231,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0007318606257984972,
+          "sentence": "The Hungarian Jew Andras Lévi has had a dream fulfilled that he had hardly dared to hope would come true: he has received a scholarship to the prestigious architecture school Ecole Speciale in Paris.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992681393742016,
+            "ai": 0.000656126083331053,
+            "paraphrased": 0.00007573454246744411
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006208365918431076,
+          "sentence": "In Hungary it is not easy for Jews to get an education, because the number of Jews admitted is very limited.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993791634081569,
+            "ai": 0.0005504230532668843,
+            "paraphrased": 0.00007041353857622331
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004146286048934303,
+          "sentence": "When he packs the few belongings he owns into a suitcase and is about to leave for Paris in 1937, he is given a letter from some acquaintances of his parents, which he is to deliver to the mysterious C. Morgenstern.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995853713951066,
+            "ai": 0.0003503639616827538,
+            "paraphrased": 0.00006426464321067653
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005937165156522029,
+          "sentence": "Little does he know then that this woman, who makes her living as a dance instructor, will eventually become the great love of his life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994062834843478,
+            "ai": 0.0005186242934035846,
+            "paraphrased": 0.00007509222224861828
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003885731962372895,
+          "sentence": "After only a short time in Paris, the unthinkable happens; the scholarship is stopped for unknown reasons, and for a while things look very bleak for Andras.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996114268037627,
+            "ai": 0.0003223287897265441,
+            "paraphrased": 0.00006624440651074538
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00034029260376285044,
+          "sentence": "But then, fortunately, he gets a job as an errand boy at the Sarah Bernhard theatre, and it thus becomes possible for him both to pay his tuition fees and to survive in some way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996597073962371,
+            "ai": 0.0002753462896340467,
+            "paraphrased": 0.00006494631412880374
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00037710825655146944,
+          "sentence": "In the years before the outbreak of the Second World War, it is not entirely safe to be a Jew in Paris, because hatred of Jews runs deep among people, and there are many—not only the Nazis—who want to have the Jews removed from society.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996228917434485,
+            "ai": 0.00031838705080336287,
+            "paraphrased": 0.00005872120574810654
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00045534134638574106,
+          "sentence": "In the beginning it is above all far-right groups that quite literally beat up and even kill Jews.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995446586536143,
+            "ai": 0.0003888891458822045,
+            "paraphrased": 0.00006645220050353655
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007135273771045857,
+          "sentence": "Gradually the Jews are blamed for most of what is wrong.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992864726228954,
+            "ai": 0.0006394697701373132,
+            "paraphrased": 0.00007405760696727242
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009016193006232328,
+          "sentence": "Even before France was occupied by the Germans, laws were introduced that made it almost impossible for Jews without French citizenship to remain there.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990983806993767,
+            "ai": 0.000832795132600976,
+            "paraphrased": 0.00006882416802225681
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012100464221576112,
+          "sentence": "In the meantime, Andras and Klara, which is Miss C. Morgenstern’s real name, have begun a relationship.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987899535778424,
+            "ai": 0.0011334615850203571,
+            "paraphrased": 0.00007658483713725394
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0013682159121340457,
+          "sentence": "Klara is almost ten years older than Andras, but he does not care about this in the slightest.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9986317840878659,
+            "ai": 0.0012768442282601801,
+            "paraphrased": 0.00009137168387386551
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017131185381627839,
+          "sentence": "He loves Klara and she is the one he wants.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982868814618372,
+            "ai": 0.0016226147260778394,
+            "paraphrased": 0.00009050381208494444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0019127034554996588,
+          "sentence": "Klara, who is a Hungarian in exile and who is hiding a secret so dreadful that she will not reveal it to just anyone for the life of her ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9980872965445003,
+            "ai": 0.0018178018604655076,
+            "paraphrased": 0.00009490159503415124
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001977214030612481,
+          "sentence": "Eventually Andras is forced to leave France and return to Hungary.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9980227859693875,
+            "ai": 0.0018817447041502952,
+            "paraphrased": 0.00009546932646218578
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0029318541321561573,
+          "sentence": "Klara goes with him because she does not want to leave the man who has, by then, become her husband.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9970681458678439,
+            "ai": 0.002828220248212864,
+            "paraphrased": 0.00010363388394329333
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00619358072306143,
+          "sentence": "In Budapest, however, a rather unkind fate awaits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9938064192769386,
+            "ai": 0.006062376399847826,
+            "paraphrased": 0.00013120432321360334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003150699395280084,
+          "sentence": "Even though Hungary was perhaps not the country that treated its Jews worst, not even after the country became allied with Germany, Jews in particular were called up to labour camps, where conditions were so miserable that it was more a matter of luck than anything else that some survived at all.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999684930060472,
+            "ai": 0.00028571704757892604,
+            "paraphrased": 0.00002935289194908235
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012572458735834362,
+          "sentence": "Andras, like his male family members—including two brothers—and other Jews, is used, among other things, as a mine clearer along the border with the Soviet Union.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998742754126416,
+            "ai": 0.00010110729325077275,
+            "paraphrased": 0.00002461729410757086
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000727694108703199,
+          "sentence": "Meanwhile Klara, who is pregnant with the couple’s first child, has to manage as best she can on her own.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999272305891297,
+            "ai": 0.00005060680974039822,
+            "paraphrased": 0.00002216260112992168
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000056002821632325554,
+          "sentence": "That is, she has her family around her, but she is unaware that her wealthy father is being pressured for large sums by Hungarian officials to ensure that her old secret is not brought up again.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999439971783677,
+            "ai": 0.0000353182813269267,
+            "paraphrased": 0.000020684540305398848
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004945375529517027,
+          "sentence": "The Second World War moves forward, and with this come suffering and death, hunger and frostbite ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999505462447048,
+            "ai": 0.000032040047369865556,
+            "paraphrased": 0.000017413707925304712
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005007452967680076,
+          "sentence": "Pure luck decides who survives.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999499254703232,
+            "ai": 0.000034286909567633305,
+            "paraphrased": 0.00001578762010916746
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004433012414312405,
+          "sentence": "Most, however, are not so lucky ... We follow Andras’s and Klara’s families until the end of the war, which ends with Budapest being bombed to pieces.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999556698758568,
+            "ai": 0.000026991939129272547,
+            "paraphrased": 0.000017338185013851498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006320027628598666,
+          "sentence": "The few who managed to survive eventually fled to the United States ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999936799723714,
+            "ai": 0.00004684883879513719,
+            "paraphrased": 0.000016351437490849466
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004557867028704046,
+          "sentence": "In the meantime they had experienced their ally—Germany—occupying Hungary, which led to massive attacks on the Jewish part of the population.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999544213297129,
+            "ai": 0.000028598122953090248,
+            "paraphrased": 0.00001698054733395021
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010496862916639763,
+          "sentence": "Around 400,000 Jews were killed in German concentration camps during the occupation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998950313708336,
+            "ai": 0.00008627841197705783,
+            "paraphrased": 0.000018690217189339798
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007693656976656685,
+          "sentence": "Their liberators, the Russians, ended up in the end as new occupiers, and the expected freedom therefore failed to arrive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999230634302334,
+            "ai": 0.00006238541100611329,
+            "paraphrased": 0.000014551158760453565
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013804125998846624,
+          "sentence": "The Battle of Budapest is, incidentally, considered one of the bloodiest battles of the Second World War, and it was the Russians who fought the Germans to gain control of the city.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998619587400115,
+            "ai": 0.0001202671850566094,
+            "paraphrased": 0.00001777407493185683
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001080489224632426,
+          "sentence": "After long sieges of the city, the Germans finally gave up and capitulated in mid-February 1945.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998919510775368,
+            "ai": 0.00009049661775084906,
+            "paraphrased": 0.000017552304712393542
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001233148550934767,
+          "sentence": "During the two-month occupation, the city’s Hungarians survived in what was left of the city, without access to new food supplies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998766851449066,
+            "ai": 0.00010605876722000741,
+            "paraphrased": 0.0000172560878734693
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00100152227611071,
+          "sentence": "By then 70% of the city had been bombed to pieces, and all the bridges that had once connected the districts of Buda and Pest were destroyed ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989984777238893,
+            "ai": 0.0009691839364148415,
+            "paraphrased": 0.0000323383396958685
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001200416332751158,
+          "sentence": "This book of more than 700 pages was not so much as a single page too long!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987995836672489,
+            "ai": 0.0011661135606401184,
+            "paraphrased": 0.000034302772111039605
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.006980827327478968,
+          "sentence": "On the contrary, I felt that perhaps it went a little too quickly toward the end.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.993019172672521,
+            "ai": 0.006926994833992758,
+            "paraphrased": 0.0000538324934862093
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004419670263375922,
+          "sentence": "Not since I read Hans Fallada’s “Every Man Dies Alone” last autumn have I been so thoroughly engaged by a book as when I read “The Invisible Bridge.” Some of this is of course because I am very fond of, and fascinated by, Hungary as a country, and some of it is because the Second World War, and especially the fate of the Jews, engages me strongly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999558032973662,
+            "ai": 0.00003237263541984159,
+            "paraphrased": 0.000011824067213917636
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004070743469264772,
+          "sentence": "While I was reading the book, I thought more and more about what had led Julie Orringer, a relatively young American author, to become so intensely interested in the fate of Hungarian Jews that she wrote this colossus of a novel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999592925653074,
+            "ai": 0.000027849919118086402,
+            "paraphrased": 0.000012857515574561313
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003622719350019295,
+          "sentence": "I got the answer when I read the afterword.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999637728064998,
+            "ai": 0.000023264365443517223,
+            "paraphrased": 0.000012962828056675729
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004355016530393068,
+          "sentence": "For this is, not surprisingly, about her own family’s history, although the novel itself is fiction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999564498346961,
+            "ai": 0.000030194699059074088,
+            "paraphrased": 0.000013355466244856594
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003989718100855401,
+          "sentence": "At that point many pieces fell into place.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999601028189914,
+            "ai": 0.00002613561597559965,
+            "paraphrased": 0.000013761565032954362
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003772815088567179,
+          "sentence": "I do not think it is possible to dig up so many details about what actually happened in Hungary without having other sources to go to than documents alone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999622718491143,
+            "ai": 0.000024451481695191916,
+            "paraphrased": 0.000013276669190479874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003802941403680653,
+          "sentence": "Hungary shares the fate of all the other Soviet-occupied states that formerly made up the Eastern Bloc, where history was written to promote the Russification of the country and not to document the actual truth about what happened.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999619705859631,
+            "ai": 0.000025498016797174476,
+            "paraphrased": 0.000012531397239632055
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000042070234023805904,
+          "sentence": "Therefore I am left with a feeling of having read something quite unique, something about which not all that much has previously been written.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999579297659762,
+            "ai": 0.000029684999706171695,
+            "paraphrased": 0.00001238523431763421
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000038928621650569614,
+          "sentence": "“The Invisible Bridge” is well written, deeply moving, interesting, brutal, and informative about Hungary’s role during the Second World War, seen from the standpoint of a couple of Jewish families.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999610713783494,
+            "ai": 0.00002710116497977074,
+            "paraphrased": 0.000011827456670798875
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004174088116165241,
+          "sentence": "Orringer has conveyed the utterly surreal nature of the fate that befell the Jews without resorting either to clichés or tearjerker tendencies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999582591188384,
+            "ai": 0.000029574722636147273,
+            "paraphrased": 0.00001216615852550514
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004446195375940473,
+          "sentence": "Perhaps it was precisely the increasingly compressed narrative style toward the end that meant the most gruesome details did not come across as as tear-choked as they most likely otherwise could have become?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999555380462406,
+            "ai": 0.00003281447435461661,
+            "paraphrased": 0.000011647479404788125
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000044875322967586777,
+          "sentence": "Even though the book is very well written and even though the story is very interesting, I have been somewhat in doubt as to whether I should give it five or six on the dice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999551246770324,
+            "ai": 0.00003313541136090293,
+            "paraphrased": 0.00001173991160668385
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004519165798832618,
+          "sentence": "Among other things, I missed the truly good and deeply probing character portraits that books worthy of a six are marked by.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999548083420117,
+            "ai": 0.00003300738134251331,
+            "paraphrased": 0.000012184276645812868
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005242575709219684,
+          "sentence": "When I nevertheless end up giving it **six on the dice**, it is the story and the uniqueness of its breadth and depth that have been decisive for me.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999475742429078,
+            "ai": 0.000041984430222813195,
+            "paraphrased": 0.000010441326869383643
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000758626676538442,
+          "sentence": "The book is truly well worth reading, and I recommend it most warmly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999241373323462,
+            "ai": 0.0000652231653771333,
+            "paraphrased": 0.000010639502276710896
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003024746451661366,
+          "sentence": "I myself found the beginning of the book a little heavy, but after passing page 100, the pages practically turned themselves.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996975253548339,
+            "ai": 0.00028845605547282005,
+            "paraphrased": 0.000014018589693316532
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999681114739231,
+        "ai": 0.00003188852607694331,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999681114739231,
+          "ai": 0.00003188852607694331,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "The Hungarian Jew Andras Lévi has had a dream fulfilled that he had hardly dared to hope would come true: he has received a scholarship to the prestigious architecture school Ecole Speciale in Paris. In Hungary it is not easy for Jews to get an education, because the number of Jews admitted is very limited. When he packs the few belongings he owns into a suitcase and is about to leave for Paris in 1937, he is given a letter from some acquaintances of his parents, which he is to deliver to the mysterious C. Morgenstern. Little does he know then that this woman, who makes her living as a dance instructor, will eventually become the great love of his life.\n\nAfter only a short time in Paris, the unthinkable happens; the scholarship is stopped for unknown reasons, and for a while things look very bleak for Andras. But then, fortunately, he gets a job as an errand boy at the Sarah Bernhard theatre, and it thus becomes possible for him both to pay his tuition fees and to survive in some way.\n\nIn the years before the outbreak of the Second World War, it is not entirely safe to be a Jew in Paris, because hatred of Jews runs deep among people, and there are many—not only the Nazis—who want to have the Jews removed from society. In the beginning it is above all far-right groups that quite literally beat up and even kill Jews. Gradually the Jews are blamed for most of what is wrong. Even before France was occupied by the Germans, laws were introduced that made it almost impossible for Jews without French citizenship to remain there.\n\nIn the meantime, Andras and Klara, which is Miss C. Morgenstern’s real name, have begun a relationship. Klara is almost ten years older than Andras, but he does not care about this in the slightest. He loves Klara and she is the one he wants. Klara, who is a Hungarian in exile and who is hiding a secret so dreadful that she will not reveal it to just anyone for the life of her ...\n\nEventually Andras is forced to leave France and return to Hungary. Klara goes with him because she does not want to leave the man who has, by then, become her husband. In Budapest, however, a rather unkind fate awaits. Even though Hungary was perhaps not the country that treated its Jews worst, not even after the country became allied with Germany, Jews in particular were called up to labour camps, where conditions were so miserable that it was more a matter of luck than anything else that some survived at all. Andras, like his male family members—including two brothers—and other Jews, is used, among other things, as a mine clearer along the border with the Soviet Union. Meanwhile Klara, who is pregnant with the couple’s first child, has to manage as best she can on her own. That is, she has her family around her, but she is unaware that her wealthy father is being pressured for large sums by Hungarian officials to ensure that her old secret is not brought up again.\n\nThe Second World War moves forward, and with this come suffering and death, hunger and frostbite ... Pure luck decides who survives. Most, however, are not so lucky ... We follow Andras’s and Klara’s families until the end of the war, which ends with Budapest being bombed to pieces. The few who managed to survive eventually fled to the United States ... In the meantime they had experienced their ally—Germany—occupying Hungary, which led to massive attacks on the Jewish part of the population. Around 400,000 Jews were killed in German concentration camps during the occupation. Their liberators, the Russians, ended up in the end as new occupiers, and the expected freedom therefore failed to arrive. The Battle of Budapest is, incidentally, considered one of the bloodiest battles of the Second World War, and it was the Russians who fought the Germans to gain control of the city. After long sieges of the city, the Germans finally gave up and capitulated in mid-February 1945. During the two-month occupation, the city’s Hungarians survived in what was left of the city, without access to new food supplies. By then 70% of the city had been bombed to pieces, and all the bridges that had once connected the districts of Buda and Pest were destroyed ...\n\nThis book of more than 700 pages was not so much as a single page too long! On the contrary, I felt that perhaps it went a little too quickly toward the end. Not since I read Hans Fallada’s “Every Man Dies Alone” last autumn have I been so thoroughly engaged by a book as when I read “The Invisible Bridge.” Some of this is of course because I am very fond of, and fascinated by, Hungary as a country, and some of it is because the Second World War, and especially the fate of the Jews, engages me strongly. While I was reading the book, I thought more and more about what had led Julie Orringer, a relatively young American author, to become so intensely interested in the fate of Hungarian Jews that she wrote this colossus of a novel. I got the answer when I read the afterword. For this is, not surprisingly, about her own family’s history, although the novel itself is fiction. At that point many pieces fell into place. I do not think it is possible to dig up so many details about what actually happened in Hungary without having other sources to go to than documents alone. Hungary shares the fate of all the other Soviet-occupied states that formerly made up the Eastern Bloc, where history was written to promote the Russification of the country and not to document the actual truth about what happened. Therefore I am left with a feeling of having read something quite unique, something about which not all that much has previously been written.\n\n“The Invisible Bridge” is well written, deeply moving, interesting, brutal, and informative about Hungary’s role during the Second World War, seen from the standpoint of a couple of Jewish families. Orringer has conveyed the utterly surreal nature of the fate that befell the Jews without resorting either to clichés or tearjerker tendencies. Perhaps it was precisely the increasingly compressed narrative style toward the end that meant the most gruesome details did not come across as as tear-choked as they most likely otherwise could have become? Even though the book is very well written and even though the story is very interesting, I have been somewhat in doubt as to whether I should give it five or six on the dice. Among other things, I missed the truly good and deeply probing character portraits that books worthy of a six are marked by. When I nevertheless end up giving it **six on the dice**, it is the story and the uniqueness of its breadth and depth that have been decisive for me. The book is truly well worth reading, and I recommend it most warmly. I myself found the beginning of the book a little heavy, but after passing page 100, the pages practically turned themselves.\n",
+      "document_id": null
+    }
+  ]
+}

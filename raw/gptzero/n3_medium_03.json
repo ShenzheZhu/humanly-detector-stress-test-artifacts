@@ -1,0 +1,601 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.7145451996534505
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.941858946717966,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9419207039380786,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999313036227677,
+          "sentence": "Motivational interviewing is a conversational method that helps people change their behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000686963772322837,
+            "ai": 0.9996341805766237,
+            "paraphrased": 0.00029712304614403943
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999544903732498,
+          "sentence": "Its core is not persuasion, command, or criticism, but helping people, through respect, listening, and questions, to say for themselves why they want to change, what difficulties they face, and what they are willing to do next.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004550962675017314,
+            "ai": 0.9996534543512259,
+            "paraphrased": 0.00030103602202394893
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999466876471382,
+          "sentence": "In simple terms, motivational interviewing assumes that change cannot rely only on external pressure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005331235286170625,
+            "ai": 0.9996248972393181,
+            "paraphrased": 0.0003217904078201235
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999314161538251,
+          "sentence": "Truly stable change often comes from reasons and confidence that gradually develop within a person.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006858384617492304,
+            "ai": 0.9996207866878178,
+            "paraphrased": 0.00031062946600727496
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999698085224246,
+          "sentence": "Many people facing change are not completely unaware of the facts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000301914775754439,
+            "ai": 0.9996562188553986,
+            "paraphrased": 0.0003135896670259939
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999840928536372,
+          "sentence": "For example, someone may know that smoking harms health and that exercise benefits the body, yet still find it difficult to act.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015907146362899897,
+            "ai": 0.9997046813193682,
+            "paraphrased": 0.00027941153426897013
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999893332889981,
+          "sentence": "This is not necessarily because of laziness or ignorance, but because people often hold two opposing thoughts at the same time: on one hand, they want to become healthier; on the other, they fear losing familiar habits, worry about failure, or feel that change is too exhausting.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010666711001931522,
+            "ai": 0.999703056264822,
+            "paraphrased": 0.00028627702417606353
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999879926289363,
+          "sentence": "This kind of ambivalence is very common in behavior change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012007371063649351,
+            "ai": 0.999768801420948,
+            "paraphrased": 0.00021919120798832246
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999878046095831,
+          "sentence": "The role of motivational interviewing is to help people clarify this conflict, so that the voice of “why I want to change” becomes clearer, rather than making the pressure of “I must change” stronger.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001219539041685517,
+            "ai": 0.9997231042614612,
+            "paraphrased": 0.00026470034812199617
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999783125619659,
+          "sentence": "From the perspective of motivation, motivational interviewing values autonomy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002168743803410146,
+            "ai": 0.9997194533117925,
+            "paraphrased": 0.0002588592501734405
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999809394129162,
+          "sentence": "When people feel they are being controlled, they often instinctively resist, even if the advice itself is correct.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019060587083869533,
+            "ai": 0.9997517051973053,
+            "paraphrased": 0.00022923421561089996
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999687733361415,
+          "sentence": "By contrast, when people feel that the choice is in their own hands, they are more likely to develop internal motivation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000312266638584272,
+            "ai": 0.9997242095704865,
+            "paraphrased": 0.00024456376565507016
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999576749374784,
+          "sentence": "Counselors use techniques such as open-ended questions, reflective listening, and affirmation to help clients feel understood.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000042325062521531,
+            "ai": 0.9997149955805521,
+            "paraphrased": 0.00024267935692631203
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999292221217988,
+          "sentence": "For instance, a counselor would not say, “You must lose weight, or you will get sick,” but might ask, “If your health improved, what changes would you most like to see in your life?” Such a question can guide the person to think about personal values rather than focus only on external demands.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000707778782012107,
+            "ai": 0.9996647330141137,
+            "paraphrased": 0.0002644891076850368
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985238105586226,
+          "sentence": "From an emotional perspective, change is often accompanied by shame, anxiety, frustration, and fear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001476189441377473,
+            "ai": 0.9979805151054568,
+            "paraphrased": 0.0005432954531657544
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9920225031204913,
+          "sentence": "Direct criticism easily makes people defensive, or even causes them to give up trying.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007977496879508671,
+            "ai": 0.991295224295511,
+            "paraphrased": 0.0007272788249803218
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6189435263830598,
+          "sentence": "Motivational interviewing reduces a person’s sense of psychological threat by accepting their emotions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3810564736169401,
+            "ai": 0.618384029375423,
+            "paraphrased": 0.00055949700763684
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8123210689320111,
+          "sentence": "When people are no longer busy protecting themselves, they are more likely to face problems honestly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1876789310679889,
+            "ai": 0.8117875963077157,
+            "paraphrased": 0.0005334726242954028
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8238527275143678,
+          "sentence": "Learning and decision-making are also related to this.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1761472724856322,
+            "ai": 0.823250546710594,
+            "paraphrased": 0.0006021808037738109
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9644807569238663,
+          "sentence": "In a safe conversational environment, people can more easily reflect on past experiences, discover which methods worked, identify which situations tend to lead back to old behaviors, and make more realistic choices accordingly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03551924307613371,
+            "ai": 0.9641111292272222,
+            "paraphrased": 0.0003696276966440882
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9392500092148618,
+          "sentence": "A concrete example is a university student who often procrastinates on assignments, causing his grades to decline.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.06074999078513822,
+            "ai": 0.9388515648956565,
+            "paraphrased": 0.0003984443192052915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9568033610160361,
+          "sentence": "He knows procrastination is bad, but whenever he thinks about how many tasks he has, he feels anxious and escapes by scrolling on his phone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04319663898396381,
+            "ai": 0.9564873746019389,
+            "paraphrased": 0.0003159864140972728
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9540468416145121,
+          "sentence": "If a teacher simply says, “You are too undisciplined,” he may feel even more ashamed and become even less willing to face the problem.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04595315838548784,
+            "ai": 0.9537124653773876,
+            "paraphrased": 0.00033437623712452737
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9800183271484484,
+          "sentence": "Using motivational interviewing, a counselor might ask, “What benefits and costs do you think procrastination brings you?” The student may answer that using his phone lets him relax temporarily, but in the end he stays up late, feels guilty, and gets worse grades.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01998167285155154,
+            "ai": 0.9797781639273103,
+            "paraphrased": 0.00024016322113811877
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9898246680175897,
+          "sentence": "The counselor can then ask, “If you could change just a little, where would you most like to start?” The student may decide to write for twenty minutes after dinner each day, rather than require himself to finish the entire task at once.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.010175331982410225,
+            "ai": 0.9896145936343698,
+            "paraphrased": 0.0002100743832199732
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9807000787865917,
+          "sentence": "Because this plan comes from the student himself, it is easier to carry out.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.019299921213408254,
+            "ai": 0.9804846931472304,
+            "paraphrased": 0.00021538563936127913
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9947912961287352,
+          "sentence": "Motivational interviewing is important because many real-life problems cannot be solved by knowledge alone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00520870387126485,
+            "ai": 0.9946467627908988,
+            "paraphrased": 0.00014453333783639457
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9754557337140358,
+          "sentence": "Health management, addictive behaviors, study habits, diet and exercise, psychotherapy, and career choices all involve complex emotions and personal values.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.024544266285964168,
+            "ai": 0.9751768430942968,
+            "paraphrased": 0.00027889061973907127
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.991535894287845,
+          "sentence": "It reminds professionals and educators that helping others change does not mean making decisions for them, but accompanying them as they find their own reasons, abilities, and direction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008464105712154946,
+            "ai": 0.9913739895717013,
+            "paraphrased": 0.00016190471614369902
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9900491370640703,
+          "sentence": "This approach shows greater respect for people and better fits the way change actually happens in real life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.009950862935929639,
+            "ai": 0.989915464134722,
+            "paraphrased": 0.0001336729293483468
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9419207039380786,
+        "mixed": 0.05807929606192146
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9419207039380786,
+          "mixed": 0.05807929606192146,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Motivational interviewing is a conversational method that helps people change their behavior. Its core is not persuasion, command, or criticism, but helping people, through respect, listening, and questions, to say for themselves why they want to change, what difficulties they face, and what they are willing to do next. In simple terms, motivational interviewing assumes that change cannot rely only on external pressure. Truly stable change often comes from reasons and confidence that gradually develop within a person.\n\nMany people facing change are not completely unaware of the facts. For example, someone may know that smoking harms health and that exercise benefits the body, yet still find it difficult to act. This is not necessarily because of laziness or ignorance, but because people often hold two opposing thoughts at the same time: on one hand, they want to become healthier; on the other, they fear losing familiar habits, worry about failure, or feel that change is too exhausting. This kind of ambivalence is very common in behavior change. The role of motivational interviewing is to help people clarify this conflict, so that the voice of “why I want to change” becomes clearer, rather than making the pressure of “I must change” stronger.\n\nFrom the perspective of motivation, motivational interviewing values autonomy. When people feel they are being controlled, they often instinctively resist, even if the advice itself is correct. By contrast, when people feel that the choice is in their own hands, they are more likely to develop internal motivation. Counselors use techniques such as open-ended questions, reflective listening, and affirmation to help clients feel understood. For instance, a counselor would not say, “You must lose weight, or you will get sick,” but might ask, “If your health improved, what changes would you most like to see in your life?” Such a question can guide the person to think about personal values rather than focus only on external demands.\n\nFrom an emotional perspective, change is often accompanied by shame, anxiety, frustration, and fear. Direct criticism easily makes people defensive, or even causes them to give up trying. Motivational interviewing reduces a person’s sense of psychological threat by accepting their emotions. When people are no longer busy protecting themselves, they are more likely to face problems honestly. Learning and decision-making are also related to this. In a safe conversational environment, people can more easily reflect on past experiences, discover which methods worked, identify which situations tend to lead back to old behaviors, and make more realistic choices accordingly.\n\nA concrete example is a university student who often procrastinates on assignments, causing his grades to decline. He knows procrastination is bad, but whenever he thinks about how many tasks he has, he feels anxious and escapes by scrolling on his phone. If a teacher simply says, “You are too undisciplined,” he may feel even more ashamed and become even less willing to face the problem. Using motivational interviewing, a counselor might ask, “What benefits and costs do you think procrastination brings you?” The student may answer that using his phone lets him relax temporarily, but in the end he stays up late, feels guilty, and gets worse grades. The counselor can then ask, “If you could change just a little, where would you most like to start?” The student may decide to write for twenty minutes after dinner each day, rather than require himself to finish the entire task at once. Because this plan comes from the student himself, it is easier to carry out.\n\nMotivational interviewing is important because many real-life problems cannot be solved by knowledge alone. Health management, addictive behaviors, study habits, diet and exercise, psychotherapy, and career choices all involve complex emotions and personal values. It reminds professionals and educators that helping others change does not mean making decisions for them, but accompanying them as they find their own reasons, abilities, and direction. This approach shows greater respect for people and better fits the way change actually happens in real life.\n",
+      "document_id": null
+    }
+  ]
+}

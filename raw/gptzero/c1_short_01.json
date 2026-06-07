@@ -1,0 +1,177 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        }
+      ],
+      "completely_generated_prob": 0.00008053065764431984,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999143356668311,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0005770768273042058,
+          "sentence": "I've always loved writing and reading.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994229231726958,
+            "ai": 0.0004235244188285762,
+            "paraphrased": 0.0001535524084756295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004252654820349459,
+          "sentence": "In fact, I wrote my first short story when I was four year old.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995747345179651,
+            "ai": 0.0002873351080024101,
+            "paraphrased": 0.0001379303740325358
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004314587864003808,
+          "sentence": "It was about a space man who goes out into space and \"thought\" all the animals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995685412135996,
+            "ai": 0.00028877801400418264,
+            "paraphrased": 0.00014268077239619817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00038278659999767457,
+          "sentence": "(Forgive me, four year old me actually knew how to spell \"fought\" but he thought \"thoughting\" animals was cooler) Anyways, today I finished the first draft of my first book (384 pages!!!).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996172134000023,
+            "ai": 0.00024219647322372114,
+            "paraphrased": 0.0001405901267739534
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004516514289151398,
+          "sentence": "It is a sci-fi, dystopian novel that can be described as if all the cliches from every piece of YA fiction gathered in a room, shat in a bucket, and then sprinkled it it with some magical purple prose powder that made the shit shittier than it already was.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995483485710849,
+            "ai": 0.00030716691903241397,
+            "paraphrased": 0.0001444845098827258
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001062194125255867,
+          "sentence": "Nonetheless, I am still flying in a state of pure bliss.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989378058747441,
+            "ai": 0.0008717024642724068,
+            "paraphrased": 0.00019049166098346007
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001095019161807348,
+          "sentence": "AMA",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989049808381927,
+            "ai": 0.0009603805151584427,
+            "paraphrased": 0.00013463864664890513
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999143356668311,
+        "ai": 0.000085664333168882,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999143356668311,
+          "ai": 0.000085664333168882,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "I've always loved writing and reading. In fact, I wrote my first short story when I was four year old. It was about a space man who goes out into space and \"thought\" all the animals. (Forgive me, four year old me actually knew how to spell \"fought\" but he thought \"thoughting\" animals was cooler) Anyways, today I finished the first draft of my first book (384 pages!!!). It is a sci-fi, dystopian novel that can be described as if all the cliches from every piece of YA fiction gathered in a room, shat in a bucket, and then sprinkled it it with some magical purple prose powder that made the shit shittier than it already was. Nonetheless, I am still flying in a state of pure bliss. AMA\n",
+      "document_id": null
+    }
+  ]
+}

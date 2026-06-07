@@ -1,0 +1,134 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.0024020335453339746,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.997154323287995,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.018579047747828245,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9814209522521717,
+            "ai": 0.016482837801367087,
+            "paraphrased": 0.0020962099464611585
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010940420688928958,
+          "sentence": "“As long as (the simple beauty of nature) exists ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.989059579311071,
+            "ai": 0.009638298418459569,
+            "paraphrased": 0.0013021222704693901
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.012033189459331087,
+          "sentence": "I know that then there will always be comfort for every sorrow, whatever the circumstances may be.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9879668105406689,
+            "ai": 0.01052683006456097,
+            "paraphrased": 0.0015063593947701169
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.03500637251574086,
+          "sentence": "And I firmly believe that nature brings solace in all troubles",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9649936274842591,
+            "ai": 0.033392417200201106,
+            "paraphrased": 0.001613955315539755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.997154323287995,
+        "ai": 0.0028456767120049542,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.997154323287995,
+          "ai": 0.0028456767120049542,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\n\n“As long as (the simple beauty of nature) exists ... I know that then there will always be comfort for every sorrow, whatever the circumstances may be. And I firmly believe that nature brings solace in all troubles\n",
+      "document_id": null
+    }
+  ]
+}

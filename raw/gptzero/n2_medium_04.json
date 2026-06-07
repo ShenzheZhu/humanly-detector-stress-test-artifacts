@@ -1,0 +1,681 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.9999734477653427,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999838917604457,
+          "sentence": "Anorexia nervosa is a serious eating disorder in which a person persistently restricts food intake, often with an intense fear of gaining weight and a distorted sense of body size or self-worth.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016108239554277242,
+            "ai": 0.9999711967642153,
+            "paraphrased": 0.000012694996230393299
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999859269567378,
+          "sentence": "It is often talked about in terms of food and weight, but it is also tied to motivation, emotion, learning, and decision-making.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014073043262151715,
+            "ai": 0.9999732780502748,
+            "paraphrased": 0.000012648906463064466
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999895982817699,
+          "sentence": "A person with anorexia is not simply “choosing not to eat” in the usual sense.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010401718230073315,
+            "ai": 0.9999750103107174,
+            "paraphrased": 0.00001458797105245547
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999910948992405,
+          "sentence": "Their behavior may be shaped by deep distress, social pressure, habits, beliefs about control, and rewards or punishments that make restriction feel meaningful or necessary.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008905100759532029,
+            "ai": 0.9999741143878869,
+            "paraphrased": 0.00001698051135366085
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999870050145118,
+          "sentence": "Extrinsic motivation means behavior driven by outside outcomes, such as praise, approval, status, avoiding criticism, or gaining privileges.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001299498548819094,
+            "ai": 0.9999733424034936,
+            "paraphrased": 0.000013662611018197575
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999762299921231,
+          "sentence": "In anorexia nervosa, it can affect both how the disorder develops and how it is treated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002377000787683171,
+            "ai": 0.9999639242968943,
+            "paraphrased": 0.000012305695228852784
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999761874849105,
+          "sentence": "A young person, for example, may lose weight and receive compliments from peers or family members.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023812515089501357,
+            "ai": 0.999963492453557,
+            "paraphrased": 0.000012695031353505773
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999762233600211,
+          "sentence": "The comments may be well meant, but they can still become powerful rewards.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023776639978887197,
+            "ai": 0.9999644804600497,
+            "paraphrased": 0.000011742899971380262
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999874681817552,
+          "sentence": "The person may learn that weight loss brings attention, admiration, or a sense of achievement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012531818244827833,
+            "ai": 0.9999736458469287,
+            "paraphrased": 0.000013822334826486104
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999912278891092,
+          "sentence": "Over time, eating less can become linked with feeling valued, disciplined, or accepted.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008772110890722315,
+            "ai": 0.999973408499708,
+            "paraphrased": 0.00001781938940131176
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999901807029119,
+          "sentence": "This does not mean anorexia is caused only by outside approval, but external reinforcement can make dangerous patterns stronger.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009819297088108763,
+            "ai": 0.9999745458987944,
+            "paraphrased": 0.000015634804117480375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999902225724278,
+          "sentence": "Emotion also plays a central role.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009777427572170642,
+            "ai": 0.9999739215674577,
+            "paraphrased": 0.000016301004970104337
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999922235744921,
+          "sentence": "Restricting food can briefly reduce anxiety or create a sense of control when other parts of life feel uncertain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007776425507832346,
+            "ai": 0.9999733285086035,
+            "paraphrased": 0.000018895065888631785
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999918718447003,
+          "sentence": "If eating brings guilt, fear, or shame, then avoiding food may feel like relief.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008128155299680885,
+            "ai": 0.9999734459089599,
+            "paraphrased": 0.000018425935740473104
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999905700064647,
+          "sentence": "That relief can act as a reward, even though the behavior is harming the body.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009429993535226762,
+            "ai": 0.9999752794894458,
+            "paraphrased": 0.000015290517018997833
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999901361101121,
+          "sentence": "Decision-making may become more rigid as well.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009863889887910832,
+            "ai": 0.9999746662191592,
+            "paraphrased": 0.000015469890952887944
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999911810696179,
+          "sentence": "The person may judge choices not by health, pleasure, or need, but by rules about calories, weight, exercise, or approval.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008818930381980426,
+            "ai": 0.9999741991818738,
+            "paraphrased": 0.000016981887744163806
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999824792826641,
+          "sentence": "As malnutrition worsens, thinking often becomes more inflexible, which can make recovery harder.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000017520717335924207,
+            "ai": 0.9999704588228832,
+            "paraphrased": 0.000012020459780959999
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999725421874702,
+          "sentence": "Extrinsic motivation is sometimes used in treatment, especially when the health risks are severe.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000274578125297761,
+            "ai": 0.9999601890583861,
+            "paraphrased": 0.000012353129084100437
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999543872112162,
+          "sentence": "Structured programs may offer privileges, greater independence, or social rewards when a person meets nutrition goals or gains weight safely.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004561278878373033,
+            "ai": 0.9999206792469202,
+            "paraphrased": 0.00003370796429607043
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999781553993753,
+          "sentence": "A hospital patient, for instance, might earn permission to take short supervised walks or spend more time with visitors after completing meals consistently.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021844600624615198,
+            "ai": 0.9999485178605744,
+            "paraphrased": 0.00002963753880097476
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999732250036515,
+          "sentence": "This can be useful because it supports life-saving behavior before the person feels internally motivated to recover.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026774996348539437,
+            "ai": 0.9999462983908888,
+            "paraphrased": 0.000026926612762671227
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999676506201699,
+          "sentence": "Still, it has to be used with care.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003234937983003702,
+            "ai": 0.9999381099818384,
+            "paraphrased": 0.00002954063833154811
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999980461071229,
+          "sentence": "If treatment depends only on outside rewards, the person may follow the plan while supervised but struggle once that structure is gone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019538928771036416,
+            "ai": 0.9999530956817506,
+            "paraphrased": 0.000027365389478314854
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999731119115487,
+          "sentence": "Long-term recovery usually requires a move toward more personal reasons for change, such as wanting energy, relationships, freedom, education, emotional stability, or a future no longer controlled by the disorder.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026888088451363984,
+            "ai": 0.999945994841436,
+            "paraphrased": 0.000027117070112672732
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999861964926987,
+          "sentence": "One example is a university student who begins dieting after classmates praise her appearance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013803507301314192,
+            "ai": 0.9999629774264603,
+            "paraphrased": 0.000023219066238398944
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999880457164185,
+          "sentence": "The praise makes restriction feel like success, and she starts to connect thinness with social acceptance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011954283581419765,
+            "ai": 0.9999641027503476,
+            "paraphrased": 0.00002394296607092526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999710603406285,
+          "sentence": "When academic stress increases, eating less also gives her a sense of control.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028939659371471718,
+            "ai": 0.9999454016051754,
+            "paraphrased": 0.00002565873545314272
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999751827347518,
+          "sentence": "Eventually, she avoids meals, loses concentration, and pulls away from friends.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000024817265248144216,
+            "ai": 0.9999481333294227,
+            "paraphrased": 0.000027049405329168214
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999772095121727,
+          "sentence": "In therapy, external support may help her rebuild eating habits at first.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022790487827292667,
+            "ai": 0.9999539999309996,
+            "paraphrased": 0.00002320958117304821
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999828463386652,
+          "sentence": "Recovery becomes deeper when she finds her own reasons to get well, such as returning to sport for enjoyment rather than calorie burning, thinking clearly in class, and reconnecting with people she cares about.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001715366133479693,
+            "ai": 0.9999581626577897,
+            "paraphrased": 0.000024683680875495844
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999782035345143,
+          "sentence": "This matters because misunderstandings about anorexia can lead to blame or overly simple treatment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002179646548564594,
+            "ai": 0.9999542756171526,
+            "paraphrased": 0.00002392791736176128
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99996523897103,
+          "sentence": "Recognising the role of extrinsic motivation helps explain why harmful behaviors can become reinforced and why recovery usually takes more than telling someone to eat.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000034761028969999246,
+            "ai": 0.9999397728714541,
+            "paraphrased": 0.00002546609957589391
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999791984145786,
+          "sentence": "It also shows why families, schools, media, and health professionals should avoid rewarding extreme thinness and support healthier sources of self-worth.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020801585421419986,
+            "ai": 0.9999561767579455,
+            "paraphrased": 0.00002302165663311104
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999104375893186,
+          "sentence": "A clearer understanding of motivation can make treatment more compassionate, realistic, and effective.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008956241068141255,
+            "ai": 0.9998711722906326,
+            "paraphrased": 0.00003926529868599385
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Anorexia nervosa is a serious eating disorder in which a person persistently restricts food intake, often with an intense fear of gaining weight and a distorted sense of body size or self-worth. It is often talked about in terms of food and weight, but it is also tied to motivation, emotion, learning, and decision-making. A person with anorexia is not simply “choosing not to eat” in the usual sense. Their behavior may be shaped by deep distress, social pressure, habits, beliefs about control, and rewards or punishments that make restriction feel meaningful or necessary.\n\nExtrinsic motivation means behavior driven by outside outcomes, such as praise, approval, status, avoiding criticism, or gaining privileges. In anorexia nervosa, it can affect both how the disorder develops and how it is treated. A young person, for example, may lose weight and receive compliments from peers or family members. The comments may be well meant, but they can still become powerful rewards. The person may learn that weight loss brings attention, admiration, or a sense of achievement. Over time, eating less can become linked with feeling valued, disciplined, or accepted. This does not mean anorexia is caused only by outside approval, but external reinforcement can make dangerous patterns stronger.\n\nEmotion also plays a central role. Restricting food can briefly reduce anxiety or create a sense of control when other parts of life feel uncertain. If eating brings guilt, fear, or shame, then avoiding food may feel like relief. That relief can act as a reward, even though the behavior is harming the body. Decision-making may become more rigid as well. The person may judge choices not by health, pleasure, or need, but by rules about calories, weight, exercise, or approval. As malnutrition worsens, thinking often becomes more inflexible, which can make recovery harder.\n\nExtrinsic motivation is sometimes used in treatment, especially when the health risks are severe. Structured programs may offer privileges, greater independence, or social rewards when a person meets nutrition goals or gains weight safely. A hospital patient, for instance, might earn permission to take short supervised walks or spend more time with visitors after completing meals consistently. This can be useful because it supports life-saving behavior before the person feels internally motivated to recover. Still, it has to be used with care. If treatment depends only on outside rewards, the person may follow the plan while supervised but struggle once that structure is gone. Long-term recovery usually requires a move toward more personal reasons for change, such as wanting energy, relationships, freedom, education, emotional stability, or a future no longer controlled by the disorder.\n\nOne example is a university student who begins dieting after classmates praise her appearance. The praise makes restriction feel like success, and she starts to connect thinness with social acceptance. When academic stress increases, eating less also gives her a sense of control. Eventually, she avoids meals, loses concentration, and pulls away from friends. In therapy, external support may help her rebuild eating habits at first. Recovery becomes deeper when she finds her own reasons to get well, such as returning to sport for enjoyment rather than calorie burning, thinking clearly in class, and reconnecting with people she cares about.\n\nThis matters because misunderstandings about anorexia can lead to blame or overly simple treatment. Recognising the role of extrinsic motivation helps explain why harmful behaviors can become reinforced and why recovery usually takes more than telling someone to eat. It also shows why families, schools, media, and health professionals should avoid rewarding extreme thinness and support healthier sources of self-worth. A clearer understanding of motivation can make treatment more compassionate, realistic, and effective.\n",
+      "document_id": null
+    }
+  ]
+}

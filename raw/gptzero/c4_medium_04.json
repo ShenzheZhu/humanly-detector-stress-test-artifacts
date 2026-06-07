@@ -1,0 +1,526 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        }
+      ],
+      "completely_generated_prob": 0.9997746922780906,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.999963522654883,
+          "sentence": "Anorexia Nervosa and Extrinsic Motivation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000036477345117033784,
+            "ai": 0.9995780862984255,
+            "paraphrased": 0.00038543635645746447
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999727479662445,
+          "sentence": "Anorexia nervosa is a serious eating disorder characterized by severe restriction of food intake, an intense fear of gaining weight, and a distorted perception of one's body.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027252033755471857,
+            "ai": 0.9996197889105777,
+            "paraphrased": 0.00035295905566680186
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999786563770592,
+          "sentence": "While it has complex biological, psychological, and social causes, one useful lens for understanding aspects of the disorder is the distinction between extrinsic and intrinsic motivation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021343622940806136,
+            "ai": 0.9996350834233452,
+            "paraphrased": 0.0003435729537139756
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999913604069764,
+          "sentence": "This framing helps explain both how the behaviors are reinforced and why recovery can be so difficult, though it is only one part of a much larger clinical picture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008639593023537565,
+            "ai": 0.9997366198447997,
+            "paraphrased": 0.000254740562176776
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999909370095117,
+          "sentence": "In plain language, intrinsic motivation refers to engaging in a behavior for its own internal rewards, while extrinsic motivation refers to behavior driven by external outcomes such as praise, approval, or the avoidance of criticism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000906299048829353,
+            "ai": 0.9996543356253978,
+            "paraphrased": 0.00033660138411384377
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999989093273603,
+          "sentence": "Restrictive eating and weight loss are often heavily shaped by extrinsic factors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010906726396994916,
+            "ai": 0.9996694738592989,
+            "paraphrased": 0.0003196194143040573
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999943989297518,
+          "sentence": "Cultural ideals that equate thinness with success, compliments received early in weight loss, and the social visibility of the body can all function as external rewards that reinforce restriction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000560107024819151,
+            "ai": 0.9996751329142892,
+            "paraphrased": 0.00031926601546261374
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999940564414592,
+          "sentence": "Over time, these external signals can become powerfully motivating, even as the behavior becomes physically and psychologically harmful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005943558540736244,
+            "ai": 0.9996668873167089,
+            "paraphrased": 0.00032716912475031553
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999913127027155,
+          "sentence": "The connection to emotion and behavior is important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008687297284522786,
+            "ai": 0.999697486414177,
+            "paraphrased": 0.00029382628853852284
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999938491636016,
+          "sentence": "Many individuals with anorexia describe a sense of control and achievement from restriction, especially when it is met with external validation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006150836398328199,
+            "ai": 0.9997024147789506,
+            "paraphrased": 0.00029143438465100834
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999947268797725,
+          "sentence": "This points to a troubling feature of extrinsic motivation in this context: the rewards that sustain the behavior are often tied to others' reactions and to internalized standards rather than to genuine well-being.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000052731202274293925,
+            "ai": 0.999690175870203,
+            "paraphrased": 0.00030455100956948915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999900202932221,
+          "sentence": "As the disorder progresses, the motivation can shift, and fear of weight gain or distress at eating may dominate, but external evaluation frequently remains influential.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009979706777903861,
+            "ai": 0.9996878495520409,
+            "paraphrased": 0.000302170741181182
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999781239435525,
+          "sentence": "A concrete example illustrates the dynamic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021876056447600566,
+            "ai": 0.9999561490250289,
+            "paraphrased": 0.00002197491852346719
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999881168449417,
+          "sentence": "Consider an adolescent who begins dieting and receives frequent compliments about her appearance from peers and family.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011883155058281481,
+            "ai": 0.9999586040411984,
+            "paraphrased": 0.000029512803743318918
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999881468105682,
+          "sentence": "These comments act as external rewards, strengthening the association between restriction and social approval.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001185318943165616,
+            "ai": 0.9999628189792671,
+            "paraphrased": 0.000025327831301210225
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999855536711078,
+          "sentence": "Even as her health deteriorates and the behavior stops feeling like a choice, the early extrinsic reinforcement has helped entrench a pattern that is now maintained by anxiety and rigid thinking.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014446328892262942,
+            "ai": 0.9999598010182353,
+            "paraphrased": 0.00002575265287242656
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999882722056367,
+          "sentence": "The same external culture that praised initial weight loss may later struggle to recognize the danger.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011727794363320519,
+            "ai": 0.99996096200214,
+            "paraphrased": 0.000027310203496700645
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999831376317515,
+          "sentence": "This analysis carries an essential caveat.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016862368248391025,
+            "ai": 0.9999579170144874,
+            "paraphrased": 0.000025220617264120892
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999772691018298,
+          "sentence": "Anorexia nervosa is a complex psychiatric illness with significant genetic and neurobiological components, and it should never be reduced to a simple matter of motivation or willpower.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022730898170182594,
+            "ai": 0.999946032115974,
+            "paraphrased": 0.000031236985855868665
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999736584761932,
+          "sentence": "Extrinsic motivation offers insight into how certain behaviors are encouraged and reinforced, but it does not by itself explain the disorder, nor does removing external rewards constitute treatment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026341523806777145,
+            "ai": 0.9999474880483589,
+            "paraphrased": 0.000026170427834335984
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999805900154497,
+          "sentence": "Effective care typically requires comprehensive medical, nutritional, and psychological support.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019409984550254532,
+            "ai": 0.999956951762804,
+            "paraphrased": 0.00002363825264577722
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999973438457418,
+          "sentence": "Understanding the role of extrinsic motivation matters because it highlights how cultural messages and social rewards can contribute to harmful behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000026561542581994164,
+            "ai": 0.9999512749203052,
+            "paraphrased": 0.000022163537112777585
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999758489619416,
+          "sentence": "It also suggests directions for prevention and treatment, such as reducing appearance-based praise and helping individuals build intrinsic sources of self-worth that do not depend on body shape.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000024151038058416004,
+            "ai": 0.9999555789216643,
+            "paraphrased": 0.000020270040277301423
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9973864903669641,
+          "sentence": "By recognizing how external incentives can shape and sustain dangerous patterns, we gain a clearer view of one factor among many in a difficult and life-threatening condition.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0026135096330357805,
+            "ai": 0.9972978894787641,
+            "paraphrased": 0.0000886008882000889
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.981975889966371,
+          "sentence": "Anyone affected by these issues deserves compassionate, professional help.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.018024110033629026,
+            "ai": 0.9817889730233135,
+            "paraphrased": 0.00018691694305748293
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Anorexia Nervosa and Extrinsic Motivation\n\nAnorexia nervosa is a serious eating disorder characterized by severe restriction of food intake, an intense fear of gaining weight, and a distorted perception of one's body. While it has complex biological, psychological, and social causes, one useful lens for understanding aspects of the disorder is the distinction between extrinsic and intrinsic motivation. This framing helps explain both how the behaviors are reinforced and why recovery can be so difficult, though it is only one part of a much larger clinical picture.\n\nIn plain language, intrinsic motivation refers to engaging in a behavior for its own internal rewards, while extrinsic motivation refers to behavior driven by external outcomes such as praise, approval, or the avoidance of criticism. Restrictive eating and weight loss are often heavily shaped by extrinsic factors. Cultural ideals that equate thinness with success, compliments received early in weight loss, and the social visibility of the body can all function as external rewards that reinforce restriction. Over time, these external signals can become powerfully motivating, even as the behavior becomes physically and psychologically harmful.\n\nThe connection to emotion and behavior is important. Many individuals with anorexia describe a sense of control and achievement from restriction, especially when it is met with external validation. This points to a troubling feature of extrinsic motivation in this context: the rewards that sustain the behavior are often tied to others' reactions and to internalized standards rather than to genuine well-being. As the disorder progresses, the motivation can shift, and fear of weight gain or distress at eating may dominate, but external evaluation frequently remains influential.\n\nA concrete example illustrates the dynamic. Consider an adolescent who begins dieting and receives frequent compliments about her appearance from peers and family. These comments act as external rewards, strengthening the association between restriction and social approval. Even as her health deteriorates and the behavior stops feeling like a choice, the early extrinsic reinforcement has helped entrench a pattern that is now maintained by anxiety and rigid thinking. The same external culture that praised initial weight loss may later struggle to recognize the danger.\n\nThis analysis carries an essential caveat. Anorexia nervosa is a complex psychiatric illness with significant genetic and neurobiological components, and it should never be reduced to a simple matter of motivation or willpower. Extrinsic motivation offers insight into how certain behaviors are encouraged and reinforced, but it does not by itself explain the disorder, nor does removing external rewards constitute treatment. Effective care typically requires comprehensive medical, nutritional, and psychological support.\n\nUnderstanding the role of extrinsic motivation matters because it highlights how cultural messages and social rewards can contribute to harmful behavior. It also suggests directions for prevention and treatment, such as reducing appearance-based praise and helping individuals build intrinsic sources of self-worth that do not depend on body shape. By recognizing how external incentives can shape and sustain dangerous patterns, we gain a clearer view of one factor among many in a difficult and life-threatening condition. Anyone affected by these issues deserves compassionate, professional help.\n",
+      "document_id": null
+    }
+  ]
+}

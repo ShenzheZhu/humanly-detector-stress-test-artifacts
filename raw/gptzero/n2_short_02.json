@@ -1,0 +1,250 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.9999752412908621,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999907404577151,
+          "sentence": "I made a small, free writing app because I kept losing the same fight with my drafts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009259542284876377,
+            "ai": 0.9998904869400118,
+            "paraphrased": 0.00010025351770330262
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999936387942728,
+          "sentence": "I would sit down to write a chapter and somehow spend forty minutes polishing one sentence, checking a “quick” fact, opening a browser tab, or deciding I needed the perfect name for a side character before I could move on.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006361205727208122,
+            "ai": 0.999881052537092,
+            "paraphrased": 0.0001125862571807616
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999899688765227,
+          "sentence": "The app is meant to be an intentionally uncomfortable place to write a first draft.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010031123477318891,
+            "ai": 0.9998875768434005,
+            "paraphrased": 0.00010239203312227061
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999952739587604,
+          "sentence": "It strips away formatting, blocks the usual escape routes, and makes it harder to keep reaching back into yesterday’s paragraph instead of writing today’s page.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004726041239574758,
+            "ai": 0.9998750064616293,
+            "paraphrased": 0.00012026749713114313
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999955501418311,
+          "sentence": "The point is momentum, not elegance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004449858169027414,
+            "ai": 0.9998552388056354,
+            "paraphrased": 0.00014031133619557562
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999946504374977,
+          "sentence": "You can fix ugly writing later; you can’t revise a blank document.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005349562502356821,
+            "ai": 0.9998823701554603,
+            "paraphrased": 0.000112280282037312
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999883400915094,
+          "sentence": "I’m not saying it will work for everyone, and it is not a replacement for a serious editing program.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011659908490650589,
+            "ai": 0.999892071590761,
+            "paraphrased": 0.00009626850074837876
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999874749637032,
+          "sentence": "It’s just a tool for getting to the end when your inner editor keeps grabbing the wheel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012525036296852578,
+            "ai": 0.9998776946600119,
+            "paraphrased": 0.00010978030369130533
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999606122455141,
+          "sentence": "If that sounds familiar, I hope it helps.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000039387754485872664,
+            "ai": 0.9998454597222499,
+            "paraphrased": 0.00011515252326419234
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "I made a small, free writing app because I kept losing the same fight with my drafts. I would sit down to write a chapter and somehow spend forty minutes polishing one sentence, checking a “quick” fact, opening a browser tab, or deciding I needed the perfect name for a side character before I could move on.\n\nThe app is meant to be an intentionally uncomfortable place to write a first draft. It strips away formatting, blocks the usual escape routes, and makes it harder to keep reaching back into yesterday’s paragraph instead of writing today’s page. The point is momentum, not elegance. You can fix ugly writing later; you can’t revise a blank document.\n\nI’m not saying it will work for everyone, and it is not a replacement for a serious editing program. It’s just a tool for getting to the end when your inner editor keeps grabbing the wheel. If that sounds familiar, I hope it helps.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,713 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9999705849370539,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9998331493012785,
+          "sentence": "Public speaking anxiety is the fear people feel when they have to speak in front of others.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016685069872152572,
+            "ai": 0.999405835551961,
+            "paraphrased": 0.000427313749317431
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998708108724303,
+          "sentence": "It can range from mild nervousness to intense panic that makes one avoid presentations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001291891275696836,
+            "ai": 0.9994680629330434,
+            "paraphrased": 0.00040274793938695826
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998561291131628,
+          "sentence": "In plain language, it is the feeling that being watched is threatening, even when there is no real danger.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014387088683726697,
+            "ai": 0.999476140943849,
+            "paraphrased": 0.0003799881693138011
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998235679646703,
+          "sentence": "The body reacts as if the situation is unsafe.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017643203532964616,
+            "ai": 0.999387395604404,
+            "paraphrased": 0.00043617236026626666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997290860367852,
+          "sentence": "The heart may beat faster, breathing may be shallow, and organized thoughts may become difficult.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002709139632147421,
+            "ai": 0.999164582038167,
+            "paraphrased": 0.0005645039986181861
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991699384249078,
+          "sentence": "At the same time, the person may worry about mistakes, looking foolish, forgetting things, or being evaluated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008300615750922811,
+            "ai": 0.9985007240031695,
+            "paraphrased": 0.0006692144217382869
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978851673244092,
+          "sentence": "This anxiety is connected to emotion because it involves fear and self-consciousness.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0021148326755907974,
+            "ai": 0.9972843127374545,
+            "paraphrased": 0.000600854586954694
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9982201950162536,
+          "sentence": "These emotions are not simply “in the mind”; they influence the body.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00177980498374632,
+            "ai": 0.9975955149233108,
+            "paraphrased": 0.0006246800929428615
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980192753601257,
+          "sentence": "A student who feels anxious may read neutral facial expressions as signs of boredom.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001980724639874289,
+            "ai": 0.9974490453700615,
+            "paraphrased": 0.0005702299900641519
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978523353637274,
+          "sentence": "This can increase fear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0021476646362725894,
+            "ai": 0.9973286907250721,
+            "paraphrased": 0.0005236446386553164
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978149351019047,
+          "sentence": "Emotion also impacts attention.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002185064898095321,
+            "ai": 0.9972123797975175,
+            "paraphrased": 0.0006025553043870919
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9972838092431007,
+          "sentence": "Instead of focusing on the message they want to communicate, an anxious speaker may focus on their hands, pauses, or failure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002716190756899316,
+            "ai": 0.9966398879578012,
+            "paraphrased": 0.0006439212852994359
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9973231326441202,
+          "sentence": "This can create a cycle wherein anxiety impacts them, and difficulties increase anxiety.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0026768673558797986,
+            "ai": 0.9967066753396778,
+            "paraphrased": 0.000616457304442377
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9977072179962883,
+          "sentence": "Public speaking anxiety also relates to motivation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002292782003711799,
+            "ai": 0.9971252815666947,
+            "paraphrased": 0.0005819364295935862
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979184018101462,
+          "sentence": "Some people are motivated to prepare carefully because of this.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0020815981898536606,
+            "ai": 0.9973774122336145,
+            "paraphrased": 0.0005409895765317498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9973941542599536,
+          "sentence": "In this way, a moderate level of nervousness can be useful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002605845740046415,
+            "ai": 0.9968767372709768,
+            "paraphrased": 0.0005174169889767916
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978884841111731,
+          "sentence": "However, when anxiety becomes too strong, it can reduce motivation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00211151588882684,
+            "ai": 0.9973386778481946,
+            "paraphrased": 0.0005498062629785093
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998559254379392,
+          "sentence": "A person may procrastinate or choose not to apply for leadership roles.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001440745620608058,
+            "ai": 0.9980121178797473,
+            "paraphrased": 0.0005471364996446743
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998488437824061,
+          "sentence": "These avoidance behaviors may bring short-term relief, but they often strengthen the fear over time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0015115621759389808,
+            "ai": 0.9978433250343114,
+            "paraphrased": 0.0006451127897496365
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9968143155482396,
+          "sentence": "Learning plays an important role in both the development and reduction of public speaking anxiety.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003185684451760373,
+            "ai": 0.9961675663498643,
+            "paraphrased": 0.0006467491983753406
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978290453148198,
+          "sentence": "A person who once had a humiliating experience while speaking may learn to associate presentations with danger.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002170954685180202,
+            "ai": 0.9971745414108305,
+            "paraphrased": 0.0006545039039892837
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994549968865675,
+          "sentence": "They may then expect future speaking situations to end badly, even if the original event was unusual.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005450031134324583,
+            "ai": 0.9994460079628498,
+            "paraphrased": 0.000008988923717724741
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998646673763094,
+          "sentence": "On the other hand, repeated manageable experiences can help reduce fear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013533262369052669,
+            "ai": 0.9998579117000796,
+            "paraphrased": 0.000006755676229793502
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999264677187323,
+          "sentence": "If someone practices speaking in small groups, receives supportive feedback, and gradually works up to larger audiences, they can learn that anxiety is uncomfortable but not harmful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007353228126770895,
+            "ai": 0.9999189162962528,
+            "paraphrased": 0.000007551422479458049
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999248747163496,
+          "sentence": "They may also learn practical skills, such as organizing ideas clearly, pausing instead of rushing, and making eye contact in a relaxed way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007512528365045243,
+            "ai": 0.99991768401794,
+            "paraphrased": 0.0000071906984095710545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998240635772552,
+          "sentence": "For example, imagine a first-year university student who has to give a five-minute presentation in a tutorial.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017593642274480153,
+            "ai": 0.999816625564272,
+            "paraphrased": 0.0000074380129831995855
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998767524124547,
+          "sentence": "Before the presentation, she feels sick and considers skipping class.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012324758754526122,
+            "ai": 0.9998691949541975,
+            "paraphrased": 0.000007557458257249976
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999392958618241,
+          "sentence": "She worries that everyone will notice her nerves and think she is unprepared.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000060704138175908215,
+            "ai": 0.9999320174242601,
+            "paraphrased": 0.000007278437563987224
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999658762998259,
+          "sentence": "Instead, she practices with a friend, writes brief cue cards, and reminds herself that the audience is mainly focused on understanding the topic, not judging her personally.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003412370017410574,
+            "ai": 0.9999573530354565,
+            "paraphrased": 0.00000852326436942387
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999232140381247,
+          "sentence": "During the presentation, her voice shakes at first, but she continues.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007678596187533585,
+            "ai": 0.9999156227034992,
+            "paraphrased": 0.000007591334625425755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999176603617317,
+          "sentence": "By the end, she realizes that she was able to speak despite feeling anxious.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008233963826835469,
+            "ai": 0.9999107752290185,
+            "paraphrased": 0.000006885132713133477
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999384219895902,
+          "sentence": "This experience does not remove the fear completely, but it gives her evidence that she can manage it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006157801040984341,
+            "ai": 0.9999312525849314,
+            "paraphrased": 0.000007169404658745109
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999543431146298,
+          "sentence": "Public speaking anxiety matters because speaking to others is part of education, work, and civic life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004565688537019239,
+            "ai": 0.9999466012610243,
+            "paraphrased": 0.000007741853605496175
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999595535254271,
+          "sentence": "Students present assignments, employees share ideas in meetings, and community members advocate for issues they care about.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000040446474572943963,
+            "ai": 0.9999512973013202,
+            "paraphrased": 0.000008256224106946585
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999085513402869,
+          "sentence": "When anxiety prevents people from speaking, it can limit achievement, confidence, and participation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000091448659713202,
+            "ai": 0.9999012221059147,
+            "paraphrased": 0.00000732923437214647
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999217899779396,
+          "sentence": "Understanding public speaking anxiety helps people respond with practical strategies rather than shame.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007821002206040222,
+            "ai": 0.9999142497305525,
+            "paraphrased": 0.000007540247387058378
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998674355935724,
+          "sentence": "It also reminds teachers, employers, and peers to create environments where people can build communication skills gradually and safely.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013256440642758218,
+            "ai": 0.9998598899587963,
+            "paraphrased": 0.000007545634776165836
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Public speaking anxiety is the fear people feel when they have to speak in front of others. It can range from mild nervousness to intense panic that makes one avoid presentations. In plain language, it is the feeling that being watched is threatening, even when there is no real danger. The body reacts as if the situation is unsafe. The heart may beat faster, breathing may be shallow, and organized thoughts may become difficult. At the same time, the person may worry about mistakes, looking foolish, forgetting things, or being evaluated.\n\nThis anxiety is connected to emotion because it involves fear and self-consciousness. These emotions are not simply “in the mind”; they influence the body. A student who feels anxious may read neutral facial expressions as signs of boredom. This can increase fear. Emotion also impacts attention. Instead of focusing on the message they want to communicate, an anxious speaker may focus on their hands, pauses, or failure. This can create a cycle wherein anxiety impacts them, and difficulties increase anxiety.\n\nPublic speaking anxiety also relates to motivation. Some people are motivated to prepare carefully because of this. In this way, a moderate level of nervousness can be useful. However, when anxiety becomes too strong, it can reduce motivation. A person may procrastinate or choose not to apply for leadership roles. These avoidance behaviors may bring short-term relief, but they often strengthen the fear over time.\n\n\nLearning plays an important role in both the development and reduction of public speaking anxiety. A person who once had a humiliating experience while speaking may learn to associate presentations with danger. They may then expect future speaking situations to end badly, even if the original event was unusual. On the other hand, repeated manageable experiences can help reduce fear. If someone practices speaking in small groups, receives supportive feedback, and gradually works up to larger audiences, they can learn that anxiety is uncomfortable but not harmful. They may also learn practical skills, such as organizing ideas clearly, pausing instead of rushing, and making eye contact in a relaxed way.\n\n\nFor example, imagine a first-year university student who has to give a five-minute presentation in a tutorial. Before the presentation, she feels sick and considers skipping class. She worries that everyone will notice her nerves and think she is unprepared. Instead, she practices with a friend, writes brief cue cards, and reminds herself that the audience is mainly focused on understanding the topic, not judging her personally. During the presentation, her voice shakes at first, but she continues. By the end, she realizes that she was able to speak despite feeling anxious. This experience does not remove the fear completely, but it gives her evidence that she can manage it.\n\n\nPublic speaking anxiety matters because speaking to others is part of education, work, and civic life. Students present assignments, employees share ideas in meetings, and community members advocate for issues they care about. When anxiety prevents people from speaking, it can limit achievement, confidence, and participation. Understanding public speaking anxiety helps people respond with practical strategies rather than shame. It also reminds teachers, employers, and peers to create environments where people can build communication skills gradually and safely.\n",
+      "document_id": null
+    }
+  ]
+}

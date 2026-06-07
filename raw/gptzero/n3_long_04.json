@@ -1,0 +1,1346 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.7955140744878513
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.7604022122935274
+        },
+        {
+          "start_sentence_index": 39,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 45,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 53,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.03396563365573288
+        },
+        {
+          "start_sentence_index": 58,
+          "num_sentences": 10,
+          "completely_generated_prob": 0.0798064320171964
+        },
+        {
+          "start_sentence_index": 68,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        }
+      ],
+      "completely_generated_prob": 0.9264180314952976,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9273012973316732,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9998881155464042,
+          "sentence": "This paper studies the problem of “answer generation” in non-factoid question answering, specifically in the setting of romantic relationship advice on a Japanese Q&A website.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001118844535958327,
+            "ai": 0.9949730124819695,
+            "paraphrased": 0.004915103064434727
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999357975365363,
+          "sentence": "The authors point out that existing neural QA models mainly perform answer selection and cannot handle cases where the candidate answer pool contains no fully matching answer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000642024634638259,
+            "ai": 0.9947144892235379,
+            "paraphrased": 0.005221308312998334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999383086686198,
+          "sentence": "At the same time, ordinary word embeddings cannot adequately reflect differences in word meaning under different question categories or title semantics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000616913313802502,
+            "ai": 0.9950615790886743,
+            "paraphrased": 0.004876729579945461
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999592430363948,
+          "sentence": "To address this, the paper proposes a two-part method.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004075696360508474,
+            "ai": 0.9954552516421976,
+            "paraphrased": 0.0045039913941972475
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999403670328604,
+          "sentence": "First, it uses question categories and title words as semantic biases to train word embeddings, so that word representations can reflect specific contexts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005963296713966639,
+            "ai": 0.9956308112639273,
+            "paraphrased": 0.0043095557689330505
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999933630088467,
+          "sentence": "Second, it predefines abstract answer structures, such as “conclusion” plus “supplementary explanation,” then uses a bidirectional LSTM to encode questions and candidate sentences, and learns both the matching between questions and sentences and the compositional relationship between conclusion sentences and supplementary sentences through a joint loss.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006636991153295915,
+            "ai": 0.9955886902920204,
+            "paraphrased": 0.004344939796446713
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999301712486491,
+          "sentence": "The authors also introduce an attention mechanism from the conclusion sentence to the supplementary sentence to enhance inter-sentence coherence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006982875135084607,
+            "ai": 0.9957233156829737,
+            "paraphrased": 0.004206855565675424
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998706088249001,
+          "sentence": "Experiments are conducted on relationship-advice data from Oshiete goo, and the reported results show that the method outperforms several LSTM baselines on answer selection and answer construction tasks, and has already been deployed in an online service.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001293911750999399,
+            "ai": 0.9959206337850248,
+            "paraphrased": 0.00394997503987523
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998872963725712,
+          "sentence": "One clear strength of the paper is that the topic has practical significance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011270362742875982,
+            "ai": 0.9957469401895166,
+            "paraphrased": 0.004140356183054649
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998428853613875,
+          "sentence": "Non-factoid QA is indeed different from factoid QA.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00015711463861248613,
+            "ai": 0.9953356157541917,
+            "paraphrased": 0.004507269607195808
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999538403599729,
+          "sentence": "In settings such as consultation, advice, subjective opinions, and life decisions, users usually expect a structured, empathetic natural-language response that offers suggestions, rather than an entity or a single factual statement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000046159640027042476,
+            "ai": 0.9954018777916608,
+            "paraphrased": 0.004551962568312158
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998208959240052,
+          "sentence": "It is valuable to take this problem as a research object.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017910407599470535,
+            "ai": 0.9957281065413496,
+            "paraphrased": 0.004092789382655681
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999172692763438,
+          "sentence": "The paper also recognizes that fully free generation of long answers is prone to unstable results under current technical conditions, and therefore attempts to bridge the gap between answer selection and open-ended generation by “selecting and combining sentences.” This compromise may be more reliable from an engineering perspective, especially for practical services that need to control output quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008273072365620302,
+            "ai": 0.9952486543616231,
+            "paraphrased": 0.004668614914720708
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9774162360127935,
+          "sentence": "Another strength is that the authors try to model the internal structure of answers explicitly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02258376398720645,
+            "ai": 0.9762035969639162,
+            "paraphrased": 0.0012126390488772718
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9483658806024404,
+          "sentence": "Many answer selection models focus only on the similarity between a question and a complete answer, whereas this paper divides an answer into a conclusion sentence and a supplementary sentence, and further considers the match between the two.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0516341193975595,
+            "ai": 0.9471733237586943,
+            "paraphrased": 0.0011925568437461142
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9840948520613199,
+          "sentence": "This is reasonable for consultative QA, because even if a conclusion appears relevant, pairing it with an irrelevant or contradictory explanation will still make the overall answer seem unnatural.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.015905147938680204,
+            "ai": 0.9829413616338888,
+            "paraphrased": 0.0011534904274310464
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9876850411428219,
+          "sentence": "The proposed joint ranking loss attempts to distinguish cases such as “correct conclusion but wrong supplement,” “correct supplement but wrong conclusion,” and “both wrong,” which is more detailed than simply selecting two sentences independently.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.012314958857178154,
+            "ai": 0.9863126415830636,
+            "paraphrased": 0.001372399559758205
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9485334731581992,
+          "sentence": "The authors also conduct experiments using real data from a Q&A website and provide some feedback from online use, making the paper closer to a practical application than a purely toy task.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05146652684180078,
+            "ai": 0.946788590645759,
+            "paraphrased": 0.0017448825124402134
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.950657019016779,
+          "sentence": "However, the main problem with the paper is the large gap between its claimed “answer generation” and the actual method.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.049342980983220965,
+            "ai": 0.9492748093486093,
+            "paraphrased": 0.001382209668169694
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9803395921876695,
+          "sentence": "The system does not generate new natural-language sentences; instead, it retrieves and combines candidate conclusion and supplementary sentences that have been manually extracted or prepared in advance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.019660407812330413,
+            "ai": 0.9786295361978866,
+            "paraphrased": 0.0017100559897829434
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9667845388005663,
+          "sentence": "Strictly speaking, this is closer to structured answer recombination or multi-sentence answer selection than to neural answer generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.03321546119943381,
+            "ai": 0.9652797496141361,
+            "paraphrased": 0.0015047891864301485
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9521719599294902,
+          "sentence": "The title and abstract repeatedly emphasize “generate love advice” and “answer generation,” but the core algorithm does not generate word sequences, nor does it show how candidate sentences are produced.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04782804007050968,
+            "ai": 0.950555007719161,
+            "paraphrased": 0.0016169522103292547
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9056173756414979,
+          "sentence": "The authors mention that these sentences could be generated using sentence extraction methods or neural dialogue models, but in the experiments, the conclusion and supplementary sentences are extracted from answers by human experts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09438262435850212,
+            "ai": 0.90399739049553,
+            "paraphrased": 0.0016199851459679112
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9282075974777657,
+          "sentence": "Therefore, the actual contribution of the method should be described as “sentence selection and combination based on predefined answer scripts,” rather than “neural answer generation for non-factoid questions.” This is not merely a matter of wording; it also affects how the experimental results should be interpreted.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0717924025222343,
+            "ai": 0.9265386244968834,
+            "paraphrased": 0.0016689729808823173
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.7063910988153778,
+          "sentence": "There are also many shortcomings in the experimental design, making the paper’s conclusions difficult to find convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.2936089011846223,
+            "ai": 0.7050580913550699,
+            "paraphrased": 0.0013330074603078433
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9142414059769675,
+          "sentence": "First, the evaluation data contains only about 5,000 question-conclusion-supplement triples, which is relatively small, and the sentences are extracted by human experts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.08575859402303249,
+            "ai": 0.8997249922799647,
+            "paraphrased": 0.014516413697002779
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9508898044959627,
+          "sentence": "The paper does not adequately explain the extraction criteria, annotation agreement, how many correct conclusions and supplements each question has, how the candidate sentence space is constructed, or whether there may be highly similar or duplicate questions and sentences between training and testing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04911019550403723,
+            "ai": 0.936120799957893,
+            "paraphrased": 0.014769004538069728
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9517873945279768,
+          "sentence": "If the candidate sentences come from the same website and the same domain, and many relationship-advice answers contain formulaic expressions, the model may mainly learn to retrieve common advice sentences rather than understand complex questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0482126054720233,
+            "ai": 0.9359965132624626,
+            "paraphrased": 0.01579088126551417
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9253147194373047,
+          "sentence": "Second, the definition of the AP metric used in the paper is not entirely consistent with standard average precision, and for the answer construction task, it only checks whether the “original answer” is reconstructed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0746852805626953,
+            "ai": 0.9112653747304408,
+            "paraphrased": 0.014049344706863927
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9366903377201048,
+          "sentence": "This is not necessarily a good measure of consultation quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.06330966227989518,
+            "ai": 0.9219393168462042,
+            "paraphrased": 0.01475102087390058
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9434074008268893,
+          "sentence": "Non-factoid questions usually allow multiple reasonable answers; a combination that does not reproduce the original human answer may still be good advice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05659259917311058,
+            "ai": 0.9307656968802436,
+            "paraphrased": 0.012641703946645808
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9253305668136386,
+          "sentence": "Conversely, reproducing the original sentences does not necessarily mean the overall advice is helpful to the user.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07466943318636142,
+            "ai": 0.9152351319480412,
+            "paraphrased": 0.010095434865597431
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9719143801500119,
+          "sentence": "The baseline comparison is also insufficient and not fully fair.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.028085619849988128,
+            "ai": 0.9583772559757193,
+            "paraphrased": 0.013537124174292522
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.942760581247825,
+          "sentence": "The paper compares the proposed method with several answer selection models, but these models were not originally designed for a “conclusion sentence plus supplementary sentence” combination task.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.05723941875217495,
+            "ai": 0.9285332259153223,
+            "paraphrased": 0.014227355332502722
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8289820689734766,
+          "sentence": "For baselines without a combination mechanism, the authors seem to simply select the conclusion and supplementary sentences most similar to the question and concatenate them, which naturally puts them at a disadvantage in terms of compositional coherence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1710179310265235,
+            "ai": 0.8168777876702552,
+            "paraphrased": 0.012104281303221331
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8011238624153163,
+          "sentence": "More appropriate comparisons should include strong two-stage ranking models, such as first selecting a conclusion and then selecting a supplement based on both the conclusion and the question, or methods using traditional features, BM25, sentence-vector similarity, learning-to-rank models, pairwise ranking models, or cross-encoder-style joint matching models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.19887613758468375,
+            "ai": 0.788607816788334,
+            "paraphrased": 0.012516045626982225
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.7640499502967086,
+          "sentence": "The Attentive LSTM in the paper actually performs worse than the ordinary QA-LSTM, and the authors explain this by saying that the questions are too long and attention becomes noise.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.23595004970329134,
+            "ai": 0.7536753795095444,
+            "paraphrased": 0.010374570787164217
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.991991221710827,
+          "sentence": "But this also suggests that the implementation or tuning may be insufficient.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008008778289173018,
+            "ai": 0.9864579081981495,
+            "paraphrased": 0.005533313512677468
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9942332265942547,
+          "sentence": "Since the main gains come from the specific task structure, the lack of comparison with simple but robust retrieval and re-ranking methods weakens the paper’s persuasiveness.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005766773405745201,
+            "ai": 0.9882082016380586,
+            "paraphrased": 0.006025024956196187
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9924773878867237,
+          "sentence": "Regarding the “semantically biased word embeddings,” the motivation is reasonable, but the experiments do not isolate their effect well.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007522612113276311,
+            "ai": 0.9863695795180312,
+            "paraphrased": 0.006107808368692476
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9963750209577853,
+          "sentence": "The authors use categories and title words to bias word embeddings and claim that this can resolve word ambiguity across different categories.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0036249790422146874,
+            "ai": 0.9912047067062382,
+            "paraphrased": 0.0051703142515471465
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987559466542008,
+          "sentence": "However, the main evaluation focuses on a single category, “relationship advice.” If all test tasks are within the same category, then the discriminative role of category information itself is limited, and what actually helps may simply be title words or in-domain co-occurrence statistics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012440533457992596,
+            "ai": 0.9943537590551255,
+            "paraphrased": 0.004402187599075295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987911218298811,
+          "sentence": "The paper needs to show more clearly whether the method significantly improves cross-category answer selection; whether the nearest neighbors of the same word in different categories really change in meaningful ways; and what the performance is when removing the category and using only the title, or using only the category without the title.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012088781701189673,
+            "ai": 0.9947266376352702,
+            "paraphrased": 0.004064484194610807
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9967142979049324,
+          "sentence": "In addition, the word embedding training uses a large amount of QA text, including possibly test-set-related data, which needs to be clarified.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0032857020950676236,
+            "ai": 0.9926296502594336,
+            "paraphrased": 0.004084647645498723
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9976951348480915,
+          "sentence": "Using the full corpus for unsupervised pretraining is common in practice, but when title words and categories are closely tied to specific questions, possible information leakage must be made explicit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002304865151908535,
+            "ai": 0.9933302445789034,
+            "paraphrased": 0.00436489026918803
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9967045104852357,
+          "sentence": "Some technical details in the method description are also unclear.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003295489514764395,
+            "ai": 0.9931142708862337,
+            "paraphrased": 0.0035902395990019377
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9958186599221631,
+          "sentence": "The loss function writes the question representation as the concatenation of the conclusion-side question representation and the supplement-side question representation, and then computes cosine similarity with the concatenation of the conclusion and supplement representations, but the dimensionality and normalization details are not fully explained.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00418134007783689,
+            "ai": 0.9912236315045772,
+            "paraphrased": 0.004595028417585986
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9969415037710697,
+          "sentence": "The paper says the parameter k satisfies 0 < k < 1, but in the experiments it is set to k = 1.0, which is inconsistent with the earlier definition.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003058496228930282,
+            "ai": 0.9920487454804815,
+            "paraphrased": 0.004892758290588168
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9897272452466941,
+          "sentence": "Negative sampling is also crucial: are negatives sampled uniformly from all candidate conclusions and supplements, or from the same question, topic, or category?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.010272754753305876,
+            "ai": 0.9844024561836402,
+            "paraphrased": 0.0053247890630539006
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9971859981397624,
+          "sentence": "If negative samples are too easy, the model may learn only coarse topical matching rather than fine-grained consultation semantics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0028140018602376745,
+            "ai": 0.9807838765599359,
+            "paraphrased": 0.016402121579826415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.979941802211431,
+          "sentence": "The attention mechanism points from the conclusion to the supplement, but the paper does not discuss the reverse dependency: should the supplementary sentence also be directly constrained by the question?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02005819778856897,
+            "ai": 0.9695386236373039,
+            "paraphrased": 0.010403178574127078
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9811654334110611,
+          "sentence": "Is there any contradiction detection between the conclusion and the supplement?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01883456658893885,
+            "ai": 0.9729544234419636,
+            "paraphrased": 0.00821100996909756
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9903455170513163,
+          "sentence": "These details all affect whether the model has truly learned answer coherence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0096544829486837,
+            "ai": 0.9779892936171625,
+            "paraphrased": 0.012356223434153843
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9870860812880266,
+          "sentence": "The human evaluation section especially needs strengthening.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01291391871197337,
+            "ai": 0.9764396397821068,
+            "paraphrased": 0.0106464415059198
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8888077284723808,
+          "sentence": "The paper reports that two experts rated system outputs on a four-level scale, and that the proposed method had a higher proportion in the top category.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.11119227152761918,
+            "ai": 0.8794808420519562,
+            "paraphrased": 0.009326886420424604
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6617809859227061,
+          "sentence": "But it does not explain whether the number of evaluation questions is fixed as the total shown in the table, how the questions were sampled, whether the experts evaluated blindly, whether system outputs were randomly shuffled, what the agreement between the two experts was, how disagreements were handled, or whether significance tests were conducted.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3382190140772939,
+            "ai": 0.646024874931331,
+            "paraphrased": 0.015756110991375097
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.43507680157744577,
+          "sentence": "The result that “455 answers were selected by users as good answers” in the online service is interesting, but it is not sufficient as research evidence, because user choices are affected by exposure, interface design, the number of candidate answers, user population, question difficulty, and the frequency of system responses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.5649231984225542,
+            "ai": 0.4183216480637258,
+            "paraphrased": 0.01675515351371999
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.39014413130890857,
+          "sentence": "The paper claims that the AI obtains good answers at twice the rate of an average human user, but this requires stricter control, such as comparison with active users, the same question distribution, and the same time window, as well as an explanation of the definition and selection process of “good answer.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6098558686910914,
+            "ai": 0.3738806115393869,
+            "paraphrased": 0.016263519769521662
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3774019080850623,
+          "sentence": "I would also like the authors to answer several further questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6225980919149378,
+            "ai": 0.36324178022311954,
+            "paraphrased": 0.014160127861942772
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.32551696045001466,
+          "sentence": "First, where do candidate conclusion and supplementary sentences come from at test time?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6744830395499853,
+            "ai": 0.3142264067826893,
+            "paraphrased": 0.011290553667325317
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.23529231049776653,
+          "sentence": "If they must be pre-extracted by human experts, what is the cost of deploying the system to a new domain or language?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7647076895022334,
+            "ai": 0.2232315405855149,
+            "paraphrased": 0.012060769912251634
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.19036971470749328,
+          "sentence": "Second, to what extent do predefined answer scenarios limit the system’s capability?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.8096302852925067,
+            "ai": 0.18133466026198436,
+            "paraphrased": 0.009035054445508927
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979485554049808,
+          "sentence": "Relationship advice may commonly follow a pattern such as “empathy—conclusion—reason—encouragement,” but do other non-factoid questions, such as medical advice, legal consultation, career planning, or political opinions, fit the same framework?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0020514445950192113,
+            "ai": 0.02420530590520971,
+            "paraphrased": 0.9737432494997711
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9977940058820204,
+          "sentence": "Third, how does the system avoid giving dangerous, irresponsible, or ethically problematic advice?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002205994117979679,
+            "ai": 0.026000634578494962,
+            "paraphrased": 0.9717933713035254
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.997571208297842,
+          "sentence": "Although relationship advice may appear lightweight, it can involve sensitive situations such as self-harm, harassment, minors, or violent relationships.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00242879170215806,
+            "ai": 0.026314303101246526,
+            "paraphrased": 0.9712569051965955
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.997628229422486,
+          "sentence": "If a retrieval-based combination system pieces together inappropriate sentences, it may cause serious consequences.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002371770577514033,
+            "ai": 0.02592904509512806,
+            "paraphrased": 0.9716991843273579
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978519195508573,
+          "sentence": "Fourth, can the authors provide more systematic ablation experiments, including removing category bias, removing title bias, removing the joint loss, removing attention, changing the candidate set size, and using hard negative samples?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002148080449142719,
+            "ai": 0.01955202068912821,
+            "paraphrased": 0.9782998988617291
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9976766348378728,
+          "sentence": "Fifth, can anonymized data be released, or at least more complete data statistics be provided, so that the community can reproduce the work?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0023233651621271815,
+            "ai": 0.02026508827327512,
+            "paraphrased": 0.9774115465645977
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9977746963508094,
+          "sentence": "Overall, this paper raises a problem with practical value and presents an engineering-feasible sentence-combination QA framework.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002225303649190513,
+            "ai": 0.018954255353518946,
+            "paraphrased": 0.9788204409972905
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9984785284693896,
+          "sentence": "Its intuition is sound: non-factoid answers should consider domain semantics, answer structure, and inter-sentence coherence, rather than only overall question-answer similarity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0015214715306104373,
+            "ai": 0.015161218042222922,
+            "paraphrased": 0.9833173104271666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983025922081038,
+          "sentence": "But from the perspective of research contribution, the current method is limited in novelty, mainly combining existing LSTM matching models, semantically biased word embeddings, predefined scripts, and simple attention.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0016974077918962551,
+            "ai": 0.014198024667951588,
+            "paraphrased": 0.9841045675401522
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980052707738817,
+          "sentence": "More importantly, the paper overstates “generation,” and its baselines and evaluation protocol are not sufficient to support the conclusion that it is the first to go beyond simple answer selection and achieve non-factoid answer generation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001994729226118287,
+            "ai": 0.014254891896442592,
+            "paraphrased": 0.9837503788774391
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991248679600703,
+          "sentence": "If the authors reposition the task as “structured sentence selection and combination” and add stricter baselines, ablations, human evaluation, and cross-domain analysis, the paper would be more convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008751320399296701,
+            "ai": 0.010225526284380025,
+            "paraphrased": 0.9888993416756903
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9975330196573742,
+          "sentence": "In its current version, my overall recommendation is reject or weak reject.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002466980342625842,
+            "ai": 0.012706703376235685,
+            "paraphrased": 0.9848263162811385
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9985332587041593,
+          "sentence": "I think this work is suitable as an application-system paper or a preliminary exploration for future research, but it has not yet met the standards of an ICLR main-conference paper in terms of methodological rigor, experimental reproducibility, and credibility of conclusions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014667412958406167,
+            "ai": 0.01083048787942758,
+            "paraphrased": 0.9877027708247318
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9273012973316732,
+        "mixed": 0.07269870266832679
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9273012973316732,
+          "mixed": 0.07269870266832679,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "This paper studies the problem of “answer generation” in non-factoid question answering, specifically in the setting of romantic relationship advice on a Japanese Q&A website. The authors point out that existing neural QA models mainly perform answer selection and cannot handle cases where the candidate answer pool contains no fully matching answer. At the same time, ordinary word embeddings cannot adequately reflect differences in word meaning under different question categories or title semantics. To address this, the paper proposes a two-part method. First, it uses question categories and title words as semantic biases to train word embeddings, so that word representations can reflect specific contexts. Second, it predefines abstract answer structures, such as “conclusion” plus “supplementary explanation,” then uses a bidirectional LSTM to encode questions and candidate sentences, and learns both the matching between questions and sentences and the compositional relationship between conclusion sentences and supplementary sentences through a joint loss. The authors also introduce an attention mechanism from the conclusion sentence to the supplementary sentence to enhance inter-sentence coherence. Experiments are conducted on relationship-advice data from Oshiete goo, and the reported results show that the method outperforms several LSTM baselines on answer selection and answer construction tasks, and has already been deployed in an online service.\n\nOne clear strength of the paper is that the topic has practical significance. Non-factoid QA is indeed different from factoid QA. In settings such as consultation, advice, subjective opinions, and life decisions, users usually expect a structured, empathetic natural-language response that offers suggestions, rather than an entity or a single factual statement. It is valuable to take this problem as a research object. The paper also recognizes that fully free generation of long answers is prone to unstable results under current technical conditions, and therefore attempts to bridge the gap between answer selection and open-ended generation by “selecting and combining sentences.” This compromise may be more reliable from an engineering perspective, especially for practical services that need to control output quality.\n\nAnother strength is that the authors try to model the internal structure of answers explicitly. Many answer selection models focus only on the similarity between a question and a complete answer, whereas this paper divides an answer into a conclusion sentence and a supplementary sentence, and further considers the match between the two. This is reasonable for consultative QA, because even if a conclusion appears relevant, pairing it with an irrelevant or contradictory explanation will still make the overall answer seem unnatural. The proposed joint ranking loss attempts to distinguish cases such as “correct conclusion but wrong supplement,” “correct supplement but wrong conclusion,” and “both wrong,” which is more detailed than simply selecting two sentences independently. The authors also conduct experiments using real data from a Q&A website and provide some feedback from online use, making the paper closer to a practical application than a purely toy task.\n\nHowever, the main problem with the paper is the large gap between its claimed “answer generation” and the actual method. The system does not generate new natural-language sentences; instead, it retrieves and combines candidate conclusion and supplementary sentences that have been manually extracted or prepared in advance. Strictly speaking, this is closer to structured answer recombination or multi-sentence answer selection than to neural answer generation. The title and abstract repeatedly emphasize “generate love advice” and “answer generation,” but the core algorithm does not generate word sequences, nor does it show how candidate sentences are produced. The authors mention that these sentences could be generated using sentence extraction methods or neural dialogue models, but in the experiments, the conclusion and supplementary sentences are extracted from answers by human experts. Therefore, the actual contribution of the method should be described as “sentence selection and combination based on predefined answer scripts,” rather than “neural answer generation for non-factoid questions.” This is not merely a matter of wording; it also affects how the experimental results should be interpreted.\n\nThere are also many shortcomings in the experimental design, making the paper’s conclusions difficult to find convincing. First, the evaluation data contains only about 5,000 question-conclusion-supplement triples, which is relatively small, and the sentences are extracted by human experts. The paper does not adequately explain the extraction criteria, annotation agreement, how many correct conclusions and supplements each question has, how the candidate sentence space is constructed, or whether there may be highly similar or duplicate questions and sentences between training and testing. If the candidate sentences come from the same website and the same domain, and many relationship-advice answers contain formulaic expressions, the model may mainly learn to retrieve common advice sentences rather than understand complex questions. Second, the definition of the AP metric used in the paper is not entirely consistent with standard average precision, and for the answer construction task, it only checks whether the “original answer” is reconstructed. This is not necessarily a good measure of consultation quality. Non-factoid questions usually allow multiple reasonable answers; a combination that does not reproduce the original human answer may still be good advice. Conversely, reproducing the original sentences does not necessarily mean the overall advice is helpful to the user.\n\nThe baseline comparison is also insufficient and not fully fair. The paper compares the proposed method with several answer selection models, but these models were not originally designed for a “conclusion sentence plus supplementary sentence” combination task. For baselines without a combination mechanism, the authors seem to simply select the conclusion and supplementary sentences most similar to the question and concatenate them, which naturally puts them at a disadvantage in terms of compositional coherence. More appropriate comparisons should include strong two-stage ranking models, such as first selecting a conclusion and then selecting a supplement based on both the conclusion and the question, or methods using traditional features, BM25, sentence-vector similarity, learning-to-rank models, pairwise ranking models, or cross-encoder-style joint matching models. The Attentive LSTM in the paper actually performs worse than the ordinary QA-LSTM, and the authors explain this by saying that the questions are too long and attention becomes noise. But this also suggests that the implementation or tuning may be insufficient. Since the main gains come from the specific task structure, the lack of comparison with simple but robust retrieval and re-ranking methods weakens the paper’s persuasiveness.\n\nRegarding the “semantically biased word embeddings,” the motivation is reasonable, but the experiments do not isolate their effect well. The authors use categories and title words to bias word embeddings and claim that this can resolve word ambiguity across different categories. However, the main evaluation focuses on a single category, “relationship advice.” If all test tasks are within the same category, then the discriminative role of category information itself is limited, and what actually helps may simply be title words or in-domain co-occurrence statistics. The paper needs to show more clearly whether the method significantly improves cross-category answer selection; whether the nearest neighbors of the same word in different categories really change in meaningful ways; and what the performance is when removing the category and using only the title, or using only the category without the title. In addition, the word embedding training uses a large amount of QA text, including possibly test-set-related data, which needs to be clarified. Using the full corpus for unsupervised pretraining is common in practice, but when title words and categories are closely tied to specific questions, possible information leakage must be made explicit.\n\nSome technical details in the method description are also unclear. The loss function writes the question representation as the concatenation of the conclusion-side question representation and the supplement-side question representation, and then computes cosine similarity with the concatenation of the conclusion and supplement representations, but the dimensionality and normalization details are not fully explained. The paper says the parameter k satisfies 0 < k < 1, but in the experiments it is set to k = 1.0, which is inconsistent with the earlier definition. Negative sampling is also crucial: are negatives sampled uniformly from all candidate conclusions and supplements, or from the same question, topic, or category? If negative samples are too easy, the model may learn only coarse topical matching rather than fine-grained consultation semantics. The attention mechanism points from the conclusion to the supplement, but the paper does not discuss the reverse dependency: should the supplementary sentence also be directly constrained by the question? Is there any contradiction detection between the conclusion and the supplement? These details all affect whether the model has truly learned answer coherence.\n\nThe human evaluation section especially needs strengthening. The paper reports that two experts rated system outputs on a four-level scale, and that the proposed method had a higher proportion in the top category. But it does not explain whether the number of evaluation questions is fixed as the total shown in the table, how the questions were sampled, whether the experts evaluated blindly, whether system outputs were randomly shuffled, what the agreement between the two experts was, how disagreements were handled, or whether significance tests were conducted. The result that “455 answers were selected by users as good answers” in the online service is interesting, but it is not sufficient as research evidence, because user choices are affected by exposure, interface design, the number of candidate answers, user population, question difficulty, and the frequency of system responses. The paper claims that the AI obtains good answers at twice the rate of an average human user, but this requires stricter control, such as comparison with active users, the same question distribution, and the same time window, as well as an explanation of the definition and selection process of “good answer.”\n\nI would also like the authors to answer several further questions. First, where do candidate conclusion and supplementary sentences come from at test time? If they must be pre-extracted by human experts, what is the cost of deploying the system to a new domain or language? Second, to what extent do predefined answer scenarios limit the system’s capability? Relationship advice may commonly follow a pattern such as “empathy—conclusion—reason—encouragement,” but do other non-factoid questions, such as medical advice, legal consultation, career planning, or political opinions, fit the same framework? Third, how does the system avoid giving dangerous, irresponsible, or ethically problematic advice? Although relationship advice may appear lightweight, it can involve sensitive situations such as self-harm, harassment, minors, or violent relationships. If a retrieval-based combination system pieces together inappropriate sentences, it may cause serious consequences. Fourth, can the authors provide more systematic ablation experiments, including removing category bias, removing title bias, removing the joint loss, removing attention, changing the candidate set size, and using hard negative samples? Fifth, can anonymized data be released, or at least more complete data statistics be provided, so that the community can reproduce the work?\n\nOverall, this paper raises a problem with practical value and presents an engineering-feasible sentence-combination QA framework. Its intuition is sound: non-factoid answers should consider domain semantics, answer structure, and inter-sentence coherence, rather than only overall question-answer similarity. But from the perspective of research contribution, the current method is limited in novelty, mainly combining existing LSTM matching models, semantically biased word embeddings, predefined scripts, and simple attention. More importantly, the paper overstates “generation,” and its baselines and evaluation protocol are not sufficient to support the conclusion that it is the first to go beyond simple answer selection and achieve non-factoid answer generation. If the authors reposition the task as “structured sentence selection and combination” and add stricter baselines, ablations, human evaluation, and cross-domain analysis, the paper would be more convincing. In its current version, my overall recommendation is reject or weak reject. I think this work is suitable as an application-system paper or a preliminary exploration for future research, but it has not yet met the standards of an ICLR main-conference paper in terms of methodological rigor, experimental reproducibility, and credibility of conclusions.\n",
+      "document_id": null
+    }
+  ]
+}

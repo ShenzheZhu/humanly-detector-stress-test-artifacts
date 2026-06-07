@@ -1,0 +1,531 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.000020907959739601222,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999725710213543,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0002727336934811239,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997272663065189,
+            "ai": 0.00018415593458812597,
+            "paraphrased": 0.00008857775889299792
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00020075644813310334,
+          "sentence": "Affective forecasting can influence motivation and decision making (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997992435518669,
+            "ai": 0.00011041877568472336,
+            "paraphrased": 0.00009033767244837998
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016648054971772316,
+          "sentence": "Often, affective forecasting is inaccurate, largely due to three factors: impact bias, focalism, and immune neglect.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998335194502823,
+            "ai": 0.00008084837670679457,
+            "paraphrased": 0.00008563217301092859
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001380741809695966,
+          "sentence": "These inaccuracies are referred to as affective forecasting errors, which can affect the likelihood of behaviour occurring.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998619258190304,
+            "ai": 0.00006057751489906861,
+            "paraphrased": 0.00007749666607052799
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014624346316414693,
+          "sentence": "Appraisal theory states that emotions occur as a result of an assessment of a situation or stimulus.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998537565368358,
+            "ai": 0.000071495242146286,
+            "paraphrased": 0.00007474822101786092
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013112636383545446,
+          "sentence": "Once an emotion is apparent, the behavioural response to that emotion is then expressed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998688736361645,
+            "ai": 0.00006216229704687006,
+            "paraphrased": 0.00006896406678858441
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010938040437554879,
+          "sentence": "Research on affective forecasting is somewhat limited and should be further investigated, especially in consideration of the impact that appraisals of future emotional states have on decision making.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998906195956244,
+            "ai": 0.00003337836639899285,
+            "paraphrased": 0.00007600203797655595
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010564593041770203,
+          "sentence": "Affective Forecasting",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998943540695823,
+            "ai": 0.00003674485463239301,
+            "paraphrased": 0.00006890107578530901
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011374016156562617,
+          "sentence": "Affective forecasting occurs when people make predictions about what they anticipate their emotional reactions will be to future events (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998862598384344,
+            "ai": 0.00004134300919834192,
+            "paraphrased": 0.00007239715236728425
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010946669356558113,
+          "sentence": "There are three main factors that contribute to affective forecasting errors: impact bias, focalism, and immune neglect (Halpern & Arnold, 2008).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998905333064344,
+            "ai": 0.00003800802334922303,
+            "paraphrased": 0.0000714586702163581
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008650205033983,
+          "sentence": "Impact Bias",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999134979496602,
+            "ai": 0.00002010079239897536,
+            "paraphrased": 0.00006640125794085463
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010837549826449777,
+          "sentence": "Impact bias occurs when people overestimate the intensity and/or duration of emotional affect in response to an event (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998916245017355,
+            "ai": 0.000044184163106713305,
+            "paraphrased": 0.00006419133515778447
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007945475322561845,
+          "sentence": "The problem with the incorrect assumption that an event will be more emotionally evocative is that decision making regarding that event is subsequently affected (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999205452467744,
+            "ai": 0.00002621545869934201,
+            "paraphrased": 0.00005323929452627643
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001306090438156157,
+          "sentence": "Classical and operant conditioning persuade us to repeat or cease behaviours depending on their expected result (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998693909561844,
+            "ai": 0.00007281671746591371,
+            "paraphrased": 0.000057792326349702
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004988839971479629,
+          "sentence": "This is also true of expected emotional outcomes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995011160028521,
+            "ai": 0.0003979232015003461,
+            "paraphrased": 0.00010096079564761685
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012111432691617233,
+          "sentence": "If a person expects to be rewarded with a happy emotional state after an event, they are more likely to attend.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987888567308383,
+            "ai": 0.0011546756883166092,
+            "paraphrased": 0.00005646758084511415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012940360653445572,
+          "sentence": "Conversely, if they expect to be made angry or upset by an event, they will likely try to avoid it (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987059639346555,
+            "ai": 0.0012385545758500272,
+            "paraphrased": 0.0000554814894945301
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012010764833484907,
+          "sentence": "Focalism",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987989235166516,
+            "ai": 0.0011312996017155074,
+            "paraphrased": 0.00006977688163298331
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0016038663192187701,
+          "sentence": "Focalism refers to a person’s failure to anticipate other co-occurring factors that may influence or contribute to their emotional experience of a future situation (Emanuel, Updegraff, Kalmbach, & Ciesla, 2010).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9983961336807813,
+            "ai": 0.0015469235228519017,
+            "paraphrased": 0.00005694279636686835
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007632239442569689,
+          "sentence": "An example of this is die-hard sports fans who overestimate the elation they would experience if their team won the grand final (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999236776055743,
+            "ai": 0.000725774934113464,
+            "paraphrased": 0.00003744901014350488
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0008669491875059205,
+          "sentence": "In reality, there are an abundance of factors that could diminish their overall positive experience of the good result (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999133050812494,
+            "ai": 0.0008310250708191764,
+            "paraphrased": 0.00003592411668674417
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00040888685693497677,
+          "sentence": "They could be stressed by work, have just broken up with their partner, have lost a loved one, and so on, all of which could detract from their happiness about their team winning (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999591113143065,
+            "ai": 0.0003774914436402573,
+            "paraphrased": 0.00003139541329471944
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005892708354411446,
+          "sentence": "Immune Neglect",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994107291645589,
+            "ai": 0.0005424042942402811,
+            "paraphrased": 0.00004686654120086338
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00025122413045230015,
+          "sentence": "People often underestimate their capacity to cope with, adapt to, and understand emotional situations and their responses to them (Halpern & Arnold, 2008).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997487758695477,
+            "ai": 0.00022591799129012354,
+            "paraphrased": 0.00002530613916217661
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000272902201908282,
+          "sentence": "Coping and defence mechanisms are often largely unconscious processes that occur without active consideration (Halpern & Arnold, 2008).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997270977980918,
+            "ai": 0.00024066173434212913,
+            "paraphrased": 0.000032240467566152845
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007114560808479384,
+          "sentence": "People make sense of their emotions and feelings in a way that accelerates their emotional recovery, often much faster than they tend to anticipate (Wilson & Gilbert, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992885439191521,
+            "ai": 0.0006743123060796091,
+            "paraphrased": 0.00003714377476832932
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999725710213543,
+        "ai": 0.000027428978645693105,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999725710213543,
+          "ai": 0.000027428978645693105,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\nAffective forecasting can influence motivation and decision making (Wilson & Gilbert, 2005). Often, affective forecasting is inaccurate, largely due to three factors: impact bias, focalism, and immune neglect. These inaccuracies are referred to as affective forecasting errors, which can affect the likelihood of behaviour occurring.\n\nAppraisal theory states that emotions occur as a result of an assessment of a situation or stimulus. Once an emotion is apparent, the behavioural response to that emotion is then expressed. Research on affective forecasting is somewhat limited and should be further investigated, especially in consideration of the impact that appraisals of future emotional states have on decision making.\n\nAffective Forecasting\nAffective forecasting occurs when people make predictions about what they anticipate their emotional reactions will be to future events (Wilson & Gilbert, 2005). There are three main factors that contribute to affective forecasting errors: impact bias, focalism, and immune neglect (Halpern & Arnold, 2008).\n\nImpact Bias\nImpact bias occurs when people overestimate the intensity and/or duration of emotional affect in response to an event (Wilson & Gilbert, 2005). The problem with the incorrect assumption that an event will be more emotionally evocative is that decision making regarding that event is subsequently affected (Wilson & Gilbert, 2005). Classical and operant conditioning persuade us to repeat or cease behaviours depending on their expected result (Wilson & Gilbert, 2005). This is also true of expected emotional outcomes. If a person expects to be rewarded with a happy emotional state after an event, they are more likely to attend. Conversely, if they expect to be made angry or upset by an event, they will likely try to avoid it (Wilson & Gilbert, 2005).\n\nFocalism\nFocalism refers to a person’s failure to anticipate other co-occurring factors that may influence or contribute to their emotional experience of a future situation (Emanuel, Updegraff, Kalmbach, & Ciesla, 2010). An example of this is die-hard sports fans who overestimate the elation they would experience if their team won the grand final (Wilson & Gilbert, 2005). In reality, there are an abundance of factors that could diminish their overall positive experience of the good result (Wilson & Gilbert, 2005). They could be stressed by work, have just broken up with their partner, have lost a loved one, and so on, all of which could detract from their happiness about their team winning (Wilson & Gilbert, 2005).\n\nImmune Neglect\nPeople often underestimate their capacity to cope with, adapt to, and understand emotional situations and their responses to them (Halpern & Arnold, 2008). Coping and defence mechanisms are often largely unconscious processes that occur without active consideration (Halpern & Arnold, 2008). People make sense of their emotions and feelings in a way that accelerates their emotional recovery, often much faster than they tend to anticipate (Wilson & Gilbert, 2005).\n",
+      "document_id": null
+    }
+  ]
+}

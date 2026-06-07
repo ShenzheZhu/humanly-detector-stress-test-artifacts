@@ -1,0 +1,224 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        }
+      ],
+      "completely_generated_prob": 0.9999537972139473,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999866356571924,
+          "sentence": "After months of tinkering in my spare time, I've put together a small piece of writing software and I'm releasing it for free.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013364342807589759,
+            "ai": 0.9998579750938775,
+            "paraphrased": 0.00012866056331483472
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999925244637627,
+          "sentence": "The idea came from my own frustration: most tools either overwhelmed me with features I never used or got in the way of actually drafting.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000747553623725278,
+            "ai": 0.9998591574765349,
+            "paraphrased": 0.00013336698722789717
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991316214855,
+          "sentence": "So I tried to build something that stays out of the way and just lets you write, with a distraction-free mode and simple tools for tracking word count and editing notes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008683785145012314,
+            "ai": 0.999892789140052,
+            "paraphrased": 0.0000985270748030183
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999929347873563,
+          "sentence": "I'm not trying to compete with the big names.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007065212643715588,
+            "ai": 0.9998848379666397,
+            "paraphrased": 0.00010809682071656256
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999907103915384,
+          "sentence": "I mostly hope it's useful to a few people who, like me, want fewer obstacles between an idea and the page.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009289608461618227,
+            "ai": 0.9998888287389169,
+            "paraphrased": 0.00010188165262146698
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999949366272499,
+          "sentence": "It's still rough around the edges, and I'd genuinely welcome feedback on what's missing or what feels clunky.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005063372750081674,
+            "ai": 0.9998683416651367,
+            "paraphrased": 0.0001265949621132435
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991124754079,
+          "sentence": "If it helps even one person finish a draft they've been putting off, I'll consider the whole project worthwhile.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008875245920987615,
+            "ai": 0.999871875930825,
+            "paraphrased": 0.00011924882325400401
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999670113112004,
+          "sentence": "Happy to answer any questions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000032988688799642374,
+            "ai": 0.9998641819110861,
+            "paraphrased": 0.00010282940011426927
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "After months of tinkering in my spare time, I've put together a small piece of writing software and I'm releasing it for free. The idea came from my own frustration: most tools either overwhelmed me with features I never used or got in the way of actually drafting. So I tried to build something that stays out of the way and just lets you write, with a distraction-free mode and simple tools for tracking word count and editing notes. I'm not trying to compete with the big names. I mostly hope it's useful to a few people who, like me, want fewer obstacles between an idea and the page. It's still rough around the edges, and I'd genuinely welcome feedback on what's missing or what feels clunky. If it helps even one person finish a draft they've been putting off, I'll consider the whole project worthwhile. Happy to answer any questions.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+case,construction,opus_doc_acc_pct,opus_policy_acc_pct,opus_fpr_pct,opus_fnr_pct,gptzero_doc_acc_pct,gptzero_policy_acc_pct,gptzero_fpr_pct,gptzero_fnr_pct,pangram_doc_acc_pct,pangram_policy_acc_pct,pangram_fpr_pct,pangram_fnr_pct
+C1,Human-generated original,93.3,93.3,,,100,100,,,100,100,,
+N1,AI-generated original,26.7,36.7,,,100,100,,,100,100,,
+C2,Human-generated + AI-polished,20,80,,,6.7,93.3,,,0,100,,
+N2,AI-generated + human-polished,30,36.7,,,96.7,100,,,100,100,,
+C3,Human-generated non-English + AI-translated,33.3,66.7,,,0,100,,,0,100,,
+N3,AI-generated non-English + AI-translated,23.3,46.7,,,76.7,90,,,63.3,96.7,,
+C4,Human-generated AI-style text,26.7,26.7,,,0,0,,,0,0,,
+N4,AI-generated human-style text,20,36.7,,,0,100,,,0,96.7,,
+Overall,All cases,34.2,52.9,33.3,60.8,47.5,85.4,26.7,2.5,45.4,86.7,25,1.7

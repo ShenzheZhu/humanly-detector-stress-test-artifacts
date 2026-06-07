@@ -1,0 +1,271 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.9999379257414251,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999322302184572,
+          "sentence": "About a year ago I self-published a nonfiction book about my attempt to seriously improve at a niche sport.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006776978154275186,
+            "ai": 0.9997774800029954,
+            "paraphrased": 0.00015475021546185985
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999923377744538,
+          "sentence": "It was a fun project, part memoir and part practical guide, and I honestly thought the audience would be small but enthusiastic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000076622255461317,
+            "ai": 0.9998580315409247,
+            "paraphrased": 0.00013430623352914136
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999619934084162,
+          "sentence": "In one sense, it “worked.” The book hit #1 in its Amazon category a few times and has stayed near the top of some very specific bestseller lists.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003800659158384868,
+            "ai": 0.9998404117452186,
+            "paraphrased": 0.00012158166319751225
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999858706875571,
+          "sentence": "I’ve had nice emails from readers, a few blog mentions, and some encouraging reviews.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014129312442991443,
+            "ai": 0.9998781340824138,
+            "paraphrased": 0.00010773660514325343
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999807550218054,
+          "sentence": "From the outside, it probably looks like a successful little book.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019244978194700527,
+            "ai": 0.9998652604907796,
+            "paraphrased": 0.00011549453102572219
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999782654683252,
+          "sentence": "Financially, though, it has been much more modest than I expected.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000021734531674720016,
+            "ai": 0.9998534206819938,
+            "paraphrased": 0.00012484478633144666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999644045664603,
+          "sentence": "Across paperback, ebook, and audio, it has made only a few thousand dollars in a year.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000035595433539769135,
+            "ai": 0.9998346841193944,
+            "paraphrased": 0.00012972044706589748
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999982269089731,
+          "sentence": "I’m grateful for that, but it’s nowhere near enough to justify the time if I look at it purely as a business decision.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001773091026899127,
+            "ai": 0.9998718506193788,
+            "paraphrased": 0.00011041847035225028
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999860235247638,
+          "sentence": "I’m curious how other nonfiction writers think about this.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001397647523617348,
+            "ai": 0.9998797744104008,
+            "paraphrased": 0.00010624911436302544
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999897839326966,
+          "sentence": "Is niche authority enough, or is the real challenge finding a market that is actually willing to buy?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010216067303513984,
+            "ai": 0.9998633372974175,
+            "paraphrased": 0.00012644663527900548
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "About a year ago I self-published a nonfiction book about my attempt to seriously improve at a niche sport. It was a fun project, part memoir and part practical guide, and I honestly thought the audience would be small but enthusiastic.\n\nIn one sense, it “worked.” The book hit #1 in its Amazon category a few times and has stayed near the top of some very specific bestseller lists. I’ve had nice emails from readers, a few blog mentions, and some encouraging reviews. From the outside, it probably looks like a successful little book.\n\nFinancially, though, it has been much more modest than I expected. Across paperback, ebook, and audio, it has made only a few thousand dollars in a year. I’m grateful for that, but it’s nowhere near enough to justify the time if I look at it purely as a business decision.\n\nI’m curious how other nonfiction writers think about this. Is niche authority enough, or is the real challenge finding a market that is actually willing to buy?\n",
+      "document_id": null
+    }
+  ]
+}

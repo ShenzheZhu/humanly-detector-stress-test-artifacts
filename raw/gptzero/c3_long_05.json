@@ -1,0 +1,999 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 8,
+          "completely_generated_prob": 3.002405151306975e-7
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 41,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 47,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 51,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 53,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        }
+      ],
+      "completely_generated_prob": 0.000011217237686716163,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999881671078106,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00038831653664523155,
+          "sentence": "# An Adventurer’s Philosophy of Life",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996116834633547,
+            "ai": 0.0003680921537373351,
+            "paraphrased": 0.00002022438290789647
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008310922388277904,
+          "sentence": "In an [article](http://www.dagbladet.no/nyheter/1999/01/11/153096.html) by Hege Duckert in Dagbladet on 11.01.1999, she begins with the following words: “It is a paradox that Arne Næss, one of Norway’s most prominent thinkers, is most famous for using his legs” ... “legendary for his climbing expeditions.” Because that is what he is best known for!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999168907761172,
+            "ai": 0.00006861763491471469,
+            "paraphrased": 0.000014491588968064354
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006878948130838159,
+          "sentence": "That he is also a philosopher is something most people who have a university education behind them know.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999312105186916,
+            "ai": 0.000054034138574999116,
+            "paraphrased": 0.000014755342733382475
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005889928011985051,
+          "sentence": "For who does not remember struggling through *The History of Philosophy* volumes I and II in order to take examen philosophicum?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999411007198802,
+            "ai": 0.00004475562265109861,
+            "paraphrased": 0.0000141436574687519
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006057252999516426,
+          "sentence": "I still have the books standing on my shelves, almost 30 years later ... Full of underlinings, markings, etc.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999394274700049,
+            "ai": 0.00004600898617451419,
+            "paraphrased": 0.00001456354382065007
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006142393148938187,
+          "sentence": "Arne Næss was born in 1912 and died in 2009, almost a hundred years old.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999385760685107,
+            "ai": 0.000046385057804726016,
+            "paraphrased": 0.00001503887368465586
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000044001752344820436,
+          "sentence": "During his life he managed to give logic and philosophy a key position in the academic and intellectual life of Norway in the post-war period, to quote [Wikipedia](http://no.wikipedia.org/wiki/Arne_Næss).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999559982476551,
+            "ai": 0.00002888228625169315,
+            "paraphrased": 0.000015119466093127285
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000048738160319923014,
+          "sentence": "He wrote quantities of books and articles on various themes within philosophy and logic, and the mere fact that his textbooks were part of the syllabus for the university’s preliminary exam for a number of years has, as mentioned, meant that everyone with a degree behind them has some relationship to the philosopher.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999512618396801,
+            "ai": 0.000034162076820062894,
+            "paraphrased": 0.000014576083499860118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004612920042126747,
+          "sentence": "To be completely honest, it is not often that I read philosophical works at all.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999538707995788,
+            "ai": 0.00003155605387870629,
+            "paraphrased": 0.00001457314654256118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000046757075996468456,
+          "sentence": "But when I came across this small and relatively modest book at a book sale some years ago, I thought that maybe it was time for a little philosophical updating.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999532429240036,
+            "ai": 0.00003179022243966995,
+            "paraphrased": 0.000014966853556798508
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000045110141837512133,
+          "sentence": "Even so, it took a few years before I finally got it read — yes, not until I found the book as an audiobook at the library and thought that “now I shall get started!” It also fit well into my little project of reading literature with a focus on [happiness](http://rosemariechr.blogspot.com/search/label/lykke), increased quality of life, and so on.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999548898581625,
+            "ai": 0.00003108754244649508,
+            "paraphrased": 0.000014022599391017052
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011899004720440359,
+          "sentence": "For an untrained “philosopher,” it is not easy to briefly reproduce what Arne Næss’s book is about.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998810099527956,
+            "ai": 0.00010446473406514283,
+            "paraphrased": 0.000014525313139260763
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004889908336606337,
+          "sentence": "He embraces so many themes along the way, and having to summarize in a few sentences what the essence of his philosophy of life is, is difficult.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999951100916634,
+            "ai": 0.000033638566618830556,
+            "paraphrased": 0.00001526051674723281
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007906372554192087,
+          "sentence": "One common denominator, however, is the importance of enthusiasm!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999209362744581,
+            "ai": 0.00006214573485421567,
+            "paraphrased": 0.000016917990687705195
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004458485634264952,
+          "sentence": "How much more fun is it not to learn something difficult if the teacher or master is enthusiastic about what he or she is doing?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999554151436574,
+            "ai": 0.000027585107074942728,
+            "paraphrased": 0.000016999749267706792
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000043200928687115056,
+          "sentence": "As opposed to sitting and listening to a dry and boring lecturer ...",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999567990713129,
+            "ai": 0.00002370475511069879,
+            "paraphrased": 0.000019496173576416266
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004341350994024321,
+          "sentence": "Besides, we should stop being so concerned with “the right” answers, and rather concentrate on asking questions, being more wondering instead of concluding.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999565864900598,
+            "ai": 0.000023719537642800246,
+            "paraphrased": 0.000019693972297442963
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000044868607560386846,
+          "sentence": "In Næss’s thinking, moreover, feelings and reason are something that belong together — not opposites, as we are traditionally trained to think.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999551313924396,
+            "ai": 0.000028252111018140498,
+            "paraphrased": 0.000016616496542246347
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003757163280585616,
+          "sentence": "He makes a case for bringing feelings in as part of research.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999624283671942,
+            "ai": 0.000020433351469158382,
+            "paraphrased": 0.000017138281336697775
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004165093497423709,
+          "sentence": "I found the part of the book that dealt with emotional maturation the most interesting of all.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999583490650258,
+            "ai": 0.00002299476166486008,
+            "paraphrased": 0.000018656173309377007
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000038736627422841603,
+          "sentence": "Næss asks, for example, what it was that made young Norwegians allow themselves to be recruited by the Nazis during the Second World War, and carry out the most grotesque acts of torture during interrogations of their countrymen.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999612633725772,
+            "ai": 0.00002031796079135768,
+            "paraphrased": 0.000018418666631483927
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000040885563198479246,
+          "sentence": "Why was it, to only a small degree, men — because it was mostly men it was about — over 30–40 years old who took part in such acts?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999591144368015,
+            "ai": 0.000023100876280177095,
+            "paraphrased": 0.00001778468691830215
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004968264648528878,
+          "sentence": "Næss analyzes the problem and concludes that the explanation most likely is the lack of emotional maturation in people between 15 and 25 years old.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999503173535147,
+            "ai": 0.00003335375460048486,
+            "paraphrased": 0.000016328891884803923
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005627267240533067,
+          "sentence": "Emotionally mature people, namely, were not so easily dazzled by the rhetoric of Nazism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999437273275946,
+            "ai": 0.00003990430172203519,
+            "paraphrased": 0.000016368370683295477
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008680914800980052,
+          "sentence": "One of the chapters in the book is called “One Should Only Learn What One Feels Like Learning.” In the introduction he writes:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999131908519902,
+            "ai": 0.00007130888666920109,
+            "paraphrased": 0.000015500261340599424
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000833546659282434,
+          "sentence": "> “In an affluent society like Norway, we need both a pedagogy and an educational system that take feelings into account.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999166453340718,
+            "ai": 0.00006791185192742928,
+            "paraphrased": 0.000015442814000814113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002769837447179179,
+          "sentence": "We talk about education.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999723016255282,
+            "ai": 0.0002602371694996367,
+            "paraphrased": 0.000016746575218281215
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005497763451516291,
+          "sentence": "I believe we should also talk about inner formation: inner values such as wonder, creativity, and imagination.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994502236548484,
+            "ai": 0.0005259318634586354,
+            "paraphrased": 0.000023844481692993724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006096839843118108,
+          "sentence": "There are many subjects that are excellently suited to promoting such qualities, but then we must educate teachers who are allowed to be personal and shape their teaching plans more freely.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993903160156882,
+            "ai": 0.0005968852498799435,
+            "paraphrased": 0.000012798734431867327
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002552976160624521,
+          "sentence": "In addition, the knowledge requirements must be lowered — to learn well is to learn slowly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997447023839375,
+            "ai": 0.00024235860916015903,
+            "paraphrased": 0.000012939006902293066
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011526796510246713,
+          "sentence": "Learning only becomes effective if the pupils and students are occasionally allowed to concentrate on something they burn for.” (page 143)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998847320348976,
+            "ai": 0.00010523024762584386,
+            "paraphrased": 0.000010037717476623276
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006985952202639475,
+          "sentence": "Otherwise, it is — Næss claims — a paradox that other languages do not have a word that covers our Norwegian concept of “utdannelse” (“education”).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999301404779736,
+            "ai": 0.0000592516879009676,
+            "paraphrased": 0.000010607834125427148
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012132055108248733,
+          "sentence": "“Dannelse” (“formation” or “cultivation”), on the other hand, is a concept that carries great weight in other countries too.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998786794489175,
+            "ai": 0.00011118595668343909,
+            "paraphrased": 0.000010134594399048228
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000038462200603268004,
+          "sentence": "Næss also believes that when one talks about the learning of new skills and knowledge, one should in addition be conscious of the unlearning that necessarily also takes place.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999615377993968,
+            "ai": 0.00002742929544072575,
+            "paraphrased": 0.000011032905162542258
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003602373099762574,
+          "sentence": "It is probably no coincidence that the book’s last chapter is called “The Art of Living — Doing Small Things in a Big Way,” because here Næss summarizes what significance there is in enjoying the life one lives.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999639762690024,
+            "ai": 0.000024700072925250966,
+            "paraphrased": 0.00001132365807237478
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000554045224757276,
+          "sentence": "> “Many older people have a strong ability to handle problems on the spot and to see what is most important in existence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999445954775242,
+            "ai": 0.000045908543509717336,
+            "paraphrased": 0.00000949597896601026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006787853397682453,
+          "sentence": "Many young and middle-aged people realize this too late because they do not take the time to seriously question their priorities.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999321214660232,
+            "ai": 0.00005830027011522335,
+            "paraphrased": 0.00000957826386160118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008059482767891111,
+          "sentence": "The decisive thing is not exactly what one spends one’s time on.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999194051723211,
+            "ai": 0.0000714325936003155,
+            "paraphrased": 0.000009162234078595608
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005927536963284281,
+          "sentence": "The most important thing is how one engages oneself, and what strength one puts into it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999407246303672,
+            "ai": 0.00004987904180322493,
+            "paraphrased": 0.00000939632782961788
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008815450227901239,
+          "sentence": "The art of living is being able to do small things in a big way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999118454977209,
+            "ai": 0.00007824101606998987,
+            "paraphrased": 0.000009913486209022511
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007990693645682485,
+          "sentence": "I want to launch a ‘well-being formula’ that shows how life can always turn out to be acceptable, despite all pain, as long as we burn for what we do.” (page 163)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999200930635431,
+            "ai": 0.00006996515473981769,
+            "paraphrased": 0.000009941781717007156
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014341095689447423,
+          "sentence": "In a way I think Arne Næss’s book sums up much of the same that I have seen in other literature dealing with themes such as the art of living, happiness, and the like.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998565890431055,
+            "ai": 0.00013375667884167136,
+            "paraphrased": 0.000009654278052802863
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.004332221629524815,
+          "sentence": "In order to achieve the good life, one must prioritize things that engage one, that inspire enthusiasm and make one glow with interest.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9956677783704752,
+            "ai": 0.00430124143988496,
+            "paraphrased": 0.00003098018963985477
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.005035156911759802,
+          "sentence": "If “everything” just becomes a duty-run, the joy of living is killed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9949648430882402,
+            "ai": 0.004984026800112295,
+            "paraphrased": 0.000051130111647507496
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005696008554429993,
+          "sentence": "In our society, where we actually have everything and where the possibilities are so many that we almost have to consult experts in order to be able to make even the simplest choices in rather too many contexts, it is appropriate to remind ourselves of the importance of following our feelings, even if these cannot always be explained rationally.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999430399144557,
+            "ai": 0.00004472699318262525,
+            "paraphrased": 0.000012233092361674682
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006961895991821428,
+          "sentence": "The chance that the choice will be right for us is great when we follow our feelings.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999303810400818,
+            "ai": 0.000057121364037671756,
+            "paraphrased": 0.000012497595880542524
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000044430895145928586,
+          "sentence": "This is at least the essence I have drawn from this book, which I found very interesting, even though the material was at times a little difficult to access.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999555691048541,
+            "ai": 0.00003139024289778167,
+            "paraphrased": 0.000013040652248146917
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000040659513243670455,
+          "sentence": "The book is well suited to creating reflection on important themes in life, and Næss is very concerned with emphasizing that there is no ready-made philosophy of life that can be formulated once and for all.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999593404867563,
+            "ai": 0.00002695813211986117,
+            "paraphrased": 0.000013701381123809288
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000045093099664827975,
+          "sentence": "A philosophy of life becomes — like most other things in this life — as one lives, and is constantly changing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999549069003352,
+            "ai": 0.00003231095148614886,
+            "paraphrased": 0.00001278214817867911
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004732696193470364,
+          "sentence": "What is important to one person does not have to be so for another.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999526730380653,
+            "ai": 0.000035557528431881306,
+            "paraphrased": 0.000011769433502822334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000039649593287561446,
+          "sentence": "In any case, we must move away from the idea that being so critical of everything and everyone is considered so much more intellectual than being open and having the ability to let oneself be inspired!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999603504067124,
+            "ai": 0.000025294433721187433,
+            "paraphrased": 0.000014355159566374012
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00038273332673419185,
+          "sentence": "It was actually especially fun to listen to the audiobook version, since the aging philosopher himself read the introductions to the chapters in the book.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996172666732658,
+            "ai": 0.0003696772795561603,
+            "paraphrased": 0.000013056047178031567
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.005233451439433764,
+          "sentence": "Erik Hivju, for his part, functioned excellently as narrator.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9947665485605662,
+            "ai": 0.005199260777532884,
+            "paraphrased": 0.000034190661900879846
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.006476128115390478,
+          "sentence": "This gets **dice roll five**.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9935238718846096,
+            "ai": 0.006445163319493927,
+            "paraphrased": 0.00003096479589655027
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999881671078106,
+        "ai": 0.000011832892189388511,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999881671078106,
+          "ai": 0.000011832892189388511,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "# An Adventurer’s Philosophy of Life\n\nIn an [article](http://www.dagbladet.no/nyheter/1999/01/11/153096.html) by Hege Duckert in Dagbladet on 11.01.1999, she begins with the following words: “It is a paradox that Arne Næss, one of Norway’s most prominent thinkers, is most famous for using his legs” ... “legendary for his climbing expeditions.” Because that is what he is best known for! That he is also a philosopher is something most people who have a university education behind them know. For who does not remember struggling through *The History of Philosophy* volumes I and II in order to take examen philosophicum? I still have the books standing on my shelves, almost 30 years later ... Full of underlinings, markings, etc.\n\nArne Næss was born in 1912 and died in 2009, almost a hundred years old. During his life he managed to give logic and philosophy a key position in the academic and intellectual life of Norway in the post-war period, to quote [Wikipedia](http://no.wikipedia.org/wiki/Arne_Næss). He wrote quantities of books and articles on various themes within philosophy and logic, and the mere fact that his textbooks were part of the syllabus for the university’s preliminary exam for a number of years has, as mentioned, meant that everyone with a degree behind them has some relationship to the philosopher.\n\nTo be completely honest, it is not often that I read philosophical works at all. But when I came across this small and relatively modest book at a book sale some years ago, I thought that maybe it was time for a little philosophical updating. Even so, it took a few years before I finally got it read — yes, not until I found the book as an audiobook at the library and thought that “now I shall get started!” It also fit well into my little project of reading literature with a focus on [happiness](http://rosemariechr.blogspot.com/search/label/lykke), increased quality of life, and so on.\n\nFor an untrained “philosopher,” it is not easy to briefly reproduce what Arne Næss’s book is about. He embraces so many themes along the way, and having to summarize in a few sentences what the essence of his philosophy of life is, is difficult. One common denominator, however, is the importance of enthusiasm! How much more fun is it not to learn something difficult if the teacher or master is enthusiastic about what he or she is doing? As opposed to sitting and listening to a dry and boring lecturer ... Besides, we should stop being so concerned with “the right” answers, and rather concentrate on asking questions, being more wondering instead of concluding. In Næss’s thinking, moreover, feelings and reason are something that belong together — not opposites, as we are traditionally trained to think. He makes a case for bringing feelings in as part of research.\n\nI found the part of the book that dealt with emotional maturation the most interesting of all. Næss asks, for example, what it was that made young Norwegians allow themselves to be recruited by the Nazis during the Second World War, and carry out the most grotesque acts of torture during interrogations of their countrymen. Why was it, to only a small degree, men — because it was mostly men it was about — over 30–40 years old who took part in such acts? Næss analyzes the problem and concludes that the explanation most likely is the lack of emotional maturation in people between 15 and 25 years old. Emotionally mature people, namely, were not so easily dazzled by the rhetoric of Nazism.\n\nOne of the chapters in the book is called “One Should Only Learn What One Feels Like Learning.” In the introduction he writes:\n\n> “In an affluent society like Norway, we need both a pedagogy and an educational system that take feelings into account. We talk about education. I believe we should also talk about inner formation: inner values such as wonder, creativity, and imagination. There are many subjects that are excellently suited to promoting such qualities, but then we must educate teachers who are allowed to be personal and shape their teaching plans more freely. In addition, the knowledge requirements must be lowered — to learn well is to learn slowly. Learning only becomes effective if the pupils and students are occasionally allowed to concentrate on something they burn for.” (page 143)\n\nOtherwise, it is — Næss claims — a paradox that other languages do not have a word that covers our Norwegian concept of “utdannelse” (“education”). “Dannelse” (“formation” or “cultivation”), on the other hand, is a concept that carries great weight in other countries too. Næss also believes that when one talks about the learning of new skills and knowledge, one should in addition be conscious of the unlearning that necessarily also takes place.\n\nIt is probably no coincidence that the book’s last chapter is called “The Art of Living — Doing Small Things in a Big Way,” because here Næss summarizes what significance there is in enjoying the life one lives.\n\n> “Many older people have a strong ability to handle problems on the spot and to see what is most important in existence. Many young and middle-aged people realize this too late because they do not take the time to seriously question their priorities. The decisive thing is not exactly what one spends one’s time on. The most important thing is how one engages oneself, and what strength one puts into it. The art of living is being able to do small things in a big way. I want to launch a ‘well-being formula’ that shows how life can always turn out to be acceptable, despite all pain, as long as we burn for what we do.” (page 163)\n\nIn a way I think Arne Næss’s book sums up much of the same that I have seen in other literature dealing with themes such as the art of living, happiness, and the like. In order to achieve the good life, one must prioritize things that engage one, that inspire enthusiasm and make one glow with interest. If “everything” just becomes a duty-run, the joy of living is killed. In our society, where we actually have everything and where the possibilities are so many that we almost have to consult experts in order to be able to make even the simplest choices in rather too many contexts, it is appropriate to remind ourselves of the importance of following our feelings, even if these cannot always be explained rationally. The chance that the choice will be right for us is great when we follow our feelings. This is at least the essence I have drawn from this book, which I found very interesting, even though the material was at times a little difficult to access.\n\nThe book is well suited to creating reflection on important themes in life, and Næss is very concerned with emphasizing that there is no ready-made philosophy of life that can be formulated once and for all. A philosophy of life becomes — like most other things in this life — as one lives, and is constantly changing. What is important to one person does not have to be so for another. In any case, we must move away from the idea that being so critical of everything and everyone is considered so much more intellectual than being open and having the ability to let oneself be inspired!\n\nIt was actually especially fun to listen to the audiobook version, since the aging philosopher himself read the introductions to the chapters in the book. Erik Hivju, for his part, functioned excellently as narrator.\n\nThis gets **dice roll five**.\n",
+      "document_id": null
+    }
+  ]
+}

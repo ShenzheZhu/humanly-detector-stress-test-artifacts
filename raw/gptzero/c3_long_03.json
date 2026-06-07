@@ -1,0 +1,841 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 36,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.000021772357989781524,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999766106044357,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.000040492750222337986,
+          "sentence": "According to Bilden, there are three myths about food that shape the debate about the geopolitics of food here in Norway.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999595072497777,
+            "ai": 0.000030395877987465354,
+            "paraphrased": 0.000010096872234872634
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005011765718103139,
+          "sentence": "The first is the local-food myth, which says that food produced nearby is more environmentally friendly than food that comes from far away.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999949882342819,
+            "ai": 0.00003976410065365108,
+            "paraphrased": 0.000010353556527380314
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000036751033442620805,
+          "sentence": "Bilden points out that if one includes the energy use in production, both Norwegian meat and Norwegian vegetables fall short compared with food produced at more southerly latitudes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999632489665574,
+            "ai": 0.000024615071255796176,
+            "paraphrased": 0.000012135962186824629
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000046735475480777986,
+          "sentence": "The second myth is the resource myth.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999532645245193,
+            "ai": 0.000036396013258612424,
+            "paraphrased": 0.00001033946222216556
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000034343751910106396,
+          "sentence": "Bilden claims, rather surprisingly, that it is a myth that there is too little food in the world, and that the problem is due to distribution, not a shortage of food.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999656562480899,
+            "ai": 0.000021754620070604185,
+            "paraphrased": 0.00001258913183950221
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003254351033537199,
+          "sentence": "The third myth concerns trade: according to Bilden, there are a number of actors in the debate about the geopolitics of food who claim that only market liberals believe that trade is better than aid.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999674564896647,
+            "ai": 0.00001852613605728582,
+            "paraphrased": 0.000014017374278086166
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004448139228039281,
+          "sentence": "Throughout the book, Bilden wants to launch a solidarity-based trade policy that confronts these myths.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999555186077196,
+            "ai": 0.00003344298582600256,
+            "paraphrased": 0.000011038406454390251
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000033747850073968927,
+          "sentence": "Bilden claims that the reason these myths have survived for so long is poor journalistic work and a lack of competence about global development trends in the Norwegian press.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999662521499261,
+            "ai": 0.000020458701090846005,
+            "paraphrased": 0.000013289148983122918
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000040863169625475075,
+          "sentence": "He also attacks both the Centre Party and the Trade Campaign, which, according to Bilden, advocate a protectionist policy that fails to acknowledge that development happens first and foremost through trade.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999591368303745,
+            "ai": 0.000029581517840799836,
+            "paraphrased": 0.000011281651784675237
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000043498239055250485,
+          "sentence": "So what kind of Norwegian trade policy does Bilden want?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999565017609447,
+            "ai": 0.00003216671435908471,
+            "paraphrased": 0.000011331524696165778
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004236810698755361,
+          "sentence": "First and foremost, he argues for a strong increase in Norwegian food imports from countries in the South, in step with a reduction in Norwegian food production.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999576318930125,
+            "ai": 0.00003108537421784397,
+            "paraphrased": 0.000011282732769709638
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004139593022093506,
+          "sentence": "Bilden wants to do this by reducing production subsidies in Norwegian agriculture, and shifting the support over to the preservation of cultural landscapes and biological diversity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999586040697791,
+            "ai": 0.000029947558688970778,
+            "paraphrased": 0.000011448371531964283
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000035047864900786805,
+          "sentence": "According to Bilden, this will both benefit the environment and promote development in the countries in the South that need the export income.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999649521350992,
+            "ai": 0.00002240722823605806,
+            "paraphrased": 0.000012640636664728742
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003486452612897158,
+          "sentence": "Bilden also relies on the views of the African Union, which among other things argues that only countries in the South have the right to protect their own production against imports.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999965135473871,
+            "ai": 0.000022322664008133946,
+            "paraphrased": 0.000012541862120837633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003639625653981289,
+          "sentence": "There are many good points and much that is good in Bilden’s book.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999636037434602,
+            "ai": 0.000024637555011946505,
+            "paraphrased": 0.000011758701527866388
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003467702617034957,
+          "sentence": "Bilden’s visits to food people and farmers in the South and the North challenge anyone who is concerned with agriculture and trade to think through what the right medicine is in trade policy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999653229738297,
+            "ai": 0.000022864613423498723,
+            "paraphrased": 0.000011812412746850852
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00771473169033168,
+          "sentence": "He also paints a credible picture of Africa as a “horn of plenty,” where the chance of becoming overweight is every bit as threatening as hunger for surprisingly many people.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9922852683096683,
+            "ai": 0.0076067504821316625,
+            "paraphrased": 0.00010798120820001752
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00028712482410240024,
+          "sentence": "What nevertheless weakens Bilden’s book is that in quite a few areas he simplifies the picture of the global food situation and the existing power constellations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997128751758976,
+            "ai": 0.00023817483161466175,
+            "paraphrased": 0.000048949992487738466
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002453872306197522,
+          "sentence": "This becomes a paradox when his stated purpose with the book is to kill off Norwegian myths about food and power.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997546127693803,
+            "ai": 0.00020142221285638186,
+            "paraphrased": 0.00004396501776337036
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023176267473620186,
+          "sentence": "The most startling simplification Bilden makes is when he claims that there is no food shortage in the world, and that there will not be one in the next 40 years either!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997682373252638,
+            "ai": 0.0001843086210117215,
+            "paraphrased": 0.00004745405372448034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001466936167366521,
+          "sentence": "Bilden has found this information on a website that is part of the UN Millennium Project and also in a report from the UN’s agricultural division, FAO, and he therefore accepts the information at face value.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998533063832633,
+            "ai": 0.0001038536287894222,
+            "paraphrased": 0.00004283998794722989
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002598301908888693,
+          "sentence": "The problem is that the FAO report is based on a number of assumptions that each seem unrealistic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997401698091112,
+            "ai": 0.0002115767536891805,
+            "paraphrased": 0.00004825343719968878
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002425189843822201,
+          "sentence": "One example is that FAO, in its report, has not taken into account that much of the agricultural area will be used for energy production in the future.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997574810156178,
+            "ai": 0.00019582550399014565,
+            "paraphrased": 0.000046693480392074436
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011973616839091676,
+          "sentence": "In addition, FAO assumes an 80% increase in agricultural yields in the countries of the South over the next 40 years, on the same area of land.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998802638316091,
+            "ai": 0.00007728545801650018,
+            "paraphrased": 0.000042450710374416587
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010839626686487733,
+          "sentence": "This seems unrealistic both with regard to the energy use this will require, and with regard to the challenges many countries face in relation to climate change, for example erosion and drought.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998916037331351,
+            "ai": 0.00006746867202459408,
+            "paraphrased": 0.00004092759484028326
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016798470144270368,
+          "sentence": "For example, the founder of the Worldwatch Institute, Lester Brown, has written that the record-high grain prices of recent years are the beginning of an era in which food shortages and the struggle over scarce resources will characterize the world.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998320152985573,
+            "ai": 0.00012609442400513085,
+            "paraphrased": 0.00004189027743757282
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004657858644165358,
+          "sentence": "Bilden is of course right that locally produced food is often far less environmentally friendly than imported food.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995342141355834,
+            "ai": 0.000411371715094766,
+            "paraphrased": 0.000054414149321769757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0008596086272910568,
+          "sentence": "One striking example is Norwegian tomatoes, which are often produced in energy-guzzling greenhouses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9991403913727089,
+            "ai": 0.0007983972394860202,
+            "paraphrased": 0.00006121138780503661
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00036675325244362356,
+          "sentence": "In that case it goes without saying that Spanish and Moroccan tomatoes grown in open fields are far more environmentally friendly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996332467475564,
+            "ai": 0.00031500709275241134,
+            "paraphrased": 0.000051746159691212215
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00191194979521027,
+          "sentence": "At the same time, as a reader one misses a broader discussion in Bilden of the crisis in industrial agriculture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9980880502047897,
+            "ai": 0.001820890677410474,
+            "paraphrased": 0.000091059117799796
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.007201819057352889,
+          "sentence": "With the global challenges we face linked to climate change and the use of energy, water and chemical pesticides, there is no doubt that industrial agriculture over the next few decades must become far more environmentally friendly and extensive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9927981809426472,
+            "ai": 0.007173263263750079,
+            "paraphrased": 0.000028555793602809492
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000561122387956289,
+          "sentence": "Whether we invest in food production in the North or the South, today’s industrial agriculture represents one of the greatest threats to the environment on earth.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994388776120438,
+            "ai": 0.0005515983517248188,
+            "paraphrased": 0.000009524036231470219
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000113324231241263,
+          "sentence": "In such a situation, is it particularly wise to invest less in Norwegian agriculture, which has better conditions for environmentally friendly operation than most other Western countries?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998866757687588,
+            "ai": 0.00010570761250316666,
+            "paraphrased": 0.000007616618738096334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004670474145248518,
+          "sentence": "We have great access to water, less need to use chemical pesticides because of low infection pressure, small farms and very large outfield resources.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999532952585475,
+            "ai": 0.00003769138588589764,
+            "paraphrased": 0.000009013355566587541
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004713848515617019,
+          "sentence": "Norwegian agricultural policy has admittedly failed, and therefore we have today ended up with an energy-intensive and not very environmentally friendly agriculture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999528615148439,
+            "ai": 0.000038812016026695386,
+            "paraphrased": 0.000008326469129474806
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006211630755869978,
+          "sentence": "The conditions for the opposite are nevertheless the very best.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999378836924413,
+            "ai": 0.00005447632384380608,
+            "paraphrased": 0.000007639983714893703
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007701760285644404,
+          "sentence": "There is also reason to highlight Bilden’s vision for a more solidarity-based development policy as a simplified picture of the challenges countries in the South face.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999229823971435,
+            "ai": 0.00006944763341538667,
+            "paraphrased": 0.000007569969441057375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000035884689071959144,
+          "sentence": "Even though Bilden spends a few pages at the end of the book discussing ideas about how the World Trade Organization can become more democratic, it is striking how much faith he has that a new trade agreement will give poor countries the chance to develop their way out of poverty through trade in food.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999964115310928,
+            "ai": 0.00002626670350057274,
+            "paraphrased": 0.000009617985571386402
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000048863407993244234,
+          "sentence": "Bilden claims that the WTO, because of the consensus principle—all countries must agree before anything is adopted—is a suitable organization for securing the interests of poor countries.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999511365920067,
+            "ai": 0.000040582977120551204,
+            "paraphrased": 0.00000828043087269303
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006388178918387125,
+          "sentence": "The challenge is that all experience shows that the poor countries are run over in these negotiations, despite the consensus principle.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999361182108162,
+            "ai": 0.000056210687843687734,
+            "paraphrased": 0.00000767110134018352
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005462215331174097,
+          "sentence": "For example, it is not difficult to agree with Bilden that Western countries’ export subsidies often destroy markets in the South, and that such subsidies ought to be illegal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999453778466882,
+            "ai": 0.000046574380449373094,
+            "paraphrased": 0.000008047772862367877
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006635543579295219,
+          "sentence": "Still, it seems unrealistic that these subsidies will be removed through the WTO negotiations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999336445642071,
+            "ai": 0.00005848195254508308,
+            "paraphrased": 0.000007873483247869113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000983390618150126,
+          "sentence": "How, then, can we continue to have confidence in this system?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999901660938185,
+            "ai": 0.00009082700204010745,
+            "paraphrased": 0.00000751205977490515
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011802614593625977,
+          "sentence": "Food and trade policy is an extremely complex political field.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998819738540637,
+            "ai": 0.00011015128158396805,
+            "paraphrased": 0.000007874864352291716
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010196347063179546,
+          "sentence": "Kaare Bilden deserves credit for making a wholehearted attempt to unite environmental and development concerns in his vision for a new trade policy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998980365293682,
+            "ai": 0.00009469145505512754,
+            "paraphrased": 0.000007272015576667919
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009540093059132352,
+          "sentence": "It is therefore a pity that he has to simplify the picture of the resource situation and the power constellations in the world community so much in order to make his vision seem credible.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999045990694087,
+            "ai": 0.00008749512633315092,
+            "paraphrased": 0.000007905804258172606
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999766106044357,
+        "ai": 0.000023389395564408515,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999766106044357,
+          "ai": 0.000023389395564408515,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "According to Bilden, there are three myths about food that shape the debate about the geopolitics of food here in Norway. The first is the local-food myth, which says that food produced nearby is more environmentally friendly than food that comes from far away. Bilden points out that if one includes the energy use in production, both Norwegian meat and Norwegian vegetables fall short compared with food produced at more southerly latitudes. The second myth is the resource myth. Bilden claims, rather surprisingly, that it is a myth that there is too little food in the world, and that the problem is due to distribution, not a shortage of food. The third myth concerns trade: according to Bilden, there are a number of actors in the debate about the geopolitics of food who claim that only market liberals believe that trade is better than aid.\n\nThroughout the book, Bilden wants to launch a solidarity-based trade policy that confronts these myths. Bilden claims that the reason these myths have survived for so long is poor journalistic work and a lack of competence about global development trends in the Norwegian press. He also attacks both the Centre Party and the Trade Campaign, which, according to Bilden, advocate a protectionist policy that fails to acknowledge that development happens first and foremost through trade.\n\nSo what kind of Norwegian trade policy does Bilden want? First and foremost, he argues for a strong increase in Norwegian food imports from countries in the South, in step with a reduction in Norwegian food production. Bilden wants to do this by reducing production subsidies in Norwegian agriculture, and shifting the support over to the preservation of cultural landscapes and biological diversity. According to Bilden, this will both benefit the environment and promote development in the countries in the South that need the export income. Bilden also relies on the views of the African Union, which among other things argues that only countries in the South have the right to protect their own production against imports.\n\nThere are many good points and much that is good in Bilden’s book. Bilden’s visits to food people and farmers in the South and the North challenge anyone who is concerned with agriculture and trade to think through what the right medicine is in trade policy. He also paints a credible picture of Africa as a “horn of plenty,” where the chance of becoming overweight is every bit as threatening as hunger for surprisingly many people. What nevertheless weakens Bilden’s book is that in quite a few areas he simplifies the picture of the global food situation and the existing power constellations. This becomes a paradox when his stated purpose with the book is to kill off Norwegian myths about food and power.\n\nThe most startling simplification Bilden makes is when he claims that there is no food shortage in the world, and that there will not be one in the next 40 years either! Bilden has found this information on a website that is part of the UN Millennium Project and also in a report from the UN’s agricultural division, FAO, and he therefore accepts the information at face value. The problem is that the FAO report is based on a number of assumptions that each seem unrealistic. One example is that FAO, in its report, has not taken into account that much of the agricultural area will be used for energy production in the future. In addition, FAO assumes an 80% increase in agricultural yields in the countries of the South over the next 40 years, on the same area of land. This seems unrealistic both with regard to the energy use this will require, and with regard to the challenges many countries face in relation to climate change, for example erosion and drought. A number of international experts also reach conclusions diametrically opposed to Bilden’s. For example, the founder of the Worldwatch Institute, Lester Brown, has written that the record-high grain prices of recent years are the beginning of an era in which food shortages and the struggle over scarce resources will characterize the world.\n\nBilden is of course right that locally produced food is often far less environmentally friendly than imported food. One striking example is Norwegian tomatoes, which are often produced in energy-guzzling greenhouses. In that case it goes without saying that Spanish and Moroccan tomatoes grown in open fields are far more environmentally friendly. At the same time, as a reader one misses a broader discussion in Bilden of the crisis in industrial agriculture. With the global challenges we face linked to climate change and the use of energy, water and chemical pesticides, there is no doubt that industrial agriculture over the next few decades must become far more environmentally friendly and extensive. Whether we invest in food production in the North or the South, today’s industrial agriculture represents one of the greatest threats to the environment on earth.\n\nIn such a situation, is it particularly wise to invest less in Norwegian agriculture, which has better conditions for environmentally friendly operation than most other Western countries? We have great access to water, less need to use chemical pesticides because of low infection pressure, small farms and very large outfield resources. Norwegian agricultural policy has admittedly failed, and therefore we have today ended up with an energy-intensive and not very environmentally friendly agriculture. The conditions for the opposite are nevertheless the very best.\n\nThere is also reason to highlight Bilden’s vision for a more solidarity-based development policy as a simplified picture of the challenges countries in the South face. Even though Bilden spends a few pages at the end of the book discussing ideas about how the World Trade Organization can become more democratic, it is striking how much faith he has that a new trade agreement will give poor countries the chance to develop their way out of poverty through trade in food. Bilden claims that the WTO, because of the consensus principle—all countries must agree before anything is adopted—is a suitable organization for securing the interests of poor countries. The challenge is that all experience shows that the poor countries are run over in these negotiations, despite the consensus principle. For example, it is not difficult to agree with Bilden that Western countries’ export subsidies often destroy markets in the South, and that such subsidies ought to be illegal. Still, it seems unrealistic that these subsidies will be removed through the WTO negotiations. How, then, can we continue to have confidence in this system?\n\nFood and trade policy is an extremely complex political field. Kaare Bilden deserves credit for making a wholehearted attempt to unite environmental and development concerns in his vision for a new trade policy. It is therefore a pity that he has to simplify the picture of the resource situation and the power constellations in the world community so much in order to make his vision seem credible.\n",
+      "document_id": null
+    }
+  ]
+}

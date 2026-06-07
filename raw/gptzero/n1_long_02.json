@@ -1,0 +1,1319 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 41,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 47,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 53,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 61,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 68,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9997368321915135,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9989765202407352,
+          "sentence": "The paper proposes a reinforcement learning framework for solving combinatorial optimization problems with neural networks, focusing primarily on the Euclidean traveling salesman problem and briefly demonstrating applicability to Knapsack.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010234797592647694,
+            "ai": 0.15261909692570497,
+            "paraphrased": 0.8463574233150303
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988272062825833,
+          "sentence": "The central idea is to use a pointer-network-style recurrent model as a stochastic policy over permutations, train it with policy gradients using tour length as the reward signal, and then improve inference by either sampling many candidate tours or performing “active search,” in which the policy parameters are further optimized on a single test instance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011727937174167335,
+            "ai": 0.1440385775187296,
+            "paraphrased": 0.8547886287638536
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9983146724591356,
+          "sentence": "The paper argues that this avoids the need for supervised optimal labels, can learn useful heuristics from reward alone, and provides a relatively general recipe for neural approaches to combinatorial search.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0016853275408644103,
+            "ai": 0.13057336519779558,
+            "paraphrased": 0.86774130726134
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987910993905735,
+          "sentence": "Empirically, the method substantially improves over a supervised pointer network baseline and obtains near-optimal results on random 2D Euclidean TSP instances up to 100 nodes when allowed extensive sampling or test-time optimization.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012089006094263845,
+            "ai": 0.14172868653356246,
+            "paraphrased": 0.8570624128570111
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9950580210862204,
+          "sentence": "This is an interesting and timely paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004941978913779557,
+            "ai": 0.1275837708152404,
+            "paraphrased": 0.86747425027098
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986119916980749,
+          "sentence": "Its main contribution is not that it competes with specialized TSP solvers, which it explicitly does not, but that it demonstrates a plausible way to train neural combinatorial policies directly against an optimization objective rather than by imitation of an external solver.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013880083019250503,
+            "ai": 0.17316059080793506,
+            "paraphrased": 0.8254514008901399
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988478570489798,
+          "sentence": "This distinction is important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011521429510201783,
+            "ai": 0.17397585058068338,
+            "paraphrased": 0.8248720064682964
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989475285270467,
+          "sentence": "Supervised learning from solver outputs can be brittle, expensive to scale to new problems, and misaligned with the ultimate objective, since reproducing a particular tour is not the same as finding any short tour.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010524714729532654,
+            "ai": 0.17952956482880555,
+            "paraphrased": 0.8194179636982412
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9970294977109482,
+          "sentence": "Framing the problem as reinforcement learning is natural, and the paper’s results show that this choice matters: the RL-trained policies outperform the supervised pointer-network approach by a large margin.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0029705022890519216,
+            "ai": 0.15480464920352405,
+            "paraphrased": 0.8422248485074241
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9938970699584833,
+          "sentence": "The active search component is also conceptually appealing, since combinatorial optimization at test time is inherently a search problem, and the paper shows that gradient-based adaptation of the neural policy can be used as a form of instance-specific search.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006102930041516705,
+            "ai": 0.14231666346008437,
+            "paraphrased": 0.851580406498399
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9749572238883273,
+          "sentence": "A second strength is that the empirical presentation is relatively transparent about the limitations of the method.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.02504277611167273,
+            "ai": 0.09936296231807382,
+            "paraphrased": 0.8755942615702534
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9701886545149782,
+          "sentence": "The authors compare against exact and heuristic TSP solvers and clearly state that their method is much slower than Concorde or strong local search methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.029811345485021852,
+            "ai": 0.09509035341576269,
+            "paraphrased": 0.8750983010992155
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997020991682187,
+          "sentence": "This honesty makes the paper more credible.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00029790083178128315,
+            "ai": 0.9996479397719931,
+            "paraphrased": 0.000054159396225606044
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999111725394642,
+          "sentence": "The comparisons to Christofides-style heuristics, generic OR tools, and optimal solutions provide useful context for assessing where the learned method stands.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008882746053589407,
+            "ai": 0.9998719868831486,
+            "paraphrased": 0.000039185656315553796
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999741470805662,
+          "sentence": "The percentile plots of tour length ratios are particularly helpful, since average tour length alone can hide whether a method is consistently near-optimal or only occasionally succeeds.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000258529194338054,
+            "ai": 0.9999441934987915,
+            "paraphrased": 0.00002995358177466633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999507484797125,
+          "sentence": "The paper also examines several inference configurations, including greedy decoding, ensembling, sampling, active search from a pretrained policy, and active search from scratch.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004925152028747434,
+            "ai": 0.9999105790315086,
+            "paraphrased": 0.000040169448203915796
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999704727496718,
+          "sentence": "This helps disentangle the contribution of learned initialization from the contribution of sheer test-time computation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002952725032822351,
+            "ai": 0.9999358984238574,
+            "paraphrased": 0.000034574325814350026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999855695067059,
+          "sentence": "The paper is also significant because it opens a broader research direction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014430493294085836,
+            "ai": 0.9999587643874386,
+            "paraphrased": 0.000026805119267341434
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999755540873883,
+          "sentence": "The proposed architecture and training recipe suggest that neural networks can learn reusable construction heuristics for structured discrete problems, and the use of a pointer mechanism is a reasonable architectural choice for problems whose solutions are permutations or subsets of inputs.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002444591261182828,
+            "ai": 0.9999442983206747,
+            "paraphrased": 0.000031255766713562754
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999592585162055,
+          "sentence": "Even though the Knapsack experiment appears less developed than the TSP section, it supports the claim that the approach is not entirely specific to tours.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000040741483794556684,
+            "ai": 0.9999267868565772,
+            "paraphrased": 0.00003247165962826408
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999837674355214,
+          "sentence": "The discussion of feasibility constraints and penalties is useful, and it shows that the authors are aware of the challenges in extending the method to more constrained combinatorial settings.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016232564478504866,
+            "ai": 0.9999588387723086,
+            "paraphrased": 0.00002492866321283028
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999770208199233,
+          "sentence": "That said, the paper has several important weaknesses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002297918007665236,
+            "ai": 0.9999538137222782,
+            "paraphrased": 0.000023207097645181708
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999716179100153,
+          "sentence": "The most serious is that the empirical evidence for general combinatorial optimization is still narrow.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028382089984697892,
+            "ai": 0.9999456943659476,
+            "paraphrased": 0.000025923544067680914
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998055126490365,
+          "sentence": "The main experiments are on random Euclidean TSP instances with points sampled uniformly in the unit square.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00019448735096352031,
+            "ai": 0.999757467951167,
+            "paraphrased": 0.00004804469786941915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999150072860866,
+          "sentence": "This distribution is standard and convenient, but it is also much simpler than many real routing problems and may strongly favor learning geometric regularities.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008499271391337258,
+            "ai": 0.9998825155351178,
+            "paraphrased": 0.000032491750968868455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999670242324009,
+          "sentence": "It is unclear how well the learned policy transfers to non-uniform point distributions, clustered instances, non-Euclidean metrics, asymmetric TSP, or instances with additional constraints.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003297576759909326,
+            "ai": 0.9999359821305686,
+            "paraphrased": 0.00003104210183238788
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999831117492518,
+          "sentence": "Since the paper’s motivation emphasizes generality and reduced heuristic engineering, the evaluation should stress-test distribution shift more directly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001688825074818306,
+            "ai": 0.9999535121694918,
+            "paraphrased": 0.000029599579760024652
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999564139044248,
+          "sentence": "A policy trained on uniform random TSP instances might be learning a highly distribution-specific geometric prior rather than a broadly useful optimization strategy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004358609557520239,
+            "ai": 0.9999209054210476,
+            "paraphrased": 0.000035508483377184646
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994551386884198,
+          "sentence": "The second major weakness is computational efficiency.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005448613115800728,
+            "ai": 0.9993723219500423,
+            "paraphrased": 0.00008281673837754417
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9890851140236034,
+          "sentence": "The best results rely on sampling or active search over very large numbers of candidate solutions, with reported runtimes that are orders of magnitude worse than specialized solvers and often worse than reasonably generic local search.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.010914885976396657,
+            "ai": 0.9859814288031493,
+            "paraphrased": 0.0031036852204540722
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9984886530173294,
+          "sentence": "This does not invalidate the research contribution, but it weakens some of the practical framing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0015113469826707033,
+            "ai": 0.9959350189944665,
+            "paraphrased": 0.002553634022862879
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9971821327582545,
+          "sentence": "In particular, if a method requires 1.28 million sampled tours or many thousands of gradient updates per test instance, it is difficult to view it as an effective solver rather than as an interesting proof of concept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0028178672417454877,
+            "ai": 0.9942030021279642,
+            "paraphrased": 0.002979130630290292
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988081974515195,
+          "sentence": "The paper would benefit from a more careful analysis of the tradeoff between computation and solution quality, especially relative to simple baselines that also scale with test-time budget, such as randomized 2-opt, repeated nearest-neighbor starts, or local improvement applied to neural samples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011918025484804842,
+            "ai": 0.9961417257088039,
+            "paraphrased": 0.002666471742715625
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993330574637237,
+          "sentence": "The comparison to OR tools is useful, but the neural method’s advantage over some generic baselines may disappear under equal wall-clock or equal candidate-evaluation budgets.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006669425362762296,
+            "ai": 0.9970374887403672,
+            "paraphrased": 0.0022955687233564798
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9976339042098593,
+          "sentence": "The active search method is intriguing but not fully understood.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0023660957901406876,
+            "ai": 0.9951476491806941,
+            "paraphrased": 0.0024862550291652047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9964141780703605,
+          "sentence": "Optimizing the policy on a single instance from sampled rewards resembles a learned stochastic local search procedure, but the paper does not provide enough analysis of why it works, when it fails, or what role the pretrained policy plays beyond initializing a distribution biased toward good tours.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003585821929639619,
+            "ai": 0.9939560787345433,
+            "paraphrased": 0.0024580993358171545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979347785225433,
+          "sentence": "For TSP50, sampling appears competitive with or better than active search, while for TSP100 active search helps more.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0020652214774567004,
+            "ai": 0.9953798916332134,
+            "paraphrased": 0.0025548868893299193
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994639200043464,
+          "sentence": "This difference deserves explanation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005360799956536064,
+            "ai": 0.9974416817322956,
+            "paraphrased": 0.0020222382720507044
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987427613341169,
+          "sentence": "Does active search mainly improve because it reduces entropy around good regions, because it learns instance-specific geometric structure, or because it acts like an adaptive sampling temperature?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012572386658830893,
+            "ai": 0.9960010291678764,
+            "paraphrased": 0.0027417321662405614
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987424278268839,
+          "sentence": "How sensitive is it to learning rate, baseline decay, batch size, number of glimpses, and input shuffling?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012575721731160126,
+            "ai": 0.9961910904203725,
+            "paraphrased": 0.0025513374065115318
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990742889652713,
+          "sentence": "Since active search is one of the paper’s distinctive ideas, stronger ablation and diagnostic experiments would make the contribution much clearer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009257110347287199,
+            "ai": 0.9966256291896437,
+            "paraphrased": 0.002448659775627576
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990877061260265,
+          "sentence": "The supervised baseline also raises concerns.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009122938739735934,
+            "ai": 0.9965113703277662,
+            "paraphrased": 0.0025763357982602794
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9837905669975635,
+          "sentence": "The authors state that their supervised implementation trained on optimal tours performs worse than the results reported in prior work and that learning from optimal tours may be harder due to subtle features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.016209433002436508,
+            "ai": 0.9806082337730846,
+            "paraphrased": 0.003182333224478875
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.995705948810646,
+          "sentence": "This is plausible, but not entirely satisfying.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0042940511893539215,
+            "ai": 0.9930667452742716,
+            "paraphrased": 0.002639203536374395
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9913288901127735,
+          "sentence": "Since one of the main empirical claims is that RL substantially improves over supervised learning, the supervised baseline needs to be as strong and carefully tuned as possible.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008671109887226571,
+            "ai": 0.9903498192805633,
+            "paraphrased": 0.0009790708322101609
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980601428877647,
+          "sentence": "It would be useful to compare supervised pretraining followed by RL fine-tuning, imitation of multiple optimal or near-optimal tours when symmetries exist, and supervised training with the same search procedures used for the RL policy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019398571122353386,
+            "ai": 0.99711076705014,
+            "paraphrased": 0.0009493758376246472
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996863295779472,
+          "sentence": "Without these controls, it is hard to know whether the improvement comes from reinforcement learning per se, from differences in training setup, or from the use of test-time sampling and optimization.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00031367042205281815,
+            "ai": 0.9989996214619151,
+            "paraphrased": 0.0006867081160321008
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998777871938513,
+          "sentence": "The paper’s claims about generality should also be moderated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001222128061486135,
+            "ai": 0.9992104874607355,
+            "paraphrased": 0.000667299733115858
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998133636554543,
+          "sentence": "The pointer network architecture is well matched to selecting elements of an input sequence, especially when feasibility can be enforced by masking previously selected items.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018663634454571128,
+            "ai": 0.9991763964188385,
+            "paraphrased": 0.0006369672366157829
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999599497288233,
+          "sentence": "However, many combinatorial optimization problems have richer state-dependent constraints, graph structures, or solution representations that are not naturally captured by a sequence-to-sequence model over input indices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000040050271176734935,
+            "ai": 0.9995582439738755,
+            "paraphrased": 0.0004017057549477691
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999472896006844,
+          "sentence": "The discussion of penalties for infeasible solutions is reasonable but speculative; for problems where feasible solutions are rare, naive penalty methods may produce extremely sparse or uninformative rewards.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005271039931554756,
+            "ai": 0.9995535180277645,
+            "paraphrased": 0.00039377157291991323
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999781439349991,
+          "sentence": "The Knapsack result helps, but Knapsack is still a relatively simple setting compared with vehicle routing with time windows, graph coloring, scheduling, or integer programming.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00021856065000898194,
+            "ai": 0.9992123650529694,
+            "paraphrased": 0.0005690742970215966
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998623192706225,
+          "sentence": "Stronger evidence on a constrained problem where feasibility is genuinely difficult would better support the broad framing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013768072937752585,
+            "ai": 0.9994655969256233,
+            "paraphrased": 0.00039672234499921286
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991627893443598,
+          "sentence": "I would like the authors to clarify several points.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008372106556402121,
+            "ai": 0.998567738108713,
+            "paraphrased": 0.0005950512356467226
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988018910891936,
+          "sentence": "First, how robust are the trained TSP policies to changes in the test distribution, such as clustered cities, points sampled from non-square domains, mixtures of distributions, or larger graph sizes than those used in training?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011981089108063809,
+            "ai": 0.9980266862789824,
+            "paraphrased": 0.0007752048102111921
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991479726790189,
+          "sentence": "Second, how much of the improvement from active search depends on random shuffling of the input sequence, and does the model’s performance vary significantly with different input orderings at greedy decoding time?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008520273209811011,
+            "ai": 0.998312586753574,
+            "paraphrased": 0.0008353859254448205
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988341880982611,
+          "sentence": "Third, when using 1.28 million samples, how many distinct tours are actually produced, and how concentrated is the policy distribution before and after active search?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001165811901738963,
+            "ai": 0.9979476315238031,
+            "paraphrased": 0.000886556574457983
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9921968453224125,
+          "sentence": "Fourth, can the authors provide an equal-time comparison against simple randomized local-search baselines, including local improvement initialized from the model’s own tours?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007803154677587454,
+            "ai": 0.991093043366118,
+            "paraphrased": 0.0011038019562944626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996572158835983,
+          "sentence": "Such a hybrid baseline would be particularly informative, because it might reveal whether the neural network is most useful as a generator of good initial solutions rather than as a complete solver.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000342784116401627,
+            "ai": 0.9994813423304412,
+            "paraphrased": 0.00017587355315719282
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995456909249544,
+          "sentence": "Fifth, for Knapsack, what are the instance distributions, capacities, item value/weight distributions, and comparisons to dynamic programming or greedy baselines?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00045430907504560056,
+            "ai": 0.9993094818359756,
+            "paraphrased": 0.0002362090889788332
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998200097000386,
+          "sentence": "The claim of optimality up to 200 items is encouraging but difficult to interpret without more details.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00017999029996137612,
+            "ai": 0.9996420715546909,
+            "paraphrased": 0.0001779381453477298
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998502552233925,
+          "sentence": "I would also encourage the authors to expand the ablation study.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014974477660754706,
+            "ai": 0.9997038917882426,
+            "paraphrased": 0.00014636343514989894
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999746654275337,
+          "sentence": "The critic architecture, number of glimpses, logit clipping, temperature tuning, model size, and batch size all appear potentially important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002533457246629697,
+            "ai": 0.9995256451175194,
+            "paraphrased": 0.00022100915781767547
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999081208611093,
+          "sentence": "Since policy-gradient methods can be unstable and sensitive to variance reduction, it would be helpful to know which components are essential.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009187913889074944,
+            "ai": 0.999755656418063,
+            "paraphrased": 0.00015246444304626867
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998502987422682,
+          "sentence": "For example, how much worse is a moving-average baseline than the learned critic during pretraining?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00014970125773185753,
+            "ai": 0.999659309378721,
+            "paraphrased": 0.00019098936354709488
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997756996996979,
+          "sentence": "Does increasing the number of glimpses improve TSP100 but hurt speed?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002243003003020925,
+            "ai": 0.9995663936203487,
+            "paraphrased": 0.00020930607934918047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998974191048698,
+          "sentence": "Does the model learn meaningful geometric behavior, such as avoiding crossings, and if so at what stage of training does this emerge?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010258089513010251,
+            "ai": 0.9997448235031055,
+            "paraphrased": 0.00015259560176443518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998184084437647,
+          "sentence": "Visualizing failure cases could also improve the paper, particularly for greedy decoding versus sampling and active search.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018159155623525186,
+            "ai": 0.9996337669662361,
+            "paraphrased": 0.00018464147752863348
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999572688871163,
+          "sentence": "Overall, my recommendation is weak accept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004273111288370303,
+            "ai": 0.9998605992628983,
+            "paraphrased": 0.00009666962421807308
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998922782600809,
+          "sentence": "The method is not competitive with mature combinatorial optimization solvers in speed, scale, or final solution quality, and the empirical evaluation is limited mainly to uniform random Euclidean TSP.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010772173991911778,
+            "ai": 0.9997287011281595,
+            "paraphrased": 0.0001635771319214161
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998362786860018,
+          "sentence": "Nevertheless, the paper presents a clear and promising formulation of neural combinatorial optimization as reinforcement learning, demonstrates a substantial improvement over supervised pointer-network training, and introduces test-time active search as an interesting bridge between learned policies and instance-specific optimization.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016372131399821241,
+            "ai": 0.9996656204739967,
+            "paraphrased": 0.00017065821200513935
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995624581376135,
+          "sentence": "The work is likely to stimulate further research on learned heuristics, neural construction policies, and hybrid neural-search methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00043754186238657573,
+            "ai": 0.9993447078632646,
+            "paraphrased": 0.0002177502743488534
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999099288819894,
+          "sentence": "I would be more enthusiastic if the paper included stronger distribution-shift experiments, more rigorous equal-compute baselines, and a deeper analysis of active search, but even in its current form it makes a worthwhile conceptual and empirical contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009007111801064378,
+            "ai": 0.999760584087018,
+            "paraphrased": 0.0001493447949714303
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The paper proposes a reinforcement learning framework for solving combinatorial optimization problems with neural networks, focusing primarily on the Euclidean traveling salesman problem and briefly demonstrating applicability to Knapsack. The central idea is to use a pointer-network-style recurrent model as a stochastic policy over permutations, train it with policy gradients using tour length as the reward signal, and then improve inference by either sampling many candidate tours or performing “active search,” in which the policy parameters are further optimized on a single test instance. The paper argues that this avoids the need for supervised optimal labels, can learn useful heuristics from reward alone, and provides a relatively general recipe for neural approaches to combinatorial search. Empirically, the method substantially improves over a supervised pointer network baseline and obtains near-optimal results on random 2D Euclidean TSP instances up to 100 nodes when allowed extensive sampling or test-time optimization.\n\nThis is an interesting and timely paper. Its main contribution is not that it competes with specialized TSP solvers, which it explicitly does not, but that it demonstrates a plausible way to train neural combinatorial policies directly against an optimization objective rather than by imitation of an external solver. This distinction is important. Supervised learning from solver outputs can be brittle, expensive to scale to new problems, and misaligned with the ultimate objective, since reproducing a particular tour is not the same as finding any short tour. Framing the problem as reinforcement learning is natural, and the paper’s results show that this choice matters: the RL-trained policies outperform the supervised pointer-network approach by a large margin. The active search component is also conceptually appealing, since combinatorial optimization at test time is inherently a search problem, and the paper shows that gradient-based adaptation of the neural policy can be used as a form of instance-specific search.\n\nA second strength is that the empirical presentation is relatively transparent about the limitations of the method. The authors compare against exact and heuristic TSP solvers and clearly state that their method is much slower than Concorde or strong local search methods. This honesty makes the paper more credible. The comparisons to Christofides-style heuristics, generic OR tools, and optimal solutions provide useful context for assessing where the learned method stands. The percentile plots of tour length ratios are particularly helpful, since average tour length alone can hide whether a method is consistently near-optimal or only occasionally succeeds. The paper also examines several inference configurations, including greedy decoding, ensembling, sampling, active search from a pretrained policy, and active search from scratch. This helps disentangle the contribution of learned initialization from the contribution of sheer test-time computation.\n\nThe paper is also significant because it opens a broader research direction. The proposed architecture and training recipe suggest that neural networks can learn reusable construction heuristics for structured discrete problems, and the use of a pointer mechanism is a reasonable architectural choice for problems whose solutions are permutations or subsets of inputs. Even though the Knapsack experiment appears less developed than the TSP section, it supports the claim that the approach is not entirely specific to tours. The discussion of feasibility constraints and penalties is useful, and it shows that the authors are aware of the challenges in extending the method to more constrained combinatorial settings.\n\nThat said, the paper has several important weaknesses. The most serious is that the empirical evidence for general combinatorial optimization is still narrow. The main experiments are on random Euclidean TSP instances with points sampled uniformly in the unit square. This distribution is standard and convenient, but it is also much simpler than many real routing problems and may strongly favor learning geometric regularities. It is unclear how well the learned policy transfers to non-uniform point distributions, clustered instances, non-Euclidean metrics, asymmetric TSP, or instances with additional constraints. Since the paper’s motivation emphasizes generality and reduced heuristic engineering, the evaluation should stress-test distribution shift more directly. A policy trained on uniform random TSP instances might be learning a highly distribution-specific geometric prior rather than a broadly useful optimization strategy.\n\nThe second major weakness is computational efficiency. The best results rely on sampling or active search over very large numbers of candidate solutions, with reported runtimes that are orders of magnitude worse than specialized solvers and often worse than reasonably generic local search. This does not invalidate the research contribution, but it weakens some of the practical framing. In particular, if a method requires 1.28 million sampled tours or many thousands of gradient updates per test instance, it is difficult to view it as an effective solver rather than as an interesting proof of concept. The paper would benefit from a more careful analysis of the tradeoff between computation and solution quality, especially relative to simple baselines that also scale with test-time budget, such as randomized 2-opt, repeated nearest-neighbor starts, or local improvement applied to neural samples. The comparison to OR tools is useful, but the neural method’s advantage over some generic baselines may disappear under equal wall-clock or equal candidate-evaluation budgets.\n\nThe active search method is intriguing but not fully understood. Optimizing the policy on a single instance from sampled rewards resembles a learned stochastic local search procedure, but the paper does not provide enough analysis of why it works, when it fails, or what role the pretrained policy plays beyond initializing a distribution biased toward good tours. For TSP50, sampling appears competitive with or better than active search, while for TSP100 active search helps more. This difference deserves explanation. Does active search mainly improve because it reduces entropy around good regions, because it learns instance-specific geometric structure, or because it acts like an adaptive sampling temperature? How sensitive is it to learning rate, baseline decay, batch size, number of glimpses, and input shuffling? Since active search is one of the paper’s distinctive ideas, stronger ablation and diagnostic experiments would make the contribution much clearer.\n\nThe supervised baseline also raises concerns. The authors state that their supervised implementation trained on optimal tours performs worse than the results reported in prior work and that learning from optimal tours may be harder due to subtle features. This is plausible, but not entirely satisfying. Since one of the main empirical claims is that RL substantially improves over supervised learning, the supervised baseline needs to be as strong and carefully tuned as possible. It would be useful to compare supervised pretraining followed by RL fine-tuning, imitation of multiple optimal or near-optimal tours when symmetries exist, and supervised training with the same search procedures used for the RL policy. Without these controls, it is hard to know whether the improvement comes from reinforcement learning per se, from differences in training setup, or from the use of test-time sampling and optimization.\n\nThe paper’s claims about generality should also be moderated. The pointer network architecture is well matched to selecting elements of an input sequence, especially when feasibility can be enforced by masking previously selected items. However, many combinatorial optimization problems have richer state-dependent constraints, graph structures, or solution representations that are not naturally captured by a sequence-to-sequence model over input indices. The discussion of penalties for infeasible solutions is reasonable but speculative; for problems where feasible solutions are rare, naive penalty methods may produce extremely sparse or uninformative rewards. The Knapsack result helps, but Knapsack is still a relatively simple setting compared with vehicle routing with time windows, graph coloring, scheduling, or integer programming. Stronger evidence on a constrained problem where feasibility is genuinely difficult would better support the broad framing.\n\nI would like the authors to clarify several points. First, how robust are the trained TSP policies to changes in the test distribution, such as clustered cities, points sampled from non-square domains, mixtures of distributions, or larger graph sizes than those used in training? Second, how much of the improvement from active search depends on random shuffling of the input sequence, and does the model’s performance vary significantly with different input orderings at greedy decoding time? Third, when using 1.28 million samples, how many distinct tours are actually produced, and how concentrated is the policy distribution before and after active search? Fourth, can the authors provide an equal-time comparison against simple randomized local-search baselines, including local improvement initialized from the model’s own tours? Such a hybrid baseline would be particularly informative, because it might reveal whether the neural network is most useful as a generator of good initial solutions rather than as a complete solver. Fifth, for Knapsack, what are the instance distributions, capacities, item value/weight distributions, and comparisons to dynamic programming or greedy baselines? The claim of optimality up to 200 items is encouraging but difficult to interpret without more details.\n\nI would also encourage the authors to expand the ablation study. The critic architecture, number of glimpses, logit clipping, temperature tuning, model size, and batch size all appear potentially important. Since policy-gradient methods can be unstable and sensitive to variance reduction, it would be helpful to know which components are essential. For example, how much worse is a moving-average baseline than the learned critic during pretraining? Does increasing the number of glimpses improve TSP100 but hurt speed? Does the model learn meaningful geometric behavior, such as avoiding crossings, and if so at what stage of training does this emerge? Visualizing failure cases could also improve the paper, particularly for greedy decoding versus sampling and active search.\n\nOverall, my recommendation is weak accept. The method is not competitive with mature combinatorial optimization solvers in speed, scale, or final solution quality, and the empirical evaluation is limited mainly to uniform random Euclidean TSP. Nevertheless, the paper presents a clear and promising formulation of neural combinatorial optimization as reinforcement learning, demonstrates a substantial improvement over supervised pointer-network training, and introduces test-time active search as an interesting bridge between learned policies and instance-specific optimization. The work is likely to stimulate further research on learned heuristics, neural construction policies, and hybrid neural-search methods. I would be more enthusiastic if the paper included stronger distribution-shift experiments, more rigorous equal-compute baselines, and a deeper analysis of active search, but even in its current form it makes a worthwhile conceptual and empirical contribution.\n",
+      "document_id": null
+    }
+  ]
+}

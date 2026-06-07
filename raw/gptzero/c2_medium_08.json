@@ -1,0 +1,462 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        }
+      ],
+      "completely_generated_prob": 0.00011023882628894266,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9997551340439348,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.002597292948081059,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9974027070519189,
+            "ai": 0.0006639563807379129,
+            "paraphrased": 0.0019333365673431461
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017116935751935428,
+          "sentence": "Positive emotions enable us to achieve higher functioning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982883064248065,
+            "ai": 0.0003115763163236436,
+            "paraphrased": 0.0014001172588698992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001720226016779203,
+          "sentence": "Happiness is not only the result of hard work and success; it is also present before we experience our greatest achievements or moments of higher functioning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982797739832208,
+            "ai": 0.0003000206089512936,
+            "paraphrased": 0.0014202054078279094
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017836869780410128,
+          "sentence": "Positive emotions build an individual’s long-term psychological, intellectual, social, and physical well-being and resources (Fredrickson, 2004).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.998216313021959,
+            "ai": 0.00035394258974438814,
+            "paraphrased": 0.0014297443882966246
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002144462078163931,
+          "sentence": "They are the building blocks that help people become the best version of themselves, supporting them as they learn, grow, thrive, and maintain a higher level of life satisfaction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9978555379218361,
+            "ai": 0.0008250581309579709,
+            "paraphrased": 0.0013194039472059597
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017309423304142414,
+          "sentence": "To help explain the effect positive emotions have in a person’s life, Barbara Fredrickson developed a theory showing how people’s minds are broadened through experiencing positive emotions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982690576695857,
+            "ai": 0.00030940255238418875,
+            "paraphrased": 0.0014215397780300526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0019555011107478437,
+          "sentence": "The Broaden-and-Build Theory of Positive Emotions suggests that positive emotions broaden a person’s awareness and encourage exploratory thoughts and actions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9980444988892522,
+            "ai": 0.0005048693314996104,
+            "paraphrased": 0.0014506317792482334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0016183395215340157,
+          "sentence": "In light of the discoveries made by Fredrickson and other positive psychologists, this chapter will focus on the Broaden-and-Build Theory of Positive Emotions: what it is, how it can be applied to everyday life, the benefits of feeling good, and some of the theory’s limitations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.998381660478466,
+            "ai": 0.00034752687636362264,
+            "paraphrased": 0.001270812645170393
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0014704719423611309,
+          "sentence": "Finding ways to be satisfied and happy with life is important, and it is something many people do not realize can be changed if they dedicate enough time and awareness to it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9985295280576388,
+            "ai": 0.00021979120525741523,
+            "paraphrased": 0.0012506807371037156
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0014956676355024406,
+          "sentence": "A question you can ask yourself while reading this chapter is:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9985043323644975,
+            "ai": 0.00027434092726576133,
+            "paraphrased": 0.0012213267082366792
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.005115729889714864,
+          "sentence": "What is the Broaden-and-Build Theory of Positive Emotions?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9948842701102851,
+            "ai": 0.003605937200021557,
+            "paraphrased": 0.0015097926896933062
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.10542064922495598,
+          "sentence": "Several studies have examined the impact of positive emotions, but they have not fully captured the unique effects these emotions have on our emotional and physical well-being and functioning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.894579350775044,
+            "ai": 0.10369887255095495,
+            "paraphrased": 0.001721776674001034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011520369353804879,
+          "sentence": "In light of this, Fredrickson (2004) developed an alternative model designed to capture the significant impact positive emotions have on our daily lives, called the Broaden-and-Build Theory of Positive Emotions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988479630646195,
+            "ai": 0.0011155830016036923,
+            "paraphrased": 0.000036453933776795475
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011338536736627692,
+          "sentence": "It has been shown that positive emotions broaden people’s momentary thought-action repertoires and build their enduring personal resources (Fredrickson, 1998, 2001).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998866146326337,
+            "ai": 0.00008944190476107659,
+            "paraphrased": 0.000023943462605200333
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014158280090732116,
+          "sentence": "The Broaden-and-Build Theory describes the form and function of a subset of positive emotions, such as joy, interest, contentment, and love.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998584171990926,
+            "ai": 0.00011881404220128118,
+            "paraphrased": 0.000022768758706039966
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000784707838820097,
+          "sentence": "These positive emotions have a complementary effect and, compared with neutral states, widen the variety of thoughts and actions that come to a person’s mind.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999921529216118,
+            "ai": 0.00005927989147916672,
+            "paraphrased": 0.000019190892402842992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000718535165349202,
+          "sentence": "For example, when someone is feeling joyful, this creates an urge to play, push their comfort zone, be impulsive, and be creative—not only in social and physical behaviour, but also intellectually, in intimate relationships, and artistically (Fredrickson, 2004).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999281464834651,
+            "ai": 0.00005524291788050247,
+            "paraphrased": 0.000016610598654417724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00017358357562200034,
+          "sentence": "Similarly, when a person is feeling interested, this can create an urge to explore, take in new information and experiences, and expand their sense of self through the process of developing and adopting these new interests.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999826416424378,
+            "ai": 0.0001554420480467488,
+            "paraphrased": 0.000018141527575251536
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001377031926558824,
+          "sentence": "Contentment is the third distinct positive emotion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998622968073441,
+            "ai": 0.0001213724370269787,
+            "paraphrased": 0.000016330755628903718
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001013791530342615,
+          "sentence": "It elicits the urge to sit back and appreciate current life circumstances and integrate this appreciative nature into new views of the self and beliefs about the world (Fredrickson, 2004).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998986208469658,
+            "ai": 0.00008600720177731102,
+            "paraphrased": 0.00001537195125695047
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00038046394903830784,
+          "sentence": "Finally, love, which is viewed as a combination of all the distinct positive emotions mentioned, is experienced within a person’s safe, intimate relationships.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996195360509617,
+            "ai": 0.00036134518934740197,
+            "paraphrased": 0.00001911875969090589
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012134193654121988,
+          "sentence": "It nurtures a person by creating a recurring cycle of the urges produced by joy, interest, and contentment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987865806345878,
+            "ai": 0.0011840664931930887,
+            "paraphrased": 0.000029352872219110105
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9997551340439348,
+        "ai": 0.00024486595606524746,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9997551340439348,
+          "ai": 0.00024486595606524746,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\n\nPositive emotions enable us to achieve higher functioning. Happiness is not only the result of hard work and success; it is also present before we experience our greatest achievements or moments of higher functioning. Positive emotions build an individual’s long-term psychological, intellectual, social, and physical well-being and resources (Fredrickson, 2004). They are the building blocks that help people become the best version of themselves, supporting them as they learn, grow, thrive, and maintain a higher level of life satisfaction.\n\nTo help explain the effect positive emotions have in a person’s life, Barbara Fredrickson developed a theory showing how people’s minds are broadened through experiencing positive emotions. The Broaden-and-Build Theory of Positive Emotions suggests that positive emotions broaden a person’s awareness and encourage exploratory thoughts and actions. In light of the discoveries made by Fredrickson and other positive psychologists, this chapter will focus on the Broaden-and-Build Theory of Positive Emotions: what it is, how it can be applied to everyday life, the benefits of feeling good, and some of the theory’s limitations.\n\nFinding ways to be satisfied and happy with life is important, and it is something many people do not realize can be changed if they dedicate enough time and awareness to it.\n\nA question you can ask yourself while reading this chapter is:\n\nWhat is the Broaden-and-Build Theory of Positive Emotions?\n\nSeveral studies have examined the impact of positive emotions, but they have not fully captured the unique effects these emotions have on our emotional and physical well-being and functioning. In light of this, Fredrickson (2004) developed an alternative model designed to capture the significant impact positive emotions have on our daily lives, called the Broaden-and-Build Theory of Positive Emotions.\n\nIt has been shown that positive emotions broaden people’s momentary thought-action repertoires and build their enduring personal resources (Fredrickson, 1998, 2001). The Broaden-and-Build Theory describes the form and function of a subset of positive emotions, such as joy, interest, contentment, and love. These positive emotions have a complementary effect and, compared with neutral states, widen the variety of thoughts and actions that come to a person’s mind.\n\nFor example, when someone is feeling joyful, this creates an urge to play, push their comfort zone, be impulsive, and be creative—not only in social and physical behaviour, but also intellectually, in intimate relationships, and artistically (Fredrickson, 2004). Similarly, when a person is feeling interested, this can create an urge to explore, take in new information and experiences, and expand their sense of self through the process of developing and adopting these new interests.\n\nContentment is the third distinct positive emotion. It elicits the urge to sit back and appreciate current life circumstances and integrate this appreciative nature into new views of the self and beliefs about the world (Fredrickson, 2004). Finally, love, which is viewed as a combination of all the distinct positive emotions mentioned, is experienced within a person’s safe, intimate relationships. It nurtures a person by creating a recurring cycle of the urges produced by joy, interest, and contentment.\n",
+      "document_id": null
+    }
+  ]
+}

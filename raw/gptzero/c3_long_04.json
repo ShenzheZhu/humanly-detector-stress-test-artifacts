@@ -1,0 +1,977 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 45,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 46,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 48,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        }
+      ],
+      "completely_generated_prob": 0.00706449193856162,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9858462549047926,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00018226798116171007,
+          "sentence": "My generation’s view of the original inhabitants of America was shaped to a large extent by comics (my favorite was *Texas*) and films in the 1950s and 1960s.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998177320188383,
+            "ai": 0.0001612460091261058,
+            "paraphrased": 0.000021021972035604277
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007437068170610194,
+          "sentence": "Later this perception was modified somewhat, fortunately.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999256293182939,
+            "ai": 0.000053386503108653235,
+            "paraphrased": 0.000020984178597448704
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005980592559615075,
+          "sentence": "In 1994 I bought the book *The Native Americans.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999401940744038,
+            "ai": 0.00003841731134622765,
+            "paraphrased": 0.000021388614249923097
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006487076508016037,
+          "sentence": "An Illustrated History* on a reservation in New Mexico.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999351292349199,
+            "ai": 0.00004350660219607488,
+            "paraphrased": 0.00002136416288408549
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000056220134424195564,
+          "sentence": "It is edited by Betty Ballantine and Ian Ballantine and is a colossus of 480 huge pages, packed with the history of those who first came to the American continent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999437798655758,
+            "ai": 0.00003390143801444326,
+            "paraphrased": 0.000022318696409752306
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000042090512173833576,
+          "sentence": "The aim of the book is “to help bridge, if not end, the communication gap of misunderstandings and false images that have so plagued Indian-white relations” (p. 20).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999579094878261,
+            "ai": 0.000019479319047309267,
+            "paraphrased": 0.000022611193126524305
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000042919058455225754,
+          "sentence": "How well the editors have succeeded is hard to say, but the effort is in any case beyond reproach!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999570809415448,
+            "ai": 0.000019599381557742277,
+            "paraphrased": 0.000023319676897483477
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003955282762749514,
+          "sentence": "In the introduction Alvin M. Josephy Jr. early on attacks the widespread Eurocentric view of the native inhabitants –",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999604471723725,
+            "ai": 0.000016964593884275957,
+            "paraphrased": 0.000022588233743219182
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004288536130283736,
+          "sentence": ">an ingrained conviction on the part of those who first came to the Americas from Europe, as well as by their American descendants, that their cultures, values, religions, lifeways, abilities, and achievements were more advanced and of a higher order than those of the Indians.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999571146386972,
+            "ai": 0.00002080656548601005,
+            "paraphrased": 0.000022078795816827314
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004496369631168817,
+          "sentence": "It followed, therefore, that they deemed the Indians to be inferior peoples–uncivilized Stone Age savages, perhaps even subhuman–and their cultures irrelevant or barbaric and dangerous to civilized mankind.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999550363036883,
+            "ai": 0.000024017691816370674,
+            "paraphrased": 0.00002094600449531749
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000047048714818845474,
+          "sentence": "p 16.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999529512851811,
+            "ai": 0.000034341171586616296,
+            "paraphrased": 0.000012707543232229181
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000043107566116024765,
+          "sentence": "When the Spanish and Portuguese conquerors came to the continent, he says, there were fifty million native inhabitants there; a few centuries later the number had been reduced to 250,000.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999956892433884,
+            "ai": 0.000023493697147738057,
+            "paraphrased": 0.000019613868968286704
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000039765982530984534,
+          "sentence": "And he shows how their culture and values have systematically been destroyed as a result of the idea that they were inferior and of lesser worth.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999960234017469,
+            "ai": 0.000019403679348277327,
+            "paraphrased": 0.000020362303182707204
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000049054194494662964,
+          "sentence": "The account begins with the first immigrants coming from Asia to America, those who gradually “developed sophisticated forms of art, elaborate political and social structures, intricate intellectual patterns, mathematics, handicrafts, agriculture, writing, complex religious and belief systems, imaginative architecture” (p. 25).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999509458055054,
+            "ai": 0.00003288945133229634,
+            "paraphrased": 0.000016164743162366626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00021335553250673473,
+          "sentence": "Yes, it is probably right when it says “Native American architecture matched anything Columbus had seen in his travels” (p. 26).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997866444674932,
+            "ai": 0.0001887892227984994,
+            "paraphrased": 0.000024566309708235327
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010149178434740736,
+          "sentence": "It continues with various aspects of history and culture and shows, among other things, that textbooks up to the time of publication had been wrong in saying that there were only three areas in what corresponds to present-day USA where the inhabitants practiced agriculture.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998985082156526,
+            "ai": 0.00008274836357902394,
+            "paraphrased": 0.00001874342076838342
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00015736278589527445,
+          "sentence": "The last was in the Northeast.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998426372141047,
+            "ai": 0.0001312584636783429,
+            "paraphrased": 0.000026104322216931535
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000053745975518839205,
+          "sentence": "Gradually life on the prairie and in the forests is presented, together with, among other things, religion and language, the story of Pocahontas, handicrafts, agriculture, hunting, the use of the horse (the horse originally came from America, migrated to Asia and then came back with the Europeans), the tragic encounter with alcohol, participation in the Civil War, life on the reservations (President Grant wanted to use the reservations to make the “Indians” into “whites”), Geronimo, the massacre at Wounded Knee and the work to become full citizens.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999462540244811,
+            "ai": 0.00003197129318522122,
+            "paraphrased": 0.00002177468233361798
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008550758681148679,
+          "sentence": "Then the Indigenous population enters the twentieth century – “Against all odds” (p. 383).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999144924131885,
+            "ai": 0.00006300027404582535,
+            "paraphrased": 0.000022507312765661436
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000050515883779342366,
+          "sentence": "We get to see how representatives took part in working life in the larger society, such as when they helped build bridges in New York City, as I can remember an emigrated uncle telling me early in the 1960s.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999494841162206,
+            "ai": 0.000030738939108491705,
+            "paraphrased": 0.000019776944670850664
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011133313548375328,
+          "sentence": "An ironworker from the Mohawk tribe put it like this, by the way (p. 389):",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998886668645163,
+            "ai": 0.00009085673885541656,
+            "paraphrased": 0.000020476396628336723
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013031196401885512,
+          "sentence": ">A good ironworker is afraid of high places.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998696880359812,
+            "ai": 0.00010777413088255192,
+            "paraphrased": 0.000022537833136303186
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014319615178292038,
+          "sentence": "I don’t want to work with no fool who’s not a little bit afraid of being up so high.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998568038482171,
+            "ai": 0.00012172021210725185,
+            "paraphrased": 0.000021475939675668538
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002146838021789602,
+          "sentence": "… No, a Mohawk is afraid of heights just like the next guy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997853161978211,
+            "ai": 0.0001893871141071213,
+            "paraphrased": 0.00002529668807183891
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002133265894668981,
+          "sentence": "The difference is, the Mohawk is willing to deal with it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997866734105331,
+            "ai": 0.00018703141511462664,
+            "paraphrased": 0.000026295174352271452
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010760214462399254,
+          "sentence": "The last part is about the complicated conditions in the twentieth century, including participation in the Second World War, how the federal government bought up the land, and how the struggle continued.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999892397855376,
+            "ai": 0.00008533336596346293,
+            "paraphrased": 0.000022268778660529603
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006105446649956455,
+          "sentence": "The account is thus largely limited to today’s USA and a little about Canada, and we follow the Spanish conquest of this part of the continent, with a thorough treatment of de Soto’s expedition and the attempts at rebellion against the conquerors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993894553350043,
+            "ai": 0.0005801724882304184,
+            "paraphrased": 0.00003037217676522709
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004118945007954275,
+          "sentence": "For me it is especially interesting to read about how the Spaniards destroyed the village of Acoma in present-day New Mexico (the illustration is “Acoma Pueblo” by Lloyd Townsend; I have visited the town, which plays a role in the background story of Lesli M. Silko’s short story “Tony’s Story” (fiction could have been treated more thoroughly in the book, by the way).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995881054992046,
+            "ai": 0.000382349693575312,
+            "paraphrased": 0.00002954480722011546
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007253553214366416,
+          "sentence": "Later, rebellion against the new republic and war against the settlers are dealt with, all the time with relevant quotations in the margins and large and small illustrations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999274644678563,
+            "ai": 0.00004886957993347458,
+            "paraphrased": 0.000023665952210189575
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006872053634420052,
+          "sentence": "One of the marginal texts deals with “California Genocide”:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999312794636558,
+            "ai": 0.00004288739635879373,
+            "paraphrased": 0.00002583313998540679
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006977847338128106,
+          "sentence": ">Of all Indian regions in America, California, with its medley of different native groups peopling diverse ecoregions, suffered the most after the United States won the these lands from Mexico.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999302215266187,
+            "ai": 0.00004375746905261663,
+            "paraphrased": 0.00002602100432866442
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00017874178453523352,
+          "sentence": "In village after village, rampant brutality became commonplace as gold miners, ranchers, and townsfolk swarmed into river valleys throughout the northern half of the state.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998212582154647,
+            "ai": 0.00015442735651093227,
+            "paraphrased": 0.000024314428024301242
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014752608415194855,
+          "sentence": ">It was not uncommon for the government to effectively reward the ‘volunteer armies’ who cleared out unprotected Indian villages.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998524739158481,
+            "ai": 0.00012194159296765645,
+            "paraphrased": 0.00002558449118429209
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001315786613380734,
+          "sentence": "In one year, 1851–52, California authorized over one million dollars to reimburse vouchers submitted by loosely organized miners and new settlers for expenses incurred during their terrorizing raids.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998684213386619,
+            "ai": 0.00010819312899750208,
+            "paraphrased": 0.00002338553234057132
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00025430397738315975,
+          "sentence": "The Sinkyone Indians were one group stunned by these assaults.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997456960226169,
+            "ai": 0.00022163239835112,
+            "paraphrased": 0.00003267157903203973
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013033869339006398,
+          "sentence": ">Before the gold rush there were over four thousand in the Humboldt County villages; then, as one victim from Needle Rock later remembered, they were ruthlessly set upon, ‘About ten o’clock in the morning, some white men came.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998696613066099,
+            "ai": 0.00010691094300147669,
+            "paraphrased": 0.000023427750388587287
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0008557397230011775,
+          "sentence": "They killed my grandfather and my mother and my father.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9991442602769989,
+            "ai": 0.0008242711898761319,
+            "paraphrased": 0.00003146853312504559
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006641362578969835,
+          "sentence": "I saw them do it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999335863742103,
+            "ai": 0.0006359441565995575,
+            "paraphrased": 0.00002819210129742602
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006675007903492498,
+          "sentence": "I was a big girl at that time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993324992096507,
+            "ai": 0.000633758441933458,
+            "paraphrased": 0.00003374234841579175
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00043707613646897485,
+          "sentence": "Then they killed my baby sister and cut her heart out and threw it in the brush where I ran and hid.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995629238635311,
+            "ai": 0.0004055416812727295,
+            "paraphrased": 0.000031534455196245314
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009551512792557059,
+          "sentence": "I didn’t know what to do.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990448487207443,
+            "ai": 0.0009189467066814109,
+            "paraphrased": 0.00003620457257429497
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007364128960196206,
+          "sentence": "I was so scared that I guess I just hid there a long time with my little sister’s heart in my hands.’ At the close of the 1860s all that was left of the Sinkyone was a handful of survivors with ghastly memories of what had happened.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992635871039803,
+            "ai": 0.0006946040101895186,
+            "paraphrased": 0.00004180888583010196
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6231129094931369,
+          "sentence": ">In the period between 1855 and 1870, such brutality was the rule rather than the exception.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3768870905068631,
+            "ai": 0.6229309666313393,
+            "paraphrased": 0.0001819428617976204
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.6462052896212097,
+          "sentence": "By 1865 the Wintu, for instance, numbering over fourteen thousand a quarter century earlier, were reduced to fewer than one thousand weakened, who disoriented survivors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.3537947103787903,
+            "ai": 0.6460038775451238,
+            "paraphrased": 0.0002014120760858763
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.415942536115357,
+          "sentence": "The story was repeated throughout the foothills, as community after community experienced the same nightmare.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.584057463884643,
+            "ai": 0.4157460130631498,
+            "paraphrased": 0.00019652305220719952
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017878733908424913,
+          "sentence": "“Our culture is high and rich!” says Jens Bjørneboe (yes indeed, massacres of Europeans are also mentioned, as in the chapter where John Vanderlyn’s “The Death of Jane McCrea” is one of the illustrations: anger shines from the eyes of the two who are about to execute and scalp a white woman …).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982121266091575,
+            "ai": 0.0017389919855669623,
+            "paraphrased": 0.00004888140527552901
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010829842674940857,
+          "sentence": "The book is illustrated with photographs and copies of paintings, engravings and drawings, such as “Arrival of Hendrick Hudson in the Bay of New York, September 12, 1609” by Frederic A. Chapman from 1868 (a good example of an interpretation of what must surely have been the mood when the native inhabitants discovered the Europeans), “Discovery of the Hudson River” by Alfred Bierstadt (1874), “Buffalo Hunt” by George Catlin and Frank C. McCarthy’s “The Buffalo Runners.” The strongest impression is perhaps made by “The Trail of Tears” by Robert Lindneux, which shows the deportation of the Cherokee people.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998917015732506,
+            "ai": 0.00008975389773680966,
+            "paraphrased": 0.00001854452901259891
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011549899125476856,
+          "sentence": "Alfred Jacob Miller’s “The Trapper’s Bride” (1850) shows that relations between Europeans and native inhabitants could be many-sided …",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998845010087453,
+            "ai": 0.00009710120646685959,
+            "paraphrased": 0.00001839778478790897
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004564321416164763,
+          "sentence": "I do not have enough background knowledge to go into the sources and check how the authors have used them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999543567858383,
+            "ai": 0.00002974539571010283,
+            "paraphrased": 0.000015897818451544802
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010603755331086048,
+          "sentence": "But all in all, the book testifies to thorough work to document their own identity and human dignity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998939624466892,
+            "ai": 0.00008508151722089958,
+            "paraphrased": 0.000020956036089960902
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00048750750590100585,
+          "sentence": "“There is,” a native inhabitant has said, “no ‘better’ or ‘worse’, only different.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999512492494099,
+            "ai": 0.00044928179423258427,
+            "paraphrased": 0.000038225711668421616
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0008986484787647562,
+          "sentence": "That difference has to be respected whether it’s skin color, way of life, or ideas.” (p. 21).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9991013515212352,
+            "ai": 0.0008553972747999259,
+            "paraphrased": 0.00004325120396483023
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9858462549047926,
+        "ai": 0.000028184423659939128,
+        "mixed": 0.01412556067154748
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9858462549047926,
+          "ai": 0.000028184423659939128,
+          "mixed": 0.01412556067154748
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "My generation’s view of the original inhabitants of America was shaped to a large extent by comics (my favorite was *Texas*) and films in the 1950s and 1960s. Later this perception was modified somewhat, fortunately.\n\nIn 1994 I bought the book *The Native Americans. An Illustrated History* on a reservation in New Mexico. It is edited by Betty Ballantine and Ian Ballantine and is a colossus of 480 huge pages, packed with the history of those who first came to the American continent. The aim of the book is “to help bridge, if not end, the communication gap of misunderstandings and false images that have so plagued Indian-white relations” (p. 20). How well the editors have succeeded is hard to say, but the effort is in any case beyond reproach!\n\nIn the introduction Alvin M. Josephy Jr. early on attacks the widespread Eurocentric view of the native inhabitants –\n\n>an ingrained conviction on the part of those who first came to the Americas from Europe, as well as by their American descendants, that their cultures, values, religions, lifeways, abilities, and achievements were more advanced and of a higher order than those of the Indians. It followed, therefore, that they deemed the Indians to be inferior peoples–uncivilized Stone Age savages, perhaps even subhuman–and their cultures irrelevant or barbaric and dangerous to civilized mankind.\n\n(p. 16). When the Spanish and Portuguese conquerors came to the continent, he says, there were fifty million native inhabitants there; a few centuries later the number had been reduced to 250,000. And he shows how their culture and values have systematically been destroyed as a result of the idea that they were inferior and of lesser worth.\n\nThe account begins with the first immigrants coming from Asia to America, those who gradually “developed sophisticated forms of art, elaborate political and social structures, intricate intellectual patterns, mathematics, handicrafts, agriculture, writing, complex religious and belief systems, imaginative architecture” (p. 25). Yes, it is probably right when it says “Native American architecture matched anything Columbus had seen in his travels” (p. 26). It continues with various aspects of history and culture and shows, among other things, that textbooks up to the time of publication had been wrong in saying that there were only three areas in what corresponds to present-day USA where the inhabitants practiced agriculture. The last was in the Northeast. Gradually life on the prairie and in the forests is presented, together with, among other things, religion and language, the story of Pocahontas, handicrafts, agriculture, hunting, the use of the horse (the horse originally came from America, migrated to Asia and then came back with the Europeans), the tragic encounter with alcohol, participation in the Civil War, life on the reservations (President Grant wanted to use the reservations to make the “Indians” into “whites”), Geronimo, the massacre at Wounded Knee and the work to become full citizens.\n\nThen the Indigenous population enters the twentieth century – “Against all odds” (p. 383). We get to see how representatives took part in working life in the larger society, such as when they helped build bridges in New York City, as I can remember an emigrated uncle telling me early in the 1960s. An ironworker from the Mohawk tribe put it like this, by the way (p. 389):\n\n>A good ironworker is afraid of high places. I don’t want to work with no fool who’s not a little bit afraid of being up so high. It’s the fear that gives you the edge, that keeps you alert. … No, a Mohawk is afraid of heights just like the next guy. The difference is, the Mohawk is willing to deal with it.\n\nThe last part is about the complicated conditions in the twentieth century, including participation in the Second World War, how the federal government bought up the land, and how the struggle continued.\n\nThe account is thus largely limited to today’s USA and a little about Canada, and we follow the Spanish conquest of this part of the continent, with a thorough treatment of de Soto’s expedition and the attempts at rebellion against the conquerors. For me it is especially interesting to read about how the Spaniards destroyed the village of Acoma in present-day New Mexico (the illustration is “Acoma Pueblo” by Lloyd Townsend; I have visited the town, which plays a role in the background story of Lesli M. Silko’s short story “Tony’s Story” (fiction could have been treated more thoroughly in the book, by the way). Later, rebellion against the new republic and war against the settlers are dealt with, all the time with relevant quotations in the margins and large and small illustrations. One of the marginal texts deals with “California Genocide”:\n\n>Of all Indian regions in America, California, with its medley of different native groups peopling diverse ecoregions, suffered the most after the United States won the these lands from Mexico. In village after village, rampant brutality became commonplace as gold miners, ranchers, and townsfolk swarmed into river valleys throughout the northern half of the state.\n>It was not uncommon for the government to effectively reward the ‘volunteer armies’ who cleared out unprotected Indian villages. In one year, 1851–52, California authorized over one million dollars to reimburse vouchers submitted by loosely organized miners and new settlers for expenses incurred during their terrorizing raids. The Sinkyone Indians were one group stunned by these assaults.\n>Before the gold rush there were over four thousand in the Humboldt County villages; then, as one victim from Needle Rock later remembered, they were ruthlessly set upon, ‘About ten o’clock in the morning, some white men came. They killed my grandfather and my mother and my father. I saw them do it. I was a big girl at that time. Then they killed my baby sister and cut her heart out and threw it in the brush where I ran and hid. …. I didn’t know what to do. I was so scared that I guess I just hid there a long time with my little sister’s heart in my hands.’ At the close of the 1860s all that was left of the Sinkyone was a handful of survivors with ghastly memories of what had happened.\n>In the period between 1855 and 1870, such brutality was the rule rather than the exception. By 1865 the Wintu, for instance, numbering over fourteen thousand a quarter century earlier, were reduced to fewer than one thousand weakened, who disoriented survivors. The story was repeated throughout the foothills, as community after community experienced the same nightmare.\n\n“Our culture is high and rich!” says Jens Bjørneboe (yes indeed, massacres of Europeans are also mentioned, as in the chapter where John Vanderlyn’s “The Death of Jane McCrea” is one of the illustrations: anger shines from the eyes of the two who are about to execute and scalp a white woman …).\n\nThe book is illustrated with photographs and copies of paintings, engravings and drawings, such as “Arrival of Hendrick Hudson in the Bay of New York, September 12, 1609” by Frederic A. Chapman from 1868 (a good example of an interpretation of what must surely have been the mood when the native inhabitants discovered the Europeans), “Discovery of the Hudson River” by Alfred Bierstadt (1874), “Buffalo Hunt” by George Catlin and Frank C. McCarthy’s “The Buffalo Runners.” The strongest impression is perhaps made by “The Trail of Tears” by Robert Lindneux, which shows the deportation of the Cherokee people. Alfred Jacob Miller’s “The Trapper’s Bride” (1850) shows that relations between Europeans and native inhabitants could be many-sided …\n\nI do not have enough background knowledge to go into the sources and check how the authors have used them. But all in all, the book testifies to thorough work to document their own identity and human dignity. “There is,” a native inhabitant has said, “no ‘better’ or ‘worse’, only different. That difference has to be respected whether it’s skin color, way of life, or ideas.” (p. 21).\n",
+      "document_id": null
+    }
+  ]
+}

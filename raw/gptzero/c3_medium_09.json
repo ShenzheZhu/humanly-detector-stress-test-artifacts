@@ -1,0 +1,623 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        }
+      ],
+      "completely_generated_prob": 0.00009094019335693438,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9997509617438156,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0017235237100699792,
+          "sentence": "Contents",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.99827647628993,
+            "ai": 0.00024036409841887105,
+            "paraphrased": 0.0014831596116511082
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007844203464232954,
+          "sentence": "Content blocks",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992155796535767,
+            "ai": 0.00014799915899705,
+            "paraphrased": 0.0006364211874262454
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011302493019447995,
+          "sentence": "The area has been structured into three blocks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988697506980552,
+            "ai": 0.00019810899477498283,
+            "paraphrased": 0.0009321403071698166
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001125786372133961,
+          "sentence": "The three blocks are not separate entities; they complement one another and need one another for the development of a Physical Education that is included within the basic competencies, sharing assessment criteria and learning standards in each of the courses, including knowledge, procedures and attitudes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.998874213627866,
+            "ai": 0.00013218326342534145,
+            "paraphrased": 0.0009936031087086194
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001104078370431398,
+          "sentence": "Consequently, we find the first block, which refers to the different contents, with reference to the body, basic and specific abilities and skills, basic physical and perceptual-motor capacities, body awareness and body schema, as well as bodily expression, and also the novelty of ICT.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988959216295686,
+            "ai": 0.00009595016674274647,
+            "paraphrased": 0.0010081282036886517
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011070113535723517,
+          "sentence": "On the other hand, we have the second content block: sports, games and health.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988929886464276,
+            "ai": 0.0001550053024286809,
+            "paraphrased": 0.0009520060511436707
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010118622215322893,
+          "sentence": "With this block we make possible the acquisition and improvement of the contents of the first block, while these are also, in themselves, content that is developed conceptually (traditional games, sports…), and all of this is permeated by the third block: valuing physical education.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989881377784677,
+            "ai": 0.00007937177869274379,
+            "paraphrased": 0.0009324904428395455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010751594179187647,
+          "sentence": "Fair play.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989248405820812,
+            "ai": 0.0001892183446736824,
+            "paraphrased": 0.0008859410732450822
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011347318747273111,
+          "sentence": "This includes topics such as motivation, a positive attitude toward physical activity, sport and health, acceptance of one’s own possibilities and limitations and those of others, together with the development of a critical spirit and fair play.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988652681252727,
+            "ai": 0.0002432304224538601,
+            "paraphrased": 0.0008915014522734511
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0013822201450274913,
+          "sentence": "Assessment criteria",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9986177798549725,
+            "ai": 0.00040220044786331064,
+            "paraphrased": 0.0009800196971641807
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.001442265098124714,
+          "sentence": "1. Solve motor situations with a diversity of stimuli and spatial-temporal conditions, selecting and combining basic motor skills and adapting them effectively to the established conditions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9985577349018753,
+            "ai": 0.0007002952544333844,
+            "paraphrased": 0.0007419698436913297
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0016593348273306098,
+          "sentence": "2. Use the expressive resources of the body and movement, in an aesthetic and creative way, communicating sensations, emotions and ideas.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9983406651726694,
+            "ai": 0.000807042592009558,
+            "paraphrased": 0.0008522922353210518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017574885172621454,
+          "sentence": "3. Solve elementary tactical challenges typical of games and physical activities, with or without opposition, applying principles and rules to resolve motor situations, acting individually, in a coordinated and cooperative way, and performing the different roles implicit in games and activities.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982425114827379,
+            "ai": 0.0008750632065427254,
+            "paraphrased": 0.00088242531071942
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006608631399766162,
+          "sentence": "4. Relate the specific concepts of physical education and those introduced in other areas to the practice of physical-sporting and artistic-expressive activities.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993391368600234,
+            "ai": 0.0006382303958446981,
+            "paraphrased": 0.000022632744131918065
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005942969553249732,
+          "sentence": "5. Recognize the effects of physical exercise, hygiene, diet and postural habits on health and well-being, showing a responsible attitude toward oneself.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999405703044675,
+            "ai": 0.0005726351297677862,
+            "paraphrased": 0.00002166182555718706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006680311588013158,
+          "sentence": "6. Improve the level of one’s physical capacities, regulating and dosing the intensity and duration of effort, taking into account one’s possibilities and their relationship with health.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993319688411987,
+            "ai": 0.0006463851814056809,
+            "paraphrased": 0.00002164597739563484
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000970747894396449,
+          "sentence": "7. Value, accept and respect one’s own bodily reality and that of others, showing a reflective and critical attitude.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990292521056036,
+            "ai": 0.0009481308845273098,
+            "paraphrased": 0.0000226170098691392
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002806920826847708,
+          "sentence": "8. Know and value the diversity of physical, recreational, sporting and artistic activities.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997193079173152,
+            "ai": 0.00026638744380201487,
+            "paraphrased": 0.000014304638882755934
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001277715963780368,
+          "sentence": "9. Give opinions coherently and with a critical attitude, both from the perspective of participant and spectator, regarding possible conflict situations that arise, taking part in debates and accepting the opinions of others.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999872228403622,
+            "ai": 0.00011619289821537682,
+            "paraphrased": 0.000011578698162659983
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003739037901400736,
+          "sentence": "10. Show respect for the surroundings and the natural environment in outdoor games and activities, identifying and carrying out concrete actions aimed at preserving it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996260962098599,
+            "ai": 0.00035762168948174554,
+            "paraphrased": 0.00001628210065832807
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00032519280887233784,
+          "sentence": "11. Identify and internalize the importance of prevention, recovery and safety measures in the practice of physical activity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996748071911277,
+            "ai": 0.0003099877826160208,
+            "paraphrased": 0.000015205026256317085
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014071916063535737,
+          "sentence": "12. Extract and prepare information related to topics of interest at this stage, and share it, using specific information sources and making use of information and communication technologies as a support resource for the area.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998592808393646,
+            "ai": 0.00012942928291296486,
+            "paraphrased": 0.00001128987772239252
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003159490120859497,
+          "sentence": "13. Demonstrate responsible personal and social behavior, respecting oneself and others in physical activities and games, accepting the established norms and rules, and acting with interest, individual initiative and teamwork.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999684050987914,
+            "ai": 0.0003008882497926866,
+            "paraphrased": 0.000015060762293263087
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007537049404553166,
+          "sentence": "Department",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992462950595447,
+            "ai": 0.0007382756857644678,
+            "paraphrased": 0.000015429254690848802
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000413987404414019,
+          "sentence": "This learning project is part of the education department.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999586012595586,
+            "ai": 0.00039815138869325924,
+            "paraphrased": 0.00001583601572075974
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0012486675844702983,
+          "sentence": "This project is of interest to the sports department.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9987513324155297,
+            "ai": 0.0012261452530939925,
+            "paraphrased": 0.000022522331376305755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.003227127256689727,
+          "sentence": "References",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9967728727433103,
+            "ai": 0.0031844100471467157,
+            "paraphrased": 0.000042717209543011365
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0038053911956426904,
+          "sentence": "Category: Education",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9961946088043573,
+            "ai": 0.003768287410284947,
+            "paraphrased": 0.00003710378535774354
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9997509617438156,
+        "ai": 0.0002490382561843786,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9997509617438156,
+          "ai": 0.0002490382561843786,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Contents\n\nContent blocks\n\nThe area has been structured into three blocks. The three blocks are not separate entities; they complement one another and need one another for the development of a Physical Education that is included within the basic competencies, sharing assessment criteria and learning standards in each of the courses, including knowledge, procedures and attitudes.\n\nConsequently, we find the first block, which refers to the different contents, with reference to the body, basic and specific abilities and skills, basic physical and perceptual-motor capacities, body awareness and body schema, as well as bodily expression, and also the novelty of ICT.\n\nOn the other hand, we have the second content block: sports, games and health. With this block we make possible the acquisition and improvement of the contents of the first block, while these are also, in themselves, content that is developed conceptually (traditional games, sports…), and all of this is permeated by the third block: valuing physical education. Fair play. This includes topics such as motivation, a positive attitude toward physical activity, sport and health, acceptance of one’s own possibilities and limitations and those of others, together with the development of a critical spirit and fair play.\n\nAssessment criteria\n\n1. Solve motor situations with a diversity of stimuli and spatial-temporal conditions, selecting and combining basic motor skills and adapting them effectively to the established conditions.\n\n2. Use the expressive resources of the body and movement, in an aesthetic and creative way, communicating sensations, emotions and ideas.\n\n3. Solve elementary tactical challenges typical of games and physical activities, with or without opposition, applying principles and rules to resolve motor situations, acting individually, in a coordinated and cooperative way, and performing the different roles implicit in games and activities.\n\n4. Relate the specific concepts of physical education and those introduced in other areas to the practice of physical-sporting and artistic-expressive activities.\n\n5. Recognize the effects of physical exercise, hygiene, diet and postural habits on health and well-being, showing a responsible attitude toward oneself.\n\n6. Improve the level of one’s physical capacities, regulating and dosing the intensity and duration of effort, taking into account one’s possibilities and their relationship with health.\n\n7. Value, accept and respect one’s own bodily reality and that of others, showing a reflective and critical attitude.\n\n8. Know and value the diversity of physical, recreational, sporting and artistic activities.\n\n9. Give opinions coherently and with a critical attitude, both from the perspective of participant and spectator, regarding possible conflict situations that arise, taking part in debates and accepting the opinions of others.\n\n10. Show respect for the surroundings and the natural environment in outdoor games and activities, identifying and carrying out concrete actions aimed at preserving it.\n\n11. Identify and internalize the importance of prevention, recovery and safety measures in the practice of physical activity.\n\n12. Extract and prepare information related to topics of interest at this stage, and share it, using specific information sources and making use of information and communication technologies as a support resource for the area.\n\n13. Demonstrate responsible personal and social behavior, respecting oneself and others in physical activities and games, accepting the established norms and rules, and acting with interest, individual initiative and teamwork.\n\nDepartment\n\nThis learning project is part of the education department. This project is of interest to the sports department.\n\nReferences\n\nCategory: Education\n",
+      "document_id": null
+    }
+  ]
+}

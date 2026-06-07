@@ -1,0 +1,574 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        }
+      ],
+      "completely_generated_prob": 0.000007369848628926269,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999885075945139,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00021580715206009486,
+          "sentence": "Had I known what I was in for in the beginning, I might never have started.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.99978419284794,
+            "ai": 0.00018291142285118653,
+            "paraphrased": 0.00003289572920890834
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00035060680535261863,
+          "sentence": "I've written three drafts, and my novel has evolved in completely unexpected ways.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996493931946474,
+            "ai": 0.00031281419412448907,
+            "paraphrased": 0.00003779261122812953
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00018131056409802636,
+          "sentence": "I ended up cutting some scenes that I thought would be critical, and there were some sections I added on a whim that became some of the novel's best.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999818689435902,
+            "ai": 0.0001513740782720152,
+            "paraphrased": 0.000029936485826011158
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002515849643958783,
+          "sentence": "When I look back at the first scenes I wrote, I can see how much I've grown as a writer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997484150356041,
+            "ai": 0.00021758597130748067,
+            "paraphrased": 0.000033998993088397665
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006595507356932326,
+          "sentence": "My voice is a lot stronger now, and my dialog is WAY better.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999340449264307,
+            "ai": 0.000040732222160754456,
+            "paraphrased": 0.000025222851408568803
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005943053274465186,
+          "sentence": "My book alternates between five characters' viewpoints, so in a way it was like writing five separate novels.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999405694672554,
+            "ai": 0.00003343148422214631,
+            "paraphrased": 0.000025999048522505546
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011061133574047412,
+          "sentence": "There was one character in particular that I had a hard time with.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998893886642595,
+            "ai": 0.00008171449857173039,
+            "paraphrased": 0.000028896837168743724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009245471404589082,
+          "sentence": "I completely rewrote her story arc three or four times.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999075452859542,
+            "ai": 0.00006536716968834419,
+            "paraphrased": 0.000027087544357546635
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006431716566944642,
+          "sentence": "And yet now, she's one of my favorites.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999356828343305,
+            "ai": 0.00003960103753440755,
+            "paraphrased": 0.000024716128135038877
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007229920523626647,
+          "sentence": "My next step is to find some beta readers (I've had sections workshopped in writers' groups, but I need someone to give me feedback on the manuscript as a whole), and after that an agent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999277007947638,
+            "ai": 0.0000464547220939942,
+            "paraphrased": 0.00002584448314227226
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009993366621806348,
+          "sentence": "There's still a fair amount of work to do, but for now I want to take a moment and savor the feeling of victory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999000663337819,
+            "ai": 0.00007412986910141148,
+            "paraphrased": 0.000025803797116652012
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009381934781333727,
+          "sentence": "Edit: Thank you all for the kind words and encouragement!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999061806521866,
+            "ai": 0.000067617613129449,
+            "paraphrased": 0.00002620173468388828
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00025210714298635925,
+          "sentence": "I've had a few people ask about beta reading, so I'm adding details about the book and a link to the first chapter.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997478928570136,
+            "ai": 0.0002220367518493509,
+            "paraphrased": 0.000030070391137008336
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0026265465349642183,
+          "sentence": "The working title of my book is Revolutions!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9973734534650358,
+            "ai": 0.0025464510334287384,
+            "paraphrased": 0.00008009550153547985
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0017700092501754057,
+          "sentence": "Pole Fitness for Women.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9982299907498245,
+            "ai": 0.0017052524811852375,
+            "paraphrased": 0.00006475676899016822
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005188648677421548,
+          "sentence": "The genre is literary fiction/women's fiction, and it's roughly 125,000 words.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994811351322579,
+            "ai": 0.0005095017808282472,
+            "paraphrased": 0.000009363086913907598
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00024368990123169182,
+          "sentence": "Summary: There are many stereotypes about pole dancers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997563100987683,
+            "ai": 0.00023515668786924497,
+            "paraphrased": 0.000008533213362446847
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002641683418199151,
+          "sentence": "Now that she is one, Corine is convinced that none of the stereotypes are true.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.99973583165818,
+            "ai": 0.000255650068615899,
+            "paraphrased": 0.000008518273204016126
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00021805699518976287,
+          "sentence": "She isn't a stripper, isn't making any money, and hasn't had a date in years.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997819430048103,
+            "ai": 0.00020937836268933573,
+            "paraphrased": 0.000008678632500427136
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004130379675329693,
+          "sentence": "Love is what made her open Revolutions!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999586962032467,
+            "ai": 0.00040432800540077376,
+            "paraphrased": 0.000008709962132195548
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00040737651588298665,
+          "sentence": "in the first place, and love is the only thing that keeps her going.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999592623484117,
+            "ai": 0.0003983893157644949,
+            "paraphrased": 0.000008987200118491699
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00032662608704988504,
+          "sentence": "But she also loves her family, and wishes she could do more to support them during her mother's illness.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996733739129501,
+            "ai": 0.00031817791985111173,
+            "paraphrased": 0.00000844816719877331
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002184624902338051,
+          "sentence": "Her level one students show up to class with their own set of wishes and expectations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997815375097662,
+            "ai": 0.00021147113632936226,
+            "paraphrased": 0.000006991353904442836
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019955840568231366,
+          "sentence": "Joanna wants to be as seductive as an exotic dancer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998004415943177,
+            "ai": 0.00019213225729954844,
+            "paraphrased": 0.000007426148382765227
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014344836568811836,
+          "sentence": "Or at least work up the courage to talk to her beautiful coworker.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998565516343119,
+            "ai": 0.0001363473092513418,
+            "paraphrased": 0.000007101056436776567
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009453028931447731,
+          "sentence": "Desert Sky wants to open herself up to new creative energies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999054697106855,
+            "ai": 0.00008739288046607238,
+            "paraphrased": 0.000007137408848404931
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013663804000003192,
+          "sentence": "Wanda wants to get some exercise in a place that won't bring back painful memories, and Micks just wants her sister to get off her back.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998633619599999,
+            "ai": 0.00012927116541216772,
+            "paraphrased": 0.000007366874587864193
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006421996672825159,
+          "sentence": "But pole dancing defies everyone's expectations, and Corine and her students find themselves changing in ways they hadn't anticipated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993578003327175,
+            "ai": 0.0006321196816162966,
+            "paraphrased": 0.000010079985666219293
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002450700891041112,
+          "sentence": "Link to Google doc with Chapter 1: https://drive.google.com/file/d/0B6bvwfq9SSCacnc2LVBWWFJUTG8/view?usp=sharing",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997549299108959,
+            "ai": 0.00023750051868075644,
+            "paraphrased": 0.000007569570423354765
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999885075945139,
+        "ai": 0.000011492405486055505,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999885075945139,
+          "ai": 0.000011492405486055505,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Had I known what I was in for in the beginning, I might never have started. I've written three drafts, and my novel has evolved in completely unexpected ways. I ended up cutting some scenes that I thought would be critical, and there were some sections I added on a whim that became some of the novel's best.\nWhen I look back at the first scenes I wrote, I can see how much I've grown as a writer. My voice is a lot stronger now, and my dialog is WAY better.\nMy book alternates between five characters' viewpoints, so in a way it was like writing five separate novels. There was one character in particular that I had a hard time with. I completely rewrote her story arc three or four times. And yet now, she's one of my favorites.\nMy next step is to find some beta readers (I've had sections workshopped in writers' groups, but I need someone to give me feedback on the manuscript as a whole), and after that an agent. There's still a fair amount of work to do, but for now I want to take a moment and savor the feeling of victory.\nEdit: Thank you all for the kind words and encouragement! I've had a few people ask about beta reading, so I'm adding details about the book and a link to the first chapter.\nThe working title of my book is Revolutions! Pole Fitness for Women. The genre is literary fiction/women's fiction, and it's roughly 125,000 words.\nSummary: There are many stereotypes about pole dancers. Now that she is one, Corine is convinced that none of the stereotypes are true. She isn't a stripper, isn't making any money, and hasn't had a date in years. Love is what made her open Revolutions! in the first place, and love is the only thing that keeps her going. But she also loves her family, and wishes she could do more to support them during her mother's illness.\nHer level one students show up to class with their own set of wishes and expectations. Joanna wants to be as seductive as an exotic dancer. Or at least work up the courage to talk to her beautiful coworker. Desert Sky wants to open herself up to new creative energies. Wanda wants to get some exercise in a place that won't bring back painful memories, and Micks just wants her sister to get off her back.\nBut pole dancing defies everyone's expectations, and Corine and her students find themselves changing in ways they hadn't anticipated.\nLink to Google doc with Chapter 1: https://drive.google.com/file/d/0B6bvwfq9SSCacnc2LVBWWFJUTG8/view?usp=sharing\n",
+      "document_id": null
+    }
+  ]
+}

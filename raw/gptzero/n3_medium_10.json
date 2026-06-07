@@ -1,0 +1,681 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 22,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9993611953379878,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999380949265603,
+          "sentence": "Long-term goal achievement refers to the process in which a person continues to invest effort, adjusts methods, and persists until results appear in order to accomplish a goal that takes a long time to complete.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006190507343973289,
+            "ai": 0.9709268247096506,
+            "paraphrased": 0.029011270216909604
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999233295902377,
+          "sentence": "It is different from short-term tasks such as finishing an assignment today or taking a quiz tomorrow.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007667040976237919,
+            "ai": 0.9695857652884899,
+            "paraphrased": 0.03033756430174771
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999451348799938,
+          "sentence": "Instead, it includes goals such as completing a university degree, learning a foreign language, building stable health habits, or preparing for a professional qualification exam, all of which may take months or even years before clear results can be seen.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005486512000614611,
+            "ai": 0.9693348633683071,
+            "paraphrased": 0.030610271511686767
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999511213901774,
+          "sentence": "In simple terms, long-term goal achievement does not depend only on temporary enthusiasm, but on a clear direction, steady action, and the ability to keep moving forward when facing difficulties.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000048878609822580876,
+            "ai": 0.9693641635443404,
+            "paraphrased": 0.030586957845837034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999340299122524,
+          "sentence": "Long-term goals are closely related to motivation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006597008774748233,
+            "ai": 0.9700074477585631,
+            "paraphrased": 0.029926582153689395
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999431481699678,
+          "sentence": "If a person does something only because others require it, they may be able to act at the beginning, but they are likely to give up when they encounter pressure, boredom, or failure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005685183003232267,
+            "ai": 0.9693594031184062,
+            "paraphrased": 0.03058374505156154
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999459408410025,
+          "sentence": "By contrast, if a goal is connected with personal values, interests, or a future identity, motivation will last longer.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005405915899744035,
+            "ai": 0.970976443423731,
+            "paraphrased": 0.028969497417271527
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999937876847646,
+          "sentence": "For example, if a student wants to become a counselor not merely to obtain a diploma, but because he hopes to help people with emotional difficulties in the future, then difficult tasks such as studying statistics, writing papers, and participating in internships are easier to understand as necessary steps toward the goal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000621231523539537,
+            "ai": 0.9693163685466046,
+            "paraphrased": 0.03062150830104143
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999367311711517,
+          "sentence": "Long-term goals also need support from external motivation, such as scholarships, grade requirements, family encouragement, or career opportunities, but the most stable source of motivation usually comes from the belief that the goal is “worth it.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006326882884830189,
+            "ai": 0.96881713257727,
+            "paraphrased": 0.0311195985938817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998994734729412,
+          "sentence": "Emotions are also very important in long-term goals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010052652705879996,
+            "ai": 0.968609261160453,
+            "paraphrased": 0.03129021231248819
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999887843873757,
+          "sentence": "In the process of achieving them, people will not always feel excited.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011215612624301787,
+            "ai": 0.9686645624329578,
+            "paraphrased": 0.03122328144079914
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999370748722924,
+          "sentence": "More often, they experience anxiety, procrastination, disappointment, boredom, and even doubt about whether they are suited to continue.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006292512770755194,
+            "ai": 0.9685512444290002,
+            "paraphrased": 0.031385830443292295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999921685075237,
+          "sentence": "Emotions are not only obstacles; they can also provide information.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007831492476289711,
+            "ai": 0.968514946333954,
+            "paraphrased": 0.031406738741283115
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999323733195056,
+          "sentence": "Anxiety may remind us that we are not well prepared, disappointment may show that the original method needs to change, and a sense of achievement can strengthen the behavior of continuing to work hard.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006762668049452856,
+            "ai": 0.9674224459345538,
+            "paraphrased": 0.032509927384951676
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999425145121541,
+          "sentence": "The key is not to avoid negative emotions completely, but to learn to manage them, such as by breaking large tasks into small steps, recording progress, seeking feedback, allowing oneself to rest, and making a new plan after failure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000057485487845874736,
+            "ai": 0.9675430977311933,
+            "paraphrased": 0.03239941678096082
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998955128718623,
+          "sentence": "Long-term goal achievement also involves learning and behavioral habits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010448712813780987,
+            "ai": 0.9691685725482239,
+            "paraphrased": 0.030726940323638374
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998541914840638,
+          "sentence": "Many long-term goals cannot be completed through one major decision, but are built up through many repeated small actions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001458085159361458,
+            "ai": 0.9687780063306949,
+            "paraphrased": 0.03107618515336893
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9636536071915296,
+          "sentence": "Learning a language requires daily practice, improving health requires long-term diet and exercise management, and completing a thesis requires continuous reading, thinking, and writing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.036346392808470476,
+            "ai": 0.6001476354825525,
+            "paraphrased": 0.3635059717089771
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.994499699289449,
+          "sentence": "When making decisions, people often choose between present comfort and future benefits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005500300710550965,
+            "ai": 0.6031740223545485,
+            "paraphrased": 0.39132567693490056
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9894928916711846,
+          "sentence": "Scrolling on a phone, sleeping late, and putting off tasks can bring immediate satisfaction, but long-term goals require us to sometimes sacrifice short-term pleasure in exchange for greater future rewards.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.010507108328815386,
+            "ai": 0.5840840682362172,
+            "paraphrased": 0.4054088234349674
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9910613219248448,
+          "sentence": "Therefore, self-control, time management, and environmental design are all important.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008938678075155217,
+            "ai": 0.5889909574608259,
+            "paraphrased": 0.4020703644640189
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9951546601409613,
+          "sentence": "For example, putting the phone farther away, setting fixed study times, and monitoring progress with peers are all ways to make the right behavior easier to perform.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004845339859038665,
+            "ai": 0.559537416989402,
+            "paraphrased": 0.4356172431515594
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9959288249967679,
+          "sentence": "A concrete example is a university student who decides to pass the graduate entrance examination within two years.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0040711750032320386,
+            "ai": 0.6348027999709484,
+            "paraphrased": 0.36112602502581964
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9960161911331207,
+          "sentence": "At first, he is confident, buys books, and makes a detailed plan.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.003983808866879384,
+            "ai": 0.6113933013469587,
+            "paraphrased": 0.38462288978616194
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9920566853592889,
+          "sentence": "But after a few weeks, he finds that coursework, part-time work, and social activities take up a lot of time, and his mock test scores are not ideal, so he feels frustrated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007943314640711041,
+            "ai": 0.5790158016619275,
+            "paraphrased": 0.41304088369736147
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.992881768929905,
+          "sentence": "If he sees the goal only as “I must get in,” the pressure may make him avoid studying.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007118231070095116,
+            "ai": 0.5932218752865389,
+            "paraphrased": 0.399659893643366
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9952468046101265,
+          "sentence": "A more effective approach is to divide the long-term goal into stages: organize basic knowledge in the first month, complete the first round of practice in the second month, review wrong answers every week, and study for two fixed hours every day.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004753195389873551,
+            "ai": 0.610219679869411,
+            "paraphrased": 0.38502712474071554
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9913653032225997,
+          "sentence": "He can also interpret failure as feedback rather than proof of insufficient ability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008634696777400325,
+            "ai": 0.6241853205375237,
+            "paraphrased": 0.36717998268507596
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9803223208872651,
+          "sentence": "As he completes small goals, he gains a sense of control, and his motivation gradually becomes more stable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.019677679112734898,
+            "ai": 0.6342032870715274,
+            "paraphrased": 0.34611903381573766
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9882147569861386,
+          "sentence": "Even if he eventually needs to adjust his choice of schools or extend his preparation time, he will still have grown in learning ability, discipline, and psychological resilience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.011785243013861408,
+            "ai": 0.6454172898751536,
+            "paraphrased": 0.342797467110985
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9710667629475356,
+          "sentence": "This topic is important because many valuable outcomes in modern life cannot be obtained immediately.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.028933237052464457,
+            "ai": 0.64773348299761,
+            "paraphrased": 0.32333327994992556
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.94963065851067,
+          "sentence": "Education, career development, health, relationships, and personal growth all require long-term investment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.050369341489330026,
+            "ai": 0.6350510787410782,
+            "paraphrased": 0.3145795797695918
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8870468967627965,
+          "sentence": "If people do not understand how long-term goals are achieved, they can easily be controlled by short-term emotions, repeatedly start and give up, and finally mistakenly believe that they lack ability.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.11295310323720348,
+            "ai": 0.5665276604404474,
+            "paraphrased": 0.320519236322349
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.956928115854272,
+          "sentence": "Understanding long-term goal achievement can help us set goals more realistically, arrange our environment more intelligently, face setbacks more tolerantly, and better connect small daily actions with the person we want to become in the future.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.04307188414572806,
+            "ai": 0.620845244887862,
+            "paraphrased": 0.33608287096641
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9790183238527391,
+          "sentence": "The meaning of long-term goals is not only reaching the endpoint, but also forming a more mature and more purposeful self through continuous effort.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.020981676147260906,
+            "ai": 0.6426485527992398,
+            "paraphrased": 0.3363697710534993
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Long-term goal achievement refers to the process in which a person continues to invest effort, adjusts methods, and persists until results appear in order to accomplish a goal that takes a long time to complete. It is different from short-term tasks such as finishing an assignment today or taking a quiz tomorrow. Instead, it includes goals such as completing a university degree, learning a foreign language, building stable health habits, or preparing for a professional qualification exam, all of which may take months or even years before clear results can be seen. In simple terms, long-term goal achievement does not depend only on temporary enthusiasm, but on a clear direction, steady action, and the ability to keep moving forward when facing difficulties.\n\nLong-term goals are closely related to motivation. If a person does something only because others require it, they may be able to act at the beginning, but they are likely to give up when they encounter pressure, boredom, or failure. By contrast, if a goal is connected with personal values, interests, or a future identity, motivation will last longer. For example, if a student wants to become a counselor not merely to obtain a diploma, but because he hopes to help people with emotional difficulties in the future, then difficult tasks such as studying statistics, writing papers, and participating in internships are easier to understand as necessary steps toward the goal. Long-term goals also need support from external motivation, such as scholarships, grade requirements, family encouragement, or career opportunities, but the most stable source of motivation usually comes from the belief that the goal is “worth it.”\n\nEmotions are also very important in long-term goals. In the process of achieving them, people will not always feel excited. More often, they experience anxiety, procrastination, disappointment, boredom, and even doubt about whether they are suited to continue. Emotions are not only obstacles; they can also provide information. Anxiety may remind us that we are not well prepared, disappointment may show that the original method needs to change, and a sense of achievement can strengthen the behavior of continuing to work hard. The key is not to avoid negative emotions completely, but to learn to manage them, such as by breaking large tasks into small steps, recording progress, seeking feedback, allowing oneself to rest, and making a new plan after failure.\n\nLong-term goal achievement also involves learning and behavioral habits. Many long-term goals cannot be completed through one major decision, but are built up through many repeated small actions. Learning a language requires daily practice, improving health requires long-term diet and exercise management, and completing a thesis requires continuous reading, thinking, and writing. When making decisions, people often choose between present comfort and future benefits. Scrolling on a phone, sleeping late, and putting off tasks can bring immediate satisfaction, but long-term goals require us to sometimes sacrifice short-term pleasure in exchange for greater future rewards. Therefore, self-control, time management, and environmental design are all important. For example, putting the phone farther away, setting fixed study times, and monitoring progress with peers are all ways to make the right behavior easier to perform.\n\nA concrete example is a university student who decides to pass the graduate entrance examination within two years. At first, he is confident, buys books, and makes a detailed plan. But after a few weeks, he finds that coursework, part-time work, and social activities take up a lot of time, and his mock test scores are not ideal, so he feels frustrated. If he sees the goal only as “I must get in,” the pressure may make him avoid studying. A more effective approach is to divide the long-term goal into stages: organize basic knowledge in the first month, complete the first round of practice in the second month, review wrong answers every week, and study for two fixed hours every day. He can also interpret failure as feedback rather than proof of insufficient ability. As he completes small goals, he gains a sense of control, and his motivation gradually becomes more stable. Even if he eventually needs to adjust his choice of schools or extend his preparation time, he will still have grown in learning ability, discipline, and psychological resilience.\n\nThis topic is important because many valuable outcomes in modern life cannot be obtained immediately. Education, career development, health, relationships, and personal growth all require long-term investment. If people do not understand how long-term goals are achieved, they can easily be controlled by short-term emotions, repeatedly start and give up, and finally mistakenly believe that they lack ability. Understanding long-term goal achievement can help us set goals more realistically, arrange our environment more intelligently, face setbacks more tolerantly, and better connect small daily actions with the person we want to become in the future. The meaning of long-term goals is not only reaching the endpoint, but also forming a more mature and more purposeful self through continuous effort.\n",
+      "document_id": null
+    }
+  ]
+}

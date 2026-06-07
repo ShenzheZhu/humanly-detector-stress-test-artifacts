@@ -1,0 +1,1420 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 39,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 46,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 51,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 57,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 65,
+          "num_sentences": 9,
+          "completely_generated_prob": 0.9257822263275673
+        },
+        {
+          "start_sentence_index": 74,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9998884214259037,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999409334779017,
+          "sentence": "The paper proposes an iterative refinement method for machine translation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005906652209833424,
+            "ai": 0.9801110015618659,
+            "paraphrased": 0.019829931916035777
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999466813580749,
+          "sentence": "Instead of generating a translation once from left to right, the system starts with a complete translation and repeatedly edits it by substituting individual words.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000053318641925111035,
+            "ai": 0.9782215748280729,
+            "paraphrased": 0.02172510653000195
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999608323458234,
+          "sentence": "The motivation is that standard left-to-right or bottom-up decoders commit to earlier choices and cannot easily revisit them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003916765417660205,
+            "ai": 0.9786626514759331,
+            "paraphrased": 0.021298180869890312
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999576230319334,
+          "sentence": "A refinement model, by contrast, can condition on both the source sentence and the entire current hypothesis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004237696806668795,
+            "ai": 0.9786750669405625,
+            "paraphrased": 0.021282556091370863
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999528333568035,
+          "sentence": "The authors begin with a word-level error detection model, then introduce a convolutional attention-based model that predicts a replacement word at each target position from the source and surrounding target context.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004716664319648136,
+            "ai": 0.9791358233687028,
+            "paraphrased": 0.020817009988100814
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999945548143306,
+          "sentence": "They then extend it to a dual-attention model that also attends to the initial translation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000054451856694040175,
+            "ai": 0.9799485408037057,
+            "paraphrased": 0.019997007339600262
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999473968692262,
+          "sentence": "At test time, the model proposes substitutions for all positions, a heuristic or classifier scores the edits, and the highest-scoring edit is applied until a threshold is met or a maximum number of edits is reached.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005260313077380269,
+            "ai": 0.9805503138891096,
+            "paraphrased": 0.019397082980116515
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999552727322103,
+          "sentence": "On WMT15 German-English, starting from a phrase-based MT system, the best method improves BLEU by about 0.3–0.4 across several test sets while changing fewer than one word per sentence on average.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004472726778976301,
+            "ai": 0.9816048544432519,
+            "paraphrased": 0.01835041828895844
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999699437502633,
+          "sentence": "The main appeal of the paper is its clear treatment of translation refinement as a separate decoding paradigm.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000030056249736716673,
+            "ai": 0.9817037602116957,
+            "paraphrased": 0.018266183538567578
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999785938193686,
+          "sentence": "Rather than treating translation as a strictly generative left-to-right process, the authors study a model that can see a complete candidate output and revise local decisions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002140618063139718,
+            "ai": 0.9821371649140993,
+            "paraphrased": 0.017841428905269272
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999793508087079,
+          "sentence": "This is a natural and potentially important direction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002064919129213856,
+            "ai": 0.9830287990711412,
+            "paraphrased": 0.016950551737566717
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999690463338454,
+          "sentence": "Many translation errors become visible only after later context has been generated, and a model with access to both left and right context may be better suited to fixing agreement, lexical choice, punctuation, and local semantic errors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000309536661546218,
+            "ai": 0.9809747854632735,
+            "paraphrased": 0.018994260870571857
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999648233283809,
+          "sentence": "The paper is also concrete.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000035176671619217,
+            "ai": 0.9833343490774964,
+            "paraphrased": 0.016630474250884434
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999608455222123,
+          "sentence": "The models are easy to understand, the refinement procedure is explicit, and the experiments cover useful variants, including single-source attention, dual attention, different scoring heuristics, and oracle analyses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000039154477787674894,
+            "ai": 0.9819096237202348,
+            "paraphrased": 0.018051221801977532
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999898938536208,
+          "sentence": "The paper also avoids relying on manually post-edited data.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010106146379190957,
+            "ai": 0.9809639326698545,
+            "paraphrased": 0.0189350058663536
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9980737018938995,
+          "sentence": "The models are trained from parallel data and system-generated hypotheses, which makes the approach more scalable than automatic post-editing setups that require human corrections of machine output.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0019262981061005451,
+            "ai": 0.9977433522358957,
+            "paraphrased": 0.0003303496580037867
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996672712382773,
+          "sentence": "The procedure for generating initial guesses on the training set is carefully designed: the authors use multiple phrase-based systems trained on disjoint subsets, which helps avoid the unrealistic case where the baseline system translates sentences it has already seen during training.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000332728761722762,
+            "ai": 0.9994724568003561,
+            "paraphrased": 0.00019481443792110926
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999361765797973,
+          "sentence": "This is an important experimental detail and makes the reported improvements more credible.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006382342020261878,
+            "ai": 0.9998484940720003,
+            "paraphrased": 0.00008768250779705537
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998842857667875,
+          "sentence": "The dual-attention model is a sensible extension.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011571423321263496,
+            "ai": 0.9997038945813832,
+            "paraphrased": 0.00018039118540420822
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998476842236727,
+          "sentence": "By conditioning not only on the source and reference-side context during training, but also on the system’s current guess, it reduces the mismatch between training and testing and gives the model a way to copy words that are already correct.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00015231577632738205,
+            "ai": 0.9996966788326905,
+            "paraphrased": 0.0001510053909821066
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997513516417178,
+          "sentence": "The reported drop in perplexity from the single-attention model to the dual-attention model is convincing evidence that the guess translation carries useful information.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00024864835828223105,
+            "ai": 0.9995833666646368,
+            "paraphrased": 0.00016798497708105724
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998915531283018,
+          "sentence": "The finding that the dual model is more conservative also fits the task: when the starting point is a strong baseline, most words should remain unchanged, and a refinement model must avoid unnecessary edits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001084468716982827,
+            "ai": 0.9997800885168936,
+            "paraphrased": 0.0001114646114081566
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992451213913197,
+          "sentence": "The examples show that the model can correct meaningful lexical errors, punctuation, tense, and pronoun choices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007548786086802689,
+            "ai": 0.9990570946285797,
+            "paraphrased": 0.00018802676273998965
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991425790865548,
+          "sentence": "The oracle experiments are useful as well.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000857420913445131,
+            "ai": 0.9988877264452841,
+            "paraphrased": 0.00025485264127072274
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995928715778344,
+          "sentence": "They show that the model’s proposed substitutions contain more potential improvement than the deployed heuristic can extract, and that deciding when and where to edit is a major bottleneck.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004071284221656062,
+            "ai": 0.9994348932059339,
+            "paraphrased": 0.00015797837190048884
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997594810542492,
+          "sentence": "This separates two questions: whether the word prediction model can suggest useful alternatives, and whether the refinement strategy can reliably choose beneficial substitutions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00024051894575083683,
+            "ai": 0.9996171643642762,
+            "paraphrased": 0.00014231668997298613
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995610485799146,
+          "sentence": "The gap between the heuristic method and the oracle suggests that the approach still has room to improve, rather than having reached a hard limit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004389514200854607,
+            "ai": 0.9993695583855512,
+            "paraphrased": 0.00019149019436333353
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999353753962621,
+          "sentence": "The empirical contribution, however, is modest in its current form.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006462460373800659,
+            "ai": 0.9997845186612718,
+            "paraphrased": 0.0001508567349902131
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9968960467877553,
+          "sentence": "The best reported gain is only about 0.4 BLEU, with mean gains of roughly 0.32 BLEU over the WMT test sets.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0031039532122446372,
+            "ai": 0.9964899375951556,
+            "paraphrased": 0.0004061091925997743
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.997817328279594,
+          "sentence": "The consistency across test sets is encouraging, but the size of the gains is small, and the paper does not report statistical significance testing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002182671720405972,
+            "ai": 0.9974595539444516,
+            "paraphrased": 0.0003577743351423898
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998113514158878,
+          "sentence": "Given the known variance of BLEU when outputs differ only slightly, it is hard to judge whether the gains are robust enough to justify the added modeling and decoding complexity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018864858411211602,
+            "ai": 0.9993287315016736,
+            "paraphrased": 0.00048261991421432826
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998442924998846,
+          "sentence": "The method changes only about 0.6 words per sentence, which is interesting, but it also limits the overall effect.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001557075001153879,
+            "ai": 0.9993651445588049,
+            "paraphrased": 0.00047914794107976487
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998766167440741,
+          "sentence": "The paper would be stronger with significance tests, bootstrap confidence intervals, or a more detailed breakdown of which edits contribute to the BLEU gains.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012338325592588868,
+            "ai": 0.999355945152656,
+            "paraphrased": 0.0005206715914181261
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997774725169422,
+          "sentence": "The restriction to word substitutions is a major limitation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00022252748305790146,
+            "ai": 0.9992083381201292,
+            "paraphrased": 0.0005691343968128915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998822920423367,
+          "sentence": "Many translation errors require insertions, deletions, phrase-level replacements, reordering, or changes in segmentation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011770795766332171,
+            "ai": 0.9993671476229729,
+            "paraphrased": 0.0005151444193638008
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998758506399325,
+          "sentence": "Several examples show this problem directly: the model sometimes replaces a word because it cannot insert a missing function word or restructure a phrase, which leads to output that is unnatural or only partly improved.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012414936006763797,
+            "ai": 0.999414689529114,
+            "paraphrased": 0.00046116111081835853
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999098680936743,
+          "sentence": "Since the paper motivates the method as a form of human-like revision, a one-for-one substitution operation makes the refinement process much less expressive than the motivation suggests.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000901319063257009,
+            "ai": 0.9995617558702834,
+            "paraphrased": 0.0003481122233909357
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999752132251132,
+          "sentence": "The authors mention this as future work, but the limitation affects the central claim.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002478677488688811,
+            "ai": 0.9997172200967482,
+            "paraphrased": 0.0002579931283648897
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999972398229608,
+          "sentence": "It is unclear whether a substitution-only model can scale beyond minor lexical cleanup.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002760177039189345,
+            "ai": 0.9997181788191984,
+            "paraphrased": 0.00025421941040962775
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999120618593981,
+          "sentence": "The comparison setting is also narrow.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008793814060189274,
+            "ai": 0.9996241343174014,
+            "paraphrased": 0.00028792754199673053
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.998822817581036,
+          "sentence": "The method is evaluated only on German-to-English and only on top of a phrase-based translation system.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011771824189640667,
+            "ai": 0.9980776291957354,
+            "paraphrased": 0.0007451883853005222
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994872700397444,
+          "sentence": "By 2017, neural machine translation systems are already strong baselines, and the paper’s motivation partly concerns neural left-to-right decoding.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005127299602556184,
+            "ai": 0.9990387751119892,
+            "paraphrased": 0.0004484949277551072
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9971267848507123,
+          "sentence": "It would be important to evaluate refinement on a neural baseline, or at least explain why phrase-based output is the main test case.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0028732151492877234,
+            "ai": 0.9964190802710754,
+            "paraphrased": 0.0007077045796368411
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.98879894845239,
+          "sentence": "Phrase-based systems have different error profiles from neural systems, and a model trained to fix PBMT output may mainly learn to repair local lexical and fluency errors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.011201051547609982,
+            "ai": 0.987707717162506,
+            "paraphrased": 0.0010912312898839367
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9811463578328316,
+          "sentence": "It remains unclear whether the approach would help strong attention-based neural systems, whose errors may be more global, more fluent but semantically wrong, or related to omissions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.018853642167168474,
+            "ai": 0.9800413313673662,
+            "paraphrased": 0.0011050264654653677
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9215298325404186,
+          "sentence": "Experiments with weaker initial guesses, stronger initial guesses, or multiple guess translations would also help clarify when iterative refinement is useful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.07847016745958138,
+            "ai": 0.9201111714837253,
+            "paraphrased": 0.0014186610566933279
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8504819842841465,
+          "sentence": "The paper could do more to distinguish the work from automatic post-editing and confidence estimation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1495180157158536,
+            "ai": 0.8492702995992926,
+            "paraphrased": 0.0012116846848538624
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8932734160223553,
+          "sentence": "The authors note that their method does not require post-edited data, but it still resembles monolingual or bilingual post-editing of MT output with a neural model.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.10672658397764465,
+            "ai": 0.8921365527183122,
+            "paraphrased": 0.001136863304043222
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9918620930823053,
+          "sentence": "The discussion would be stronger if it positioned the method more clearly against prior work on system combination, rescoring, lattice or n-best list refinement, and post-editing trained from synthetic data.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.008137906917694714,
+            "ai": 0.9912912922926028,
+            "paraphrased": 0.0005708007897025017
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999178302877086,
+          "sentence": "If the baseline system can produce n-best lists or lattices, a strong rescoring or minimum-risk decoding baseline might capture some of the same corrections without a separate iterative editing procedure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008216971229140016,
+            "ai": 0.9988730122287531,
+            "paraphrased": 0.000305290648332867
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995834036216029,
+          "sentence": "Without such comparisons, it is hard to tell whether the proposed decoding scheme is the best way to use this information.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004165963783970619,
+            "ai": 0.9994215168906659,
+            "paraphrased": 0.00016188673093702228
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998636277295452,
+          "sentence": "The edit selection mechanism is another weak point.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00013637227045486776,
+            "ai": 0.999718255987124,
+            "paraphrased": 0.00014537174242108486
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997622102611553,
+          "sentence": "The authors test simple confidence heuristics and a small classifier, but the classifier appears to use only two log-probability features.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002377897388446551,
+            "ai": 0.9995691441178066,
+            "paraphrased": 0.00019306614334870626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998391897354102,
+          "sentence": "That seems too limited for deciding whether an edit improves translation quality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016081026458983382,
+            "ai": 0.9997067069281018,
+            "paraphrased": 0.00013248280730840235
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996552300264718,
+          "sentence": "Features such as position, source attention entropy, local language model scores, lexical identity, edit type, baseline confidence, and sentence-level context are ignored.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00034476997352820974,
+            "ai": 0.9994730427240183,
+            "paraphrased": 0.00018218730245354745
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997869010972769,
+          "sentence": "Since the oracle analysis shows that edit selection is a major bottleneck, the paper should either include a stronger learned selection model or frame the current results more clearly as preliminary.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002130989027231378,
+            "ai": 0.9996493432336204,
+            "paraphrased": 0.0001375578636564009
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999078001947836,
+          "sentence": "It is also unclear how well the thresholds and maximum edit counts would generalize across domains, language pairs, and baseline systems.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009219980521635471,
+            "ai": 0.9997768389309254,
+            "paraphrased": 0.00013096126385824327
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993972951468929,
+          "sentence": "The evaluation relies almost entirely on BLEU.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006027048531070914,
+            "ai": 0.9991978325148045,
+            "paraphrased": 0.00019946263208838835
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994745028566432,
+          "sentence": "Because the system makes very few substitutions, BLEU may reward edits that move the output closer to the single reference even when they do not improve adequacy or fluency, and it may miss valid improvements that are not reflected in the reference.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005254971433568403,
+            "ai": 0.9992781565307616,
+            "paraphrased": 0.0001963463258816169
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9930896008654838,
+          "sentence": "The error detection section itself notes the problem of single-reference evaluation, but the final evaluation does not address it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.006910399134516242,
+            "ai": 0.9926994538281235,
+            "paraphrased": 0.00039014703736025034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9843247587793231,
+          "sentence": "A human evaluation or a targeted analysis of accepted and rejected edits would help.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.01567524122067696,
+            "ai": 0.9837768136258956,
+            "paraphrased": 0.0005479451534274503
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995472459871693,
+          "sentence": "For example, what fraction of edits improve adequacy, improve fluency, act as neutral paraphrases, or harm the translation?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004527540128307981,
+            "ai": 0.9994836127229562,
+            "paraphrased": 0.00006363326421307264
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998875187371079,
+          "sentence": "Are the gains mostly from punctuation and morphology, or do they include substantive lexical corrections?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011248126289209837,
+            "ai": 0.9998492686178609,
+            "paraphrased": 0.00003825011924691077
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998393766160683,
+          "sentence": "Do repeated edits ever cause oscillations or degradation?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016062338393172635,
+            "ai": 0.999798944054506,
+            "paraphrased": 0.00004043256156231198
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998189869361186,
+          "sentence": "These details would make the contribution more convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018101306388141285,
+            "ai": 0.9997789289694707,
+            "paraphrased": 0.00004005796664787845
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992347838309577,
+          "sentence": "I have several questions for the authors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007652161690422911,
+            "ai": 0.9991624545403748,
+            "paraphrased": 0.00007232929058289583
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987045411384836,
+          "sentence": "How sensitive are the results to the strength and type of the initial translation system?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001295458861516344,
+            "ai": 0.9985892075271698,
+            "paraphrased": 0.00011533361131376014
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993410201604774,
+          "sentence": "Would the same refinement model improve a neural MT baseline, or does it mainly correct artifacts of phrase-based translation?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006589798395226304,
+            "ai": 0.999250748660539,
+            "paraphrased": 0.00009027149993841372
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991299836068472,
+          "sentence": "Were the BLEU gains tested for statistical significance on each test set and on the concatenation of all test sets?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008700163931527147,
+            "ai": 0.9990153193911026,
+            "paraphrased": 0.00011466421574469621
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999903234485805,
+          "sentence": "How often does the model propose the identity substitution, and how often are proposed substitutions rejected by the threshold?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009676551419502997,
+            "ai": 0.9998564722518155,
+            "paraphrased": 0.000046762233989428
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999767317044551,
+          "sentence": "What is the runtime cost of iterative refinement relative to baseline decoding?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000023268295544866583,
+            "ai": 0.9999409722543012,
+            "paraphrased": 0.00003575945015392839
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999836172981458,
+          "sentence": "Does the model ever cycle between alternatives across iterations, and if so, how is that handled?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016382701854211478,
+            "ai": 0.9999520325167321,
+            "paraphrased": 0.000031584781413636354
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999721989608233,
+          "sentence": "Why does the learned classifier not outperform the simple product heuristic, and were richer features tried?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027801039176694742,
+            "ai": 0.9999402708802753,
+            "paraphrased": 0.000031928080548037915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999719375937816,
+          "sentence": "Finally, can the authors provide an edit-type analysis showing which substitution categories account for most of the BLEU improvement?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002806240621845411,
+            "ai": 0.999934552173853,
+            "paraphrased": 0.000037385419928630363
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999505665137779,
+          "sentence": "Overall, I find the idea promising and the paper well written, but the empirical evidence is not yet fully convincing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004943348622205618,
+            "ai": 0.9999200271727565,
+            "paraphrased": 0.00003053934102140226
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999560232337006,
+          "sentence": "The work gives a clean and interesting formulation of iterative translation refinement, and the consistent small gains suggest that the method is doing something meaningful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000043976766299476714,
+            "ai": 0.9999206823593256,
+            "paraphrased": 0.000035340874374914104
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999843068705596,
+          "sentence": "At the same time, the improvements are very small, the edit space is limited, the baselines are narrow, and the evaluation does not show that the method is broadly useful beyond minor corrections to phrase-based output.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015693129440367794,
+            "ai": 0.9999511413380595,
+            "paraphrased": 0.00003316553250015472
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999815150596018,
+          "sentence": "My recommendation is a weak reject in its current form.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018484940398210533,
+            "ai": 0.9999482093726906,
+            "paraphrased": 0.000033305686911173335
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998957598319556,
+          "sentence": "I would be more positive with stronger comparisons, significance testing, evaluation on neural baselines, and either a better edit selection model or a broader edit space.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010424016804439939,
+            "ai": 0.9998519349189819,
+            "paraphrased": 0.000043824912973656845
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "The paper proposes an iterative refinement method for machine translation. Instead of generating a translation once from left to right, the system starts with a complete translation and repeatedly edits it by substituting individual words. The motivation is that standard left-to-right or bottom-up decoders commit to earlier choices and cannot easily revisit them. A refinement model, by contrast, can condition on both the source sentence and the entire current hypothesis. The authors begin with a word-level error detection model, then introduce a convolutional attention-based model that predicts a replacement word at each target position from the source and surrounding target context. They then extend it to a dual-attention model that also attends to the initial translation. At test time, the model proposes substitutions for all positions, a heuristic or classifier scores the edits, and the highest-scoring edit is applied until a threshold is met or a maximum number of edits is reached. On WMT15 German-English, starting from a phrase-based MT system, the best method improves BLEU by about 0.3–0.4 across several test sets while changing fewer than one word per sentence on average.\n\nThe main appeal of the paper is its clear treatment of translation refinement as a separate decoding paradigm. Rather than treating translation as a strictly generative left-to-right process, the authors study a model that can see a complete candidate output and revise local decisions. This is a natural and potentially important direction. Many translation errors become visible only after later context has been generated, and a model with access to both left and right context may be better suited to fixing agreement, lexical choice, punctuation, and local semantic errors. The paper is also concrete. The models are easy to understand, the refinement procedure is explicit, and the experiments cover useful variants, including single-source attention, dual attention, different scoring heuristics, and oracle analyses.\n\nThe paper also avoids relying on manually post-edited data. The models are trained from parallel data and system-generated hypotheses, which makes the approach more scalable than automatic post-editing setups that require human corrections of machine output. The procedure for generating initial guesses on the training set is carefully designed: the authors use multiple phrase-based systems trained on disjoint subsets, which helps avoid the unrealistic case where the baseline system translates sentences it has already seen during training. This is an important experimental detail and makes the reported improvements more credible.\n\nThe dual-attention model is a sensible extension. By conditioning not only on the source and reference-side context during training, but also on the system’s current guess, it reduces the mismatch between training and testing and gives the model a way to copy words that are already correct. The reported drop in perplexity from the single-attention model to the dual-attention model is convincing evidence that the guess translation carries useful information. The finding that the dual model is more conservative also fits the task: when the starting point is a strong baseline, most words should remain unchanged, and a refinement model must avoid unnecessary edits. The examples show that the model can correct meaningful lexical errors, punctuation, tense, and pronoun choices.\n\nThe oracle experiments are useful as well. They show that the model’s proposed substitutions contain more potential improvement than the deployed heuristic can extract, and that deciding when and where to edit is a major bottleneck. This separates two questions: whether the word prediction model can suggest useful alternatives, and whether the refinement strategy can reliably choose beneficial substitutions. The gap between the heuristic method and the oracle suggests that the approach still has room to improve, rather than having reached a hard limit.\n\nThe empirical contribution, however, is modest in its current form. The best reported gain is only about 0.4 BLEU, with mean gains of roughly 0.32 BLEU over the WMT test sets. The consistency across test sets is encouraging, but the size of the gains is small, and the paper does not report statistical significance testing. Given the known variance of BLEU when outputs differ only slightly, it is hard to judge whether the gains are robust enough to justify the added modeling and decoding complexity. The method changes only about 0.6 words per sentence, which is interesting, but it also limits the overall effect. The paper would be stronger with significance tests, bootstrap confidence intervals, or a more detailed breakdown of which edits contribute to the BLEU gains.\n\nThe restriction to word substitutions is a major limitation. Many translation errors require insertions, deletions, phrase-level replacements, reordering, or changes in segmentation. Several examples show this problem directly: the model sometimes replaces a word because it cannot insert a missing function word or restructure a phrase, which leads to output that is unnatural or only partly improved. Since the paper motivates the method as a form of human-like revision, a one-for-one substitution operation makes the refinement process much less expressive than the motivation suggests. The authors mention this as future work, but the limitation affects the central claim. It is unclear whether a substitution-only model can scale beyond minor lexical cleanup.\n\nThe comparison setting is also narrow. The method is evaluated only on German-to-English and only on top of a phrase-based translation system. By 2017, neural machine translation systems are already strong baselines, and the paper’s motivation partly concerns neural left-to-right decoding. It would be important to evaluate refinement on a neural baseline, or at least explain why phrase-based output is the main test case. Phrase-based systems have different error profiles from neural systems, and a model trained to fix PBMT output may mainly learn to repair local lexical and fluency errors. It remains unclear whether the approach would help strong attention-based neural systems, whose errors may be more global, more fluent but semantically wrong, or related to omissions. Experiments with weaker initial guesses, stronger initial guesses, or multiple guess translations would also help clarify when iterative refinement is useful.\n\nThe paper could do more to distinguish the work from automatic post-editing and confidence estimation. The authors note that their method does not require post-edited data, but it still resembles monolingual or bilingual post-editing of MT output with a neural model. The discussion would be stronger if it positioned the method more clearly against prior work on system combination, rescoring, lattice or n-best list refinement, and post-editing trained from synthetic data. If the baseline system can produce n-best lists or lattices, a strong rescoring or minimum-risk decoding baseline might capture some of the same corrections without a separate iterative editing procedure. Without such comparisons, it is hard to tell whether the proposed decoding scheme is the best way to use this information.\n\nThe edit selection mechanism is another weak point. The authors test simple confidence heuristics and a small classifier, but the classifier appears to use only two log-probability features. That seems too limited for deciding whether an edit improves translation quality. Features such as position, source attention entropy, local language model scores, lexical identity, edit type, baseline confidence, and sentence-level context are ignored. Since the oracle analysis shows that edit selection is a major bottleneck, the paper should either include a stronger learned selection model or frame the current results more clearly as preliminary. It is also unclear how well the thresholds and maximum edit counts would generalize across domains, language pairs, and baseline systems.\n\nThe evaluation relies almost entirely on BLEU. Because the system makes very few substitutions, BLEU may reward edits that move the output closer to the single reference even when they do not improve adequacy or fluency, and it may miss valid improvements that are not reflected in the reference. The error detection section itself notes the problem of single-reference evaluation, but the final evaluation does not address it. A human evaluation or a targeted analysis of accepted and rejected edits would help. For example, what fraction of edits improve adequacy, improve fluency, act as neutral paraphrases, or harm the translation? Are the gains mostly from punctuation and morphology, or do they include substantive lexical corrections? Do repeated edits ever cause oscillations or degradation? These details would make the contribution more convincing.\n\nI have several questions for the authors. How sensitive are the results to the strength and type of the initial translation system? Would the same refinement model improve a neural MT baseline, or does it mainly correct artifacts of phrase-based translation? Were the BLEU gains tested for statistical significance on each test set and on the concatenation of all test sets? How often does the model propose the identity substitution, and how often are proposed substitutions rejected by the threshold? What is the runtime cost of iterative refinement relative to baseline decoding? Does the model ever cycle between alternatives across iterations, and if so, how is that handled? Why does the learned classifier not outperform the simple product heuristic, and were richer features tried? Finally, can the authors provide an edit-type analysis showing which substitution categories account for most of the BLEU improvement?\n\nOverall, I find the idea promising and the paper well written, but the empirical evidence is not yet fully convincing. The work gives a clean and interesting formulation of iterative translation refinement, and the consistent small gains suggest that the method is doing something meaningful. At the same time, the improvements are very small, the edit space is limited, the baselines are narrow, and the evaluation does not show that the method is broadly useful beyond minor corrections to phrase-based output. My recommendation is a weak reject in its current form. I would be more positive with stronger comparisons, significance testing, evaluation on neural baselines, and either a better edit selection model or a broader edit space.\n",
+      "document_id": null
+    }
+  ]
+}

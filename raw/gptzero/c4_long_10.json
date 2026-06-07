@@ -1,0 +1,969 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 16,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 30,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 35,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9994444851747815,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999439400293109,
+          "sentence": "Summary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005605997068916159,
+            "ai": 0.9980780149455951,
+            "paraphrased": 0.0018659250837157412
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999710621407026,
+          "sentence": "This paper introduces hypernetworks, an approach in which one neural network, the hypernetwork, generates the weights for another, larger network, the main network that actually performs the task.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028937859297362765,
+            "ai": 0.9983205444102246,
+            "paraphrased": 0.0016505177304781337
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999719892626544,
+          "sentence": "Rather than learning the parameters of the main network directly, the method learns the parameters of a smaller hypernetwork that outputs those weights as a function of some input, such as a layer embedding.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000028010737345655268,
+            "ai": 0.998328607164657,
+            "paraphrased": 0.0016433820979973644
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999766596766015,
+          "sentence": "The authors apply this idea to both convolutional networks and recurrent networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002334032339849637,
+            "ai": 0.9984818893324865,
+            "paraphrased": 0.0014947703441150024
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999900797211331,
+          "sentence": "In the recurrent setting in particular, hypernetworks can produce weights that vary across time steps, yielding a form of relaxed weight sharing in which the effective parameters of a recurrent network are modulated dynamically rather than held fixed.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000992027886697642,
+            "ai": 0.9983256427221057,
+            "paraphrased": 0.00166443699902738
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999898073091527,
+          "sentence": "The paper motivates hypernetworks as a way to achieve parameter efficiency and added flexibility, describes the architectures for the convolutional and recurrent cases, and presents experiments on standard benchmarks, including sequence modeling tasks, comparing performance and parameter counts against conventional baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010192690847329078,
+            "ai": 0.9983930085231361,
+            "paraphrased": 0.001596798786016583
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999779174718431,
+          "sentence": "Strengths",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002208252815688944,
+            "ai": 0.9982899028390337,
+            "paraphrased": 0.001688014632809352
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999903279446776,
+          "sentence": "The central idea is original and thought-provoking.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009672055322375465,
+            "ai": 0.9984044959518391,
+            "paraphrased": 0.0015858319928385026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999882168709978,
+          "sentence": "Using one network to generate the weights of another is an elegant and somewhat surprising concept that opens up a distinctive design space, and the paper presents it clearly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001178312900215338,
+            "ai": 0.9982790024132194,
+            "paraphrased": 0.001709214457778374
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999908047249181,
+          "sentence": "The notion of learning weights as a function rather than as free parameters connects to broader ideas about weight sharing, conditioning, and meta-level modeling, and is intellectually stimulating.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009195275081861113,
+            "ai": 0.9981830590850893,
+            "paraphrased": 0.0018077456398287815
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999900131008783,
+          "sentence": "The application to recurrent networks is especially compelling.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000998689912168537,
+            "ai": 0.998551492857643,
+            "paraphrased": 0.0014385202432353626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999902050387853,
+          "sentence": "The ability to generate time-varying weights provides a principled middle ground between fully shared weights, as in standard recurrent networks, and fully independent weights per step, which would be prohibitive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009794961214675862,
+            "ai": 0.9982822900947127,
+            "paraphrased": 0.0017079149440726708
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999865263985381,
+          "sentence": "This relaxed weight sharing is a genuinely interesting mechanism, and it is a natural and well-motivated use of the hypernetwork concept that distinguishes the recurrent results.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013473601461909384,
+            "ai": 0.9986883126300379,
+            "paraphrased": 0.0012982137685002056
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999918029518986,
+          "sentence": "The experimental evaluation spans both convolutional and recurrent settings and includes competitive results on established benchmarks, demonstrating that the approach is not merely a curiosity but can perform well in practice, sometimes with favorable parameter efficiency.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008197048101334918,
+            "ai": 0.9985402491068017,
+            "paraphrased": 0.0014515538450968906
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999907691019132,
+          "sentence": "Reporting parameter counts alongside performance is appropriate and supports the efficiency argument.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009230898086787963,
+            "ai": 0.9987985664514045,
+            "paraphrased": 0.001192202650508704
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999846133304422,
+          "sentence": "The paper is clearly written and the exposition makes an unconventional idea accessible, which will help the work reach and influence a broad audience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015386669557858323,
+            "ai": 0.9986478740410798,
+            "paraphrased": 0.0013367392893623635
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999359728656326,
+          "sentence": "Weaknesses",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006402713436738578,
+            "ai": 0.9982759147592196,
+            "paraphrased": 0.0016600581064129779
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991860209277316,
+          "sentence": "A central question is when and why hypernetworks provide a real advantage over directly parameterized networks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008139790722683667,
+            "ai": 0.9978375303157124,
+            "paraphrased": 0.0013484906120191597
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994559108175285,
+          "sentence": "The improvements in some settings are modest, and the paper would benefit from a sharper articulation of the conditions under which generating weights is preferable, whether the benefit is primarily parameter efficiency, the dynamic modulation of weights, or added expressivity.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005440891824714312,
+            "ai": 0.9979918105392346,
+            "paraphrased": 0.0014641002782939396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994527629716106,
+          "sentence": "Without this, it is hard to know where practitioners should reach for hypernetworks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000547237028389396,
+            "ai": 0.9978272913591439,
+            "paraphrased": 0.00162547161246667
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996960136110495,
+          "sentence": "The added complexity and potential optimization challenges deserve more discussion.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00030398638895041437,
+            "ai": 0.997853020801869,
+            "paraphrased": 0.0018429928091805755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998130721770728,
+          "sentence": "Training a network that generates another network's weights introduces an extra layer of indirection that could complicate optimization and increase sensitivity to design choices.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00018692782292715536,
+            "ai": 0.9984327875007234,
+            "paraphrased": 0.001380284676349481
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998762382122306,
+          "sentence": "The paper should address training stability, the cost of generating weights, and how much tuning the approach requires relative to standard models.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012376178776931756,
+            "ai": 0.9984689701718952,
+            "paraphrased": 0.001407268040335458
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998935065922792,
+          "sentence": "Some design decisions, such as how inputs to the hypernetwork are defined, the dimensionality of the generated weights, and the structure of the mapping, appear consequential but are not exhaustively ablated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010649340772088545,
+            "ai": 0.9986382473980014,
+            "paraphrased": 0.0012552591942776665
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998777627854883,
+          "sentence": "A more systematic study of these choices would clarify which aspects drive the results and improve reproducibility.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012223721451165234,
+            "ai": 0.9986231825064409,
+            "paraphrased": 0.0012545802790474643
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997436572621586,
+          "sentence": "Finally, the relationship between hypernetworks and related ideas, such as conditional computation, weight prediction, and various forms of parameter sharing, could be developed further.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002563427378413379,
+            "ai": 0.9985268574869816,
+            "paraphrased": 0.0012167997751771137
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998934227519152,
+          "sentence": "Clarifying what is genuinely new and how the approach compares conceptually and empirically to these alternatives would sharpen the contribution.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010657724808477303,
+            "ai": 0.998819321642207,
+            "paraphrased": 0.0010741011097081944
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987663070268792,
+          "sentence": "Questions for the Authors",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012336929731207795,
+            "ai": 0.9974999972747173,
+            "paraphrased": 0.0012663097521618907
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999439173349715,
+          "sentence": "First, under what specific conditions do hypernetworks outperform directly parameterized networks, and is the primary benefit parameter efficiency, dynamic weight modulation, or expressivity?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005608266502850184,
+            "ai": 0.9983729628489663,
+            "paraphrased": 0.0010662105007487532
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999702091166159,
+          "sentence": "Second, does the indirection of generating weights introduce optimization difficulties or instability, and how much additional tuning is required compared with standard architectures?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00029790883384091986,
+            "ai": 0.9984665707486914,
+            "paraphrased": 0.0012355204174676556
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996141216629006,
+          "sentence": "Third, what is the computational overhead of generating weights, particularly in the recurrent case where weights may vary per time step, and how does it affect training and inference cost?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00038587833709938696,
+            "ai": 0.9982760483064941,
+            "paraphrased": 0.0013380733564065871
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991409344222808,
+          "sentence": "Fourth, how sensitive are the results to design choices such as the hypernetwork inputs and the structure of the generated weights?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008590655777191718,
+            "ai": 0.9977494048278505,
+            "paraphrased": 0.0013915295944303195
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9969040497513248,
+          "sentence": "Could you provide ablations isolating these factors?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00309595024867515,
+            "ai": 0.9953293407775049,
+            "paraphrased": 0.0015747089738199944
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9969602417912724,
+          "sentence": "Fifth, how do hypernetworks relate empirically and conceptually to related approaches like conditional computation and weight prediction, and what distinguishes them most clearly?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0030397582087275817,
+            "ai": 0.9953144860581377,
+            "paraphrased": 0.0016457557331347903
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8737487553735843,
+          "sentence": "Additional Comments",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.12625124462641568,
+            "ai": 0.8710869741119922,
+            "paraphrased": 0.002661781261592113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9888733239554253,
+          "sentence": "A few additional points would strengthen the paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.011126676044574657,
+            "ai": 0.9878453968828629,
+            "paraphrased": 0.0010279270725624394
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9982678904273385,
+          "sentence": "It would be useful to analyze what the generated weights look like and how they vary, for instance across time steps in the recurrent case, since understanding whether the hypernetwork produces smoothly varying or sharply changing weights would shed light on the mechanism behind the observed gains.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0017321095726614783,
+            "ai": 0.9973412783076393,
+            "paraphrased": 0.0009266121196991932
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998593886657533,
+          "sentence": "A controlled comparison in which the main network is given the same effective capacity but parameterized directly would help establish whether the benefit comes from the hypernetwork structure specifically or simply from the additional flexibility.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0001406113342466269,
+            "ai": 0.999133201971899,
+            "paraphrased": 0.0007261866938542956
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999112642201634,
+          "sentence": "Reporting training curves and sensitivity to learning rates and initialization would address the optimization concerns raised above, since the indirection inherent in generating weights could plausibly affect convergence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008873577983668085,
+            "ai": 0.9992230525366066,
+            "paraphrased": 0.0006882116835567628
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999420025180406,
+          "sentence": "It would also be valuable to test the approach on a wider range of tasks and scales to see how consistently the advantages hold.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005799748195937902,
+            "ai": 0.9992943091512153,
+            "paraphrased": 0.0006476933668252679
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999662754281851,
+          "sentence": "Finally, a more explicit discussion of memory and compute overhead, particularly when weights are generated dynamically at each step, would clarify the practical trade-offs.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000337245718149328,
+            "ai": 0.9993120122593733,
+            "paraphrased": 0.0006542631688117725
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999517792668124,
+          "sentence": "These refinements would help pin down precisely when the hypernetwork formulation is worth its added complexity, and would make the compelling recurrent results easier for others to build upon and reproduce.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004822073318757763,
+            "ai": 0.9993999916621585,
+            "paraphrased": 0.0005517876046538833
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997293793275271,
+          "sentence": "Overall Recommendation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000270620672472882,
+            "ai": 0.9986093702770652,
+            "paraphrased": 0.0011200090504619113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998430377405069,
+          "sentence": "This paper presents an original and intellectually appealing idea, using a hypernetwork to generate the weights of a main network, with a particularly compelling application to recurrent models through time-varying, relaxed weight sharing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00015696225949310362,
+            "ai": 0.9992022232949037,
+            "paraphrased": 0.000640814445603209
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999741629770509,
+          "sentence": "The concept is clearly explained, the experiments span convolutional and recurrent settings with competitive results, and the work is likely to stimulate further research.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002583702294910753,
+            "ai": 0.9990838189207047,
+            "paraphrased": 0.0006578108498041772
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999369968786975,
+          "sentence": "The main reservations concern a sharper characterization of when hypernetworks provide real advantages, the optimization and computational implications of the added indirection, and the depth of the ablation and comparison with related methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006300312130238917,
+            "ai": 0.9992504782008377,
+            "paraphrased": 0.000686518677859898
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999830514097631,
+          "sentence": "I view this as a positive contribution that leans toward acceptance on the strength of its novelty and the promise of the recurrent results.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016948590236906625,
+            "ai": 0.999148208871885,
+            "paraphrased": 0.0006823052257459269
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998800322541821,
+          "sentence": "I would recommend acceptance, ideally with additional analysis clarifying the conditions under which the approach is most beneficial and addressing its practical training characteristics.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011996774581786947,
+            "ai": 0.9991765882296764,
+            "paraphrased": 0.0007034440245057722
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Summary\n\nThis paper introduces hypernetworks, an approach in which one neural network, the hypernetwork, generates the weights for another, larger network, the main network that actually performs the task. Rather than learning the parameters of the main network directly, the method learns the parameters of a smaller hypernetwork that outputs those weights as a function of some input, such as a layer embedding. The authors apply this idea to both convolutional networks and recurrent networks. In the recurrent setting in particular, hypernetworks can produce weights that vary across time steps, yielding a form of relaxed weight sharing in which the effective parameters of a recurrent network are modulated dynamically rather than held fixed. The paper motivates hypernetworks as a way to achieve parameter efficiency and added flexibility, describes the architectures for the convolutional and recurrent cases, and presents experiments on standard benchmarks, including sequence modeling tasks, comparing performance and parameter counts against conventional baselines.\n\nStrengths\n\nThe central idea is original and thought-provoking. Using one network to generate the weights of another is an elegant and somewhat surprising concept that opens up a distinctive design space, and the paper presents it clearly. The notion of learning weights as a function rather than as free parameters connects to broader ideas about weight sharing, conditioning, and meta-level modeling, and is intellectually stimulating.\n\nThe application to recurrent networks is especially compelling. The ability to generate time-varying weights provides a principled middle ground between fully shared weights, as in standard recurrent networks, and fully independent weights per step, which would be prohibitive. This relaxed weight sharing is a genuinely interesting mechanism, and it is a natural and well-motivated use of the hypernetwork concept that distinguishes the recurrent results.\n\nThe experimental evaluation spans both convolutional and recurrent settings and includes competitive results on established benchmarks, demonstrating that the approach is not merely a curiosity but can perform well in practice, sometimes with favorable parameter efficiency. Reporting parameter counts alongside performance is appropriate and supports the efficiency argument.\n\nThe paper is clearly written and the exposition makes an unconventional idea accessible, which will help the work reach and influence a broad audience.\n\nWeaknesses\n\nA central question is when and why hypernetworks provide a real advantage over directly parameterized networks. The improvements in some settings are modest, and the paper would benefit from a sharper articulation of the conditions under which generating weights is preferable, whether the benefit is primarily parameter efficiency, the dynamic modulation of weights, or added expressivity. Without this, it is hard to know where practitioners should reach for hypernetworks.\n\nThe added complexity and potential optimization challenges deserve more discussion. Training a network that generates another network's weights introduces an extra layer of indirection that could complicate optimization and increase sensitivity to design choices. The paper should address training stability, the cost of generating weights, and how much tuning the approach requires relative to standard models.\n\nSome design decisions, such as how inputs to the hypernetwork are defined, the dimensionality of the generated weights, and the structure of the mapping, appear consequential but are not exhaustively ablated. A more systematic study of these choices would clarify which aspects drive the results and improve reproducibility.\n\nFinally, the relationship between hypernetworks and related ideas, such as conditional computation, weight prediction, and various forms of parameter sharing, could be developed further. Clarifying what is genuinely new and how the approach compares conceptually and empirically to these alternatives would sharpen the contribution.\n\nQuestions for the Authors\n\nFirst, under what specific conditions do hypernetworks outperform directly parameterized networks, and is the primary benefit parameter efficiency, dynamic weight modulation, or expressivity?\n\nSecond, does the indirection of generating weights introduce optimization difficulties or instability, and how much additional tuning is required compared with standard architectures?\n\nThird, what is the computational overhead of generating weights, particularly in the recurrent case where weights may vary per time step, and how does it affect training and inference cost?\n\nFourth, how sensitive are the results to design choices such as the hypernetwork inputs and the structure of the generated weights? Could you provide ablations isolating these factors?\n\nFifth, how do hypernetworks relate empirically and conceptually to related approaches like conditional computation and weight prediction, and what distinguishes them most clearly?\n\nAdditional Comments\n\nA few additional points would strengthen the paper. It would be useful to analyze what the generated weights look like and how they vary, for instance across time steps in the recurrent case, since understanding whether the hypernetwork produces smoothly varying or sharply changing weights would shed light on the mechanism behind the observed gains. A controlled comparison in which the main network is given the same effective capacity but parameterized directly would help establish whether the benefit comes from the hypernetwork structure specifically or simply from the additional flexibility. Reporting training curves and sensitivity to learning rates and initialization would address the optimization concerns raised above, since the indirection inherent in generating weights could plausibly affect convergence. It would also be valuable to test the approach on a wider range of tasks and scales to see how consistently the advantages hold. Finally, a more explicit discussion of memory and compute overhead, particularly when weights are generated dynamically at each step, would clarify the practical trade-offs. These refinements would help pin down precisely when the hypernetwork formulation is worth its added complexity, and would make the compelling recurrent results easier for others to build upon and reproduce.\n\nOverall Recommendation\n\nThis paper presents an original and intellectually appealing idea, using a hypernetwork to generate the weights of a main network, with a particularly compelling application to recurrent models through time-varying, relaxed weight sharing. The concept is clearly explained, the experiments span convolutional and recurrent settings with competitive results, and the work is likely to stimulate further research. The main reservations concern a sharper characterization of when hypernetworks provide real advantages, the optimization and computational implications of the added indirection, and the depth of the ablation and comparison with related methods. I view this as a positive contribution that leans toward acceptance on the strength of its novelty and the promise of the recurrent results. I would recommend acceptance, ideally with additional analysis clarifying the conditions under which the approach is most beneficial and addressing its practical training characteristics.\n",
+      "document_id": null
+    }
+  ]
+}

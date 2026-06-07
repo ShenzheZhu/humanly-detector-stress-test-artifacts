@@ -1,0 +1,378 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.000039854966677070146,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.999953659585021,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00021156882991559892,
+          "sentence": "Psychology is a social science, a natural science, and a behavioral science.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997884311700844,
+            "ai": 0.00015184966711350852,
+            "paraphrased": 0.00005971916280209041
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014180511099028007,
+          "sentence": "It is also a professional field with many applications, technologies, and procedures; one of the largest, with numerous groups of professionals in every country.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998581948890097,
+            "ai": 0.00009237515539979924,
+            "paraphrased": 0.000049429955590480826
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00024799694473676587,
+          "sentence": "This requires psychologists to be intelligent, creative, flexible, and adaptable in order to achieve a balance that maximizes benefits for society.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997520030552632,
+            "ai": 0.0001804976017461404,
+            "paraphrased": 0.00006749934299062547
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00018891499549556276,
+          "sentence": "The impact of psychology on people’s daily lives, and the ethical dilemmas presented by research and application in this field, require solid and up-to-date preparation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998110850045044,
+            "ai": 0.00013494996152346538,
+            "paraphrased": 0.00005396503397209737
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013299152008963447,
+          "sentence": "To achieve this, university training programs must be evaluated by considering internal perspectives (what knowledge a student should receive in order to master the basic concepts and theories) and external perspectives (what roles and functions graduating students should be capable of performing).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998670084799104,
+            "ai": 0.00008449791883198179,
+            "paraphrased": 0.00004849360125765269
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009562533749512295,
+          "sentence": "Another tool that helps ensure the quality of professionals practicing the profession is accreditation, both of educational institutions and individuals (professional certifications) and of the companies or institutions for which they work (for example, through quality schemes such as those associated with ISO 9000 standards).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999043746625049,
+            "ai": 0.00005049009772532568,
+            "paraphrased": 0.00004513523976979727
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001547368914996292,
+          "sentence": "Professional accreditations and certifications should not be a one-time event.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998452631085004,
+            "ai": 0.0000942016191993562,
+            "paraphrased": 0.000060535272300273
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000110382054751985,
+          "sentence": "They should renew the evaluation through recertification processes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999889617945248,
+            "ai": 0.00005736354102058392,
+            "paraphrased": 0.00005301851373140108
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001669916106723523,
+          "sentence": "In addition to initial professional education, psychologists must receive continuous professional training, often facilitated by professional organizations in the different countries.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998330083893276,
+            "ai": 0.00010089950184328719,
+            "paraphrased": 0.00006609210882906511
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001010141535214646,
+          "sentence": "Continuous training shows that the professional remains aware of the latest advances in the profession and is normally a requirement of professional recertification processes.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998989858464785,
+            "ai": 0.00005632353774232432,
+            "paraphrased": 0.000044690615779140285
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013085114719576239,
+          "sentence": "Psychologists perform a large number of functions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998691488528042,
+            "ai": 0.00007146402203464062,
+            "paraphrased": 0.00005938712516112177
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016879155885594807,
+          "sentence": "Those specialized in the clinical area provide psychometric assessments, clinical counseling, psychotherapy, and behavioral rehabilitation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999831208441144,
+            "ai": 0.00009929684252747307,
+            "paraphrased": 0.00006949471632847498
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010528355549615059,
+          "sentence": "Those who work in organizations and industrial settings administer personnel training programs, provide training workshops, training courses, and updating activities in skills related to the management of human resources, especially for those who manage personnel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998947164445039,
+            "ai": 0.000055951541673165706,
+            "paraphrased": 0.00004933201382298487
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00016454920904960304,
+          "sentence": "They also assist in the development of work environments to maximize the motivation and performance of personnel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998354507909504,
+            "ai": 0.00010003351376955057,
+            "paraphrased": 0.00006451569528005246
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014081721533558324,
+          "sentence": "In communities, psychologists assist with the management of problems such as gangs, the care of abandoned or homeless children, family disintegration, and domestic violence, while in educational institutions they assist in the design of learning programs and the planning of educational goals based on the characteristics of the users.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998591827846645,
+            "ai": 0.000083281469482522,
+            "paraphrased": 0.00005753574585306126
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014495948548054374,
+          "sentence": "In all these environments, in the same way as occurs with other specialized professions, psychologists must deal with many prejudices regarding the scope and usefulness of their services.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998550405145195,
+            "ai": 0.00008012902245611224,
+            "paraphrased": 0.0000648304630244315
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00019511029203223544,
+          "sentence": "These range from expecting that all of a patient’s personal problems will be solved after a single consultation to demanding a detailed explanation of a complex behavior without giving the professional the opportunity to carry out a detailed analysis of the case.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998048897079678,
+            "ai": 0.00012438167748543186,
+            "paraphrased": 0.00007072861454680356
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00013578679762988292,
+          "sentence": "For this reason, an important function of psychologists in their work environment, whatever it may be, is to communicate to others the nature of their profession, the aspects in which it can help, and the things that are outside its scope.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998642132023701,
+            "ai": 0.00007843773288210455,
+            "paraphrased": 0.00005734906474777838
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.999953659585021,
+        "ai": 0.000046340414978995814,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.999953659585021,
+          "ai": 0.000046340414978995814,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Psychology is a social science, a natural science, and a behavioral science. It is also a professional field with many applications, technologies, and procedures; one of the largest, with numerous groups of professionals in every country. This requires psychologists to be intelligent, creative, flexible, and adaptable in order to achieve a balance that maximizes benefits for society.\n\nThe impact of psychology on people’s daily lives, and the ethical dilemmas presented by research and application in this field, require solid and up-to-date preparation. To achieve this, university training programs must be evaluated by considering internal perspectives (what knowledge a student should receive in order to master the basic concepts and theories) and external perspectives (what roles and functions graduating students should be capable of performing).\n\nAnother tool that helps ensure the quality of professionals practicing the profession is accreditation, both of educational institutions and individuals (professional certifications) and of the companies or institutions for which they work (for example, through quality schemes such as those associated with ISO 9000 standards). Professional accreditations and certifications should not be a one-time event. They should renew the evaluation through recertification processes.\n\nIn addition to initial professional education, psychologists must receive continuous professional training, often facilitated by professional organizations in the different countries. Continuous training shows that the professional remains aware of the latest advances in the profession and is normally a requirement of professional recertification processes.\n\nPsychologists perform a large number of functions. Those specialized in the clinical area provide psychometric assessments, clinical counseling, psychotherapy, and behavioral rehabilitation. Those who work in organizations and industrial settings administer personnel training programs, provide training workshops, training courses, and updating activities in skills related to the management of human resources, especially for those who manage personnel. They also assist in the development of work environments to maximize the motivation and performance of personnel. In communities, psychologists assist with the management of problems such as gangs, the care of abandoned or homeless children, family disintegration, and domestic violence, while in educational institutions they assist in the design of learning programs and the planning of educational goals based on the characteristics of the users.\n\nIn all these environments, in the same way as occurs with other specialized professions, psychologists must deal with many prejudices regarding the scope and usefulness of their services. These range from expecting that all of a patient’s personal problems will be solved after a single consultation to demanding a detailed explanation of a complex behavior without giving the professional the opportunity to carry out a detailed analysis of the case. For this reason, an important function of psychologists in their work environment, whatever it may be, is to communicate to others the nature of their profession, the aspects in which it can help, and the things that are outside its scope.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        }
+      ],
+      "completely_generated_prob": 0.0000055903916747199254,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999933923143103,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00005678027187469804,
+          "sentence": "Interested by an earlier question about pronouns, I was wondering why lui can be the subject in some cases, but not moi (I am speaking here of noun phrases made up of a single word).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999432197281253,
+            "ai": 0.00004607238605099265,
+            "paraphrased": 0.000010707885823705396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000394950044045267,
+          "sentence": "(I had a terrible time finding a quotation that was not biblical, because religious texts make abundant use of “lui.”) We realize that the same effect in the first and second persons requires a repetition of the subject: “for moi, je ne pleurais pas” (“for me, I was not crying”).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999605049955955,
+            "ai": 0.000027500931986730413,
+            "paraphrased": 0.000011994072417796288
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000050216909907788,
+          "sentence": "In the plural, the repetition is also necessary to distinguish them from the usual nous and vous: “nous, nous ne pleurions pas” (“we, we were not crying”).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999497830900922,
+            "ai": 0.00003891897606516143,
+            "paraphrased": 0.000011297933842626571
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003816997108038574,
+          "sentence": "What can explain why lui and eux can avoid the repetition, unlike moi, toi, nous, and vous?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999618300289196,
+            "ai": 0.000025478762250434612,
+            "paraphrased": 0.00001269120882995113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004005548812402486,
+          "sentence": "Note: Strangely, moi seul also has this ability to become a subject, like lui, or lui aussi, or lui-même, or lui seul; and unlike moi, or moi aussi, or moi-même:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999959944511876,
+            "ai": 0.000027975660454201012,
+            "paraphrased": 0.000012079827669823846
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999933923143103,
+        "ai": 0.000006607685689776754,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999933923143103,
+          "ai": 0.000006607685689776754,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Interested by an earlier question about pronouns, I was wondering why lui can be the subject in some cases, but not moi (I am speaking here of noun phrases made up of a single word). (I had a terrible time finding a quotation that was not biblical, because religious texts make abundant use of “lui.”) We realize that the same effect in the first and second persons requires a repetition of the subject: “for moi, je ne pleurais pas” (“for me, I was not crying”). In the plural, the repetition is also necessary to distinguish them from the usual nous and vous: “nous, nous ne pleurions pas” (“we, we were not crying”). What can explain why lui and eux can avoid the repetition, unlike moi, toi, nous, and vous? Note: Strangely, moi seul also has this ability to become a subject, like lui, or lui aussi, or lui-même, or lui seul; and unlike moi, or moi aussi, or moi-même:\n",
+      "document_id": null
+    }
+  ]
+}

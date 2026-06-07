@@ -1,0 +1,272 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 3,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.24794521192207883,
+      "average_generated_prob": 1,
+      "predicted_class": "human",
+      "confidence_score": 0.5030338293101424,
+      "confidence_category": "low",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.8433740200272678,
+          "sentence": "Had I known at the beginning what I was in for, I might never have started.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.15662597997273212,
+            "ai": 0.017043807808458874,
+            "paraphrased": 0.826330212218809
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8454486784606384,
+          "sentence": "I’ve written three drafts, and my novel has evolved in completely unexpected ways.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.15455132153936157,
+            "ai": 0.017750338777919934,
+            "paraphrased": 0.8276983396827184
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.851043852125654,
+          "sentence": "I cut scenes I thought would be critical, while sections I added on a whim became some of the novel’s best.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.14895614787434594,
+            "ai": 0.01894520012174472,
+            "paraphrased": 0.8320986520039093
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8488088933507433,
+          "sentence": "Looking back at the first scenes I wrote, I can see how much I’ve grown.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.15119110664925667,
+            "ai": 0.017044422163856984,
+            "paraphrased": 0.8317644711868863
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8499929609708619,
+          "sentence": "My voice is stronger now, and my dialogue is much better.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1500070390291381,
+            "ai": 0.016843410177448,
+            "paraphrased": 0.8331495507934139
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8519258126653674,
+          "sentence": "The book alternates among five viewpoints, so in some ways it felt like writing five separate novels.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1480741873346326,
+            "ai": 0.011888245718521316,
+            "paraphrased": 0.8400375669468461
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8540460502680416,
+          "sentence": "One character was especially difficult; I rewrote her arc three or four times, and now she is one of my favorites.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.14595394973195838,
+            "ai": 0.013468051003134507,
+            "paraphrased": 0.8405779992649071
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8487891609754625,
+          "sentence": "Next, I need beta readers, and then an agent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1512108390245375,
+            "ai": 0.005365825063300154,
+            "paraphrased": 0.8434233359121623
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8394072650367461,
+          "sentence": "For now, I want to savor the victory.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.16059273496325382,
+            "ai": 0.006643950014043553,
+            "paraphrased": 0.8327633150227026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8397905207395117,
+          "sentence": "Edit: Thank you for the kind words and encouragement.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.16020947926048834,
+            "ai": 0.005160555783648616,
+            "paraphrased": 0.8346299649558631
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8590706706974234,
+          "sentence": "The working title is Revolutions!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.1409293293025766,
+            "ai": 0.004323000176908452,
+            "paraphrased": 0.8547476705205149
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.8455586043190538,
+          "sentence": "Pole Fitness for Women, a 125,000-word literary/women’s fiction novel about Corine, a pole-fitness studio owner, and her level-one students, whose expectations about pole dancing are overturned.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.15444139568094617,
+            "ai": 0.003821364929020484,
+            "paraphrased": 0.8417372393900333
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.5030338293101424,
+        "ai": 0.49696617068985754,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.5030338293101424,
+          "ai": 0.49696617068985754,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Had I known at the beginning what I was in for, I might never have started. I’ve written three drafts, and my novel has evolved in completely unexpected ways. I cut scenes I thought would be critical, while sections I added on a whim became some of the novel’s best.\n\nLooking back at the first scenes I wrote, I can see how much I’ve grown. My voice is stronger now, and my dialogue is much better. The book alternates among five viewpoints, so in some ways it felt like writing five separate novels. One character was especially difficult; I rewrote her arc three or four times, and now she is one of my favorites.\n\nNext, I need beta readers, and then an agent. For now, I want to savor the victory.\n\nEdit: Thank you for the kind words and encouragement. The working title is Revolutions! Pole Fitness for Women, a 125,000-word literary/women’s fiction novel about Corine, a pole-fitness studio owner, and her level-one students, whose expectations about pole dancing are overturned.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        }
+      ],
+      "completely_generated_prob": 0.9995960591464762,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9976437935061083,
+          "sentence": "Broaden-and-Build Theory of Positive Emotions",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002356206493891646,
+            "ai": 0.9965619281265847,
+            "paraphrased": 0.0010818653795236003
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979229968576372,
+          "sentence": "The broaden-and-build theory, developed by psychologist Barbara Fredrickson, offers an explanation for why humans experience positive emotions such as joy, interest, contentment, and love.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002077003142362778,
+            "ai": 0.9969216626265544,
+            "paraphrased": 0.001001334231082873
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9973645880382708,
+          "sentence": "For much of psychology's history, research focused heavily on negative emotions like fear and anger, whose survival value seems obvious.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002635411961729231,
+            "ai": 0.9962051675493286,
+            "paraphrased": 0.0011594204889421478
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989184782033826,
+          "sentence": "The broaden-and-build theory addresses a harder question: what good do positive emotions do?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010815217966174565,
+            "ai": 0.9979137233433388,
+            "paraphrased": 0.001004754860043755
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997990287047529,
+          "sentence": "Its answer reshaped how psychologists think about the role of pleasant feelings in human flourishing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00020097129524706091,
+            "ai": 0.9990349932982789,
+            "paraphrased": 0.0007640354064739571
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999678731094411,
+          "sentence": "In plain language, the theory makes two central claims.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003212689055892409,
+            "ai": 0.9994560374640454,
+            "paraphrased": 0.0005118356453956459
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999789750694287,
+          "sentence": "First, positive emotions broaden a person's momentary thought-action repertoire.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000210249305713071,
+            "ai": 0.9994207790833727,
+            "paraphrased": 0.0005581959860560263
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999856401200404,
+          "sentence": "Whereas fear narrows attention toward escape and anger narrows it toward attack, positive emotions open the mind, encouraging exploration, creativity, and a wider range of possible responses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014359879959576913,
+            "ai": 0.9994747668732317,
+            "paraphrased": 0.0005108732468087364
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999891839021721,
+          "sentence": "Second, this broadened state helps people build enduring personal resources over time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010816097828008555,
+            "ai": 0.999509839057362,
+            "paraphrased": 0.0004793448448100282
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999932095758661,
+          "sentence": "The play, curiosity, and connection that positive emotions inspire are not just pleasant in the moment; they accumulate into lasting skills, relationships, knowledge, and resilience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006790424133812662,
+            "ai": 0.99954006280272,
+            "paraphrased": 0.00045314677314617244
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999881847865776,
+          "sentence": "The link to motivation, learning, and behavior is substantial.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011815213422455511,
+            "ai": 0.9995577579503504,
+            "paraphrased": 0.0004304268362271683
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999917505821416,
+          "sentence": "Negative emotions tend to be motivating in a narrow, urgent way, pushing us toward immediate self-protective action.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008249417858455934,
+            "ai": 0.999546333373312,
+            "paraphrased": 0.0004454172088295955
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931241491381,
+          "sentence": "Positive emotions motivate in a more expansive way, encouraging approach, experimentation, and engagement with the environment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006875850861888894,
+            "ai": 0.9995336497557195,
+            "paraphrased": 0.0004594743934187006
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999933357694514,
+          "sentence": "This has clear implications for learning: a curious, joyful learner is more likely to explore widely, take intellectual risks, and form connections between ideas than an anxious one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000066642305486444065,
+            "ai": 0.9995388955235226,
+            "paraphrased": 0.00045444024592877037
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999949818135815,
+          "sentence": "Over time, these broadened behaviors build cognitive and social resources that serve the person well beyond the original emotional episode.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005018186418497908,
+            "ai": 0.9995501306819842,
+            "paraphrased": 0.0004448511315972991
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999950209065688,
+          "sentence": "A concrete example clarifies the mechanism.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000049790934312356944,
+            "ai": 0.9996525274585897,
+            "paraphrased": 0.00034249344797905915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999940210396579,
+          "sentence": "Consider a child experiencing joy during free play.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005978960342094588,
+            "ai": 0.9998924176111141,
+            "paraphrased": 0.00004779278546487717
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999815855810972,
+          "sentence": "In that moment, joy broadens her behavior; she runs, invents games, and interacts with other children.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001841441890286019,
+            "ai": 0.9999424276513158,
+            "paraphrased": 0.00003915792978138152
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999839312952418,
+          "sentence": "None of this is strictly necessary for immediate survival.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016068704758166653,
+            "ai": 0.9999458634128375,
+            "paraphrased": 0.000038067882404245985
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999808920111887,
+          "sentence": "Yet through this play she builds physical coordination, social bonds, and problem-solving abilities that will serve her for years.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001910798881138405,
+            "ai": 0.999941939437449,
+            "paraphrased": 0.000038952573739601614
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999798174101465,
+          "sentence": "The fleeting emotion of joy thus produces durable resources, illustrating the theory's core insight that momentary good feelings have long-term constructive consequences.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020182589853441523,
+            "ai": 0.9999414782645134,
+            "paraphrased": 0.00003833914563315442
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99997886276715,
+          "sentence": "The theory also helps explain the value of positive emotions in coping.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002113723285002357,
+            "ai": 0.9999249871366307,
+            "paraphrased": 0.00005387563051928082
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999864167082281,
+          "sentence": "Fredrickson's research suggests that experiencing positive emotions, even amid adversity, can help people recover more quickly from stress and \"undo\" the lingering cardiovascular effects of negative arousal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013583291771942614,
+            "ai": 0.9999434443626672,
+            "paraphrased": 0.000042972345560816034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999865889297314,
+          "sentence": "This points toward an upward spiral in which positive emotions broaden thinking, build resources, and thereby create conditions for further positive experiences.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000013411070268653109,
+            "ai": 0.9999474762610165,
+            "paraphrased": 0.00003911266871484148
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999886623462676,
+          "sentence": "Some nuance is warranted.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001133765373246399,
+            "ai": 0.9999517291048773,
+            "paraphrased": 0.000036933241390305836
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999906435027549,
+          "sentence": "Positive emotions are not universally beneficial in every situation, and negative emotions remain essential and adaptive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000935649724514206,
+            "ai": 0.9999509579652435,
+            "paraphrased": 0.000039685537511411056
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999898990591921,
+          "sentence": "The goal suggested by the research is not relentless positivity but a healthy ratio in which positive experiences are frequent enough to support growth and resilience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010100940807935434,
+            "ai": 0.9999504872491675,
+            "paraphrased": 0.00003941181002463997
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999837557028122,
+          "sentence": "Forced or inauthentic positivity can be counterproductive.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000016244297187811583,
+            "ai": 0.9999480047655585,
+            "paraphrased": 0.00003575093725376874
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999880932955312,
+          "sentence": "Understanding the broaden-and-build theory matters because it reframes positive emotions as more than fleeting pleasures.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001190670446877148,
+            "ai": 0.9999527940307896,
+            "paraphrased": 0.0000352992647415697
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999841756337311,
+          "sentence": "They are active ingredients in learning, creativity, resilience, and well-being.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015824366268964895,
+            "ai": 0.9999497347668959,
+            "paraphrased": 0.00003444086683518388
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999658200673412,
+          "sentence": "This insight has practical value for education, mental health, and organizational life, suggesting that cultivating genuine positive experiences is an investment in lasting human capacity rather than a mere indulgence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000341799326586758,
+            "ai": 0.9999301804683917,
+            "paraphrased": 0.00003563959894962022
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Broaden-and-Build Theory of Positive Emotions\n\nThe broaden-and-build theory, developed by psychologist Barbara Fredrickson, offers an explanation for why humans experience positive emotions such as joy, interest, contentment, and love. For much of psychology's history, research focused heavily on negative emotions like fear and anger, whose survival value seems obvious. The broaden-and-build theory addresses a harder question: what good do positive emotions do? Its answer reshaped how psychologists think about the role of pleasant feelings in human flourishing.\n\nIn plain language, the theory makes two central claims. First, positive emotions broaden a person's momentary thought-action repertoire. Whereas fear narrows attention toward escape and anger narrows it toward attack, positive emotions open the mind, encouraging exploration, creativity, and a wider range of possible responses. Second, this broadened state helps people build enduring personal resources over time. The play, curiosity, and connection that positive emotions inspire are not just pleasant in the moment; they accumulate into lasting skills, relationships, knowledge, and resilience.\n\nThe link to motivation, learning, and behavior is substantial. Negative emotions tend to be motivating in a narrow, urgent way, pushing us toward immediate self-protective action. Positive emotions motivate in a more expansive way, encouraging approach, experimentation, and engagement with the environment. This has clear implications for learning: a curious, joyful learner is more likely to explore widely, take intellectual risks, and form connections between ideas than an anxious one. Over time, these broadened behaviors build cognitive and social resources that serve the person well beyond the original emotional episode.\n\nA concrete example clarifies the mechanism. Consider a child experiencing joy during free play. In that moment, joy broadens her behavior; she runs, invents games, and interacts with other children. None of this is strictly necessary for immediate survival. Yet through this play she builds physical coordination, social bonds, and problem-solving abilities that will serve her for years. The fleeting emotion of joy thus produces durable resources, illustrating the theory's core insight that momentary good feelings have long-term constructive consequences.\n\nThe theory also helps explain the value of positive emotions in coping. Fredrickson's research suggests that experiencing positive emotions, even amid adversity, can help people recover more quickly from stress and \"undo\" the lingering cardiovascular effects of negative arousal. This points toward an upward spiral in which positive emotions broaden thinking, build resources, and thereby create conditions for further positive experiences.\n\nSome nuance is warranted. Positive emotions are not universally beneficial in every situation, and negative emotions remain essential and adaptive. The goal suggested by the research is not relentless positivity but a healthy ratio in which positive experiences are frequent enough to support growth and resilience. Forced or inauthentic positivity can be counterproductive.\n\nUnderstanding the broaden-and-build theory matters because it reframes positive emotions as more than fleeting pleasures. They are active ingredients in learning, creativity, resilience, and well-being. This insight has practical value for education, mental health, and organizational life, suggesting that cultivating genuine positive experiences is an investment in lasting human capacity rather than a mere indulgence.\n",
+      "document_id": null
+    }
+  ]
+}

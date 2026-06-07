@@ -1,0 +1,330 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        }
+      ],
+      "completely_generated_prob": 0.4994803741854294,
+      "average_generated_prob": 1,
+      "predicted_class": "mixed",
+      "confidence_score": 0.9989607483708588,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9984768726362938,
+          "sentence": "I used to take great joy in writing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0015231273637062307,
+            "ai": 0.0027464994665366655,
+            "paraphrased": 0.9957303731697571
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.998629036086758,
+          "sentence": "If I thought of a scene, a strange person, or an absurd ending, I would immediately open a document and rush forward.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001370963913241981,
+            "ai": 0.002663407086610302,
+            "paraphrased": 0.9959656290001477
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9984616994746854,
+          "sentence": "Later, after taking writing classes for several years, every assignment came with questions: What does this image represent?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0015383005253145128,
+            "ai": 0.002909747847993072,
+            "paraphrased": 0.9955519516266924
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9987826736518366,
+          "sentence": "What does the character desire?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012173263481633826,
+            "ai": 0.0027104091538933343,
+            "paraphrased": 0.9960722644979433
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9988427436329764,
+          "sentence": "What are you trying to critique?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011572563670235677,
+            "ai": 0.002544540317986864,
+            "paraphrased": 0.9962982033149895
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9986855278297067,
+          "sentence": "Has the theme developed?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.001314472170293299,
+            "ai": 0.002678982439724083,
+            "paraphrased": 0.9960065453899826
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9982683239445175,
+          "sentence": "I know these questions are not wrong; in fact, they are often very useful.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0017316760554825148,
+            "ai": 0.0028203199282211947,
+            "paraphrased": 0.9954480040162963
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9985568695143995,
+          "sentence": "But now they feel like a row of teachers sitting in my head, staring at every sentence I write and giving it a grade.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014431304856005467,
+            "ai": 0.003118633627213219,
+            "paraphrased": 0.9954382358871863
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9986659713299002,
+          "sentence": "The worst part is that I no longer know how to “just write.” As soon as I have an idea, I begin judging it: too shallow, too vulgar, meaningless, not literary enough.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013340286700998468,
+            "ai": 0.002843063096823863,
+            "paraphrased": 0.9958229082330763
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9986399689844704,
+          "sentence": "In the end, I cannot even write a single page.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013600310155296043,
+            "ai": 0.002963113716844004,
+            "paraphrased": 0.9956768552676264
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9985680728001621,
+          "sentence": "Maybe the old me wrote terribly, but at least I was writing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014319271998378279,
+            "ai": 0.003224865530032689,
+            "paraphrased": 0.9953432072701295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9986855683951834,
+          "sentence": "Now I understand many techniques, yet all I can do is delete the opening.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013144316048165135,
+            "ai": 0.002948178083551786,
+            "paraphrased": 0.9957373903116317
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9985789343189065,
+          "sentence": "Has anyone else experienced this?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0014210656810934453,
+            "ai": 0.003057249186226761,
+            "paraphrased": 0.9955216851326798
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        },
+        {
+          "generated_prob": 0.9987151028046983,
+          "sentence": "How do you get back that urge to write without needing to prove yourself?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012848971953016931,
+            "ai": 0.0028143052133379914,
+            "paraphrased": 0.9959007975913603
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": "polished"
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.0010392516291412265,
+        "mixed": 0.9989607483708588
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0010392516291412265,
+          "mixed": 0.9989607483708588,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "mixed": {
+          "predicted_class": "polished",
+          "result_message": "We are highly confident that this text was originally written by a human and improved using AI",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "concatenated": 0,
+            "polished": 1
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "polished": 1,
+              "concatenated": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "polished": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "concatenated": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text may include parts written by AI.",
+      "result_sub_message": null,
+      "document_classification": "MIXED",
+      "inputText": "I used to take great joy in writing. If I thought of a scene, a strange person, or an absurd ending, I would immediately open a document and rush forward. Later, after taking writing classes for several years, every assignment came with questions: What does this image represent? What does the character desire? What are you trying to critique? Has the theme developed? I know these questions are not wrong; in fact, they are often very useful. But now they feel like a row of teachers sitting in my head, staring at every sentence I write and giving it a grade.\n\nThe worst part is that I no longer know how to “just write.” As soon as I have an idea, I begin judging it: too shallow, too vulgar, meaningless, not literary enough. In the end, I cannot even write a single page. Maybe the old me wrote terribly, but at least I was writing. Now I understand many techniques, yet all I can do is delete the opening.\n\nHas anyone else experienced this? How do you get back that urge to write without needing to prove yourself?\n",
+      "document_id": null
+    }
+  ]
+}

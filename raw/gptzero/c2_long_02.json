@@ -1,0 +1,1029 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 26,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 28,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 9,
+          "completely_generated_prob": 4.1887248735431006e-8
+        },
+        {
+          "start_sentence_index": 38,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.00010005932717626924
+        },
+        {
+          "start_sentence_index": 43,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 44,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 45,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 46,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 48,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 51,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.000032499992113668,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999652985979468,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0008916222464599641,
+          "sentence": "This paper is methodologically very interesting, and based on the methodological contribution alone, I would vote for acceptance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.99910837775354,
+            "ai": 0.0007337201995459335,
+            "paraphrased": 0.00015790204691403068
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023353921877045884,
+          "sentence": "However, the paper's sweeping claims of clearly beating existing baselines for TSP have been shown not to hold, with the local search method LK-H solving all the authors' instances to optimality in seconds on a CPU, compared to clearly suboptimal results from the authors' method in 25 hours on a GPU.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997664607812295,
+            "ai": 0.00011803472370552652,
+            "paraphrased": 0.00011550449506493232
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002696425402130617,
+          "sentence": "Given this clear dominance of the local search method LK-H, I find it irresponsible that the authors left Figure 1 as it is, with the line for \"local search\" referring to an obviously poor implementation by Google rather than the LK-H local search method that everyone uses.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997303574597869,
+            "ai": 0.00015194064639486348,
+            "paraphrased": 0.00011770189381819821
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002447608799484911,
+          "sentence": "For example, at NIPS, I saw this Figure 1 used in a talk—I am no longer sure by whom, but I do not think it was by the authors—with the narrative being, \"RNNs now also clearly perform better than local search.\"",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997552391200515,
+            "ai": 0.0001221242025658748,
+            "paraphrased": 0.00012263667738261628
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00023223067220869446,
+          "sentence": "The right course of action upon realizing the real strength of local search with LK-H would have been to make \"local search\" the same line as \"Optimal,\" showing that the authors' method is still far worse than proper local search.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997677693277913,
+            "ai": 0.00012024128812345596,
+            "paraphrased": 0.00011198938408523851
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005458180867015846,
+          "sentence": "But the authors chose to leave the figure as it was, still suggesting that their method is far better than local search.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994541819132984,
+            "ai": 0.00042011823781374236,
+            "paraphrased": 0.00012569984888784224
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00035966101545630344,
+          "sentence": "The authors probably did not even think about this, but it will of course mislead many superficial readers.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996403389845437,
+            "ai": 0.00021946086343182838,
+            "paraphrased": 0.00014020015202447506
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00027725109147122757,
+          "sentence": "To people outside deep learning, this must look like a sensational yet obviously wrong claim.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997227489085287,
+            "ai": 0.0001633130401674623,
+            "paraphrased": 0.00011393805130376529
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00038421167841224795,
+          "sentence": "I therefore vote for rejection despite the interesting method.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996157883215877,
+            "ai": 0.00028735812516635773,
+            "paraphrased": 0.00009685355324589024
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004979551069411866,
+          "sentence": "-",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995020448930588,
+            "ai": 0.000307073345495049,
+            "paraphrased": 0.00019088176144613757
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00026971956033604067,
+          "sentence": "Update after rebuttal and changes:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997302804396639,
+            "ai": 0.00015833127260595197,
+            "paraphrased": 0.0001113882877300887
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004419901228327038,
+          "sentence": "I'm torn about this paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995580098771673,
+            "ai": 0.0002859263610609378,
+            "paraphrased": 0.00015606376177176604
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007647295700152867,
+          "sentence": "On the one hand, the paper is very well written, and I do think the method is very interesting and promising.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992352704299847,
+            "ai": 0.0006094496335880081,
+            "paraphrased": 0.00015527993642727858
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0007927579553236942,
+          "sentence": "I would even like to try it and improve it in the future.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9992072420446763,
+            "ai": 0.0006501332480039201,
+            "paraphrased": 0.00014262470731977412
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.026923072295091915,
+          "sentence": "From that point of view, this is a clear accept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9730769277049081,
+            "ai": 0.026806651998075838,
+            "paraphrased": 0.00011642029701607841
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.02613518625584961,
+          "sentence": "On the other hand, the paper used extremely poor baselines, making the authors' method appear sensationally strong in comparison.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9738648137441503,
+            "ai": 0.02602114422507089,
+            "paraphrased": 0.00011404203077871992
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0029571970272604187,
+          "sentence": "Over the course of many iterations of reviewer questions and anonymous feedback, it has become clear that the authors' methods are far inferior to the state of the art.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9970428029727396,
+            "ai": 0.0029105432555294594,
+            "paraphrased": 0.00004665377173095915
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008301823033130901,
+          "sentence": "That's fine—I expected that all along—but the problem is that the authors do not seem to want this to be true.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999169817696687,
+            "ai": 0.00006152265697398167,
+            "paraphrased": 0.00002149557335732733
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010524105382608457,
+          "sentence": "For example, they make statements such as, \"We find that both greedy approaches are time-efficient and just a few percent worse than optimality.\"",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999894758946174,
+            "ai": 0.00008415380754745754,
+            "paraphrased": 0.000021087246278627035
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008738633317149417,
+          "sentence": "That statement may be true, but it is very well known in the TSP community that it is typically quite trivial to get to within a few percent of optimality.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999126136668285,
+            "ai": 0.00006721987261892514,
+            "paraphrased": 0.00002016646055256904
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009469683513964612,
+          "sentence": "What is hard and interesting is to push those last few percent.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999053031648604,
+            "ai": 0.00007450490769880433,
+            "paraphrased": 0.00002019192744084178
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005300777443369862,
+          "sentence": "As a side note, the authors probably do not stop LK-H once it has found the optimal solution, as they do with their own method after finding a local optimum.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999469922255663,
+            "ai": 0.000034512644134885815,
+            "paraphrased": 0.00001849513029881281
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000554158659748135,
+          "sentence": "LK-H is an anytime algorithm, so even if it ran for a day, that does not mean it did not find the optimal solution after milliseconds—and a solution a few percent suboptimal even faster.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999445841340252,
+            "ai": 0.0000364660524244244,
+            "paraphrased": 0.000018949813550389105
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007750186597173262,
+          "sentence": "Nevertheless, since the claims have been toned down over the many iterations, I was starting to feel more positive about this paper when rereading it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999224981340282,
+            "ai": 0.000058249580089701125,
+            "paraphrased": 0.000019252285882031496
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010828919801852464,
+          "sentence": "That is, until I got to the section on Knapsack solving.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998917108019815,
+            "ai": 0.00009121776681173667,
+            "paraphrased": 0.00001707143120678796
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007834495217482463,
+          "sentence": "The version of the paper I reviewed was not bad here, as it at least stated two simple heuristics that yield optimal solutions:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999216550478252,
+            "ai": 0.000060720418666817084,
+            "paraphrased": 0.000017624533508007553
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0034003326126856004,
+          "sentence": "\"Two simple heuristics are ExpKnap, which employs branch-and-bound with Linear Programming bounds (Pisinger, 1995), and MinKnap, which employs dynamic programming with enumerative bounds (Pisinger, 1997).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9965996673873144,
+            "ai": 0.0033594909505847,
+            "paraphrased": 0.00004084166210090025
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.012823730299253726,
+          "sentence": "Exact solutions can also be obtained by quantizing the weights to high precisions and then performing dynamic programming with a pseudo-polynomial complexity (Bertsimas & Demir, 2002).\"",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9871762697007462,
+            "ai": 0.012742886709722963,
+            "paraphrased": 0.00008084358953076398
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0023249925678912884,
+          "sentence": "That version then went on to show that these simple heuristics were already optimal, just like their own method.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9976750074321087,
+            "ai": 0.0022884761116578386,
+            "paraphrased": 0.00003651645623344974
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00014624058594366269,
+          "sentence": "In a revision between December 11 and 14, however, that paragraph, along with the optimal results of ExpKnap and MinKnap, seems to have been dropped, and the authors instead introduced two new poor baseline methods: random search and greedy.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998537594140563,
+            "ai": 0.00013093637626861905,
+            "paraphrased": 0.000015304209675043632
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008152623937144574,
+          "sentence": "This was likely an effort to find some methods that are not optimal on these very easy instances.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999184737606286,
+            "ai": 0.00006746874801876737,
+            "paraphrased": 0.000014057491352678367
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004265151401440876,
+          "sentence": "I personally find it pointless to present results for random search here, as nobody would use that for Knapsack.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999573484859856,
+            "ai": 0.00002781116666634945,
+            "paraphrased": 0.000014840347348059309
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000055911230331296246,
+          "sentence": "It's like comparing results on MNIST against a decision stump: yes, you will do better than that, but that is not surprising.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999440887696687,
+            "ai": 0.00004037157842317611,
+            "paraphrased": 0.000015539651908120136
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005661569916122518,
+          "sentence": "The results for greedy are interesting to see.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999433843008387,
+            "ai": 0.000041584295466617854,
+            "paraphrased": 0.000015031403694607323
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000041549427850359584,
+          "sentence": "However, dropping the strong results of the simple heuristics ExpKnap and MinKnap, along with their entire discussion, appears irresponsible, since the resulting table in the new version of the paper now suggests that the authors' method is better than all baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999584505721496,
+            "ai": 0.000026759800766156687,
+            "paraphrased": 0.0000147896270842029
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004223838346474529,
+          "sentence": "Of course, if all one is after is a column of bold numbers for one's own approach, that is what one can do, but I do not find it responsible to hide the better baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999577616165353,
+            "ai": 0.000026681955545330843,
+            "paraphrased": 0.000015556427919414446
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004129428437084611,
+          "sentence": "Also, why do the authors not try at least the same OR-Tools solver from Google that they tried for TSP?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999587057156292,
+            "ai": 0.000025782360028569835,
+            "paraphrased": 0.00001551192434227628
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006829327960489152,
+          "sentence": "It seems to support Knapsack directly: https://developers.google.com/optimization/bin/knapsack",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999317067203951,
+            "ai": 0.000054974189720017236,
+            "paraphrased": 0.000013319089884874289
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000042274378344495865,
+          "sentence": "Really, all I am after is a responsible—and, if you wish, humble—presentation of what I believe to be great results that are very promising for the field.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999577256216555,
+            "ai": 0.000028405800257718328,
+            "paraphrased": 0.000013868578086777534
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006910036074016223,
+          "sentence": "The authors just need to make it crystal clear that, as of now, their method is still very far from the state of the art.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999308996392599,
+            "ai": 0.00005625388670321771,
+            "paraphrased": 0.000012846474036944513
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001365843212938518,
+          "sentence": "And that's OK; you do not typically beat an entire field with one paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998634156787062,
+            "ai": 0.00012516529028629655,
+            "paraphrased": 0.000011419031007555241
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010967606899377651,
+          "sentence": "If the authors clearly stated that throughout, I would clearly argue for acceptance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989032393100622,
+            "ai": 0.0010790186553659902,
+            "paraphrased": 0.000017742034571774958
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012067341007437073,
+          "sentence": "Maybe that is not the norm in machine learning, but I do not think you have to beat everything quite yet if your approach is very different and promising—see DL and ImageNet.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998793265899256,
+            "ai": 0.00011122951754185078,
+            "paraphrased": 0.000009443892532519949
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000060263346992975344,
+          "sentence": "Concretely, I would recommend that the authors do the following:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999397366530071,
+            "ai": 0.00005037462609156694,
+            "paraphrased": 0.000009888720901408406
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000650918543611653,
+          "sentence": "- Put the original Figure 1 back in, but drop the previous poor local search and label the line at 1.0 \"local search (LK-H) = exact (Concorde).\"",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999349081456388,
+            "ai": 0.00005439911891309918,
+            "paraphrased": 0.000010692735448066119
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007049086369184706,
+          "sentence": "- Put the other baselines back into the Knapsack section.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999295091363082,
+            "ai": 0.00005992694181245504,
+            "paraphrased": 0.000010563921879392021
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008260503421856026,
+          "sentence": "- Make sure the wording clearly states throughout that the method is still quite far from the state of the art.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999173949657815,
+            "ai": 0.00007237331061091651,
+            "paraphrased": 0.000010231723607643747
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007222964621924617,
+          "sentence": "It is perfectly fine to state strongly that the direction is very promising.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999277703537808,
+            "ai": 0.0000622113227700653,
+            "paraphrased": 0.000010018323449180865
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000045767052569086587,
+          "sentence": "Overall, this paper has to watch out for not becoming an example of promising too much—some would call it hype generation—before having state-of-the-art results.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999542329474309,
+            "ai": 0.00003499353293446235,
+            "paraphrased": 0.000010773519634624235
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000053184965455208846,
+          "sentence": "I believe the previous comparison against local search fell into that category, and the current section on Knapsack now does as well.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999468150345447,
+            "ai": 0.000042870565074488565,
+            "paraphrased": 0.000010314400380720282
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008016109667018567,
+          "sentence": "I believe that would do a great disservice to our community, since it builds up an expectation that the field cannot live up to, and that is a recipe for building up a bubble that has no option but to burst.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999198389033298,
+            "ai": 0.00006993404998269307,
+            "paraphrased": 0.000010227046687492597
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007708729798185729,
+          "sentence": "Having said all that, I think the paper can be saved if the authors embrace that they are still far from the state of the art.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999229127020182,
+            "ai": 0.00006728970314904073,
+            "paraphrased": 0.000009797594832816566
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007195009869857457,
+          "sentence": "I will be optimistic and trust that they will come around and make the changes I suggested above.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999280499013015,
+            "ai": 0.00006196673672498094,
+            "paraphrased": 0.000009983361973593625
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0015566743137399711,
+          "sentence": "Hoping for those changes, and since I think the method is a solid step forward, I am updating my score to a weak accept.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.99844332568626,
+            "ai": 0.001540252853603436,
+            "paraphrased": 0.000016421460136535124
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999652985979468,
+        "ai": 0.000034701402053215656,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999652985979468,
+          "ai": 0.000034701402053215656,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "This paper is methodologically very interesting, and based on the methodological contribution alone, I would vote for acceptance. However, the paper's sweeping claims of clearly beating existing baselines for TSP have been shown not to hold, with the local search method LK-H solving all the authors' instances to optimality in seconds on a CPU, compared to clearly suboptimal results from the authors' method in 25 hours on a GPU.\n\nGiven this clear dominance of the local search method LK-H, I find it irresponsible that the authors left Figure 1 as it is, with the line for \"local search\" referring to an obviously poor implementation by Google rather than the LK-H local search method that everyone uses. For example, at NIPS, I saw this Figure 1 used in a talk—I am no longer sure by whom, but I do not think it was by the authors—with the narrative being, \"RNNs now also clearly perform better than local search.\" Of course, people would use a figure like that for this purpose, and it is up to the authors to avoid such misconceptions.\n\nThe right course of action upon realizing the real strength of local search with LK-H would have been to make \"local search\" the same line as \"Optimal,\" showing that the authors' method is still far worse than proper local search. But the authors chose to leave the figure as it was, still suggesting that their method is far better than local search. The authors probably did not even think about this, but it will of course mislead many superficial readers. To people outside deep learning, this must look like a sensational yet obviously wrong claim. I therefore vote for rejection despite the interesting method.\n\n------------------------\n\nUpdate after rebuttal and changes:\n\nI'm torn about this paper.\n\nOn the one hand, the paper is very well written, and I do think the method is very interesting and promising. I would even like to try it and improve it in the future. From that point of view, this is a clear accept.\n\nOn the other hand, the paper used extremely poor baselines, making the authors' method appear sensationally strong in comparison. Over the course of many iterations of reviewer questions and anonymous feedback, it has become clear that the authors' methods are far inferior to the state of the art. That's fine—I expected that all along—but the problem is that the authors do not seem to want this to be true. For example, they make statements such as, \"We find that both greedy approaches are time-efficient and just a few percent worse than optimality.\"\n\nThat statement may be true, but it is very well known in the TSP community that it is typically quite trivial to get to within a few percent of optimality. What is hard and interesting is to push those last few percent.\n\nAs a side note, the authors probably do not stop LK-H once it has found the optimal solution, as they do with their own method after finding a local optimum. LK-H is an anytime algorithm, so even if it ran for a day, that does not mean it did not find the optimal solution after milliseconds—and a solution a few percent suboptimal even faster.\n\nNevertheless, since the claims have been toned down over the many iterations, I was starting to feel more positive about this paper when rereading it. That is, until I got to the section on Knapsack solving. The version of the paper I reviewed was not bad here, as it at least stated two simple heuristics that yield optimal solutions:\n\n\"Two simple heuristics are ExpKnap, which employs branch-and-bound with Linear Programming bounds (Pisinger, 1995), and MinKnap, which employs dynamic programming with enumerative bounds (Pisinger, 1997). Exact solutions can also be obtained by quantizing the weights to high precisions and then performing dynamic programming with a pseudo-polynomial complexity (Bertsimas & Demir, 2002).\"\n\nThat version then went on to show that these simple heuristics were already optimal, just like their own method.\n\nIn a revision between December 11 and 14, however, that paragraph, along with the optimal results of ExpKnap and MinKnap, seems to have been dropped, and the authors instead introduced two new poor baseline methods: random search and greedy. This was likely an effort to find some methods that are not optimal on these very easy instances. I personally find it pointless to present results for random search here, as nobody would use that for Knapsack. It's like comparing results on MNIST against a decision stump: yes, you will do better than that, but that is not surprising. The results for greedy are interesting to see. However, dropping the strong results of the simple heuristics ExpKnap and MinKnap, along with their entire discussion, appears irresponsible, since the resulting table in the new version of the paper now suggests that the authors' method is better than all baselines. Of course, if all one is after is a column of bold numbers for one's own approach, that is what one can do, but I do not find it responsible to hide the better baselines. Also, why do the authors not try at least the same OR-Tools solver from Google that they tried for TSP? It seems to support Knapsack directly: https://developers.google.com/optimization/bin/knapsack\n\nReally, all I am after is a responsible—and, if you wish, humble—presentation of what I believe to be great results that are very promising for the field. The authors just need to make it crystal clear that, as of now, their method is still very far from the state of the art. And that's OK; you do not typically beat an entire field with one paper. If the authors clearly stated that throughout, I would clearly argue for acceptance. Maybe that is not the norm in machine learning, but I do not think you have to beat everything quite yet if your approach is very different and promising—see DL and ImageNet.\n\nConcretely, I would recommend that the authors do the following:\n\n- Put the original Figure 1 back in, but drop the previous poor local search and label the line at 1.0 \"local search (LK-H) = exact (Concorde).\" If the authors would like to, they could also leave the previous poor local search in and label it \"Google OR-Tools (generic local search).\"\n- Put the other baselines back into the Knapsack section.\n- Make sure the wording clearly states throughout that the method is still quite far from the state of the art. It is perfectly fine to state strongly that the direction is very promising.\n\nOverall, this paper has to watch out for not becoming an example of promising too much—some would call it hype generation—before having state-of-the-art results. I believe the previous comparison against local search fell into that category, and the current section on Knapsack now does as well. I believe that would do a great disservice to our community, since it builds up an expectation that the field cannot live up to, and that is a recipe for building up a bubble that has no option but to burst.\n\nHaving said all that, I think the paper can be saved if the authors embrace that they are still far from the state of the art. I will be optimistic and trust that they will come around and make the changes I suggested above. Hoping for those changes, and since I think the method is a solid step forward, I am updating my score to a weak accept.\n",
+      "document_id": null
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.0000021228438805416278
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        }
+      ],
+      "completely_generated_prob": 0.00003996189230997152,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999276063733554,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00834989345703776,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9916501065429623,
+            "ai": 0.008104822614909428,
+            "paraphrased": 0.0002450708421283331
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.02174217291919574,
+          "sentence": "When Debra was 19 years old, she was admitted to a mental health centre.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9782578270808042,
+            "ai": 0.021489743727372185,
+            "paraphrased": 0.0002524291918235539
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.023489433245191534,
+          "sentence": "She weighed 29 kilos.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9765105667548085,
+            "ai": 0.02322800929922953,
+            "paraphrased": 0.00026142394596200295
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.024936131580965276,
+          "sentence": "Her liver, pancreas, and kidneys were damaged, and she spent almost two months in hospital recovering.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9750638684190347,
+            "ai": 0.02465081793929947,
+            "paraphrased": 0.00028531364166580744
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.025143460733510287,
+          "sentence": "During this time, Debra received psychotherapy that helped her understand why her eating behaviour had become dangerous.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9748565392664897,
+            "ai": 0.024923459805224948,
+            "paraphrased": 0.0002200009282853402
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.022389469766877217,
+          "sentence": "She also engaged in a behaviour modification program that rewarded her with privileges for each kilo she gained.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9776105302331228,
+            "ai": 0.0221186522793536,
+            "paraphrased": 0.0002708174875236199
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.034216404298477665,
+          "sentence": "Slowly, she began to gain weight and, through therapy, developed a clearer understanding of her eating behaviour.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9657835957015224,
+            "ai": 0.03396429120308104,
+            "paraphrased": 0.0002521130953966245
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.03196583624246507,
+          "sentence": "When she left the hospital, she weighed 48 kilos, and two years later, she was maintaining a steady weight (Steele, 1977).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9680341637575349,
+            "ai": 0.031653536905472526,
+            "paraphrased": 0.0003122993369925487
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.024379064374965034,
+          "sentence": "Debra's experience highlights the burden of anorexia, a debilitating eating disorder that leads to diminished quality of life and serious adverse health effects.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9756209356250349,
+            "ai": 0.024195844944893317,
+            "paraphrased": 0.0001832194300717148
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.004619294325207732,
+          "sentence": "It is a complex disorder and has been the focus of research attempting to determine contributing factors and effective treatments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9953807056747923,
+            "ai": 0.004476893917954967,
+            "paraphrased": 0.00014240040725276476
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0026561609070733213,
+          "sentence": "It also lends itself to many questions: What motivates an individual to engage in damaging eating habits?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9973438390929267,
+            "ai": 0.0025559016525895577,
+            "paraphrased": 0.00010025925448376344
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.005754580814020897,
+          "sentence": "Are internal or external motivations responsible?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9942454191859791,
+            "ai": 0.0056396368138339655,
+            "paraphrased": 0.00011494400018693135
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.008503899725362508,
+          "sentence": "This chapter examines the external motivational factors that contribute to the development of anorexia.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9914961002746375,
+            "ai": 0.008402484589064806,
+            "paraphrased": 0.00010141513629770269
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00027685262406013225,
+          "sentence": "It will also attempt to answer some of the questions above and, hopefully, answer your own questions; so if you have any, keep them in mind while you read.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997231473759398,
+            "ai": 0.0002364617419952494,
+            "paraphrased": 0.00004039088206488285
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0014830467493886698,
+          "sentence": "Eating disorders",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9985169532506113,
+            "ai": 0.0013875617550800565,
+            "paraphrased": 0.00009548499430861345
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.002007356396941362,
+          "sentence": "Eating disorders are characterised by persistent disturbance surrounding eating or eating-related behaviours, leading to significant psychological distress, impaired functioning, and, in some cases, death (APA, 2013).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9979926436030586,
+            "ai": 0.0019148376474072762,
+            "paraphrased": 0.00009251874953408551
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0050264413493059865,
+          "sentence": "It is estimated that approximately 4% of the Australian population has an eating disorder (Butterfly Foundation, 2016), with at least 15% of women experiencing an eating disorder at some point in their lives (NEDC, 2016).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.994973558650694,
+            "ai": 0.004902711694183173,
+            "paraphrased": 0.0001237296551228133
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.005432035154736515,
+          "sentence": "Some common eating disorders are listed in Table 1.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9945679648452634,
+            "ai": 0.005280659398869031,
+            "paraphrased": 0.00015137575586748493
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.003404313847955457,
+          "sentence": "Eating disorders are diagnosed in Australia through the Diagnostic and Statistical Manual, fifth edition, a clinical tool that lists currently recognised mental disorders and includes information about the different subtypes, causes, and prevalence of these disorders (APA, 2013).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9965956861520445,
+            "ai": 0.0032711751006236685,
+            "paraphrased": 0.00013313874733178861
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.010811734273710424,
+          "sentence": "Table 1.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9891882657262896,
+            "ai": 0.010666027792877007,
+            "paraphrased": 0.00014570648083341706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0060149890731285224,
+          "sentence": "Summary of common eating disorders",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9939850109268715,
+            "ai": 0.005843642248021181,
+            "paraphrased": 0.00017134682510734132
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00091888251199373,
+          "sentence": "Note: An individual may have problems or issues surrounding eating and eating behaviours, but these will only fall under the definition of an \"eating disorder\" if they cause significant impairment in that individual's life.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990811174880063,
+            "ai": 0.0008133311498637961,
+            "paraphrased": 0.00010555136212993389
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0018604972613921944,
+          "sentence": "For example, Eddie may be very focused on eating only vegetables and doing at least two hours of exercise every day, but until these behaviours start to interfere with other aspects of Eddie's life, he would not be diagnosed with an eating disorder (APA, 2013).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9981395027386079,
+            "ai": 0.001728886276431402,
+            "paraphrased": 0.00013161098496079218
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999276063733554,
+        "ai": 0.00007239362664460773,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999276063733554,
+          "ai": 0.00007239362664460773,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\n\nWhen Debra was 19 years old, she was admitted to a mental health centre. She weighed 29 kilos. Her liver, pancreas, and kidneys were damaged, and she spent almost two months in hospital recovering. During this time, Debra received psychotherapy that helped her understand why her eating behaviour had become dangerous. She also engaged in a behaviour modification program that rewarded her with privileges for each kilo she gained. Slowly, she began to gain weight and, through therapy, developed a clearer understanding of her eating behaviour. When she left the hospital, she weighed 48 kilos, and two years later, she was maintaining a steady weight (Steele, 1977).\n\nDebra's experience highlights the burden of anorexia, a debilitating eating disorder that leads to diminished quality of life and serious adverse health effects. It is a complex disorder and has been the focus of research attempting to determine contributing factors and effective treatments. It also lends itself to many questions: What motivates an individual to engage in damaging eating habits? Are internal or external motivations responsible?\n\nThis chapter examines the external motivational factors that contribute to the development of anorexia. It will also attempt to answer some of the questions above and, hopefully, answer your own questions; so if you have any, keep them in mind while you read.\n\nEating disorders\n\nEating disorders are characterised by persistent disturbance surrounding eating or eating-related behaviours, leading to significant psychological distress, impaired functioning, and, in some cases, death (APA, 2013). It is estimated that approximately 4% of the Australian population has an eating disorder (Butterfly Foundation, 2016), with at least 15% of women experiencing an eating disorder at some point in their lives (NEDC, 2016). Some common eating disorders are listed in Table 1. Eating disorders are diagnosed in Australia through the Diagnostic and Statistical Manual, fifth edition, a clinical tool that lists currently recognised mental disorders and includes information about the different subtypes, causes, and prevalence of these disorders (APA, 2013).\n\nTable 1. Summary of common eating disorders\n\nNote: An individual may have problems or issues surrounding eating and eating behaviours, but these will only fall under the definition of an \"eating disorder\" if they cause significant impairment in that individual's life. For example, Eddie may be very focused on eating only vegetables and doing at least two hours of exercise every day, but until these behaviours start to interfere with other aspects of Eddie's life, he would not be diagnosed with an eating disorder (APA, 2013).\n",
+      "document_id": null
+    }
+  ]
+}

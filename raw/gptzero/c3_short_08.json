@@ -1,0 +1,161 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        }
+      ],
+      "completely_generated_prob": 0.00011211818610098803,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9998844306487318,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0003863166566098428,
+          "sentence": "Mettre la main à la pâte (“to put one’s hand to the dough”) means “to undertake something, lend one’s help to it, take an active part in a task” (Larousse); it is marked as informal for “to intervene in a task, in an undertaking” (TLFi).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996136833433902,
+            "ai": 0.00017798943398636427,
+            "paraphrased": 0.00020832722262347858
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003751031643459764,
+          "sentence": "On the other hand, one also hears mettre les mains dans le cambouis (“to put one’s hands in the grease”) meaning “to confront a problem in a practical way” (Wiktionary); incidentally, the origin of cambouis is not known.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999624896835654,
+            "ai": 0.00015947928804165308,
+            "paraphrased": 0.00021562387630432334
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003283151630832454,
+          "sentence": "The two expressions resemble each other (mettre, hand, material), and evoke concrete, material realities; exactly how do they differ (meaning, uses, etc.)?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996716848369167,
+            "ai": 0.00009677217771220082,
+            "paraphrased": 0.0002315429853710446
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00025710827553080675,
+          "sentence": "As regards number, is there a reason why the first has one hand in the singular and the second two hands in the plural?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9997428917244692,
+            "ai": 0.00006005631602522835,
+            "paraphrased": 0.00019705195950557838
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0002514915018809955,
+          "sentence": "Why is what one puts one’s hand into introduced in one case by the preposition à and in the other by dans; does that give any idea of when an expression developed, or of the similarity/difference between them?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999748508498119,
+            "ai": 0.00005972344180810317,
+            "paraphrased": 0.0001917680600728923
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006063915074670794,
+          "sentence": "Incidentally, is there any new information about the origin of cambouis?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993936084925329,
+            "ai": 0.0003688706006975457,
+            "paraphrased": 0.0002375209067695336
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9998844306487318,
+        "ai": 0.0001155693512682538,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9998844306487318,
+          "ai": 0.0001155693512682538,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Mettre la main à la pâte (“to put one’s hand to the dough”) means “to undertake something, lend one’s help to it, take an active part in a task” (Larousse); it is marked as informal for “to intervene in a task, in an undertaking” (TLFi). On the other hand, one also hears mettre les mains dans le cambouis (“to put one’s hands in the grease”) meaning “to confront a problem in a practical way” (Wiktionary); incidentally, the origin of cambouis is not known. The two expressions resemble each other (mettre, hand, material), and evoke concrete, material realities; exactly how do they differ (meaning, uses, etc.)? As regards number, is there a reason why the first has one hand in the singular and the second two hands in the plural? Why is what one puts one’s hand into introduced in one case by the preposition à and in the other by dans; does that give any idea of when an expression developed, or of the similarity/difference between them? Incidentally, is there any new information about the origin of cambouis?\n",
+      "document_id": null
+    }
+  ]
+}

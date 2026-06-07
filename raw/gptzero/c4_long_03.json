@@ -1,0 +1,948 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 13,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 17,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.850090677245877
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 24,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.8254776901813464
+        },
+        {
+          "start_sentence_index": 31,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 32,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 33,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 41,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.8181818033057853
+        },
+        {
+          "start_sentence_index": 42,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9999356137545834,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999850873109205,
+          "sentence": "Summary",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014912689079515462,
+            "ai": 0.9996246126501174,
+            "paraphrased": 0.0003604746608031666
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999947027178147,
+          "sentence": "This paper introduces compositional kernel machines, an approach that aims to bring some of the benefits associated with deep architectures, particularly compositionality and the ability to handle large numbers of virtual training examples, into the framework of kernel methods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005297282185362647,
+            "ai": 0.9997860546265822,
+            "paraphrased": 0.00020864809123246063
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999996324138999,
+          "sentence": "The motivation is that deep neural networks have achieved strong performance in part because of their compositional structure and their effective use of large datasets, while kernel methods, despite their solid theoretical foundations and convex training, have lagged on tasks such as image classification.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000367586100108633,
+            "ai": 0.9997627541758846,
+            "paraphrased": 0.00023356996311437855
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999967273923838,
+          "sentence": "The authors propose a kernel-based model that composes responses over parts and transformations, allowing the machine to represent an exponentially large set of virtual instances, for example translated or otherwise transformed versions of training images, without explicitly enumerating them.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000003272607616252107,
+            "ai": 0.9997686402588717,
+            "paraphrased": 0.00022808713351202633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999968659998194,
+          "sentence": "They develop the mathematical formulation of the compositional kernel, describe how the sum over virtual instances can be computed efficiently, and evaluate the method on image classification tasks, comparing accuracy and computational characteristics against both conventional kernel approaches and neural baselines.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000031340001805264956,
+            "ai": 0.9997523107694617,
+            "paraphrased": 0.0002445552303577375
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999920349109361,
+          "sentence": "Strengths",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007965089063836866,
+            "ai": 0.9996765899871173,
+            "paraphrased": 0.0003154449238188716
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999964964054863,
+          "sentence": "The paper pursues a worthwhile and intellectually appealing goal: narrowing the performance gap between kernel methods and deep networks while retaining the attractive properties of the kernel framework, such as convex optimization and a clearer theoretical footing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000035035945137478497,
+            "ai": 0.9997489806734592,
+            "paraphrased": 0.00024751573202709494
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999956319657572,
+          "sentence": "Given the renewed interest in understanding deep learning through the lens of kernels, this line of inquiry is timely and relevant.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000436803424270955,
+            "ai": 0.9997525687093703,
+            "paraphrased": 0.00024306325638695048
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999994113909922,
+          "sentence": "The central technical idea, composing kernels over parts and transformations so as to implicitly account for an enormous number of virtual training examples, is creative and well-conceived.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000058860900780482005,
+            "ai": 0.9997336242088491,
+            "paraphrased": 0.00026048970107284873
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999959892753185,
+          "sentence": "Building invariance and compositionality directly into the kernel is an elegant way to inject useful structure, and the ability to sum over exponentially many transformed instances without explicit enumeration is a genuinely clever contribution that addresses a real computational bottleneck.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000004010724681510006,
+            "ai": 0.9997805778745765,
+            "paraphrased": 0.00021541140074197518
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999938273932988,
+          "sentence": "The paper is mathematically careful in developing the compositional kernel and in explaining how efficient computation is achieved.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000061726067011969644,
+            "ai": 0.9997698431406244,
+            "paraphrased": 0.00022398425267431955
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999947315837107,
+          "sentence": "The grounding in established kernel theory lends the work a rigor that purely empirical deep-learning papers sometimes lack, and readers interested in the theoretical relationship between kernels and compositional models will find the formulation valuable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000005268416289260955,
+            "ai": 0.9997751064986735,
+            "paraphrased": 0.00021962508503718198
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999263820234707,
+          "sentence": "Weaknesses",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00007361797652922945,
+            "ai": 0.9995836270680188,
+            "paraphrased": 0.0003427549554519355
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999009476162851,
+          "sentence": "The most important concern is empirical.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009905238371488844,
+            "ai": 0.9996007510868752,
+            "paraphrased": 0.0003001965294099497
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9986786459570349,
+          "sentence": "While the approach improves upon traditional kernel methods, it does not demonstrate that compositional kernel machines are competitive with strong deep networks on challenging benchmarks.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0013213540429650812,
+            "ai": 0.998561694125714,
+            "paraphrased": 0.0001169518313209103
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999376927424519,
+          "sentence": "If the implicit goal is to rival deep learning, the experiments do not yet make a convincing case, and the evaluation is conducted on tasks that are relatively modest by current standards.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006230725754816399,
+            "ai": 0.9998911935765248,
+            "paraphrased": 0.000046499165927097206
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999281979943874,
+          "sentence": "Without results on more demanding datasets, it is difficult to gauge whether the method scales to the problems where deep networks excel.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000718020056126048,
+            "ai": 0.999872396269881,
+            "paraphrased": 0.00005580172450640383
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999755324675466,
+          "sentence": "The computational cost and scalability of the approach deserve more scrutiny.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000024467532453509145,
+            "ai": 0.9999156160142754,
+            "paraphrased": 0.00005991645327117342
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999571829673858,
+          "sentence": "Kernel methods are notoriously sensitive to dataset size, and although the paper provides mechanisms for efficiency, it is not fully clear how training and inference costs grow with the number of examples, parts, and transformations.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004281703261413763,
+            "ai": 0.9998971484247292,
+            "paraphrased": 0.0000600345426566029
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999981351345955,
+          "sentence": "A more detailed empirical analysis of runtime and memory would strengthen the practical case considerably.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001864865404502087,
+            "ai": 0.9999366006203844,
+            "paraphrased": 0.000044750725570659886
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999197018874818,
+          "sentence": "The clarity of presentation, while generally good on the mathematics, could be improved with respect to intuition.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008029811251823386,
+            "ai": 0.999852587963613,
+            "paraphrased": 0.00006711392386883177
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999822782073791,
+          "sentence": "The compositional construction is somewhat intricate, and additional diagrams or worked examples would help readers grasp how the parts and transformations combine in practice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000017721792620935,
+            "ai": 0.9999421182588456,
+            "paraphrased": 0.00004015994853344875
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999828010298957,
+          "sentence": "Some design choices, such as how parts are defined and which transformation sets are considered, appear consequential but are not extensively ablated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001719897010428306,
+            "ai": 0.9999457394380563,
+            "paraphrased": 0.0000370615918393949
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999623676961454,
+          "sentence": "Finally, the comparison to neural baselines would benefit from being more systematic, with matched experimental conditions, so that the reader can clearly attribute differences in performance to the modeling approach rather than to incidental factors.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003763230385455525,
+            "ai": 0.9999171415226836,
+            "paraphrased": 0.00004522617346183793
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987347912455263,
+          "sentence": "Questions for the Authors",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012652087544736997,
+            "ai": 0.9986063329107219,
+            "paraphrased": 0.0001284583348044385
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988355160037088,
+          "sentence": "First, on more challenging image classification benchmarks, how does the method compare to modern deep networks in both accuracy and computational cost?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011644839962912119,
+            "ai": 0.9987073305643427,
+            "paraphrased": 0.00012818543936609977
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993849623789357,
+          "sentence": "Is closing that gap a realistic near-term goal or a longer-term aspiration?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006150376210642736,
+            "ai": 0.9992910257202179,
+            "paraphrased": 0.00009393665871785658
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994928021192061,
+          "sentence": "Second, how do training and inference costs scale with dataset size and with the number of parts and transformations?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005071978807938627,
+            "ai": 0.9993969480106456,
+            "paraphrased": 0.00009585410856049647
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995197097681165,
+          "sentence": "At what point does the approach become impractical?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00048029023188351664,
+            "ai": 0.9994202675545876,
+            "paraphrased": 0.00009944221352893089
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997367811356178,
+          "sentence": "Third, how sensitive is performance to the definition of parts and the chosen set of transformations?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002632188643821015,
+            "ai": 0.9996552814071527,
+            "paraphrased": 0.00008149972846519963
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989273363209112,
+          "sentence": "Could you provide ablations isolating these factors?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010726636790887691,
+            "ai": 0.9988038369251342,
+            "paraphrased": 0.00012349939577705968
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997807300130641,
+          "sentence": "Fourth, does the convexity of the kernel formulation translate into practical advantages, such as reproducibility or reduced tuning, relative to neural alternatives?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00021926998693595756,
+            "ai": 0.9996952855410197,
+            "paraphrased": 0.0000854444720443785
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9922358037073012,
+          "sentence": "Fifth, are there problem domains where you expect compositional kernel machines to be especially advantageous compared with deep networks?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.007764196292698674,
+            "ai": 0.9919830308774187,
+            "paraphrased": 0.0002527728298826031
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995938781188186,
+          "sentence": "Additional Comments",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0004061218811813983,
+            "ai": 0.9995744525640341,
+            "paraphrased": 0.000019425554784537386
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999092583166873,
+          "sentence": "To strengthen the contribution, I would encourage several additions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00009074168331265084,
+            "ai": 0.9998984329459586,
+            "paraphrased": 0.000010825370728706706
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999302992474101,
+          "sentence": "A direct, controlled comparison against a modern convolutional network on the same data and under matched preprocessing would make the central question, how far the gap to deep learning has closed, far more concrete.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006970075259002008,
+            "ai": 0.9999199427315739,
+            "paraphrased": 0.000010356515836110645
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999774781028884,
+          "sentence": "It would also help to report wall-clock training and inference times explicitly, since the practical viability of kernel methods hinges on these costs as datasets grow.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022521897111590167,
+            "ai": 0.9999662538278871,
+            "paraphrased": 0.000011224275001300159
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999859458663414,
+          "sentence": "The paper would benefit from ablations that vary the set of transformations considered and the granularity of parts, so readers can see which structural priors contribute most to performance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014054133658707303,
+            "ai": 0.9999733759524879,
+            "paraphrased": 0.0000125699138534025
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999777800043166,
+          "sentence": "A discussion of how the method behaves as invariances become richer, for example rotations and scalings in addition to translations, would clarify the limits of the compositional construction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000022219995683507735,
+            "ai": 0.999966285695888,
+            "paraphrased": 0.000011494308428578117
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999871497559853,
+          "sentence": "Finally, connecting the approach more explicitly to recent theoretical work relating kernels and neural networks would situate the contribution within current debates and might suggest hybrid directions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012850244014722837,
+            "ai": 0.9999744205320702,
+            "paraphrased": 0.000012729223915105605
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999805284658447,
+          "sentence": "These points do not detract from the elegance of the core idea, which I find genuinely appealing, but they would help establish where compositional kernel machines stand relative to both classical kernels and contemporary deep models, and where their distinctive advantages are most likely to lie.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000019471534155293223,
+            "ai": 0.9999691606015659,
+            "paraphrased": 0.00001136786427880122
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999615899627259,
+          "sentence": "Overall Recommendation",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000038410037274129516,
+            "ai": 0.9999501375157791,
+            "paraphrased": 0.00001145244694673698
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999819477852704,
+          "sentence": "This paper offers a creative and theoretically grounded contribution that advances kernel methods by incorporating compositionality and an efficient treatment of virtual examples.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018052214729519213,
+            "ai": 0.999970335448127,
+            "paraphrased": 0.000011612337143467344
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999463566620896,
+          "sentence": "The core idea is elegant and the mathematical development is careful, making the work a meaningful step in an interesting research direction.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000536433379103257,
+            "ai": 0.9999355894339346,
+            "paraphrased": 0.000010767228155083937
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999789996363554,
+          "sentence": "The main reservation is that the empirical results, while improving on prior kernel approaches, do not yet establish competitiveness with deep networks on demanding tasks, and questions about scalability remain.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00002100036364460107,
+            "ai": 0.9999680525497547,
+            "paraphrased": 0.000010947086600659351
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997935211357978,
+          "sentence": "I consider this a borderline paper that leans positive on the strength of its conceptual contribution and rigor.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00020647886420219647,
+            "ai": 0.9997797259606603,
+            "paraphrased": 0.000013795175137486024
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998882540338695,
+          "sentence": "I would support acceptance if the authors can strengthen the empirical evaluation and clarify the scalability profile, since the ideas are valuable to the community even where practical parity with deep learning is not yet achieved.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00011174596613047312,
+            "ai": 0.9998767792406915,
+            "paraphrased": 0.000011474793177967175
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Summary\n\nThis paper introduces compositional kernel machines, an approach that aims to bring some of the benefits associated with deep architectures, particularly compositionality and the ability to handle large numbers of virtual training examples, into the framework of kernel methods. The motivation is that deep neural networks have achieved strong performance in part because of their compositional structure and their effective use of large datasets, while kernel methods, despite their solid theoretical foundations and convex training, have lagged on tasks such as image classification. The authors propose a kernel-based model that composes responses over parts and transformations, allowing the machine to represent an exponentially large set of virtual instances, for example translated or otherwise transformed versions of training images, without explicitly enumerating them. They develop the mathematical formulation of the compositional kernel, describe how the sum over virtual instances can be computed efficiently, and evaluate the method on image classification tasks, comparing accuracy and computational characteristics against both conventional kernel approaches and neural baselines.\n\nStrengths\n\nThe paper pursues a worthwhile and intellectually appealing goal: narrowing the performance gap between kernel methods and deep networks while retaining the attractive properties of the kernel framework, such as convex optimization and a clearer theoretical footing. Given the renewed interest in understanding deep learning through the lens of kernels, this line of inquiry is timely and relevant.\n\nThe central technical idea, composing kernels over parts and transformations so as to implicitly account for an enormous number of virtual training examples, is creative and well-conceived. Building invariance and compositionality directly into the kernel is an elegant way to inject useful structure, and the ability to sum over exponentially many transformed instances without explicit enumeration is a genuinely clever contribution that addresses a real computational bottleneck.\n\nThe paper is mathematically careful in developing the compositional kernel and in explaining how efficient computation is achieved. The grounding in established kernel theory lends the work a rigor that purely empirical deep-learning papers sometimes lack, and readers interested in the theoretical relationship between kernels and compositional models will find the formulation valuable.\n\nWeaknesses\n\nThe most important concern is empirical. While the approach improves upon traditional kernel methods, it does not demonstrate that compositional kernel machines are competitive with strong deep networks on challenging benchmarks. If the implicit goal is to rival deep learning, the experiments do not yet make a convincing case, and the evaluation is conducted on tasks that are relatively modest by current standards. Without results on more demanding datasets, it is difficult to gauge whether the method scales to the problems where deep networks excel.\n\nThe computational cost and scalability of the approach deserve more scrutiny. Kernel methods are notoriously sensitive to dataset size, and although the paper provides mechanisms for efficiency, it is not fully clear how training and inference costs grow with the number of examples, parts, and transformations. A more detailed empirical analysis of runtime and memory would strengthen the practical case considerably.\n\nThe clarity of presentation, while generally good on the mathematics, could be improved with respect to intuition. The compositional construction is somewhat intricate, and additional diagrams or worked examples would help readers grasp how the parts and transformations combine in practice. Some design choices, such as how parts are defined and which transformation sets are considered, appear consequential but are not extensively ablated.\n\nFinally, the comparison to neural baselines would benefit from being more systematic, with matched experimental conditions, so that the reader can clearly attribute differences in performance to the modeling approach rather than to incidental factors.\n\nQuestions for the Authors\n\nFirst, on more challenging image classification benchmarks, how does the method compare to modern deep networks in both accuracy and computational cost? Is closing that gap a realistic near-term goal or a longer-term aspiration?\n\nSecond, how do training and inference costs scale with dataset size and with the number of parts and transformations? At what point does the approach become impractical?\n\nThird, how sensitive is performance to the definition of parts and the chosen set of transformations? Could you provide ablations isolating these factors?\n\nFourth, does the convexity of the kernel formulation translate into practical advantages, such as reproducibility or reduced tuning, relative to neural alternatives?\n\nFifth, are there problem domains where you expect compositional kernel machines to be especially advantageous compared with deep networks?\n\nAdditional Comments\n\nTo strengthen the contribution, I would encourage several additions. A direct, controlled comparison against a modern convolutional network on the same data and under matched preprocessing would make the central question, how far the gap to deep learning has closed, far more concrete. It would also help to report wall-clock training and inference times explicitly, since the practical viability of kernel methods hinges on these costs as datasets grow. The paper would benefit from ablations that vary the set of transformations considered and the granularity of parts, so readers can see which structural priors contribute most to performance. A discussion of how the method behaves as invariances become richer, for example rotations and scalings in addition to translations, would clarify the limits of the compositional construction. Finally, connecting the approach more explicitly to recent theoretical work relating kernels and neural networks would situate the contribution within current debates and might suggest hybrid directions. These points do not detract from the elegance of the core idea, which I find genuinely appealing, but they would help establish where compositional kernel machines stand relative to both classical kernels and contemporary deep models, and where their distinctive advantages are most likely to lie.\n\nOverall Recommendation\n\nThis paper offers a creative and theoretically grounded contribution that advances kernel methods by incorporating compositionality and an efficient treatment of virtual examples. The core idea is elegant and the mathematical development is careful, making the work a meaningful step in an interesting research direction. The main reservation is that the empirical results, while improving on prior kernel approaches, do not yet establish competitiveness with deep networks on demanding tasks, and questions about scalability remain. I consider this a borderline paper that leans positive on the strength of its conceptual contribution and rigor. I would support acceptance if the authors can strengthen the empirical evaluation and clarify the scalability profile, since the ideas are valuable to the community even where practical parity with deep learning is not yet achieved.\n",
+      "document_id": null
+    }
+  ]
+}

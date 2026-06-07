@@ -1,0 +1,441 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 18,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.000009753672931858341,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999893117242579,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0000735396397523259,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999264603602477,
+            "ai": 0.000058534199346491516,
+            "paraphrased": 0.000015005440405834388
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004650547388493726,
+          "sentence": "This book chapter overviews what motivates different types of mindsets.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999953494526115,
+            "ai": 0.000030375814765080886,
+            "paraphrased": 0.00001612965911985638
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003543209545621011,
+          "sentence": "From reading this chapter, you should be able have knowledge on mindsets, including the definition, types of mindets, causes of the types of mindsets, and further.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999645679045438,
+            "ai": 0.000019840568177061914,
+            "paraphrased": 0.0000155915272791482
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00003751584194765077,
+          "sentence": "From there, this chapter will emphasise on what motivates people to have the type of mindset they possess, and how to alter it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999624841580523,
+            "ai": 0.00002273784309832788,
+            "paraphrased": 0.000014777998849322887
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000512894469820742,
+          "sentence": "What is a mindset?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999487105530179,
+            "ai": 0.000036863598148713546,
+            "paraphrased": 0.000014425848833360656
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004027281909851429,
+          "sentence": "\"When you are faced with a challenging task, do you a) complete the task, or b) watch a TV show.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999597271809015,
+            "ai": 0.00002300374081084914,
+            "paraphrased": 0.000017269078287665152
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004651262945631177,
+          "sentence": "Your answer to this is determined by your mindset\" (Steverink & Lindenberg, 2006).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999534873705437,
+            "ai": 0.000029771791844115024,
+            "paraphrased": 0.00001674083761219675
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004707478062040881,
+          "sentence": "A mindset is a frame of mind, or beliefs, thoughts, or a series of self-perceptions humans possess (De Young, 1986).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999529252193796,
+            "ai": 0.000029479723177961783,
+            "paraphrased": 0.000017595057442447026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004029084637648843,
+          "sentence": "This can determine an individual's situation, mental attitude and behaviour.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999597091536235,
+            "ai": 0.000023629843825981274,
+            "paraphrased": 0.000016661002550507154
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004063819555440351,
+          "sentence": "For example, a mindset of \"I am not good at playing the piano\", will result in behaviour of not playing the piano.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999593618044456,
+            "ai": 0.00002405123661619814,
+            "paraphrased": 0.00001658695893820537
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000397333864356522,
+          "sentence": "However, a mindset of \"I haven't learnt how to play the piano properly yet\", is more likely to result in practicing the piano, till the individual is good at playing the piano (Krakovsky, 2008).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999602666135643,
+            "ai": 0.000024131441956699604,
+            "paraphrased": 0.0000156019444789526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000049365222174012436,
+          "sentence": "The term mindset was first discovered by Stanford University psychologist Carol Dweck.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999950634777826,
+            "ai": 0.000033329062632976814,
+            "paraphrased": 0.00001603615954103562
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004218397657253384,
+          "sentence": "Dweck argues that individuals obtain their abilities from a variety of beliefs they hold (Mercer & Ryan, 2009).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999578160234275,
+            "ai": 0.000027120210216218444,
+            "paraphrased": 0.000015063766356315395
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000043972456080673816,
+          "sentence": "Dweck found these beliefs to be around a fixed mindset or a growth mindset (Krakovsky, 2008).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999560275439193,
+            "ai": 0.000028459684921060995,
+            "paraphrased": 0.000015512771159612817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005410616794621375,
+          "sentence": "Fixed mindset",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999458938320538,
+            "ai": 0.000040580830812640745,
+            "paraphrased": 0.00001352533713357301
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004130671301143803,
+          "sentence": "A fixed mindset is where individuals believe qualities such as talent, or intelligence, are born with it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999586932869886,
+            "ai": 0.00002590544525666443,
+            "paraphrased": 0.000015401267754773604
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004166795000283222,
+          "sentence": "This fixed mindset lets the individual view their intelligence, and talents, and spend less time developing such qualities (Cecere, Mancinelli, S & Mazzanti, 2014).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999583320499972,
+            "ai": 0.0000264618607698743,
+            "paraphrased": 0.000015206089232957918
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000052252114793276725,
+          "sentence": "A person with this type of mindset believes that effort is not required to pursue, or be successful, as the talent, and intelligence they were born with creates either success, or failure (Mercer & Ryan, 2009).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999477478852067,
+            "ai": 0.0000371797636291946,
+            "paraphrased": 0.000015072351164082126
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008220409158489237,
+          "sentence": "People with a fixed mindset typically describe themselves as 'intelligent', or 'dumb', and will not do anything to change these abilities (Govindarajan & Gupta, 2009).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999177959084151,
+            "ai": 0.00006509151317142226,
+            "paraphrased": 0.000017112578413470113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008389797070814692,
+          "sentence": "When these people are also faced with a challenge, or failure, they tell others, and themselves, 'they are unable to accomplish it', or create other excuses to reason their failure (e.g., 'I failed the exam because I was busy studying for another unit, and didn't have enough time to study for this exam).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999161020292918,
+            "ai": 0.0000681609107245247,
+            "paraphrased": 0.000015737059983622224
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0006185133735736092,
+          "sentence": "This is because their egos are easily threatened, and they have a need to prove themselves (Cecere, Mancinelli, S & Mazzanti, 2014).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993814866264263,
+            "ai": 0.0005861709616118042,
+            "paraphrased": 0.000032342411961805004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999893117242579,
+        "ai": 0.000010688275742231081,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999893117242579,
+          "ai": 0.000010688275742231081,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\nThis book chapter overviews what motivates different types of mindsets. From reading this chapter, you should be able have knowledge on mindsets, including the definition, types of mindets, causes of the types of mindsets, and further. From there, this chapter will emphasise on what motivates people to have the type of mindset they possess, and how to alter it.\n\nWhat is a mindset?\n\"When you are faced with a challenging task, do you a) complete the task, or b) watch a TV show. Your answer to this is determined by your mindset\" (Steverink & Lindenberg, 2006).\nA mindset is a frame of mind, or beliefs, thoughts, or a series of self-perceptions humans possess (De Young, 1986). This can determine an individual's situation, mental attitude and behaviour. For example, a mindset of \"I am not good at playing the piano\", will result in behaviour of not playing the piano. However, a mindset of \"I haven't learnt how to play the piano properly yet\", is more likely to result in practicing the piano, till the individual is good at playing the piano (Krakovsky, 2008).\n\nThe term mindset was first discovered by Stanford University psychologist Carol Dweck. Dweck argues that individuals obtain their abilities from a variety of beliefs they hold (Mercer & Ryan, 2009). Dweck found these beliefs to be around a fixed mindset or a growth mindset (Krakovsky, 2008).\n\nFixed mindset\nA fixed mindset is where individuals believe qualities such as talent, or intelligence, are born with it. This fixed mindset lets the individual view their intelligence, and talents, and spend less time developing such qualities (Cecere, Mancinelli, S & Mazzanti, 2014). A person with this type of mindset believes that effort is not required to pursue, or be successful, as the talent, and intelligence they were born with creates either success, or failure (Mercer & Ryan, 2009).\n\nPeople with a fixed mindset typically describe themselves as 'intelligent', or 'dumb', and will not do anything to change these abilities (Govindarajan & Gupta, 2009). When these people are also faced with a challenge, or failure, they tell others, and themselves, 'they are unable to accomplish it', or create other excuses to reason their failure (e.g., 'I failed the exam because I was busy studying for another unit, and didn't have enough time to study for this exam). This is because their egos are easily threatened, and they have a need to prove themselves (Cecere, Mancinelli, S & Mazzanti, 2014).\n",
+      "document_id": null
+    }
+  ]
+}

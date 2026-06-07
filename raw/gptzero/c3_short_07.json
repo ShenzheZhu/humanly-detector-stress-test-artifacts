@@ -1,0 +1,161 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        }
+      ],
+      "completely_generated_prob": 0.00005595088206980998,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999433541190145,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00010410979399092408,
+          "sentence": "“Tablas” is another way of referring to a draw, but it is only applied in certain games such as draughts or chess.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998958902060091,
+            "ai": 0.000038323941530042704,
+            "paraphrased": 0.00006578585246088137
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010569589277391909,
+          "sentence": "In the DLE: the term “empate” is normally used, especially in the field of sports.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998943041072261,
+            "ai": 0.00003830536004833023,
+            "paraphrased": 0.00006739053272558887
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008929715939015839,
+          "sentence": "In chess, however, “tablas” is used (I think that for the game of draughts there are no competitions of sufficient importance for the term to be seen used in the media).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999107028406098,
+            "ai": 0.000023630871288063693,
+            "paraphrased": 0.00006566628810209469
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009283938790424033,
+          "sentence": "If we look at entry number 30, we see that the use of “tablas” to describe a situation of a technical tie can be used in other areas as well (such as a discussion or a negotiation), and this use surely comes from the use of the term in chess.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999071606120957,
+            "ai": 0.000026476155396821664,
+            "paraphrased": 0.00006636323250741866
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012662385535281386,
+          "sentence": "Why do we use “tablas” in chess to refer to a draw?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998733761446472,
+            "ai": 0.00004740553502833536,
+            "paraphrased": 0.0000792183203244785
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00012157228305397482,
+          "sentence": "Where does the use of “tablas” with this meaning come from?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999878427716946,
+            "ai": 0.000042658787600994755,
+            "paraphrased": 0.00007891349545298007
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999433541190145,
+        "ai": 0.00005664588098553724,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999433541190145,
+          "ai": 0.00005664588098553724,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "“Tablas” is another way of referring to a draw, but it is only applied in certain games such as draughts or chess. In the DLE: the term “empate” is normally used, especially in the field of sports. In chess, however, “tablas” is used (I think that for the game of draughts there are no competitions of sufficient importance for the term to be seen used in the media). If we look at entry number 30, we see that the use of “tablas” to describe a situation of a technical tie can be used in other areas as well (such as a discussion or a negotiation), and this use surely comes from the use of the term in chess. Why do we use “tablas” in chess to refer to a draw? Where does the use of “tablas” with this meaning come from?\n",
+      "document_id": null
+    }
+  ]
+}

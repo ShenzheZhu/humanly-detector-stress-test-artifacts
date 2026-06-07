@@ -1,0 +1,484 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 3,
+          "completely_generated_prob": 0.00408719312638748
+        }
+      ],
+      "completely_generated_prob": 0.00004358274990802908,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999121153943954,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.000674774520508359,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9993252254794917,
+            "ai": 0.00004676672648582622,
+            "paraphrased": 0.0006280077940225328
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00035503025427942276,
+          "sentence": "“Why don’t people change?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996449697457206,
+            "ai": 0.00003868733257081262,
+            "paraphrased": 0.00031634292170861015
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00038123937758074983,
+          "sentence": "Do people fail to see how serious the situation is?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996187606224193,
+            "ai": 0.000029816768560837192,
+            "paraphrased": 0.0003514226090199126
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003783704410558214,
+          "sentence": "Do they not have enough knowledge to understand that certain bad habits are destroying their health?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996216295589442,
+            "ai": 0.000030454420983011394,
+            "paraphrased": 0.00034791602007281004
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004204078508940177,
+          "sentence": "Or do they simply not care?”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999579592149106,
+            "ai": 0.0000399450066508375,
+            "paraphrased": 0.0003804628442431802
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003172016289647225,
+          "sentence": "Many health professionals ponder such questions when trying to help patients in a health crisis change their behaviour.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996827983710352,
+            "ai": 0.000021486951955459238,
+            "paraphrased": 0.00029571467700926325
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00037316427264289935,
+          "sentence": "But hesitancy to change is part of human nature (Hettema, Steele & Miller, 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996268357273571,
+            "ai": 0.000024621602430577683,
+            "paraphrased": 0.00034854267021232165
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004022798697460818,
+          "sentence": "Clients who present to health clinics for help exhibit a wide range of readiness (Miller & Rollnick, 2013).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995977201302539,
+            "ai": 0.000028692860490680672,
+            "paraphrased": 0.0003735870092554011
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003834175158270428,
+          "sentence": "Eight out of ten people in need of change are ambivalent about change (Miller & Rollnick, 2013).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999616582484173,
+            "ai": 0.00002791191287398969,
+            "paraphrased": 0.0003555056029530531
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00039995763397461396,
+          "sentence": "According to Prochaska and Diclemente’s transtheoretical model, behaviour change encompasses a cycle of stages: precontemplation, contemplation, preparation, action, and maintenance.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996000423660254,
+            "ai": 0.0000369621713171943,
+            "paraphrased": 0.00036299546265741966
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003894007881529266,
+          "sentence": "At the precontemplation and contemplation stages, people often think about change, but they do not act.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999610599211847,
+            "ai": 0.000030716422658668835,
+            "paraphrased": 0.00035868436549425775
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003696569737763452,
+          "sentence": "The primary goal for therapists, then, is to help clients overcome the hurdle of hesitation and move in the direction of change (Hettema et al., 2005; Miller, 2004).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996303430262237,
+            "ai": 0.000028783582932574934,
+            "paraphrased": 0.00034087339084377027
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00042258389508202757,
+          "sentence": "This chapter discusses how to use motivational interviewing (MI) to resolve ambivalence toward change and thereby elicit behaviour change.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999577416104918,
+            "ai": 0.000028136701583867397,
+            "paraphrased": 0.0003944471934981602
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0005035866672263853,
+          "sentence": "It will begin by explaining what MI is, its underlying theories, and its real-world applications, especially in health care settings.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9994964133327736,
+            "ai": 0.00003617306255200856,
+            "paraphrased": 0.00046741360467437683
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003956801514386136,
+          "sentence": "What is MI?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996043198485614,
+            "ai": 0.000026733543132915463,
+            "paraphrased": 0.0003689466083056981
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00040975917205171813,
+          "sentence": "MI is a client-centred counselling style used to enhance personal motivation for behaviour change by exploring and overcoming ambivalence (Miller, 2004).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995902408279482,
+            "ai": 0.000028306084194510843,
+            "paraphrased": 0.00038145308785720726
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0003706696470966698,
+          "sentence": "It was originally designed as a prelude to be integrated with other clinical methods to assist clients through motivational obstacles to change (Miller, 2004).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996293303529034,
+            "ai": 0.000026408764887895482,
+            "paraphrased": 0.00034426088220877434
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00047146014051980964,
+          "sentence": "It can also be delivered as a brief stand-alone intervention, usually in one or two sessions (Hettema et al., 2005).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995285398594802,
+            "ai": 0.000038388094737510065,
+            "paraphrased": 0.00043307204578229956
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00040220645395171916,
+          "sentence": "Based on the transtheoretical model of change, MI aims to prepare clients to shift from precontemplation and contemplation to the real stage of change (Miller & Rollnick, 2009).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995977935460483,
+            "ai": 0.00003357681854275789,
+            "paraphrased": 0.00036862963540896127
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00046808686304243395,
+          "sentence": "Clients who are ready for change are unlikely to benefit from MI.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995319131369576,
+            "ai": 0.00003855993967293763,
+            "paraphrased": 0.0004295269233694963
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00040278932642595384,
+          "sentence": "Clients who appear to be angry, resistant, and less ready for change seem to benefit most from MI (Miller & Rollnick, 2009).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995972106735741,
+            "ai": 0.00002940876282270956,
+            "paraphrased": 0.0003733805636032443
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004313890655294904,
+          "sentence": "The beauty of MI is that it selectively reinforces clients’ own reasons for change, almost as if clients talk themselves into change (Miller & Rollnick, 2009).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995686109344705,
+            "ai": 0.000030554506323158645,
+            "paraphrased": 0.0004008345592063317
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00032499612707682414,
+          "sentence": "A skilful therapist walks with the client along a road from initial ambivalence to motivational readiness, an achievable plan for change, and commitment to the change (Miller & Moyers, 2006).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9996750038729232,
+            "ai": 0.00002786776806835076,
+            "paraphrased": 0.00029712835900847336
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0004983796487565077,
+          "sentence": "Therefore, MI encompasses two phases: stimulating motivation for change and reinforcing commitment to change (Miller & Rollnick, 2009).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9995016203512435,
+            "ai": 0.00011140104853850468,
+            "paraphrased": 0.00038697860021800297
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999121153943954,
+        "ai": 0.00008788460560459768,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999121153943954,
+          "ai": 0.00008788460560459768,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\n\n“Why don’t people change? Do people fail to see how serious the situation is? Do they not have enough knowledge to understand that certain bad habits are destroying their health? Or do they simply not care?”\n\nMany health professionals ponder such questions when trying to help patients in a health crisis change their behaviour. But hesitancy to change is part of human nature (Hettema, Steele & Miller, 2005). Clients who present to health clinics for help exhibit a wide range of readiness (Miller & Rollnick, 2013). Eight out of ten people in need of change are ambivalent about change (Miller & Rollnick, 2013).\n\nAccording to Prochaska and Diclemente’s transtheoretical model, behaviour change encompasses a cycle of stages: precontemplation, contemplation, preparation, action, and maintenance. At the precontemplation and contemplation stages, people often think about change, but they do not act. The primary goal for therapists, then, is to help clients overcome the hurdle of hesitation and move in the direction of change (Hettema et al., 2005; Miller, 2004).\n\nThis chapter discusses how to use motivational interviewing (MI) to resolve ambivalence toward change and thereby elicit behaviour change. It will begin by explaining what MI is, its underlying theories, and its real-world applications, especially in health care settings.\n\nWhat is MI?\n\nMI is a client-centred counselling style used to enhance personal motivation for behaviour change by exploring and overcoming ambivalence (Miller, 2004). It was originally designed as a prelude to be integrated with other clinical methods to assist clients through motivational obstacles to change (Miller, 2004). It can also be delivered as a brief stand-alone intervention, usually in one or two sessions (Hettema et al., 2005). Based on the transtheoretical model of change, MI aims to prepare clients to shift from precontemplation and contemplation to the real stage of change (Miller & Rollnick, 2009). Clients who are ready for change are unlikely to benefit from MI. Clients who appear to be angry, resistant, and less ready for change seem to benefit most from MI (Miller & Rollnick, 2009).\n\nThe beauty of MI is that it selectively reinforces clients’ own reasons for change, almost as if clients talk themselves into change (Miller & Rollnick, 2009). A skilful therapist walks with the client along a road from initial ambivalence to motivational readiness, an achievable plan for change, and commitment to the change (Miller & Moyers, 2006). Therefore, MI encompasses two phases: stimulating motivation for change and reinforcing commitment to change (Miller & Rollnick, 2009).\n",
+      "document_id": null
+    }
+  ]
+}

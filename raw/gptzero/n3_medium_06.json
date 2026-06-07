@@ -1,0 +1,665 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.0026598174038435928
+        },
+        {
+          "start_sentence_index": 23,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.0003567719278557345
+        },
+        {
+          "start_sentence_index": 29,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.7677928665637769,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.7719998314885451,
+      "confidence_category": "medium",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9993144558811191,
+          "sentence": "Grit refers to the psychological quality of being able to sustain interest and effort when facing long-term goals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006855441188809525,
+            "ai": 0.753535403581827,
+            "paraphrased": 0.24577905229929206
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991167956987681,
+          "sentence": "It is not a momentary enthusiasm, nor is it simply gritting one’s teeth for a short period of time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008832043012319175,
+            "ai": 0.7184835964384504,
+            "paraphrased": 0.2806331992603177
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999342091997556,
+          "sentence": "Rather, it means still being willing to keep acting when the goal is difficult, progress is not obvious, and setbacks arise along the way.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006579080024439323,
+            "ai": 0.7308493475701822,
+            "paraphrased": 0.26849274442737386
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9994191113317779,
+          "sentence": "In plain terms, grit is the attitude of saying: “I know this is hard and may be slow, but it matters to me, so I will return to it again and again.”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0005808886682222162,
+            "ai": 0.7500670204630666,
+            "paraphrased": 0.2493520908687112
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992827345515108,
+          "sentence": "Grit is closely related to motivation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007172654484891617,
+            "ai": 0.7511858098704263,
+            "paraphrased": 0.24809692468108455
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993648835990842,
+          "sentence": "Motivation answers the question “Why am I doing this?” while grit determines whether a person will continue after the initial sense of novelty has disappeared.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000635116400915847,
+            "ai": 0.7519653818030612,
+            "paraphrased": 0.24739950179602296
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9992703694443059,
+          "sentence": "If a student studies a foreign language only to get through an exam, he may stop practicing once the exam is over.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0007296305556940753,
+            "ai": 0.741079300852702,
+            "paraphrased": 0.25819106859160396
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993496134285649,
+          "sentence": "But if he sees foreign language ability as an important tool for future study, work, and understanding the world, he is more likely to develop long-term motivation and turn that motivation into stable behavior through grit.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006503865714350356,
+            "ai": 0.7612166466851451,
+            "paraphrased": 0.23813296674341983
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991053202664257,
+          "sentence": "Grit does not mean being passionate every day.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008946797335742848,
+            "ai": 0.7218609350984634,
+            "paraphrased": 0.27724438516796235
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991210418767097,
+          "sentence": "It means being able to find ways to maintain a basic level of effort even when one feels low, tired, or bored.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00087895812329034,
+            "ai": 0.7349999936838869,
+            "paraphrased": 0.2641210481928228
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989230985782427,
+          "sentence": "From an emotional perspective, grit does not mean having no negative emotions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010769014217573687,
+            "ai": 0.7259431900780035,
+            "paraphrased": 0.2729799085002392
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9989231491964665,
+          "sentence": "On the contrary, gritty people also feel anxious, disappointed, frustrated, and may even doubt themselves.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0010768508035333916,
+            "ai": 0.7248139952141303,
+            "paraphrased": 0.2741091539823363
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9991197145233894,
+          "sentence": "The difference is that they do not immediately interpret one failure as “I am not suited for this” or “I will never do it well.” They are more likely to see failure as feedback, adjust their methods, and keep trying.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0008802854766105074,
+            "ai": 0.7419031531106104,
+            "paraphrased": 0.25721656141277904
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9988573472627629,
+          "sentence": "This ability to regulate emotions is very important, because long-term goals often involve a great deal of uncertainty.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0011426527372371239,
+            "ai": 0.7387529221946258,
+            "paraphrased": 0.260104425068137
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990364447161394,
+          "sentence": "If a person is completely pushed away by emotion every time they encounter a setback, it is difficult to accumulate enough practice and experience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009635552838606183,
+            "ai": 0.7248608350980354,
+            "paraphrased": 0.27417560961810394
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9987573136853535,
+          "sentence": "In learning, grit can help people engage in deep practice.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0012426863146464734,
+            "ai": 0.7395625129336612,
+            "paraphrased": 0.2591948007516923
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9990098551137032,
+          "sentence": "Real learning is not merely repeating what one already knows, but being willing to deal with the parts one is not good at, the parts where mistakes are likely, and the parts that require repeated revision.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0009901448862967292,
+            "ai": 0.7200102645156473,
+            "paraphrased": 0.27899959059805596
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9979981576701833,
+          "sentence": "For example, a university student wants to improve his academic writing.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0020018423298167423,
+            "ai": 0.7004263080591443,
+            "paraphrased": 0.29757184961103894
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.12761089641909693,
+          "sentence": "At first, his papers are poorly structured, his arguments are unclear, and his teacher gives many comments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.872389103580903,
+            "ai": 0.12745520844211916,
+            "paraphrased": 0.00015568797697776909
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.10635919045944663,
+          "sentence": "He can choose to view the feedback as a blow and afterward write only the minimum required assignments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.8936408095405534,
+            "ai": 0.10620649824728122,
+            "paraphrased": 0.00015269221216540456
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.11279548253480431,
+          "sentence": "Or he can choose to read strong essays every week, practice rewriting paragraphs, actively ask the teacher for advice, and focus on improving one problem in the next paper.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.8872045174651957,
+            "ai": 0.11265537022616294,
+            "paraphrased": 0.00014011230864137354
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.15105489736927966,
+          "sentence": "After a semester, he may still not be the most talented writer, but his expression, logic, and confidence will have clearly improved.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.8489451026307203,
+            "ai": 0.15090291582402787,
+            "paraphrased": 0.00015198154525179468
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.24944996797028252,
+          "sentence": "This example shows that grit does not magically make people succeed immediately; instead, it keeps them present in the learning process, thereby increasing the possibility of progress.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7505500320297175,
+            "ai": 0.2492625614497334,
+            "paraphrased": 0.00018740652054910904
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3135718253759861,
+          "sentence": "Grit also affects behavior and decision-making.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6864281746240138,
+            "ai": 0.3133805327273259,
+            "paraphrased": 0.00019129264866021817
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.2659511464898487,
+          "sentence": "People with grit usually give more weight to long-term outcomes when making decisions, rather than only pursuing immediate comfort.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.7340488535101513,
+            "ai": 0.2657641209071791,
+            "paraphrased": 0.00018702558266959753
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.19101450527148472,
+          "sentence": "Preparing for graduate entrance exams, training for a marathon, learning programming, or carrying out a research project all require sacrificing some immediate entertainment.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.8089854947285153,
+            "ai": 0.1908522451547511,
+            "paraphrased": 0.00016226011673361454
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.3612968512245559,
+          "sentence": "Grit helps people build a connection between “what I want to give up now” and “what kind of person I want to become in the future.” Of course, grit is not the same as blind persistence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.6387031487754441,
+            "ai": 0.36109976905444147,
+            "paraphrased": 0.00019708217011443053
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.5480946874128864,
+          "sentence": "If the goal itself has become unreasonable, or if persistence would seriously harm one’s health, people also need to reflect and adjust.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.4519053125871137,
+            "ai": 0.5478393464975024,
+            "paraphrased": 0.0002553409153839477
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9088874449619997,
+          "sentence": "Mature grit means holding on to the core direction while flexibly changing strategies.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.09111255503800038,
+            "ai": 0.90868719864284,
+            "paraphrased": 0.00020024631915968184
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9947429808127167,
+          "sentence": "This topic matters because modern society often emphasizes talent, speed, and immediately visible results, while many valuable abilities require long-term accumulation.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.005257019187283336,
+            "ai": 0.9946592222752277,
+            "paraphrased": 0.0000837585374889799
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9984145419308396,
+          "sentence": "Understanding grit can help students, teachers, and managers view growth more realistically: success comes not only from intelligence or luck, but also from sustained effort, emotional management, and long-term commitment to goals.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0015854580691604134,
+            "ai": 0.9983561258417106,
+            "paraphrased": 0.00005841608912893734
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978222480266454,
+          "sentence": "For individuals, developing grit can strengthen confidence in facing difficulties.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0021777519733545514,
+            "ai": 0.9977600045772407,
+            "paraphrased": 0.00006224344940478446
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9978351744984315,
+          "sentence": "For education, it reminds us not only to focus on grades, but also to support students in building a sense of purpose, resilience, and effective learning habits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.002164825501568535,
+            "ai": 0.997776658254936,
+            "paraphrased": 0.00005851624349550263
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9976159251028943,
+          "sentence": "Grit helps people understand that growth is often not one great breakthrough, but the gradual result of many small acts of persistence.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0023840748971056948,
+            "ai": 0.9975626190305582,
+            "paraphrased": 0.00005330607233606288
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.7719998314885451,
+        "mixed": 0.22800016851145488
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.7719998314885451,
+          "mixed": 0.22800016851145488,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is moderately confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Grit refers to the psychological quality of being able to sustain interest and effort when facing long-term goals. It is not a momentary enthusiasm, nor is it simply gritting one’s teeth for a short period of time. Rather, it means still being willing to keep acting when the goal is difficult, progress is not obvious, and setbacks arise along the way. In plain terms, grit is the attitude of saying: “I know this is hard and may be slow, but it matters to me, so I will return to it again and again.”\n\nGrit is closely related to motivation. Motivation answers the question “Why am I doing this?” while grit determines whether a person will continue after the initial sense of novelty has disappeared. If a student studies a foreign language only to get through an exam, he may stop practicing once the exam is over. But if he sees foreign language ability as an important tool for future study, work, and understanding the world, he is more likely to develop long-term motivation and turn that motivation into stable behavior through grit. Grit does not mean being passionate every day. It means being able to find ways to maintain a basic level of effort even when one feels low, tired, or bored.\n\nFrom an emotional perspective, grit does not mean having no negative emotions. On the contrary, gritty people also feel anxious, disappointed, frustrated, and may even doubt themselves. The difference is that they do not immediately interpret one failure as “I am not suited for this” or “I will never do it well.” They are more likely to see failure as feedback, adjust their methods, and keep trying. This ability to regulate emotions is very important, because long-term goals often involve a great deal of uncertainty. If a person is completely pushed away by emotion every time they encounter a setback, it is difficult to accumulate enough practice and experience.\n\nIn learning, grit can help people engage in deep practice. Real learning is not merely repeating what one already knows, but being willing to deal with the parts one is not good at, the parts where mistakes are likely, and the parts that require repeated revision. For example, a university student wants to improve his academic writing. At first, his papers are poorly structured, his arguments are unclear, and his teacher gives many comments. He can choose to view the feedback as a blow and afterward write only the minimum required assignments. Or he can choose to read strong essays every week, practice rewriting paragraphs, actively ask the teacher for advice, and focus on improving one problem in the next paper. After a semester, he may still not be the most talented writer, but his expression, logic, and confidence will have clearly improved. This example shows that grit does not magically make people succeed immediately; instead, it keeps them present in the learning process, thereby increasing the possibility of progress.\n\nGrit also affects behavior and decision-making. People with grit usually give more weight to long-term outcomes when making decisions, rather than only pursuing immediate comfort. Preparing for graduate entrance exams, training for a marathon, learning programming, or carrying out a research project all require sacrificing some immediate entertainment. Grit helps people build a connection between “what I want to give up now” and “what kind of person I want to become in the future.” Of course, grit is not the same as blind persistence. If the goal itself has become unreasonable, or if persistence would seriously harm one’s health, people also need to reflect and adjust. Mature grit means holding on to the core direction while flexibly changing strategies.\n\nThis topic matters because modern society often emphasizes talent, speed, and immediately visible results, while many valuable abilities require long-term accumulation. Understanding grit can help students, teachers, and managers view growth more realistically: success comes not only from intelligence or luck, but also from sustained effort, emotional management, and long-term commitment to goals. For individuals, developing grit can strengthen confidence in facing difficulties. For education, it reminds us not only to focus on grades, but also to support students in building a sense of purpose, resilience, and effective learning habits. Grit helps people understand that growth is often not one great breakthrough, but the gradual result of many small acts of persistence.\n",
+      "document_id": null
+    }
+  ]
+}

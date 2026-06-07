@@ -1,0 +1,601 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.8708627247549962
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 10,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 20,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        },
+        {
+          "start_sentence_index": 25,
+          "num_sentences": 5,
+          "completely_generated_prob": 0.8871651474786718
+        }
+      ],
+      "completely_generated_prob": 0.9999704057958451,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 1,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999876624720019,
+          "sentence": "Stress recovery theory proposes that natural environments can help people recover from stress more quickly than many built or highly demanding settings.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012337527998110639,
+            "ai": 0.9999743780437091,
+            "paraphrased": 0.000013284428292710064
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999878073792213,
+          "sentence": "In plain language, the theory suggests that when people feel tense, overloaded, threatened, or emotionally drained, contact with nature can calm the body and mind.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012192620778695881,
+            "ai": 0.9999746322340214,
+            "paraphrased": 0.00001317514519993422
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999852551571045,
+          "sentence": "This does not mean that a park, garden, beach, or forest solves the problem that caused the stress.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000014744842895496174,
+            "ai": 0.9999736679052321,
+            "paraphrased": 0.000011587251872373926
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999989806509793,
+          "sentence": "Rather, natural settings can reduce the intensity of stress reactions, making it easier for a person to think clearly, regulate emotions, and respond constructively.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010193490206942891,
+            "ai": 0.9999750561760521,
+            "paraphrased": 0.00001475033374092943
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999899857408202,
+          "sentence": "A central idea is that stress is not only a mental experience but also a bodily one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001001425917978156,
+            "ai": 0.9999740781591051,
+            "paraphrased": 0.000015907581715092354
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999908631361402,
+          "sentence": "When people feel under pressure, the body may shift into a state of alertness: the heart beats faster, muscles tighten, attention narrows, and emotions such as fear, anger, or frustration become stronger.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009136863859769806,
+            "ai": 0.9999741370810112,
+            "paraphrased": 0.000016726055128940315
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999895852078022,
+          "sentence": "These reactions can be useful in real danger, but they are exhausting when they continue for long periods.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010414792197775234,
+            "ai": 0.9999741741504989,
+            "paraphrased": 0.000015411057303280704
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999879335995009,
+          "sentence": "Stress recovery theory argues that many natural environments contain features that humans tend to experience as safe, pleasant, and gently engaging.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012066400499167953,
+            "ai": 0.9999741055232717,
+            "paraphrased": 0.000013828076229180148
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999917316993274,
+          "sentence": "Trees, water, open sky, birdsong, and soft patterns of light can draw attention without demanding intense effort.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008268300672583666,
+            "ai": 0.999973744417596,
+            "paraphrased": 0.00001798728173143088
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999879421967897,
+          "sentence": "This can allow the nervous system to settle and can help negative emotions fade.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000012057803210265409,
+            "ai": 0.9999747151944991,
+            "paraphrased": 0.000013227002290599531
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999865813756658,
+          "sentence": "The theory is closely connected to emotion because it focuses on how environments influence mood and physiological arousal.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000134186243343222,
+            "ai": 0.9999736875743568,
+            "paraphrased": 0.00001289380130892983
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.99998953439197,
+          "sentence": "A person who is stressed in a crowded train station or a noisy office may become irritable and impatient, not simply because of personal weakness, but because the setting keeps the body activated.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010465608029937772,
+            "ai": 0.9999749417744795,
+            "paraphrased": 0.00001459261749051479
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999890830519486,
+          "sentence": "By contrast, a quiet green space may support feelings of ease, interest, and restoration.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010916948051433316,
+            "ai": 0.9999748736966085,
+            "paraphrased": 0.000014209355340064816
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999896044616217,
+          "sentence": "These emotional shifts matter because emotions affect behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010395538378360407,
+            "ai": 0.9999738340245145,
+            "paraphrased": 0.000015770437107203192
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999988342549936,
+          "sentence": "When people feel calmer, they are often more able to listen, cooperate, solve problems, and resist impulsive reactions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011657450063998313,
+            "ai": 0.9999748386937657,
+            "paraphrased": 0.000013503856170287654
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999794976937311,
+          "sentence": "Stress recovery also connects with motivation and learning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000020502306268976673,
+            "ai": 0.99996865412121,
+            "paraphrased": 0.000010843572521023575
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999386157684844,
+          "sentence": "High stress can reduce concentration, weaken memory, and make tasks feel more overwhelming than they really are.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00006138423151557613,
+            "ai": 0.9999303264713526,
+            "paraphrased": 0.00000828929713178596
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999181922074635,
+          "sentence": "A student who is anxious before an exam may struggle to absorb information even after hours of study.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000818077925366109,
+            "ai": 0.9999098237143342,
+            "paraphrased": 0.000008368493129191685
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999666810910098,
+          "sentence": "If that student takes a short walk through a nearby garden or sits under trees between study sessions, the break may lower emotional tension and restore enough mental energy to continue.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003331890899019449,
+            "ai": 0.9999579052592925,
+            "paraphrased": 0.000008775831717282238
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999637562909965,
+          "sentence": "The natural setting does not replace studying, but it can make studying more effective by improving the student’s readiness to learn.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000036243709003480016,
+            "ai": 0.9999549259170116,
+            "paraphrased": 0.000008830373984940139
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999748073744045,
+          "sentence": "A concrete example is a hospital patient recovering from surgery.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000025192625595463476,
+            "ai": 0.9999651467157425,
+            "paraphrased": 0.000009660658661952283
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999709521980253,
+          "sentence": "Imagine two patients with similar conditions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000029047801974687673,
+            "ai": 0.9999616782445797,
+            "paraphrased": 0.000009273953445615732
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999801677385569,
+          "sentence": "One spends most of the day looking at a blank wall and hearing constant corridor noise, while the other can see trees through a window and has access to a small courtyard.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00001983226144318216,
+            "ai": 0.9999702280082688,
+            "paraphrased": 0.000009939730288015123
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999816940488242,
+          "sentence": "The second patient may still experience pain and worry, but the natural view and peaceful setting may help reduce stress, improve mood, and make the recovery period feel more manageable.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000018305951175772113,
+            "ai": 0.9999711600591799,
+            "paraphrased": 0.000010533989644366026
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999841493204824,
+          "sentence": "This example shows why the theory has practical value in healthcare design, education, workplaces, and urban planning.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000015850679517567654,
+            "ai": 0.999972726187704,
+            "paraphrased": 0.000011423132778372575
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999704962013555,
+          "sentence": "Stress recovery theory matters because modern life often places people in environments that are crowded, noisy, fast-paced, and mentally demanding.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000029503798644527185,
+            "ai": 0.9999615469767552,
+            "paraphrased": 0.000008949224600226831
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999610460774037,
+          "sentence": "If surroundings can either intensify or ease stress, then wellbeing is not only an individual responsibility; it is also shaped by design and access.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000389539225964054,
+            "ai": 0.9999527402692836,
+            "paraphrased": 0.000008305808120007882
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999958541594434,
+          "sentence": "Green spaces, street trees, school gardens, and quiet outdoor areas are not luxuries.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000041458405566104566,
+            "ai": 0.9999498784567427,
+            "paraphrased": 0.000008663137691271526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999196940272641,
+          "sentence": "They can be part of a healthier social environment that supports emotional balance, better decision-making, and more sustainable behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008030597273587762,
+            "ai": 0.9999112661184727,
+            "paraphrased": 0.000008427908791375955
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9954090670561632,
+          "sentence": "Understanding stress recovery theory encourages people and communities to treat contact with nature as a meaningful resource for mental and physical health.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.004590932943836809,
+            "ai": 0.9953746812135368,
+            "paraphrased": 0.00003438584262641448
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 1,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 1,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Stress recovery theory proposes that natural environments can help people recover from stress more quickly than many built or highly demanding settings. In plain language, the theory suggests that when people feel tense, overloaded, threatened, or emotionally drained, contact with nature can calm the body and mind. This does not mean that a park, garden, beach, or forest solves the problem that caused the stress. Rather, natural settings can reduce the intensity of stress reactions, making it easier for a person to think clearly, regulate emotions, and respond constructively.\n\nA central idea is that stress is not only a mental experience but also a bodily one. When people feel under pressure, the body may shift into a state of alertness: the heart beats faster, muscles tighten, attention narrows, and emotions such as fear, anger, or frustration become stronger. These reactions can be useful in real danger, but they are exhausting when they continue for long periods. Stress recovery theory argues that many natural environments contain features that humans tend to experience as safe, pleasant, and gently engaging. Trees, water, open sky, birdsong, and soft patterns of light can draw attention without demanding intense effort. This can allow the nervous system to settle and can help negative emotions fade.\n\nThe theory is closely connected to emotion because it focuses on how environments influence mood and physiological arousal. A person who is stressed in a crowded train station or a noisy office may become irritable and impatient, not simply because of personal weakness, but because the setting keeps the body activated. By contrast, a quiet green space may support feelings of ease, interest, and restoration. These emotional shifts matter because emotions affect behavior. When people feel calmer, they are often more able to listen, cooperate, solve problems, and resist impulsive reactions.\n\nStress recovery also connects with motivation and learning. High stress can reduce concentration, weaken memory, and make tasks feel more overwhelming than they really are. A student who is anxious before an exam may struggle to absorb information even after hours of study. If that student takes a short walk through a nearby garden or sits under trees between study sessions, the break may lower emotional tension and restore enough mental energy to continue. The natural setting does not replace studying, but it can make studying more effective by improving the student’s readiness to learn.\n\nA concrete example is a hospital patient recovering from surgery. Imagine two patients with similar conditions. One spends most of the day looking at a blank wall and hearing constant corridor noise, while the other can see trees through a window and has access to a small courtyard. The second patient may still experience pain and worry, but the natural view and peaceful setting may help reduce stress, improve mood, and make the recovery period feel more manageable. This example shows why the theory has practical value in healthcare design, education, workplaces, and urban planning.\n\nStress recovery theory matters because modern life often places people in environments that are crowded, noisy, fast-paced, and mentally demanding. If surroundings can either intensify or ease stress, then wellbeing is not only an individual responsibility; it is also shaped by design and access. Green spaces, street trees, school gardens, and quiet outdoor areas are not luxuries. They can be part of a healthier social environment that supports emotional balance, better decision-making, and more sustainable behavior. Understanding stress recovery theory encourages people and communities to treat contact with nature as a meaningful resource for mental and physical health.\n",
+      "document_id": null
+    }
+  ]
+}

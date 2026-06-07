@@ -1,0 +1,538 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.00001474742012248794
+        },
+        {
+          "start_sentence_index": 15,
+          "num_sentences": 4,
+          "completely_generated_prob": 0.0006564766595293492
+        },
+        {
+          "start_sentence_index": 19,
+          "num_sentences": 9,
+          "completely_generated_prob": 4.1887248735431006e-8
+        }
+      ],
+      "completely_generated_prob": 0.000005489816429686718,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9999865332360987,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.00006736999672222204,
+          "sentence": "Overview",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999326300032778,
+            "ai": 0.00003181443336334759,
+            "paraphrased": 0.000035555563358874444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0000736950369899224,
+          "sentence": "It’s the night before your big presentation!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.99992630496301,
+            "ai": 0.000039475707100265,
+            "paraphrased": 0.0000342193298896574
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007017146281497035,
+          "sentence": "You’re nervous.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999929828537185,
+            "ai": 0.00003524073477715489,
+            "paraphrased": 0.00003493072803781545
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005736103471677765,
+          "sentence": "Sleep won’t come as you toss and turn, mulling over your speech.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999426389652832,
+            "ai": 0.000023718710001733258,
+            "paraphrased": 0.0000336423247150444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008949459798496757,
+          "sentence": "“Is it good enough?” “What if I stumble over my words?” “What will everyone think of me?”",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999910505402015,
+            "ai": 0.000052157321816694857,
+            "paraphrased": 0.00003733727616827271
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005647799997802388,
+          "sentence": "Morning finally arrives; butterflies are plaguing your stomach.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999943522000022,
+            "ai": 0.00002028848085216763,
+            "paraphrased": 0.00003618951912585626
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00010028640980058821,
+          "sentence": "Your heart is racing, and your hands tremble as you slowly step up onto the stage.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998997135901994,
+            "ai": 0.00006315435721097377,
+            "paraphrased": 0.00003713205258961443
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008546620724161888,
+          "sentence": "All eyes are on you!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999145337927584,
+            "ai": 0.000050180173619226286,
+            "paraphrased": 0.0000352860336223926
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000060177271325014854,
+          "sentence": "You brace yourself and take a huge breath before you begin.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999939822728675,
+            "ai": 0.000029401257740702192,
+            "paraphrased": 0.00003077601358431266
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006268563179690701,
+          "sentence": "Have you ever experienced this scenario or something similar?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999373143682031,
+            "ai": 0.00002914232097407925,
+            "paraphrased": 0.00003354331082282777
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00009257098787286339,
+          "sentence": "You are not alone!",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999074290121271,
+            "ai": 0.00005395437914662349,
+            "paraphrased": 0.000038616608726239904
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00007220392350568084,
+          "sentence": "In fact, public speaking anxiety is one of the most prevalent fears in the general population (Geer, 1995; Stein, Walker & Forde, 1996).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999277960764943,
+            "ai": 0.000036514754079157464,
+            "paraphrased": 0.00003568916942652337
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005779561008958985,
+          "sentence": "The experience can affect anyone, with epidemiological studies demonstrating that prevalence is not dependent on gender, ethnic group, or age (Osorio et al., 2008).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999422043899104,
+            "ai": 0.00002323794299983545,
+            "paraphrased": 0.000034557667089754395
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000055254149249082734,
+          "sentence": "Numerous studies have found that fear of public speaking is more common, and rated more highly, than fear of death (Jagdag & Balgan, 2015).",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999447458507509,
+            "ai": 0.000022830457492222396,
+            "paraphrased": 0.00003242369175686034
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005923394824202827,
+          "sentence": "Comedian Jerry Seinfeld highlighted this astonishing finding in one of his stand-up routines:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.999940766051758,
+            "ai": 0.000025141226034319895,
+            "paraphrased": 0.000034092722207708376
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005748264493172297,
+          "sentence": "“According to most studies, people’s number one fear is public speaking—number two is death.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999425173550682,
+            "ai": 0.000025265727653918907,
+            "paraphrased": 0.000032216917277804065
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005788143558183547,
+          "sentence": "Death is number two?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999421185644182,
+            "ai": 0.00002643492332730781,
+            "paraphrased": 0.00003144651225452766
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006226481817931266,
+          "sentence": "Does that seem right?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999377351818207,
+            "ai": 0.00002787320454642902,
+            "paraphrased": 0.00003439161363288363
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004940238775229953,
+          "sentence": "To the average person, that means that if they have to go to a funeral, they’d be better off in the casket than giving the eulogy.” —Jerry Seinfeld (1993)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999505976122477,
+            "ai": 0.000018452593767035908,
+            "paraphrased": 0.00003094979398526363
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00008864191554828423,
+          "sentence": "So why does this fundamental social skill make us so anxious?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999113580844518,
+            "ai": 0.00005264089021002708,
+            "paraphrased": 0.00003600102533825715
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0001016278339421481,
+          "sentence": "Why does our body shift into fight-or-flight mode in response to something that poses no real threat?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998983721660578,
+            "ai": 0.00006116972859853395,
+            "paraphrased": 0.00004045810534361416
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004736247147340415,
+          "sentence": "Although there may not be a physical threat associated with public speaking, there is a psychosocial one.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999526375285266,
+            "ai": 0.00001703478966965686,
+            "paraphrased": 0.000030327681803747293
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00004890623346354084,
+          "sentence": "When we engage in public speaking, in some respects, our reputation, competence, and intelligence are all put under the microscope.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999510937665365,
+            "ai": 0.000019103007944911927,
+            "paraphrased": 0.00002980322551862891
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006217979466286278,
+          "sentence": "If we mess up, what will everyone think?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999378202053372,
+            "ai": 0.00003058212095836559,
+            "paraphrased": 0.00003159767370449719
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000052813396711109246,
+          "sentence": "As social animals, the opinions of others matter greatly to us.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999471866032889,
+            "ai": 0.000022505022487984814,
+            "paraphrased": 0.00003030837422312443
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00005071936257951875,
+          "sentence": "Giving a great talk has the potential to inspire others, increase our social status, get us promoted, or convey insight on a revolutionary topic.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999492806374205,
+            "ai": 0.00001899057210072575,
+            "paraphrased": 0.000031728790478792996
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00011124940580278675,
+          "sentence": "A poor speech, however, is often accompanied by pity, embarrassment, and an attack on our competency.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9998887505941972,
+            "ai": 0.0000704195473459155,
+            "paraphrased": 0.000040829858456871254
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.00006070306358427565,
+          "sentence": "The prospect of these negative consequences has the potential to send us into a sort of “emergency mode.” The following chapter will attempt to explain why some of us enter this state of emotional emergency, as well as offer advice on how to manage the fear and anxiety associated with public speaking.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9999392969364157,
+            "ai": 0.0000307067486236124,
+            "paraphrased": 0.00002999631496066325
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9999865332360987,
+        "ai": 0.00001346676390140926,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9999865332360987,
+          "ai": 0.00001346676390140926,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Overview\n\nIt’s the night before your big presentation! You’re nervous. Sleep won’t come as you toss and turn, mulling over your speech. “Is it good enough?” “What if I stumble over my words?” “What will everyone think of me?”\n\nMorning finally arrives; butterflies are plaguing your stomach. Your heart is racing, and your hands tremble as you slowly step up onto the stage. All eyes are on you! You brace yourself and take a huge breath before you begin.\n\nHave you ever experienced this scenario or something similar? You are not alone! In fact, public speaking anxiety is one of the most prevalent fears in the general population (Geer, 1995; Stein, Walker & Forde, 1996). The experience can affect anyone, with epidemiological studies demonstrating that prevalence is not dependent on gender, ethnic group, or age (Osorio et al., 2008). Numerous studies have found that fear of public speaking is more common, and rated more highly, than fear of death (Jagdag & Balgan, 2015). Comedian Jerry Seinfeld highlighted this astonishing finding in one of his stand-up routines:\n\n“According to most studies, people’s number one fear is public speaking—number two is death. Death is number two? Does that seem right? To the average person, that means that if they have to go to a funeral, they’d be better off in the casket than giving the eulogy.” —Jerry Seinfeld (1993)\n\nSo why does this fundamental social skill make us so anxious? Why does our body shift into fight-or-flight mode in response to something that poses no real threat? Although there may not be a physical threat associated with public speaking, there is a psychosocial one. When we engage in public speaking, in some respects, our reputation, competence, and intelligence are all put under the microscope. If we mess up, what will everyone think? As social animals, the opinions of others matter greatly to us. Giving a great talk has the potential to inspire others, increase our social status, get us promoted, or convey insight on a revolutionary topic. A poor speech, however, is often accompanied by pity, embarrassment, and an attack on our competency. The prospect of these negative consequences has the potential to send us into a sort of “emergency mode.” The following chapter will attempt to explain why some of us enter this state of emotional emergency, as well as offer advice on how to manage the fear and anxiety associated with public speaking.\n",
+      "document_id": null
+    }
+  ]
+}

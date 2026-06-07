@@ -1,0 +1,323 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 1,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 2,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 4,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 5,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 7,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 8,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 9,
+          "num_sentences": 2,
+          "completely_generated_prob": 0.02318840472169716
+        },
+        {
+          "start_sentence_index": 11,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        },
+        {
+          "start_sentence_index": 12,
+          "num_sentences": 1,
+          "completely_generated_prob": 0.11111110864197542
+        }
+      ],
+      "completely_generated_prob": 0.0003086397742956436,
+      "average_generated_prob": 0,
+      "predicted_class": "human",
+      "confidence_score": 0.9996457454014518,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.0010418410449431037,
+          "sentence": "Hello everyone.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989581589550569,
+            "ai": 0.0007605599606027621,
+            "paraphrased": 0.0002812810843403415
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011333229192552023,
+          "sentence": "Last year, I self-published a book about my attempt to get really good at playing table tennis.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988666770807448,
+            "ai": 0.000902433879489631,
+            "paraphrased": 0.00023088903976557125
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010244371565322472,
+          "sentence": "It did “well” in the sense that it topped some Amazon best-seller lists and remained near the top for the rest of the year.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989755628434678,
+            "ai": 0.0007943806499598897,
+            "paraphrased": 0.00023005650657235746
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010739878356665193,
+          "sentence": "It’s currently still #1 on the USA Amazon Kindle table tennis best-seller list.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989260121643335,
+            "ai": 0.0008244283614140111,
+            "paraphrased": 0.00024955947425250803
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011803690651882165,
+          "sentence": "But despite that, sales haven’t been great.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988196309348117,
+            "ai": 0.0008950645405858639,
+            "paraphrased": 0.00028530452460235256
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009612275339134285,
+          "sentence": "In the last year, it has sold:",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990387724660865,
+            "ai": 0.0007399199211771634,
+            "paraphrased": 0.0002213076127362651
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0010103158807837774,
+          "sentence": "Paperback: 443 copies — £1,665.39 (~$2,200)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9989896841192162,
+            "ai": 0.0007676946107905308,
+            "paraphrased": 0.00024262126999324675
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0008671803437067091,
+          "sentence": "Kindle: 429 copies — £1,003.46 (~$1,400)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9991328196562933,
+            "ai": 0.0006587902367153565,
+            "paraphrased": 0.0002083901069913526
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0008567413741609362,
+          "sentence": "Audiobook: 82 copies — £405.57 (~$550)",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9991432586258391,
+            "ai": 0.0006622882315313475,
+            "paraphrased": 0.00019445314262958873
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000986012570190461,
+          "sentence": "To be honest, I thought there would be a lot more demand.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990139874298095,
+            "ai": 0.0007638364412413337,
+            "paraphrased": 0.00022217612894912718
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.000980589752778661,
+          "sentence": "I got pretty excited when I saw the best-seller tag, then quickly deflated after checking the sales figures.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990194102472213,
+            "ai": 0.0007630703490624042,
+            "paraphrased": 0.0002175194037162569
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0009756185659557785,
+          "sentence": "To the more experienced writers here, how does this compare with your experiences?",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9990243814340443,
+            "ai": 0.0007616657783414602,
+            "paraphrased": 0.00021395278761431822
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.0011327065958796855,
+          "sentence": "If you’re interested in a more detailed breakdown of how the year went, you can check out my post on it.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.9988672934041203,
+            "ai": 0.0009056420713123472,
+            "paraphrased": 0.00022706452456733834
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": false,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0.9996457454014518,
+        "ai": 0.000354254598548169,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "human": 0.9996457454014518,
+          "ai": 0.000354254598548169,
+          "mixed": 0
+        }
+      },
+      "subclass": {},
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": null,
+      "document_classification": "HUMAN_ONLY",
+      "inputText": "Hello everyone.\n\nLast year, I self-published a book about my attempt to get really good at playing table tennis.\n\nIt did “well” in the sense that it topped some Amazon best-seller lists and remained near the top for the rest of the year. It’s currently still #1 on the USA Amazon Kindle table tennis best-seller list.\n\nBut despite that, sales haven’t been great.\n\nIn the last year, it has sold:\n\nPaperback: 443 copies — £1,665.39 (~$2,200)\nKindle: 429 copies — £1,003.46 (~$1,400)\nAudiobook: 82 copies — £405.57 (~$550)\n\nTo be honest, I thought there would be a lot more demand. I got pretty excited when I saw the best-seller tag, then quickly deflated after checking the sales figures.\n\nTo the more experienced writers here, how does this compare with your experiences?\n\nIf you’re interested in a more detailed breakdown of how the year went, you can check out my post on it.\n",
+      "document_id": null
+    }
+  ]
+}

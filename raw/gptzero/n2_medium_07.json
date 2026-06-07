@@ -1,0 +1,777 @@
+{
+  "version": "2026-05-11-base",
+  "neatVersion": "4.6b",
+  "documents": [
+    {
+      "paragraphs": [
+        {
+          "start_sentence_index": 0,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 6,
+          "num_sentences": 8,
+          "completely_generated_prob": 0.9187750751329665
+        },
+        {
+          "start_sentence_index": 14,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 21,
+          "num_sentences": 6,
+          "completely_generated_prob": 0.9000234362273952
+        },
+        {
+          "start_sentence_index": 27,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        },
+        {
+          "start_sentence_index": 34,
+          "num_sentences": 7,
+          "completely_generated_prob": 0.9103421900070616
+        }
+      ],
+      "completely_generated_prob": 0.9999786262634933,
+      "average_generated_prob": 1,
+      "predicted_class": "ai",
+      "confidence_score": 0.9999999999999999,
+      "confidence_category": "high",
+      "overall_burstiness": 0,
+      "writing_stats": {},
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "human": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          },
+          "mixed": {
+            "reject": 0.33,
+            "low": 0.6,
+            "medium": 0.8
+          }
+        }
+      },
+      "sentences": [
+        {
+          "generated_prob": 0.9999899620264849,
+          "sentence": "Online shopping motivation is the set of reasons people choose to search for, compare, and buy products online instead of going to a physical store.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000010037973515021167,
+            "ai": 0.9999713534454205,
+            "paraphrased": 0.00001860858106443144
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999991394685077,
+          "sentence": "Put simply, it is what draws someone toward buying through a screen.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000008605314922891406,
+            "ai": 0.9999725626699537,
+            "paraphrased": 0.000018832015123343037
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999930428215882,
+          "sentence": "Some reasons are practical: saving time, finding a better price, or getting access to products that are not available nearby.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000695717841177575,
+            "ai": 0.9999710400199994,
+            "paraphrased": 0.00002200280158883949
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999934424923741,
+          "sentence": "Others are emotional: the excitement of a sale, the comfort of shopping from home, or the small reward of receiving a package.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006557507625887201,
+            "ai": 0.9999698239467164,
+            "paraphrased": 0.000023618545657709575
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931676671049,
+          "sentence": "Online shopping is not just about convenience.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000683233289507568,
+            "ai": 0.9999706695859085,
+            "paraphrased": 0.00002249808119638296
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999938561998148,
+          "sentence": "It is also tied to mood, decision-making, past experience, and the way people respond to digital environments.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006143800185147723,
+            "ai": 0.9999691606620069,
+            "paraphrased": 0.000024695537807888257
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999934613066348,
+          "sentence": "Motivation matters because online shopping can meet both needs and wants.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006538693365178542,
+            "ai": 0.9999700128748665,
+            "paraphrased": 0.000023448431768297632
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999928077552149,
+          "sentence": "Someone may go online because they need a replacement phone charger quickly.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000071922447849932336,
+            "ai": 0.999969628646412,
+            "paraphrased": 0.000023179108802923085
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999934742903531,
+          "sentence": "The same person may browse clothing sites because they are bored, stressed, or looking for something enjoyable to do.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000065257096469654,
+            "ai": 0.9999698095235146,
+            "paraphrased": 0.000023664766838533142
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999993283549875,
+          "sentence": "This difference shows the gap between goal-directed and emotion-driven shopping.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006716450124961225,
+            "ai": 0.9999693645358597,
+            "paraphrased": 0.00002391901401533884
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999933494469156,
+          "sentence": "Goal-directed shopping is usually planned.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006650553084336393,
+            "ai": 0.9999687091348234,
+            "paraphrased": 0.00002464031209229189
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999932404669762,
+          "sentence": "The shopper has a problem to solve and uses online tools to solve it efficiently.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006759533023849291,
+            "ai": 0.9999699805251094,
+            "paraphrased": 0.000023259941866751633
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999939402519643,
+          "sentence": "Emotion-driven shopping is often less structured.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006059748035714437,
+            "ai": 0.9999669238519993,
+            "paraphrased": 0.00002701639996503009
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999937282814132,
+          "sentence": "Browsing, imagining ownership, adding items to a cart, or spotting a discount can feel satisfying even before a purchase is made.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006271718586781692,
+            "ai": 0.9999690798744943,
+            "paraphrased": 0.000024648406918827384
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999931454646681,
+          "sentence": "Online stores also shape how people make decisions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006854535331889311,
+            "ai": 0.9999705951647332,
+            "paraphrased": 0.000022550299934948266
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999937843947682,
+          "sentence": "They are often designed to make shopping feel easy and to encourage action.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000006215605231818979,
+            "ai": 0.9999692039190061,
+            "paraphrased": 0.000024580475762038823
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999935045179874,
+          "sentence": "Search filters, customer reviews, personalized recommendations, free shipping thresholds, countdown timers, and messages such as “only a few left” all affect how shoppers judge their options.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000064954820125830715,
+            "ai": 0.9999703662067779,
+            "paraphrased": 0.00002313831120946067
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999922103740652,
+          "sentence": "These features can help people compare products and make informed choices, but they can also create pressure.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000007789625934843133,
+            "ai": 0.9999719030834566,
+            "paraphrased": 0.000020307290608494514
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999909098717549,
+          "sentence": "A limited-time discount, for example, may make a shopper feel that waiting means missing out.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00000909012824519861,
+            "ai": 0.9999719561591651,
+            "paraphrased": 0.000018953712589718118
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999903868985374,
+          "sentence": "In that moment, motivation and emotion work together.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000009613101462675446,
+            "ai": 0.9999720896243822,
+            "paraphrased": 0.000018297274155098113
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999889108725541,
+          "sentence": "Excitement, fear of missing out, and anticipated regret can push someone to decide faster than they otherwise would.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000011089127445807497,
+            "ai": 0.9999699238743871,
+            "paraphrased": 0.000018986998167086188
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998347557262901,
+          "sentence": "Learning plays a part as well.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00016524427370986447,
+            "ai": 0.9998210404354996,
+            "paraphrased": 0.000013715290790507738
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999196159034132,
+          "sentence": "Shoppers gradually learn which websites they trust, which brands suit them, and which signs suggest quality or risk.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00008038409658686319,
+            "ai": 0.9999070554751835,
+            "paraphrased": 0.000012560428229632398
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9995431968321348,
+          "sentence": "A good experience, such as quick delivery and an easy return process, can make someone more willing to shop online again.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00045680316786526757,
+            "ai": 0.9995246701202561,
+            "paraphrased": 0.00001852671187864405
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997487820184524,
+          "sentence": "A bad experience, such as receiving a poor-quality item or discovering hidden fees, can reduce the desire to buy from that seller in the future.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00025121798154760733,
+            "ai": 0.9997337598706088,
+            "paraphrased": 0.000015022147843689347
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999599834150614,
+          "sentence": "Over time, these experiences turn into habits.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000040016584938588456,
+            "ai": 0.9999488693023821,
+            "paraphrased": 0.000011114112679277003
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999461077827219,
+          "sentence": "Checking prices online before buying, reading reviews, waiting for sales, or saving items to a wish list can become regular behaviors shaped by what worked or failed before.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0000538922172781568,
+            "ai": 0.999934307985819,
+            "paraphrased": 0.000011799796902914857
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.999962232133428,
+          "sentence": "A university student buying a laptop online before the semester begins shows how these motives can overlap.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00003776786657202359,
+            "ai": 0.9999519695460776,
+            "paraphrased": 0.000010262587350447776
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999721727478965,
+          "sentence": "The student has a practical need: a reliable device for lectures, assignments, and exams.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.000027827252103392398,
+            "ai": 0.9999614711078075,
+            "paraphrased": 0.000010701640089027198
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999584201051729,
+          "sentence": "They compare models, read reviews, watch video demonstrations, and look for student discounts.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004157989482707156,
+            "ai": 0.9999472306186905,
+            "paraphrased": 0.000011189486482411417
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999449269061388,
+          "sentence": "Emotions still affect the process.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00005507309386119245,
+            "ai": 0.9999343665088707,
+            "paraphrased": 0.000010560397268100171
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998986812610486,
+          "sentence": "They may feel nervous about spending so much money, excited about getting a new device, and reassured by positive reviews.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00010131873895144029,
+            "ai": 0.9998863065484084,
+            "paraphrased": 0.000012374712640223444
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9999580530209589,
+          "sentence": "If the website offers a clear warranty, fast shipping, and a simple return policy, the student may feel confident enough to complete the purchase.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00004194697904124379,
+            "ai": 0.9999469021640306,
+            "paraphrased": 0.000011150856928213847
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9993206773983924,
+          "sentence": "In this case, usefulness, trust, emotion, and decision-making are all involved at the same time.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0006793226016075998,
+            "ai": 0.9993003974429494,
+            "paraphrased": 0.000020279955442969547
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996770909174112,
+          "sentence": "This topic matters because online shopping is now part of everyday life for many people.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00032290908258888475,
+            "ai": 0.9996640025685412,
+            "paraphrased": 0.000013088348870013933
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996188760871034,
+          "sentence": "Understanding why people buy online can help consumers make more thoughtful choices and avoid impulsive spending.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003811239128965126,
+            "ai": 0.9996043225186901,
+            "paraphrased": 0.000014553568413314714
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996132159335208,
+          "sentence": "It can also help businesses create fairer, easier-to-use shopping experiences.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00038678406647916195,
+            "ai": 0.9996005388158403,
+            "paraphrased": 0.000012677117680488607
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998027302156756,
+          "sentence": "More broadly, online shopping motivation shows how technology shapes behavior.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00019726978432437918,
+            "ai": 0.9997891307721496,
+            "paraphrased": 0.0000135994435259908
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9997963571714084,
+          "sentence": "Digital marketplaces do more than offer products.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0002036428285917145,
+            "ai": 0.9997842160086812,
+            "paraphrased": 0.000012141162727134606
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9998721783736716,
+          "sentence": "They direct attention, stir emotions, reward habits, and influence decisions.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.00012782162632848015,
+            "ai": 0.9998601990156708,
+            "paraphrased": 0.000011979358000754194
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        },
+        {
+          "generated_prob": 0.9996843732222421,
+          "sentence": "Recognizing these effects can support healthier consumption, better financial choices, and more ethical digital design.",
+          "perplexity": 0,
+          "class_probabilities": {
+            "human": 0.0003156267777578113,
+            "ai": 0.9996682871615058,
+            "paraphrased": 0.000016086060736354133
+          },
+          "interpretability_value": null,
+          "interpretability_normalized_value": null,
+          "interpretability_designation": null,
+          "interpretability_alpha": null,
+          "highlight_sentence_for_ai": true,
+          "special_highlight_type": null
+        }
+      ],
+      "class_probabilities": {
+        "human": 0,
+        "ai": 0.9999999999999999,
+        "mixed": 0
+      },
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.9999999999999999,
+          "mixed": 0,
+          "human": 0
+        }
+      },
+      "subclass": {
+        "ai": {
+          "predicted_class": "pure_ai",
+          "result_message": "",
+          "confidence_score": 1,
+          "confidence_category": "high",
+          "class_probabilities": {
+            "pure_ai": 1,
+            "ai_paraphrased": 0
+          },
+          "confidence_scores_raw": {
+            "identity": {
+              "pure_ai": 1,
+              "ai_paraphrased": 0
+            }
+          },
+          "confidence_thresholds_raw": {
+            "identity": {
+              "ai_paraphrased": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              },
+              "pure_ai": {
+                "reject": 0.33,
+                "low": 0.6,
+                "medium": 0.8
+              }
+            }
+          }
+        }
+      },
+      "pageNumber": 0,
+      "neatVersion": "4.6b",
+      "version": "2026-05-11-base",
+      "language": "en",
+      "result_message": "Our detector is highly confident that the text is written by AI.",
+      "result_sub_message": null,
+      "document_classification": "AI_ONLY",
+      "inputText": "Online shopping motivation is the set of reasons people choose to search for, compare, and buy products online instead of going to a physical store. Put simply, it is what draws someone toward buying through a screen. Some reasons are practical: saving time, finding a better price, or getting access to products that are not available nearby. Others are emotional: the excitement of a sale, the comfort of shopping from home, or the small reward of receiving a package. Online shopping is not just about convenience. It is also tied to mood, decision-making, past experience, and the way people respond to digital environments.\n\nMotivation matters because online shopping can meet both needs and wants. Someone may go online because they need a replacement phone charger quickly. The same person may browse clothing sites because they are bored, stressed, or looking for something enjoyable to do. This difference shows the gap between goal-directed and emotion-driven shopping. Goal-directed shopping is usually planned. The shopper has a problem to solve and uses online tools to solve it efficiently. Emotion-driven shopping is often less structured. Browsing, imagining ownership, adding items to a cart, or spotting a discount can feel satisfying even before a purchase is made.\n\nOnline stores also shape how people make decisions. They are often designed to make shopping feel easy and to encourage action. Search filters, customer reviews, personalized recommendations, free shipping thresholds, countdown timers, and messages such as “only a few left” all affect how shoppers judge their options. These features can help people compare products and make informed choices, but they can also create pressure. A limited-time discount, for example, may make a shopper feel that waiting means missing out. In that moment, motivation and emotion work together. Excitement, fear of missing out, and anticipated regret can push someone to decide faster than they otherwise would.\n\nLearning plays a part as well. Shoppers gradually learn which websites they trust, which brands suit them, and which signs suggest quality or risk. A good experience, such as quick delivery and an easy return process, can make someone more willing to shop online again. A bad experience, such as receiving a poor-quality item or discovering hidden fees, can reduce the desire to buy from that seller in the future. Over time, these experiences turn into habits. Checking prices online before buying, reading reviews, waiting for sales, or saving items to a wish list can become regular behaviors shaped by what worked or failed before.\n\nA university student buying a laptop online before the semester begins shows how these motives can overlap. The student has a practical need: a reliable device for lectures, assignments, and exams. They compare models, read reviews, watch video demonstrations, and look for student discounts. Emotions still affect the process. They may feel nervous about spending so much money, excited about getting a new device, and reassured by positive reviews. If the website offers a clear warranty, fast shipping, and a simple return policy, the student may feel confident enough to complete the purchase. In this case, usefulness, trust, emotion, and decision-making are all involved at the same time.\n\nThis topic matters because online shopping is now part of everyday life for many people. Understanding why people buy online can help consumers make more thoughtful choices and avoid impulsive spending. It can also help businesses create fairer, easier-to-use shopping experiences. More broadly, online shopping motivation shows how technology shapes behavior. Digital marketplaces do more than offer products. They direct attention, stir emotions, reward habits, and influence decisions. Recognizing these effects can support healthier consumption, better financial choices, and more ethical digital design.\n",
+      "document_id": null
+    }
+  ]
+}
