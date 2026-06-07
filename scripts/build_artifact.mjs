@@ -23,7 +23,8 @@ const cases = {
     construction: "Human-generated non-English + AI-translated",
     documentClass: "MIXED",
     compliance: "C",
-    sourceNote: "Non-English public-domain Project Gutenberg seeds translated to English.",
+    sourceNote:
+      "Pre-LLM non-English human seeds from public Q&A, old Wikiversity revisions, and Bokelskere book reviews translated to English.",
   },
   c4: {
     construction: "Human-generated AI-style text",
@@ -80,10 +81,22 @@ const sourceFamilies = [
     url: "https://openreview.net/group?id=ICLR.cc/2017/conference",
   },
   {
-    family: "project_gutenberg_non_english",
+    family: "stack_exchange_non_english",
     cases: "C3",
-    note: "Public-domain non-English seed snippets. Sampled Project Gutenberg IDs: 2000, 14155, 17489, 2650.",
-    url: "https://www.gutenberg.org/",
+    note: "Public non-English Q&A/forum-style seeds selected from pre-LLM or legacy pages.",
+    url: "https://stackexchange.com/sites",
+  },
+  {
+    family: "wikiversity_non_english_old_revisions",
+    cases: "C3",
+    note: "Non-English educational writing from old Wikiversity revisions.",
+    url: "https://en.wikiversity.org/wiki/Help:Page_history",
+  },
+  {
+    family: "bokelskere_book_reviews",
+    cases: "C3",
+    note: "Norwegian book review corpus used for long review-style C3 samples.",
+    url: "https://data.norge.no/en/datasets/5777f16d-e767-3d60-9dca-ae10fb364f4c/corpus-with-book-reviews-from-bokelskereno",
   },
   {
     family: "human_collected_topic_aligned",

@@ -1,7 +1,7 @@
 case,construction,document_class,compliance_label,source_note
 C1,Human-generated original,HUMAN_ONLY,C,"Pre-2017 or legacy English human seeds from public Reddit writing posts, Wikiversity old revisions, and ICLR 2017 OpenReview reviews."
 C2,Human-generated + AI-polished,MIXED,C,Preprocessed C1 ready text transformed with meaning-preserving AI polish.
-C3,Human-generated non-English + AI-translated,MIXED,C,Non-English public-domain Project Gutenberg seeds translated to English.
+C3,Human-generated non-English + AI-translated,MIXED,C,"Pre-LLM non-English human seeds from public Q&A, old Wikiversity revisions, and Bokelskere book reviews translated to English."
 C4,Human-generated AI-style text,HUMAN_ONLY,C,Topic-aligned human responses written in an AI-associated style with no-AI confirmation.
 N1,AI-generated original,AI_ONLY,NC,AI generation from C1-aligned extracted topics and length buckets.
 N2,AI-generated + human-polished,MIXED,NC,N1 AI drafts polished by human editors with no-additional-AI confirmation.

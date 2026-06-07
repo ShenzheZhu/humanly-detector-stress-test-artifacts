@@ -2,6 +2,8 @@ family,cases,note,url
 reddit_writing_posts,C1,Timestamped public Reddit writing posts selected from the pre-2017 era when available.,https://www.reddit.com/r/writing/
 wikiversity_old_revisions,C1,Legacy Wikiversity revisions accessed through page history.,https://en.wikiversity.org/wiki/Help:Page_history
 iclr_2017_openreview,C1,ICLR 2017 public OpenReview review/forum pages.,https://openreview.net/group?id=ICLR.cc/2017/conference
-project_gutenberg_non_english,C3,"Public-domain non-English seed snippets. Sampled Project Gutenberg IDs: 2000, 14155, 17489, 2650.",https://www.gutenberg.org/
+stack_exchange_non_english,C3,Public non-English Q&A/forum-style seeds selected from pre-LLM or legacy pages.,https://stackexchange.com/sites
+wikiversity_non_english_old_revisions,C3,Non-English educational writing from old Wikiversity revisions.,https://en.wikiversity.org/wiki/Help:Page_history
+bokelskere_book_reviews,C3,Norwegian book review corpus used for long review-style C3 samples.,https://data.norge.no/en/datasets/5777f16d-e767-3d60-9dca-ae10fb364f4c/corpus-with-book-reviews-from-bokelskereno
 human_collected_topic_aligned,"C4,N2",De-identified human-written or human-edited texts collected with topic and length alignment.,
 ai_generated_topic_aligned,"N1,N3,N4",AI-generated texts produced from extracted topic prompts aligned with the corresponding C case.,

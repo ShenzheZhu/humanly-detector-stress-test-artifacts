@@ -13,7 +13,7 @@ This repository contains the de-identified artifacts for the final-text-only det
 - `raw/gptzero/`: raw GPTZero API responses for all 240 samples.
 - `raw/pangram/`: raw Pangram API responses for all 240 samples.
 - `raw/opus_4_8/`: raw LLM-as-predictor responses for all 240 samples.
-- `source_seeds/non_english_project_gutenberg/`: non-English Project Gutenberg seed snippets used for C3.
+- `source_seeds/non_english_project_gutenberg/`: retained legacy non-English seed snippets from an earlier C3 fallback path. The released C3 detector-facing samples are the canonical final texts in `data/samples.jsonl`; their source families are summarized in `data/source_families.csv`.
 
 The raw Prolific exports used for human editing and human AI-style writing are not included because they may contain participant identifiers. Only the de-identified final texts and aggregate metadata are included here.
 
